@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "level": "N5",
+    "questionType": "Dokkai",
+    "page": 1,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N5-Dokkai-p1-q1",
+      "questionHtml": "<p><strong>Sample Dokkai question 1</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "Answer A"
+        },
+        {
+          "id": "b",
+          "html": "Answer B"
+        },
+        {
+          "id": "c",
+          "html": "Answer C"
+        },
+        {
+          "id": "d",
+          "html": "Answer D"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+    },
+    {
+      "id": "N5-Dokkai-p1-q2",
+      "questionHtml": "<p><strong>Sample Dokkai question 2</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "Answer A"
+        },
+        {
+          "id": "b",
+          "html": "Answer B"
+        },
+        {
+          "id": "c",
+          "html": "Answer C"
+        },
+        {
+          "id": "d",
+          "html": "Answer D"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+    },
+    {
+      "id": "N5-Dokkai-p1-q3",
+      "questionHtml": "<p><strong>Sample Dokkai question 3</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "Answer A"
+        },
+        {
+          "id": "b",
+          "html": "Answer B"
+        },
+        {
+          "id": "c",
+          "html": "Answer C"
+        },
+        {
+          "id": "d",
+          "html": "Answer D"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+    },
+    {
+      "id": "N5-Dokkai-p1-q4",
+      "questionHtml": "<p><strong>Sample Dokkai question 4</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "Answer A"
+        },
+        {
+          "id": "b",
+          "html": "Answer B"
+        },
+        {
+          "id": "c",
+          "html": "Answer C"
+        },
+        {
+          "id": "d",
+          "html": "Answer D"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+    },
+    {
+      "id": "N5-Dokkai-p1-q5",
+      "questionHtml": "<p><strong>Sample Dokkai question 5</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "Answer A"
+        },
+        {
+          "id": "b",
+          "html": "Answer B"
+        },
+        {
+          "id": "c",
+          "html": "Answer C"
+        },
+        {
+          "id": "d",
+          "html": "Answer D"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+    },
+    {
+      "id": "N5-Dokkai-p1-q6",
+      "questionHtml": "<p><strong>Sample Dokkai question 6</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "Answer A"
+        },
+        {
+          "id": "b",
+          "html": "Answer B"
+        },
+        {
+          "id": "c",
+          "html": "Answer C"
+        },
+        {
+          "id": "d",
+          "html": "Answer D"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+    },
+    {
+      "id": "N5-Dokkai-p1-q7",
+      "questionHtml": "<p><strong>Sample Dokkai question 7</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "Answer A"
+        },
+        {
+          "id": "b",
+          "html": "Answer B"
+        },
+        {
+          "id": "c",
+          "html": "Answer C"
+        },
+        {
+          "id": "d",
+          "html": "Answer D"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+    },
+    {
+      "id": "N5-Dokkai-p1-q8",
+      "questionHtml": "<p><strong>Sample Dokkai question 8</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "Answer A"
+        },
+        {
+          "id": "b",
+          "html": "Answer B"
+        },
+        {
+          "id": "c",
+          "html": "Answer C"
+        },
+        {
+          "id": "d",
+          "html": "Answer D"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+    },
+    {
+      "id": "N5-Dokkai-p1-q9",
+      "questionHtml": "<p><strong>Sample Dokkai question 9</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "Answer A"
+        },
+        {
+          "id": "b",
+          "html": "Answer B"
+        },
+        {
+          "id": "c",
+          "html": "Answer C"
+        },
+        {
+          "id": "d",
+          "html": "Answer D"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+    },
+    {
+      "id": "N5-Dokkai-p1-q10",
+      "questionHtml": "<p><strong>Sample Dokkai question 10</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "Answer A"
+        },
+        {
+          "id": "b",
+          "html": "Answer B"
+        },
+        {
+          "id": "c",
+          "html": "Answer C"
+        },
+        {
+          "id": "d",
+          "html": "Answer D"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+    },
+    {
+      "id": "N5-Dokkai-p1-q11",
+      "questionHtml": "<p><strong>Sample Dokkai question 11</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "Answer A"
+        },
+        {
+          "id": "b",
+          "html": "Answer B"
+        },
+        {
+          "id": "c",
+          "html": "Answer C"
+        },
+        {
+          "id": "d",
+          "html": "Answer D"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+    },
+    {
+      "id": "N5-Dokkai-p1-q12",
+      "questionHtml": "<p><strong>Sample Dokkai question 12</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "Answer A"
+        },
+        {
+          "id": "b",
+          "html": "Answer B"
+        },
+        {
+          "id": "c",
+          "html": "Answer C"
+        },
+        {
+          "id": "d",
+          "html": "Answer D"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+    },
+    {
+      "id": "N5-Dokkai-p1-q13",
+      "questionHtml": "<p><strong>Sample Dokkai question 13</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "Answer A"
+        },
+        {
+          "id": "b",
+          "html": "Answer B"
+        },
+        {
+          "id": "c",
+          "html": "Answer C"
+        },
+        {
+          "id": "d",
+          "html": "Answer D"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+    },
+    {
+      "id": "N5-Dokkai-p1-q14",
+      "questionHtml": "<p><strong>Sample Dokkai question 14</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "Answer A"
+        },
+        {
+          "id": "b",
+          "html": "Answer B"
+        },
+        {
+          "id": "c",
+          "html": "Answer C"
+        },
+        {
+          "id": "d",
+          "html": "Answer D"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+    },
+    {
+      "id": "N5-Dokkai-p1-q15",
+      "questionHtml": "<p><strong>Sample Dokkai question 15</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "Answer A"
+        },
+        {
+          "id": "b",
+          "html": "Answer B"
+        },
+        {
+          "id": "c",
+          "html": "Answer C"
+        },
+        {
+          "id": "d",
+          "html": "Answer D"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+    },
+    {
+      "id": "N5-Dokkai-p1-q16",
+      "questionHtml": "<p><strong>Sample Dokkai question 16</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "Answer A"
+        },
+        {
+          "id": "b",
+          "html": "Answer B"
+        },
+        {
+          "id": "c",
+          "html": "Answer C"
+        },
+        {
+          "id": "d",
+          "html": "Answer D"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+    },
+    {
+      "id": "N5-Dokkai-p1-q17",
+      "questionHtml": "<p><strong>Sample Dokkai question 17</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "Answer A"
+        },
+        {
+          "id": "b",
+          "html": "Answer B"
+        },
+        {
+          "id": "c",
+          "html": "Answer C"
+        },
+        {
+          "id": "d",
+          "html": "Answer D"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+    },
+    {
+      "id": "N5-Dokkai-p1-q18",
+      "questionHtml": "<p><strong>Sample Dokkai question 18</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "Answer A"
+        },
+        {
+          "id": "b",
+          "html": "Answer B"
+        },
+        {
+          "id": "c",
+          "html": "Answer C"
+        },
+        {
+          "id": "d",
+          "html": "Answer D"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+    },
+    {
+      "id": "N5-Dokkai-p1-q19",
+      "questionHtml": "<p><strong>Sample Dokkai question 19</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "Answer A"
+        },
+        {
+          "id": "b",
+          "html": "Answer B"
+        },
+        {
+          "id": "c",
+          "html": "Answer C"
+        },
+        {
+          "id": "d",
+          "html": "Answer D"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+    },
+    {
+      "id": "N5-Dokkai-p1-q20",
+      "questionHtml": "<p><strong>Sample Dokkai question 20</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "Answer A"
+        },
+        {
+          "id": "b",
+          "html": "Answer B"
+        },
+        {
+          "id": "c",
+          "html": "Answer C"
+        },
+        {
+          "id": "d",
+          "html": "Answer D"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+    }
+  ]
+}

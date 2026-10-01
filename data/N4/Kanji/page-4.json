@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 4,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p4-q1",
+      "questionHtml": "<p>二人は駅で「別れます」。「別れます」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "わかれます" },
+        { "id": "b", "html": "べつれます" },
+        { "id": "c", "html": "わかります" },
+        { "id": "d", "html": "はなれます" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>別れます（わかれます）と読みます。<span>Meaning: <strong>to separate, to part</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p4-q2",
+      "questionHtml": "<p>荷物を「別々に」送ってください。「別々に」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "わかれわかれに" },
+        { "id": "b", "html": "べつべに" },
+        { "id": "c", "html": "べつべつに" },
+        { "id": "d", "html": "わけわけに" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>別々に（べつべつに）と読みます。<span>Meaning: <strong>separately</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p4-q3",
+      "questionHtml": "<p>本物と偽物を「区別します」。「区別します」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くわけします" },
+        { "id": "b", "html": "くべつします" },
+        { "id": "c", "html": "ちがいします" },
+        { "id": "d", "html": "きべつします" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>区別します（くべつします）と読みます。<span>Meaning: <strong>to distinguish</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p4-q4",
+      "questionHtml": "<p>ごみを種類ごとに「分別します」。「分別します」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぶんわけします" },
+        { "id": "b", "html": "ふんべつします" },
+        { "id": "c", "html": "ぶんべします" },
+        { "id": "d", "html": "ぶんべつします" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>分別します（ぶんべつします）と読みます。<span>Meaning: <strong>to classify, to sort</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p4-q5",
+      "questionHtml": "<p>来週、彼の「送別」会があります。「送別」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そうべつ" },
+        { "id": "b", "html": "おくりべつ" },
+        { "id": "c", "html": "そうべっ" },
+        { "id": "d", "html": "そうわかれ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>送別（そうべつ）と読みます。<span>Meaning: <strong>farewell, send-off</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p4-q6",
+      "questionHtml": "<p>野菜を小さく「切ります」。「切ります」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せつります" },
+        { "id": "b", "html": "たちります" },
+        { "id": "c", "html": "きります" },
+        { "id": "d", "html": "さいります" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>切ります（きります）と読みます。<span>Meaning: <strong>to cut</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p4-q7",
+      "questionHtml": "<p>封筒に「切手」を貼ってください。「切手」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せつしゅ" },
+        { "id": "b", "html": "きって" },
+        { "id": "c", "html": "きりて" },
+        { "id": "d", "html": "せって" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>切手（きって）と読みます。<span>Meaning: <strong>postage stamp</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p4-q8",
+      "questionHtml": "<p>家族はとても「大切」な存在です。「大切」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おおぎり" },
+        { "id": "b", "html": "だいせつ" },
+        { "id": "c", "html": "おおせつ" },
+        { "id": "d", "html": "たいせつ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>大切（たいせつ）と読みます。<span>Meaning: <strong>important</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p4-q9",
+      "questionHtml": "<p>彼女はいつも「親切」にしてくれます。「親切」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんせつ" },
+        { "id": "b", "html": "おやせつ" },
+        { "id": "c", "html": "しんぎり" },
+        { "id": "d", "html": "しんせち" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>親切（しんせつ）と読みます。<span>Meaning: <strong>kind</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p4-q10",
+      "questionHtml": "<p>机の上に本が「有ります」。「有ります」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆうります" },
+        { "id": "b", "html": "もちます" },
+        { "id": "c", "html": "あります" },
+        { "id": "d", "html": "ありよます" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>有ります（あります）と読みます。<span>Meaning: <strong>to have, to be (for things)</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p4-q11",
+      "questionHtml": "<p>彼は「有名」な歌手です。「有名」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ありな" },
+        { "id": "b", "html": "ゆうめい" },
+        { "id": "c", "html": "ゆうみょう" },
+        { "id": "d", "html": "ありめい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>有名（ゆうめい）と読みます。<span>Meaning: <strong>famous</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p4-q12",
+      "questionHtml": "<p>この駐車場は「有料」です。「有料」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ありりょう" },
+        { "id": "b", "html": "ゆうりょ" },
+        { "id": "c", "html": "ゆうりょうう" },
+        { "id": "d", "html": "ゆうりょう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>有料（ゆうりょう）と読みます。<span>Meaning: <strong>fee-charging, paid</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p4-q13",
+      "questionHtml": "<p>お子さんはお「元気」ですか。「元気」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんき" },
+        { "id": "b", "html": "もとき" },
+        { "id": "c", "html": "がんき" },
+        { "id": "d", "html": "げんぎ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>元気（げんき）と読みます。<span>Meaning: <strong>healthy, energetic</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p4-q14",
+      "questionHtml": "<p>「元日」には家族で神社に行きます。「元日」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "もとにち" },
+        { "id": "b", "html": "げんじつ" },
+        { "id": "c", "html": "がんじつ" },
+        { "id": "d", "html": "がんにち" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>元日（がんじつ）と読みます。<span>Meaning: <strong>New Year's Day</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p4-q15",
+      "questionHtml": "<p>彼は「地元」の高校に通っています。「地元」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちもと" },
+        { "id": "b", "html": "じもと" },
+        { "id": "c", "html": "ちげん" },
+        { "id": "d", "html": "じげん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>地元（じもと）と読みます。<span>Meaning: <strong>local, hometown</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p4-q16",
+      "questionHtml": "<p>久しぶりに友達から「便り」が届きました。「便り」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "べんり" },
+        { "id": "b", "html": "びんり" },
+        { "id": "c", "html": "べんい" },
+        { "id": "d", "html": "たより" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>便り（たより）と読みます。<span>Meaning: <strong>letter, news</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p4-q17",
+      "questionHtml": "<p>このアプリはとても「便利」です。「便利」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "べんり" },
+        { "id": "b", "html": "びんり" },
+        { "id": "c", "html": "たより" },
+        { "id": "d", "html": "べんい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>便利（べんり）と読みます。<span>Meaning: <strong>convenient</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p4-q18",
+      "questionHtml": "<p>手紙を出しに「郵便局」へ行きます。「郵便局」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆうびんぎょく" },
+        { "id": "b", "html": "ゆびんきょく" },
+        { "id": "c", "html": "ゆうびんきょく" },
+        { "id": "d", "html": "ゆうべんきょく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>郵便局（ゆうびんきょく）と読みます。<span>Meaning: <strong>post office</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p4-q19",
+      "questionHtml": "<p>この荷物は「船便」で送ります。「船便」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せんびん" },
+        { "id": "b", "html": "ふなびん" },
+        { "id": "c", "html": "ふねびん" },
+        { "id": "d", "html": "せんべん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>船便（ふなびん）と読みます。<span>Meaning: <strong>sea mail</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p4-q20",
+      "questionHtml": "<p>私は音楽が「好き」です。「好き」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "このき" },
+        { "id": "b", "html": "こうき" },
+        { "id": "c", "html": "すこき" },
+        { "id": "d", "html": "すき" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>好き（すき）と読みます。<span>Meaning: <strong>like</strong></span></p>"
+    }
+  ]
+}

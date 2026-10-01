@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 3,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p3-q1",
+      "questionHtml": "<p>来週、学校で「遠足」があります。「遠足」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とおあし" },
+        { "id": "b", "html": "えんぞく" },
+        { "id": "c", "html": "えんそく" },
+        { "id": "d", "html": "とおそく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>遠足（えんそく）と読みます。<span>Meaning: <strong>excursion</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p3-q2",
+      "questionHtml": "<p>会議の前に「軽食」を用意しました。「軽食」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいしょく" },
+        { "id": "b", "html": "かるしょく" },
+        { "id": "c", "html": "けいじき" },
+        { "id": "d", "html": "かるじき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>軽食（けいしょく）と読みます。<span>Meaning: <strong>snack</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p3-q3",
+      "questionHtml": "<p>駅はここから「近い」です。「近い」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きんい" },
+        { "id": "b", "html": "ちかしい" },
+        { "id": "c", "html": "きんじ" },
+        { "id": "d", "html": "ちかい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>近い（ちかい）と読みます。<span>Meaning: <strong>near</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p3-q4",
+      "questionHtml": "<p>「近所」の子供たちが公園で遊んでいます。「近所」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きんしょ" },
+        { "id": "b", "html": "きんじょ" },
+        { "id": "c", "html": "ちかじょ" },
+        { "id": "d", "html": "きんじょう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>近所（きんじょ）と読みます。<span>Meaning: <strong>neighborhood</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p3-q5",
+      "questionHtml": "<p>このロープはとても「太い」です。「太い」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たいい" },
+        { "id": "b", "html": "たふとい" },
+        { "id": "c", "html": "ふとい" },
+        { "id": "d", "html": "たいゆい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>太い（ふとい）と読みます。<span>Meaning: <strong>fat, thick</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p3-q6",
+      "questionHtml": "<p>「最近」、忙しくて疲れています。「最近」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さいきん" },
+        { "id": "b", "html": "さいごん" },
+        { "id": "c", "html": "もっきん" },
+        { "id": "d", "html": "さいこん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>最近（さいきん）と読みます。<span>Meaning: <strong>recently</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p3-q7",
+      "questionHtml": "<p>「太陽」が東から昇ります。「太陽」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たようう" },
+        { "id": "b", "html": "たいゆう" },
+        { "id": "c", "html": "だいよう" },
+        { "id": "d", "html": "たいよう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>太陽（たいよう）と読みます。<span>Meaning: <strong>sun</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p3-q8",
+      "questionHtml": "<p>彼はとても「強い」選手です。「強い」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きょうい" },
+        { "id": "b", "html": "つよい" },
+        { "id": "c", "html": "ごうい" },
+        { "id": "d", "html": "つよしい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>強い（つよい）と読みます。<span>Meaning: <strong>strong</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p3-q9",
+      "questionHtml": "<p>毎晩、日本語を「勉強」しています。「勉強」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "べんごう" },
+        { "id": "b", "html": "べんきょ" },
+        { "id": "c", "html": "べんきょう" },
+        { "id": "d", "html": "めんきょう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>勉強（べんきょう）と読みます。<span>Meaning: <strong>study</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p3-q10",
+      "questionHtml": "<p>このレストランは「京風」の料理を出します。「京風」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きょうふう" },
+        { "id": "b", "html": "けいふう" },
+        { "id": "c", "html": "きょうかぜ" },
+        { "id": "d", "html": "みやこふう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>京風（きょうふう）と読みます。<span>Meaning: <strong>Kyoto style</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p3-q11",
+      "questionHtml": "<p>この道はとても「細い」です。「細い」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さいい" },
+        { "id": "b", "html": "こまい" },
+        { "id": "c", "html": "ほそしい" },
+        { "id": "d", "html": "ほそい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>細い（ほそい）と読みます。<span>Meaning: <strong>slender</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p3-q12",
+      "questionHtml": "<p>彼は「細かい」ことによく気がつきます。「細かい」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほそかい" },
+        { "id": "b", "html": "こまかい" },
+        { "id": "c", "html": "さいかい" },
+        { "id": "d", "html": "こまい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>細かい（こまかい）と読みます。<span>Meaning: <strong>fine, detailed</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p3-q13",
+      "questionHtml": "<p>この人形は精巧な「細工」が施されています。「細工」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほそこう" },
+        { "id": "b", "html": "こまこう" },
+        { "id": "c", "html": "さいく" },
+        { "id": "d", "html": "さいこう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>細工（さいく）と読みます。<span>Meaning: <strong>craftsmanship</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p3-q14",
+      "questionHtml": "<p>夏は「特に」暑いです。「特に」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とくに" },
+        { "id": "b", "html": "とっくに" },
+        { "id": "c", "html": "とくてい" },
+        { "id": "d", "html": "どくに" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>特に（とくに）と読みます。<span>Meaning: <strong>especially</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p3-q15",
+      "questionHtml": "<p>この場所は交通が「不便」です。「不便」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふうべん" },
+        { "id": "b", "html": "ぶべん" },
+        { "id": "c", "html": "ふびん" },
+        { "id": "d", "html": "ふべん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>不便（ふべん）と読みます。<span>Meaning: <strong>inconvenient</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p3-q16",
+      "questionHtml": "<p>今日は「特別」な日です。「特別」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とくわけ" },
+        { "id": "b", "html": "とくべつ" },
+        { "id": "c", "html": "とっべつ" },
+        { "id": "d", "html": "どくべつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>特別（とくべつ）と読みます。<span>Meaning: <strong>special</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p3-q17",
+      "questionHtml": "<p>資金が「不足します」。「不足します」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふあしします" },
+        { "id": "b", "html": "ふぞくします" },
+        { "id": "c", "html": "ふそくします" },
+        { "id": "d", "html": "ぶそくします" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>不足します（ふそくします）と読みます。<span>Meaning: <strong>to run short</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p3-q18",
+      "questionHtml": "<p>試験の結果が「不安」です。「不安」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふあん" },
+        { "id": "b", "html": "ぶあん" },
+        { "id": "c", "html": "ふやす" },
+        { "id": "d", "html": "ふあんい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>不安（ふあん）と読みます。<span>Meaning: <strong>anxious</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p3-q19",
+      "questionHtml": "<p>「特急」電車に乗って大阪へ行きます。「特急」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とくきゅう" },
+        { "id": "b", "html": "とっきゅ" },
+        { "id": "c", "html": "とくいそぎ" },
+        { "id": "d", "html": "とっきゅう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>特急（とっきゅう）と読みます。<span>Meaning: <strong>express</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p3-q20",
+      "questionHtml": "<p>事故に遭うなんて「不運」でしたね。「不運」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふうんめい" },
+        { "id": "b", "html": "ふうん" },
+        { "id": "c", "html": "ぶうん" },
+        { "id": "d", "html": "ふうんい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>不運（ふうん）と読みます。<span>Meaning: <strong>unfortunate</strong></span></p>"
+    }
+  ]
+}

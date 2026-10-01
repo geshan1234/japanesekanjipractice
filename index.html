@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Japanese Practice Test</title>
+    <link href="https://googleapis.com" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="brand">Japanese Practice Test</div>
+      <label
+        >Level
+        <select id="levelSelect">
+          <option>N1</option>
+          <option>N2</option>
+          <option>N3</option>
+          <option>N4</option>
+          <option selected>N5</option>
+        </select>
+      </label>
+      <label
+        >Question type
+        <select id="typeSelect">
+          <option>Kanji</option>
+          <option>Vocabulary</option>
+          <option>Dokkai</option>
+          <option>Grammar</option>
+        </select>
+      </label>
+    </nav>
+
+    <main class="container">
+      <div class="heading-row">
+        <h1 id="testTitle">N5 - Kanji</h1>
+        <span id="pageLabel"></span>
+      </div>
+      <div class="pagination">
+        <button id="prevBtn" class="secondary">Previous</button>
+        <span id="paginationLabel"></span>
+        <button id="nextBtn" class="secondary">Next</button>
+      </div>
+      <div id="questionContainer"></div>
+      <div class="actions">
+        <button id="submitBtn">Submit</button>
+        <button id="resetBtn" class="secondary">Reset</button>
+      </div>
+      <div id="score" class="score"></div>
+      <div class="pagination">
+        <button id="prevBtn" class="secondary">Previous</button>
+        <span id="paginationLabel"></span>
+        <button id="nextBtn" class="secondary">Next</button>
+      </div>
+    </main>
+    <!-- Added for the furigana feature (deferred, at the end of body,
+         so a slow/blocked CDN can never hang page rendering) -->
+    <script
+      defer
+      src="https://cdn.jsdelivr.net/npm/kuromoji@0.1.2/build/kuromoji.js"
+    ></script>
+    <script
+      defer
+      src="https://cdn.jsdelivr.net/npm/kuroshiro@1.1.2/dist/kuroshiro.min.js"
+    ></script>
+    <script
+      defer
+      src="https://cdn.jsdelivr.net/npm/kuroshiro-analyzer-kuromoji@1.1.0/dist/kuroshiro-analyzer-kuromoji.js"
+    ></script>
+    <script src="app.js"></script>
+  </body>
+</html>

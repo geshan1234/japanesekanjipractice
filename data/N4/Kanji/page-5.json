@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 5,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p5-q1",
+      "questionHtml": "<p>私はチョコレートが「大好き」です。「大好き」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おおすき" },
+        { "id": "b", "html": "だいすき" },
+        { "id": "c", "html": "たいこう" },
+        { "id": "d", "html": "おおごのみ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>大好き（だいすき）と読みます。<span>Meaning: <strong>like very much</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p5-q2",
+      "questionHtml": "<p>彼の「好意」に感謝しています。「好意」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうえ" },
+        { "id": "b", "html": "このい" },
+        { "id": "c", "html": "すきい" },
+        { "id": "d", "html": "こうい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>好意（こうい）と読みます。<span>Meaning: <strong>affection, goodwill</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p5-q3",
+      "questionHtml": "<p>すしは父の「好物」です。「好物」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうぶつ" },
+        { "id": "b", "html": "すきもの" },
+        { "id": "c", "html": "このみぶつ" },
+        { "id": "d", "html": "こうもつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>好物（こうぶつ）と読みます。<span>Meaning: <strong>favorite food</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p5-q4",
+      "questionHtml": "<p>駅の近くはとても「便利」です。「便利」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "びんり" },
+        { "id": "b", "html": "たより" },
+        { "id": "c", "html": "べんり" },
+        { "id": "d", "html": "べんい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>便利（べんり）と読みます。<span>Meaning: <strong>convenient</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p5-q5",
+      "questionHtml": "<p>図書館を「利用します」。「利用します」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りゆうします" },
+        { "id": "b", "html": "りようします" },
+        { "id": "c", "html": "りよします" },
+        { "id": "d", "html": "りうようします" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>利用します（りようします）と読みます。<span>Meaning: <strong>to use</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p5-q6",
+      "questionHtml": "<p>銀行にお金を預けると「利子」がつきます。「利子」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りこ" },
+        { "id": "b", "html": "りす" },
+        { "id": "c", "html": "りじ" },
+        { "id": "d", "html": "りし" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>利子（りし）と読みます。<span>Meaning: <strong>interest (on money)</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p5-q7",
+      "questionHtml": "<p>この作戦は私たちに「有利」です。「有利」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆうり" },
+        { "id": "b", "html": "ありり" },
+        { "id": "c", "html": "ゆうりつ" },
+        { "id": "d", "html": "うり" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>有利（ゆうり）と読みます。<span>Meaning: <strong>advantageous</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p5-q8",
+      "questionHtml": "<p>電車に間に合うように「急ぎます」。「急ぎます」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きゅぎます" },
+        { "id": "b", "html": "せきます" },
+        { "id": "c", "html": "いそぎます" },
+        { "id": "d", "html": "いっきゅうします" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>急ぎます（いそぎます）と読みます。<span>Meaning: <strong>to hurry</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p5-q9",
+      "questionHtml": "<p>「急に」雨が降り出しました。「急に」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いそぎに" },
+        { "id": "b", "html": "きゅうに" },
+        { "id": "c", "html": "きゅに" },
+        { "id": "d", "html": "いっきゅうに" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>急に（きゅうに）と読みます。<span>Meaning: <strong>suddenly</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p5-q10",
+      "questionHtml": "<p>「特急」に乗れば早く着きます。「特急」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とくきゅう" },
+        { "id": "b", "html": "とっきゅ" },
+        { "id": "c", "html": "とくいそぎ" },
+        { "id": "d", "html": "とっきゅう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>特急（とっきゅう）と読みます。<span>Meaning: <strong>express</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p5-q11",
+      "questionHtml": "<p>「急用」ができて早退します。「急用」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きゅうよう" },
+        { "id": "b", "html": "いそぎよう" },
+        { "id": "c", "html": "きゅうもち" },
+        { "id": "d", "html": "きゅよう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>急用（きゅうよう）と読みます。<span>Meaning: <strong>urgent business</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p5-q12",
+      "questionHtml": "<p>この机は少し「低い」です。「低い」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ていい" },
+        { "id": "b", "html": "ひきい" },
+        { "id": "c", "html": "ひくい" },
+        { "id": "d", "html": "ていくい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>低い（ひくい）と読みます。<span>Meaning: <strong>low</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p5-q13",
+      "questionHtml": "<p>成績が「低下します」。「低下します」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひくかします" },
+        { "id": "b", "html": "ていかします" },
+        { "id": "c", "html": "ていげします" },
+        { "id": "d", "html": "ひくげします" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>低下します（ていかします）と読みます。<span>Meaning: <strong>to fall, to decline</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p5-q14",
+      "questionHtml": "<p>その答えは「正しい」です。「正しい」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいしい" },
+        { "id": "b", "html": "しょうしい" },
+        { "id": "c", "html": "まさしい" },
+        { "id": "d", "html": "ただしい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>正しい（ただしい）と読みます。<span>Meaning: <strong>correct</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p5-q15",
+      "questionHtml": "<p>「正月」には家族で過ごします。「正月」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうがつ" },
+        { "id": "b", "html": "せいげつ" },
+        { "id": "c", "html": "まさつき" },
+        { "id": "d", "html": "ただつき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>正月（しょうがつ）と読みます。<span>Meaning: <strong>New Year</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p5-q16",
+      "questionHtml": "<p>学校の「正門」で待ち合わせしましょう。「正門」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうもん" },
+        { "id": "b", "html": "ただもん" },
+        { "id": "c", "html": "せいもん" },
+        { "id": "d", "html": "まさもん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>正門（せいもん）と読みます。<span>Meaning: <strong>main gate</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p5-q17",
+      "questionHtml": "<p>この公園はとても「広い」です。「広い」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうい" },
+        { "id": "b", "html": "ひろい" },
+        { "id": "c", "html": "ひろしい" },
+        { "id": "d", "html": "こういい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>広い（ひろい）と読みます。<span>Meaning: <strong>wide, spacious</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p5-q18",
+      "questionHtml": "<p>駅前の「広場」でイベントがあります。「広場」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうじょう" },
+        { "id": "b", "html": "ひろじょう" },
+        { "id": "c", "html": "こうば" },
+        { "id": "d", "html": "ひろば" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>広場（ひろば）と読みます。<span>Meaning: <strong>plaza, open space</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p5-q19",
+      "questionHtml": "<p>「広大」な土地が広がっています。「広大」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうだい" },
+        { "id": "b", "html": "ひろだい" },
+        { "id": "c", "html": "こうおお" },
+        { "id": "d", "html": "ひろおお" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>広大（こうだい）と読みます。<span>Meaning: <strong>vast</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p5-q20",
+      "questionHtml": "<p>季節が「変わります」。「変わります」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "へんわります" },
+        { "id": "b", "html": "かえわります" },
+        { "id": "c", "html": "かわります" },
+        { "id": "d", "html": "へんかします" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>変わります（かわります）と読みます。<span>Meaning: <strong>to change</strong></span></p>"
+    }
+  ]
+}

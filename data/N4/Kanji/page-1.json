@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 2,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p1-q1",
+      "questionHtml": "<p>田中さんは大阪に「住みます」。「住みます」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じゅうみます" },
+        { "id": "b", "html": "すみません" },
+        { "id": "c", "html": "すみます" },
+        { "id": "d", "html": "とどまります" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>住みます（すみます）と読みます。<span>Meaning: <strong>to live</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p1-q2",
+      "questionHtml": "<p>履歴書に「住所」を書いてください。「住所」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じゅうしょ" },
+        { "id": "b", "html": "じゅうじょ" },
+        { "id": "c", "html": "じゅしょ" },
+        { "id": "d", "html": "じゅうしょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>住所（じゅうしょ）と読みます。<span>Meaning: <strong>address</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p1-q3",
+      "questionHtml": "<p>この地域の「住民」は環境問題に関心があります。「住民」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じゅみん" },
+        { "id": "b", "html": "すみたみ" },
+        { "id": "c", "html": "じゅうめい" },
+        { "id": "d", "html": "じゅうみん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>住民（じゅうみん）と読みます。<span>Meaning: <strong>inhabitants, residents</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p1-q4",
+      "questionHtml": "<p>彼女は青森「県」出身です。「県」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あがた" },
+        { "id": "b", "html": "けん" },
+        { "id": "c", "html": "こおり" },
+        { "id": "d", "html": "くに" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>県（けん）と読みます。<span>Meaning: <strong>prefecture</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p1-q5",
+      "questionHtml": "<p>夏休みに「山口県」へ旅行に行きます。「山口県」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "やまぐちけん" },
+        { "id": "b", "html": "やまぐちがた" },
+        { "id": "c", "html": "さんこうけん" },
+        { "id": "d", "html": "やまぐちこおり" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>山口県（やまぐちけん）と読みます。<span>Meaning: <strong>Yamaguchi Prefecture</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p1-q6",
+      "questionHtml": "<p>ここはとても静かな「所」ですね。「所」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょ" },
+        { "id": "b", "html": "じょ" },
+        { "id": "c", "html": "ところ" },
+        { "id": "d", "html": "とこ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>所（ところ）と読みます。<span>Meaning: <strong>place</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p1-q7",
+      "questionHtml": "<p>母は「台所」で料理をしています。「台所」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "だいしょ" },
+        { "id": "b", "html": "だいどころ" },
+        { "id": "c", "html": "たいどころ" },
+        { "id": "d", "html": "だいどこ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>台所（だいどころ）と読みます。<span>Meaning: <strong>kitchen</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p1-q8",
+      "questionHtml": "<p>新しい「住所」に手紙を送ってください。「住所」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じゅしょ" },
+        { "id": "b", "html": "じゅうじょ" },
+        { "id": "c", "html": "じゅうしょう" },
+        { "id": "d", "html": "じゅうしょ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>住所（じゅうしょ）と読みます。<span>Meaning: <strong>address</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p1-q9",
+      "questionHtml": "<p>待ち合わせの「場所」はどこにしますか。「場所」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じょうしょ" },
+        { "id": "b", "html": "ばじょ" },
+        { "id": "c", "html": "ばしょ" },
+        { "id": "d", "html": "じょうじょ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>場所（ばしょ）と読みます。<span>Meaning: <strong>place</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p1-q10",
+      "questionHtml": "<p>「京都市」には多くの観光客が訪れます。「京都市」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きょうとじ" },
+        { "id": "b", "html": "きょうとし" },
+        { "id": "c", "html": "けいとし" },
+        { "id": "d", "html": "きょうとうし" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>京都市（きょうとし）と読みます。<span>Meaning: <strong>Kyoto City</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p1-q11",
+      "questionHtml": "<p>新しい「市長」が選挙で選ばれました。「市長」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しちょう" },
+        { "id": "b", "html": "いちちょう" },
+        { "id": "c", "html": "しじょう" },
+        { "id": "d", "html": "しなが" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>市長（しちょう）と読みます。<span>Meaning: <strong>mayor</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p1-q12",
+      "questionHtml": "<p>朝早く「市場」へ魚を買いに行きます。「市場」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しじょう" },
+        { "id": "b", "html": "しば" },
+        { "id": "c", "html": "いちじょう" },
+        { "id": "d", "html": "いちば" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>市場（いちば）と読みます。<span>Meaning: <strong>market</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p1-q13",
+      "questionHtml": "<p>「近所」に新しいカフェができました。「近所」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きんしょ" },
+        { "id": "b", "html": "きんじょ" },
+        { "id": "c", "html": "ちかじょ" },
+        { "id": "d", "html": "きんじょう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>近所（きんじょ）と読みます。<span>Meaning: <strong>neighborhood</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p1-q14",
+      "questionHtml": "<p>来月「東京」へ出張します。「東京」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とうけい" },
+        { "id": "b", "html": "とんきょう" },
+        { "id": "c", "html": "とうきょう" },
+        { "id": "d", "html": "ひがしきょう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>東京（とうきょう）と読みます。<span>Meaning: <strong>Tokyo</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p1-q15",
+      "questionHtml": "<p>この「地区」は工業地帯として知られています。「地区」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちく" },
+        { "id": "b", "html": "じく" },
+        { "id": "c", "html": "ちこう" },
+        { "id": "d", "html": "ちきょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>地区（ちく）と読みます。<span>Meaning: <strong>district</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p1-q16",
+      "questionHtml": "<p>秋になると「京都」の紅葉がとても美しいです。「京都」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいと" },
+        { "id": "b", "html": "きょうとう" },
+        { "id": "c", "html": "きょうとし" },
+        { "id": "d", "html": "きょうと" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>京都（きょうと）と読みます。<span>Meaning: <strong>Kyoto</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p1-q17",
+      "questionHtml": "<p>昔、奈良は日本の「都」でした。「都」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "と" },
+        { "id": "b", "html": "とし" },
+        { "id": "c", "html": "みやこ" },
+        { "id": "d", "html": "みやこう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>都（みやこ）と読みます。<span>Meaning: <strong>capital</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p1-q18",
+      "questionHtml": "<p>「東京都」の人口はとても多いです。「東京都」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とうきょうし" },
+        { "id": "b", "html": "とうきょうと" },
+        { "id": "c", "html": "ひがしきょうと" },
+        { "id": "d", "html": "とうけいと" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>東京都（とうきょうと）と読みます。<span>Meaning: <strong>Metropolis of Tokyo</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p1-q19",
+      "questionHtml": "<p>来週の会議、ご「都合」はいかがですか。「都合」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とごう" },
+        { "id": "b", "html": "みやこごう" },
+        { "id": "c", "html": "とあい" },
+        { "id": "d", "html": "つごう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>都合（つごう）と読みます。<span>Meaning: <strong>condition, convenience</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p1-q20",
+      "questionHtml": "<p>東京は日本の「首都」です。「首都」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅと" },
+        { "id": "b", "html": "くびと" },
+        { "id": "c", "html": "しゅみやこ" },
+        { "id": "d", "html": "しゅとし" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>首都（しゅと）と読みます。<span>Meaning: <strong>capital</strong></span></p>"
+    }
+  ]
+}

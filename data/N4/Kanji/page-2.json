@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 3,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p2-q1",
+      "questionHtml": "<p>この「町」には古い建物がたくさんあります。「町」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じょう" },
+        { "id": "b", "html": "まち" },
+        { "id": "c", "html": "むら" },
+        { "id": "d", "html": "ちょう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>町（まち）と読みます。<span>Meaning: <strong>town</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p2-q2",
+      "questionHtml": "<p>浅草は東京の「下町」として有名です。「下町」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げまち" },
+        { "id": "b", "html": "したちょう" },
+        { "id": "c", "html": "かまち" },
+        { "id": "d", "html": "したまち" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>下町（したまち）と読みます。<span>Meaning: <strong>downtown, old town area</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p2-q3",
+      "questionHtml": "<p>新しい「町長」が来月就任します。「町長」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちょうちょう" },
+        { "id": "b", "html": "まちおさ" },
+        { "id": "c", "html": "ちょうなが" },
+        { "id": "d", "html": "まちちょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>町長（ちょうちょう）と読みます。<span>Meaning: <strong>town leader, mayor</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p2-q4",
+      "questionHtml": "<p>「京都府」には多くの寺院があります。「京都府」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きょうとけん" },
+        { "id": "b", "html": "けいとふ" },
+        { "id": "c", "html": "きょうとふ" },
+        { "id": "d", "html": "きょうとうふ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>京都府（きょうとふ）と読みます。<span>Meaning: <strong>Kyoto Prefecture</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p2-q5",
+      "questionHtml": "<p>祖父母はこの小さな「村」に住んでいます。「村」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そん" },
+        { "id": "b", "html": "むら" },
+        { "id": "c", "html": "さと" },
+        { "id": "d", "html": "むろ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>村（むら）と読みます。<span>Meaning: <strong>village</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p2-q6",
+      "questionHtml": "<p>「村長」が村の会議で挨拶をしました。「村長」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "むらちょう" },
+        { "id": "b", "html": "むらおさ" },
+        { "id": "c", "html": "そんなが" },
+        { "id": "d", "html": "そんちょう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>村長（そんちょう）と読みます。<span>Meaning: <strong>village leader</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p2-q7",
+      "questionHtml": "<p>この部屋はとても「明るい」ですね。「明るい」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あかるい" },
+        { "id": "b", "html": "めいるい" },
+        { "id": "c", "html": "あきるい" },
+        { "id": "d", "html": "みょうるい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>明るい（あかるい）と読みます。<span>Meaning: <strong>bright</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p2-q8",
+      "questionHtml": "<p>「明日」の天気は晴れらしいです。「明日」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "みょうにち" },
+        { "id": "b", "html": "めいじつ" },
+        { "id": "c", "html": "あした" },
+        { "id": "d", "html": "みょうび" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>明日（あした）と読みます。<span>Meaning: <strong>tomorrow</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p2-q9",
+      "questionHtml": "<p>彼は体が「弱い」ので、無理をしないでください。「弱い」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じゃくい" },
+        { "id": "b", "html": "よわい" },
+        { "id": "c", "html": "よわしい" },
+        { "id": "d", "html": "じゃっこい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>弱い（よわい）と読みます。<span>Meaning: <strong>weak</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p2-q10",
+      "questionHtml": "<p>先生がもう一度「説明」してくれました。「説明」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せつみょう" },
+        { "id": "b", "html": "ぜつめい" },
+        { "id": "c", "html": "せついん" },
+        { "id": "d", "html": "せつめい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>説明（せつめい）と読みます。<span>Meaning: <strong>explanation</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p2-q11",
+      "questionHtml": "<p>音楽の「強弱」をうまく表現してください。「強弱」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きょうじゃく" },
+        { "id": "b", "html": "つよよわ" },
+        { "id": "c", "html": "ごうじゃく" },
+        { "id": "d", "html": "きょうよわ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>強弱（きょうじゃく）と読みます。<span>Meaning: <strong>strong and weak</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p2-q12",
+      "questionHtml": "<p>彼は新しい機械を「発明」しました。「発明」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はつみょう" },
+        { "id": "b", "html": "ほつめい" },
+        { "id": "c", "html": "はつめい" },
+        { "id": "d", "html": "はっぴょうめい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>発明（はつめい）と読みます。<span>Meaning: <strong>invention</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p2-q13",
+      "questionHtml": "<p>夜になると道がとても「暗い」です。「暗い」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あんい" },
+        { "id": "b", "html": "くらい" },
+        { "id": "c", "html": "やみい" },
+        { "id": "d", "html": "あんこい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>暗い（くらい）と読みます。<span>Meaning: <strong>dark</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p2-q14",
+      "questionHtml": "<p>このかばんはとても「重い」です。「重い」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じゅうい" },
+        { "id": "b", "html": "おもたい" },
+        { "id": "c", "html": "ちょうい" },
+        { "id": "d", "html": "おもい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>重い（おもい）と読みます。<span>Meaning: <strong>heavy</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p2-q15",
+      "questionHtml": "<p>スパイは「暗号」を使ってメッセージを送りました。「暗号」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あんごう" },
+        { "id": "b", "html": "くらごう" },
+        { "id": "c", "html": "あんこう" },
+        { "id": "d", "html": "あんぐう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>暗号（あんごう）と読みます。<span>Meaning: <strong>secret code</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p2-q16",
+      "questionHtml": "<p>これは「重大」な問題です。「重大」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おもだい" },
+        { "id": "b", "html": "ちょうだい" },
+        { "id": "c", "html": "じゅうだい" },
+        { "id": "d", "html": "じゅうたい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>重大（じゅうだい）と読みます。<span>Meaning: <strong>important, serious</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p2-q17",
+      "questionHtml": "<p>単語を「暗記」するのは大変です。「暗記」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くらき" },
+        { "id": "b", "html": "あんき" },
+        { "id": "c", "html": "あんぎ" },
+        { "id": "d", "html": "あんけい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>暗記（あんき）と読みます。<span>Meaning: <strong>memorization</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p2-q18",
+      "questionHtml": "<p>毎朝「体重」を測っています。「体重」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "からだじゅう" },
+        { "id": "b", "html": "たいちょう" },
+        { "id": "c", "html": "たいじゅうい" },
+        { "id": "d", "html": "たいじゅう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>体重（たいじゅう）と読みます。<span>Meaning: <strong>body weight</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p2-q19",
+      "questionHtml": "<p>駅から家まで少し「遠い」です。「遠い」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とおい" },
+        { "id": "b", "html": "えんい" },
+        { "id": "c", "html": "とうい" },
+        { "id": "d", "html": "とうえん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>遠い（とおい）と読みます。<span>Meaning: <strong>far</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p2-q20",
+      "questionHtml": "<p>このノートパソコンはとても「軽い」です。「軽い」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいい" },
+        { "id": "b", "html": "かろい" },
+        { "id": "c", "html": "かるい" },
+        { "id": "d", "html": "きょうい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>軽い（かるい）と読みます。<span>Meaning: <strong>light</strong></span></p>"
+    }
+  ]
+}
