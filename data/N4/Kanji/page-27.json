@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 27,
+    "questionsPerPage": 20,
+    "description": "N4 Kanji reading practice - Page 27"
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p27-q1",
+      "questionHtml": "旅行の前に「<strong>地図</strong>」を買いました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ちと" },
+        { "id": "b", "html": "じず" },
+        { "id": "c", "html": "ちず" },
+        { "id": "d", "html": "ちづ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>地図（ちず）</strong> means map."
+    },
+    {
+      "id": "N4-Kanji-p27-q2",
+      "questionHtml": "週末に「<strong>図書館</strong>」で本を読みました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "としょかん" },
+        { "id": "b", "html": "ずしょかん" },
+        { "id": "c", "html": "としょうかん" },
+        { "id": "d", "html": "としょがん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>図書館（としょかん）</strong> means library."
+    },
+    {
+      "id": "N4-Kanji-p27-q3",
+      "questionHtml": "友達に手を振って「<strong>合図</strong>」を送りました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ごうず" },
+        { "id": "b", "html": "あいず" },
+        { "id": "c", "html": "あいと" },
+        { "id": "d", "html": "ごうし" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>合図（あいず）</strong> means signal or sign."
+    },
+    {
+      "id": "N4-Kanji-p27-q4",
+      "questionHtml": "友達と「<strong>映画館</strong>」で映画を見ました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "えいがこう" },
+        { "id": "b", "html": "えがかん" },
+        { "id": "c", "html": "えいかかん" },
+        { "id": "d", "html": "えいがかん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<strong>映画館（えいがかん）</strong> means movie theater or cinema."
+    },
+    {
+      "id": "N4-Kanji-p27-q5",
+      "questionHtml": "外国へ行く前に「<strong>大使館</strong>」で必要な情報を聞きました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "だいしかん" },
+        { "id": "b", "html": "たいじかん" },
+        { "id": "c", "html": "たいしかん" },
+        { "id": "d", "html": "たいしがん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>大使館（たいしかん）</strong> means embassy."
+    },
+    {
+      "id": "N4-Kanji-p27-q6",
+      "questionHtml": "京都の古い「<strong>旅館</strong>」に泊まりました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "りょかん" },
+        { "id": "b", "html": "たびかん" },
+        { "id": "c", "html": "りょがん" },
+        { "id": "d", "html": "りょうかん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>旅館（りょかん）</strong> means a traditional Japanese inn."
+    },
+    {
+      "id": "N4-Kanji-p27-q7",
+      "questionHtml": "週末に「<strong>美術館</strong>」で有名な絵を見ました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "びじゅつこう" },
+        { "id": "b", "html": "びじゅつかん" },
+        { "id": "c", "html": "びじゅうかん" },
+        { "id": "d", "html": "びしゅつかん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>美術館（びじゅつかん）</strong> means art museum."
+    },
+    {
+      "id": "N4-Kanji-p27-q8",
+      "questionHtml": "借りたい本があったので、「<strong>図書館</strong>」へ行きました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ずしょかん" },
+        { "id": "b", "html": "としょうかん" },
+        { "id": "c", "html": "としょがん" },
+        { "id": "d", "html": "としょかん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<strong>図書館（としょかん）</strong> means library."
+    },
+    {
+      "id": "N4-Kanji-p27-q9",
+      "questionHtml": "道を渡る前に「<strong>信号</strong>」を確認してください。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しんこう" },
+        { "id": "b", "html": "しんご" },
+        { "id": "c", "html": "しんごう" },
+        { "id": "d", "html": "じんごう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>信号（しんごう）</strong> means traffic signal or signal."
+    },
+    {
+      "id": "N4-Kanji-p27-q10",
+      "questionHtml": "友達の「<strong>電話番号</strong>」を教えてもらいました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "でんわばんごう" },
+        { "id": "b", "html": "でんわばんこう" },
+        { "id": "c", "html": "でんばばんごう" },
+        { "id": "d", "html": "でんわはんごう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>電話番号（でんわばんごう）</strong> means telephone number."
+    },
+    {
+      "id": "N4-Kanji-p27-q11",
+      "questionHtml": "私の部屋は「<strong>3号室</strong>」です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "さんこうしつ" },
+        { "id": "b", "html": "さんごうしつ" },
+        { "id": "c", "html": "みごうしつ" },
+        { "id": "d", "html": "さんごしつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>3号室（さんごうしつ）</strong> means Room No. 3."
+    },
+    {
+      "id": "N4-Kanji-p27-q12",
+      "questionHtml": "先生の「<strong>号令</strong>」に合わせて、みんな立ち上がりました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ごうりょう" },
+        { "id": "b", "html": "こうれい" },
+        { "id": "c", "html": "ごれい" },
+        { "id": "d", "html": "ごうれい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<strong>号令（ごうれい）</strong> means a command or order, often given to a group."
+    },
+    {
+      "id": "N4-Kanji-p27-q13",
+      "questionHtml": "朝は「<strong>交通</strong>」がとても混みます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こうつう" },
+        { "id": "b", "html": "こうずう" },
+        { "id": "c", "html": "こつう" },
+        { "id": "d", "html": "こうとう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>交通（こうつう）</strong> means traffic or transportation."
+    },
+    {
+      "id": "N4-Kanji-p27-q14",
+      "questionHtml": "次の「<strong>交差点</strong>」を右に曲がってください。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こうさてん" },
+        { "id": "b", "html": "こうしゃてん" },
+        { "id": "c", "html": "こうさてん" },
+        { "id": "d", "html": "こうさでん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>交差点（こうさてん）</strong> means intersection or crossroads."
+    },
+    {
+      "id": "N4-Kanji-p27-q15",
+      "questionHtml": "道に迷ったので、「<strong>交番</strong>」で警察官に聞きました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こうはん" },
+        { "id": "b", "html": "こうばん" },
+        { "id": "c", "html": "こうばんじょ" },
+        { "id": "d", "html": "こばん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>交番（こうばん）</strong> means a small neighborhood police box or police station."
+    },
+    {
+      "id": "N4-Kanji-p27-q16",
+      "questionHtml": "来週から仕事の担当が「<strong>交代</strong>」します。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こうだい" },
+        { "id": "b", "html": "こうたい" },
+        { "id": "c", "html": "きょうたい" },
+        { "id": "d", "html": "こうた" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>交代（こうたい）</strong> means a change, replacement, or taking turns."
+    },
+    {
+      "id": "N4-Kanji-p27-q17",
+      "questionHtml": "父はトラックで荷物を「<strong>運ぶ</strong>」仕事をしています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "はこぶ" },
+        { "id": "b", "html": "うごぶ" },
+        { "id": "c", "html": "はこむ" },
+        { "id": "d", "html": "うんぶ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>運ぶ（はこぶ）</strong> means to carry or transport."
+    },
+    {
+      "id": "N4-Kanji-p27-q18",
+      "questionHtml": "健康のために、毎朝「<strong>運動</strong>」をしています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "うんと" },
+        { "id": "b", "html": "うんどう" },
+        { "id": "c", "html": "うんとう" },
+        { "id": "d", "html": "うどう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>運動（うんどう）</strong> means exercise or physical activity."
+    },
+    {
+      "id": "N4-Kanji-p27-q19",
+      "questionHtml": "今日は天気もよく、いいことがたくさんありました。「<strong>運がいい</strong>」ですね。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "うんがいい" },
+        { "id": "b", "html": "うんかいい" },
+        { "id": "c", "html": "はこびがいい" },
+        { "id": "d", "html": "うんがよい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>運がいい（うんがいい）</strong> means to be lucky or fortunate."
+    },
+    {
+      "id": "N4-Kanji-p27-q20",
+      "questionHtml": "駅までの「<strong>運賃</strong>」はいくらですか。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "うんせん" },
+        { "id": "b", "html": "うんちん" },
+        { "id": "c", "html": "うんじん" },
+        { "id": "d", "html": "うんきん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>運賃（うんちん）</strong> means fare or transportation fee."
+    }
+  ]
+}

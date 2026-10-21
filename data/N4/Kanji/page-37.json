@@ -1,0 +1,156 @@
+
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 37,
+    "questionsPerPage": 12,
+    "description": "N4 Kanji reading practice - Page 37"
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p37-q1",
+      "questionHtml": "道に迷って、とても「<strong>困ります</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こまります" },
+        { "id": "b", "html": "こもります" },
+        { "id": "c", "html": "くまります" },
+        { "id": "d", "html": "こまりす" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>困ります（こまります）</strong> means to be in trouble."
+    },
+    {
+      "id": "N4-Kanji-p37-q2",
+      "questionHtml": "毎晩、十一時ごろに「<strong>寝ます</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ねります" },
+        { "id": "b", "html": "ねます" },
+        { "id": "c", "html": "ぬます" },
+        { "id": "d", "html": "ねみます" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>寝ます（ねます）</strong> means to sleep or go to bed."
+    },
+    {
+      "id": "N4-Kanji-p37-q3",
+      "questionHtml": "夏休みに海で「<strong>泳ぎます</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "およります" },
+        { "id": "b", "html": "おどぎます" },
+        { "id": "c", "html": "およぎます" },
+        { "id": "d", "html": "おゆぎます" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>泳ぎます（およぎます）</strong> means to swim."
+    },
+    {
+      "id": "N4-Kanji-p37-q4",
+      "questionHtml": "健康のために、毎週「<strong>水泳</strong>」をしています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "すいえん" },
+        { "id": "b", "html": "みずおよぎ" },
+        { "id": "c", "html": "すえい" },
+        { "id": "d", "html": "すいえい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<strong>水泳（すいえい）</strong> means swimming."
+    },
+    {
+      "id": "N4-Kanji-p37-q5",
+      "questionHtml": "今日は帰る時間が「<strong>遅い</strong>」です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "おそい" },
+        { "id": "b", "html": "おくい" },
+        { "id": "c", "html": "おそえ" },
+        { "id": "d", "html": "ちい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>遅い（おそい）</strong> means late or slow."
+    },
+    {
+      "id": "N4-Kanji-p37-q6",
+      "questionHtml": "電車が十分「<strong>遅れます</strong>」と駅の放送で聞きました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "おそくれます" },
+        { "id": "b", "html": "おくれます" },
+        { "id": "c", "html": "おくります" },
+        { "id": "d", "html": "ちれます" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>遅れます（おくれます）</strong> means to be late or delayed."
+    },
+    {
+      "id": "N4-Kanji-p37-q7",
+      "questionHtml": "部屋を出るとき、電気を「<strong>消します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "きします" },
+        { "id": "b", "html": "けします" },
+        { "id": "c", "html": "けえします" },
+        { "id": "d", "html": "こします" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>消します（けします）</strong> means to turn off or extinguish something."
+    },
+    {
+      "id": "N4-Kanji-p37-q8",
+      "questionHtml": "風でろうそくの火が「<strong>消えます</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "けえます" },
+        { "id": "b", "html": "きします" },
+        { "id": "c", "html": "きえます" },
+        { "id": "d", "html": "きります" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>消えます（きえます）</strong> means to go out or disappear."
+    },
+    {
+      "id": "N4-Kanji-p37-q9",
+      "questionHtml": "学校の「<strong>門</strong>」の前で友達に会いました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "もん" },
+        { "id": "b", "html": "かど" },
+        { "id": "c", "html": "まん" },
+        { "id": "d", "html": "も" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>門（もん）</strong> means gate."
+    },
+    {
+      "id": "N4-Kanji-p37-q10",
+      "questionHtml": "大切な約束を「<strong>忘れます</strong>」と困ります。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "わすります" },
+        { "id": "b", "html": "わられます" },
+        { "id": "c", "html": "ぼうれます" },
+        { "id": "d", "html": "わすれます" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<strong>忘れます（わすれます）</strong> means to forget."
+    },
+    {
+      "id": "N4-Kanji-p37-q11",
+      "questionHtml": "この道路の「<strong>線</strong>」の上に立たないでください。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "せん" },
+        { "id": "b", "html": "ぜん" },
+        { "id": "c", "html": "いと" },
+        { "id": "d", "html": "せい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>線（せん）</strong> means line."
+    },
+    {
+      "id": "N4-Kanji-p37-q12",
+      "questionHtml": "分からないことがあったら、先生を「<strong>呼びます</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "よみます" },
+        { "id": "b", "html": "よびます" },
+        { "id": "c", "html": "よります" },
+        { "id": "d", "html": "こびます" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>呼びます（よびます）</strong> means to call or summon someone."
+    }
+  ]
+}

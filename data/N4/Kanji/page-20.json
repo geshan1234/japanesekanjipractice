@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 20,
+    "questionsPerPage": 20,
+    "description": "Kanji reading quiz for N4 vocabulary."
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p20-q1",
+      "questionHtml": "この町の「<strong>市民</strong>」は、公園をきれいにする活動をしています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しじん" },
+        { "id": "b", "html": "しみん" },
+        { "id": "c", "html": "いちみん" },
+        { "id": "d", "html": "しびん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>市民（しみん）</strong> means citizen or city resident."
+    },
+    {
+      "id": "N4-Kanji-p20-q2",
+      "questionHtml": "「<strong>前回</strong>」のテストは難しかったです。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ぜんかい" },
+        { "id": "b", "html": "まえかい" },
+        { "id": "c", "html": "ぜんがい" },
+        { "id": "d", "html": "せんかい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>前回（ぜんかい）</strong> means the last time or previous occasion."
+    },
+    {
+      "id": "N4-Kanji-p20-q3",
+      "questionHtml": "世界にはさまざまな「<strong>民族</strong>」がいます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "みんしゅ" },
+        { "id": "b", "html": "じんぞく" },
+        { "id": "c", "html": "みんぞく" },
+        { "id": "d", "html": "みんそく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>民族（みんぞく）</strong> means an ethnic group or people sharing a cultural identity."
+    },
+    {
+      "id": "N4-Kanji-p20-q4",
+      "questionHtml": "「<strong>今回</strong>」の旅行はとても楽しかったです。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こんがい" },
+        { "id": "b", "html": "きょうかい" },
+        { "id": "c", "html": "こんかい" },
+        { "id": "d", "html": "こっかい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>今回（こんかい）</strong> means this time or the present occasion."
+    },
+    {
+      "id": "N4-Kanji-p20-q5",
+      "questionHtml": "今日は新しい「<strong>服</strong>」を買いました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ふく" },
+        { "id": "b", "html": "ふう" },
+        { "id": "c", "html": "はく" },
+        { "id": "d", "html": "ぶく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>服（ふく）</strong> means clothes or clothing."
+    },
+    {
+      "id": "N4-Kanji-p20-q6",
+      "questionHtml": "「<strong>主人</strong>」は毎朝六時に会社へ行きます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しゅにん" },
+        { "id": "b", "html": "しゅじん" },
+        { "id": "c", "html": "しゅうじん" },
+        { "id": "d", "html": "おもじん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>主人（しゅじん）</strong> can mean one's husband or master, depending on context."
+    },
+    {
+      "id": "N4-Kanji-p20-q7",
+      "questionHtml": "仕事の日はいつも「<strong>洋服</strong>」を着ます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ようふく" },
+        { "id": "b", "html": "ようぶく" },
+        { "id": "c", "html": "ようふう" },
+        { "id": "d", "html": "ようふくう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>洋服（ようふく）</strong> means Western-style clothing."
+    },
+    {
+      "id": "N4-Kanji-p20-q8",
+      "questionHtml": "日本では米が「<strong>主食</strong>」の一つです。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しゅじき" },
+        { "id": "b", "html": "おもく" },
+        { "id": "c", "html": "しゅしょく" },
+        { "id": "d", "html": "しゅしよく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>主食（しゅしょく）</strong> means staple food, such as rice, bread, or other main sources of energy."
+    },
+    {
+      "id": "N4-Kanji-p20-q9",
+      "questionHtml": "この店の「<strong>主な</strong>」商品は日本のお菓子です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しゅな" },
+        { "id": "b", "html": "おもな" },
+        { "id": "c", "html": "おもに" },
+        { "id": "d", "html": "しゅなな" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>主な（おもな）</strong> means main or principal."
+    },
+    {
+      "id": "N4-Kanji-p20-q10",
+      "questionHtml": "この自転車の「<strong>持ち主</strong>」を探しています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "もちぬし" },
+        { "id": "b", "html": "もちしゅ" },
+        { "id": "c", "html": "じぬし" },
+        { "id": "d", "html": "もつぬし" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>持ち主（もちぬし）</strong> means owner or person who possesses something."
+    },
+    {
+      "id": "N4-Kanji-p20-q11",
+      "questionHtml": "お正月に「<strong>和服</strong>」を着る人もいます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "わふう" },
+        { "id": "b", "html": "わぶく" },
+        { "id": "c", "html": "わふく" },
+        { "id": "d", "html": "にほんふく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>和服（わふく）</strong> means traditional Japanese clothing, such as a kimono."
+    },
+    {
+      "id": "N4-Kanji-p20-q12",
+      "questionHtml": "学校では「<strong>制服</strong>」を着なければなりません。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "せいふく" },
+        { "id": "b", "html": "せいぶく" },
+        { "id": "c", "html": "しょうふく" },
+        { "id": "d", "html": "せふく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>制服（せいふく）</strong> means uniform."
+    },
+    {
+      "id": "N4-Kanji-p20-q13",
+      "questionHtml": "デパートで新しい「<strong>洋服</strong>」を買いました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ようぶく" },
+        { "id": "b", "html": "ようふく" },
+        { "id": "c", "html": "ようふう" },
+        { "id": "d", "html": "よふく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>洋服（ようふく）</strong> means Western-style clothes."
+    },
+    {
+      "id": "N4-Kanji-p20-q14",
+      "questionHtml": "この花はきれいな「<strong>色</strong>」をしています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しき" },
+        { "id": "b", "html": "いろ" },
+        { "id": "c", "html": "いろう" },
+        { "id": "d", "html": "しょく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>色（いろ）</strong> means color."
+    },
+    {
+      "id": "N4-Kanji-p20-q15",
+      "questionHtml": "彼は「<strong>茶色</strong>」のかばんを持っています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ちゃしょく" },
+        { "id": "b", "html": "さしょく" },
+        { "id": "c", "html": "ちゃいろ" },
+        { "id": "d", "html": "ちゃじき" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>茶色（ちゃいろ）</strong> means brown."
+    },
+    {
+      "id": "N4-Kanji-p20-q16",
+      "questionHtml": "この地域の「<strong>特色</strong>」について説明します。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "とくしょく" },
+        { "id": "b", "html": "とくいろ" },
+        { "id": "c", "html": "とくじき" },
+        { "id": "d", "html": "とっしょく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>特色（とくしょく）</strong> means characteristic, distinguishing feature, or special quality."
+    },
+    {
+      "id": "N4-Kanji-p20-q17",
+      "questionHtml": "山の上から美しい「<strong>景色</strong>」が見えました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "けいしょく" },
+        { "id": "b", "html": "けしき" },
+        { "id": "c", "html": "けいしき" },
+        { "id": "d", "html": "かげいろ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>景色（けしき）</strong> means scenery or view."
+    },
+    {
+      "id": "N4-Kanji-p20-q18",
+      "questionHtml": "店でいろいろな「<strong>品物</strong>」を見ました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しなもの" },
+        { "id": "b", "html": "ひんぶつ" },
+        { "id": "c", "html": "しなぶつ" },
+        { "id": "d", "html": "ひんもの" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>品物（しなもの）</strong> means goods, articles, or items."
+    },
+    {
+      "id": "N4-Kanji-p20-q19",
+      "questionHtml": "スーパーで「<strong>食料品</strong>」を買いました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しょくりょうひん" },
+        { "id": "b", "html": "しょくりょうぼん" },
+        { "id": "c", "html": "しょくりょひん" },
+        { "id": "d", "html": "しょくひんりょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>食料品（しょくりょうひん）</strong> means food products or groceries."
+    },
+    {
+      "id": "N4-Kanji-p20-q20",
+      "questionHtml": "この美術館には有名な「<strong>作品</strong>」がたくさんあります。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "さくぼん" },
+        { "id": "b", "html": "さくひん" },
+        { "id": "c", "html": "さっぴん" },
+        { "id": "d", "html": "さくぶつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>作品（さくひん）</strong> means a work or piece of work, such as a painting, book, or other creation."
+    }
+  ]
+}

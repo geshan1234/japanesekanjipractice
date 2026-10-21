@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 32,
+    "questionsPerPage": 20,
+    "description": "N4 Kanji reading practice - Page 32"
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p32-q1",
+      "questionHtml": "この店には「<strong>子ども用</strong>」の服がたくさんあります。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こどもよう" },
+        { "id": "b", "html": "こどもゆう" },
+        { "id": "c", "html": "しどもよう" },
+        { "id": "d", "html": "こどもようい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>子ども用（こどもよう）</strong> means for children."
+    },
+    {
+      "id": "N4-Kanji-p32-q2",
+      "questionHtml": "この機械は「<strong>使用禁止</strong>」です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しようきんじ" },
+        { "id": "b", "html": "しゆうきんし" },
+        { "id": "c", "html": "しようきんし" },
+        { "id": "d", "html": "じようきんし" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>使用禁止（しようきんし）</strong> means use prohibited or do not use."
+    },
+    {
+      "id": "N4-Kanji-p32-q3",
+      "questionHtml": "旅行の「<strong>用意</strong>」をしてから、寝ました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ようじ" },
+        { "id": "b", "html": "ようい" },
+        { "id": "c", "html": "ゆうい" },
+        { "id": "d", "html": "ようえ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>用意（ようい）</strong> means preparation or getting something ready."
+    },
+    {
+      "id": "N4-Kanji-p32-q4",
+      "questionHtml": "来週、日本語の「<strong>試験</strong>」があります。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しげん" },
+        { "id": "b", "html": "じけん" },
+        { "id": "c", "html": "しけん" },
+        { "id": "d", "html": "ためしけん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>試験（しけん）</strong> means examination or test."
+    },
+    {
+      "id": "N4-Kanji-p32-q5",
+      "questionHtml": "大学の研究室で、新しい薬の「<strong>実験</strong>」をしました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "じっけん" },
+        { "id": "b", "html": "じつげん" },
+        { "id": "c", "html": "じけん" },
+        { "id": "d", "html": "みっけん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>実験（じっけん）</strong> means experiment."
+    },
+    {
+      "id": "N4-Kanji-p32-q6",
+      "questionHtml": "日本で生活した「<strong>経験</strong>」があります。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "けいげん" },
+        { "id": "b", "html": "けいけん" },
+        { "id": "c", "html": "きょうけん" },
+        { "id": "d", "html": "けんけい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>経験（けいけん）</strong> means experience."
+    },
+    {
+      "id": "N4-Kanji-p32-q7",
+      "questionHtml": "兄は来月、大学の試験を「<strong>受験します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "じゅけんします" },
+        { "id": "b", "html": "じゅげんします" },
+        { "id": "c", "html": "うけけんします" },
+        { "id": "d", "html": "しゅけんします" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>受験します（じゅけんします）</strong> means to take an examination."
+    },
+    {
+      "id": "N4-Kanji-p32-q8",
+      "questionHtml": "この「<strong>紙</strong>」に名前を書いてください。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "がみ" },
+        { "id": "b", "html": "かみ" },
+        { "id": "c", "html": "し" },
+        { "id": "d", "html": "かめ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>紙（かみ）</strong> means paper."
+    },
+    {
+      "id": "N4-Kanji-p32-q9",
+      "questionHtml": "友達から「<strong>手紙</strong>」が届きました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "てかみ" },
+        { "id": "b", "html": "しゅし" },
+        { "id": "c", "html": "てがみ" },
+        { "id": "d", "html": "てし" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>手紙（てがみ）</strong> means letter."
+    },
+    {
+      "id": "N4-Kanji-p32-q10",
+      "questionHtml": "机の上に「<strong>新聞紙</strong>」が置いてあります。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しんぶんかみ" },
+        { "id": "b", "html": "しんぶんし" },
+        { "id": "c", "html": "しんもんし" },
+        { "id": "d", "html": "しんぶんじ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>新聞紙（しんぶんし）</strong> means newspaper or newspaper paper."
+    },
+    {
+      "id": "N4-Kanji-p32-q11",
+      "questionHtml": "分からない言葉について、先生に「<strong>質問します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しつもんします" },
+        { "id": "b", "html": "しつぶんします" },
+        { "id": "c", "html": "じつもんします" },
+        { "id": "d", "html": "しちもんします" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>質問します（しつもんします）</strong> means to ask a question."
+    },
+    {
+      "id": "N4-Kanji-p32-q12",
+      "questionHtml": "この店は値段が安いのに、商品の「<strong>品質</strong>」がいいです。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ひんしつ" },
+        { "id": "b", "html": "ひんじつ" },
+        { "id": "c", "html": "ぴんしつ" },
+        { "id": "d", "html": "ひんしち" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>品質（ひんしつ）</strong> means quality."
+    },
+    {
+      "id": "N4-Kanji-p32-q13",
+      "questionHtml": "この漢字の「<strong>意味</strong>」を辞書で調べました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "いみ" },
+        { "id": "b", "html": "いび" },
+        { "id": "c", "html": "えみ" },
+        { "id": "d", "html": "いめ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>意味（いみ）</strong> means meaning."
+    },
+    {
+      "id": "N4-Kanji-p32-q14",
+      "questionHtml": "道を渡るときは、車に「<strong>注意します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ちゅうしします" },
+        { "id": "b", "html": "ちゅういします" },
+        { "id": "c", "html": "ちゅいします" },
+        { "id": "d", "html": "じゅういします" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>注意します（ちゅういします）</strong> means to pay attention or be careful."
+    },
+    {
+      "id": "N4-Kanji-p32-q15",
+      "questionHtml": "明日の旅行のために、必要な物を「<strong>用意します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ようじします" },
+        { "id": "b", "html": "よういします" },
+        { "id": "c", "html": "ゆういします" },
+        { "id": "d", "html": "ようえします" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>用意します（よういします）</strong> means to prepare or get ready."
+    },
+    {
+      "id": "N4-Kanji-p32-q16",
+      "questionHtml": "会議で自分の「<strong>意見</strong>」を話しました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "いげん" },
+        { "id": "b", "html": "いけん" },
+        { "id": "c", "html": "えけん" },
+        { "id": "d", "html": "いこん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>意見（いけん）</strong> means opinion or view."
+    },
+    {
+      "id": "N4-Kanji-p32-q17",
+      "questionHtml": "ドアを「<strong>引きます</strong>」ので、押さないでください。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ひきます" },
+        { "id": "b", "html": "いきます" },
+        { "id": "c", "html": "ひけます" },
+        { "id": "d", "html": "びきます" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>引きます（ひきます）</strong> means to pull."
+    },
+    {
+      "id": "N4-Kanji-p32-q18",
+      "questionHtml": "銀行の「<strong>引き出し</strong>」について、手数料を調べました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ひきだし" },
+        { "id": "b", "html": "ひきでし" },
+        { "id": "c", "html": "いんだし" },
+        { "id": "d", "html": "ひくだし" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>引き出し（ひきだし）</strong> means withdrawal in financial contexts; it also means a drawer."
+    },
+    {
+      "id": "N4-Kanji-p32-q19",
+      "questionHtml": "地球には「<strong>引力</strong>」があるので、物は地面に落ちます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "いんりょく" },
+        { "id": "b", "html": "いんりき" },
+        { "id": "c", "html": "ひきりょく" },
+        { "id": "d", "html": "いんろく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>引力（いんりょく）</strong> means gravity or attractive force."
+    },
+    {
+      "id": "N4-Kanji-p32-q20",
+      "questionHtml": "図書館で日本語の本を「<strong>集めます</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しゅうめます" },
+        { "id": "b", "html": "あつめます" },
+        { "id": "c", "html": "あつまります" },
+        { "id": "d", "html": "あずめます" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>集めます（あつめます）</strong> means to collect or gather."
+    }
+  ]
+}

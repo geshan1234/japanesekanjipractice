@@ -4,7 +4,10 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Japanese Practice Test</title>
-    <link href="https://googleapis.com" rel="stylesheet" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
@@ -13,20 +16,20 @@
       <label
         >Level
         <select id="levelSelect">
-          <option>N1</option>
-          <option>N2</option>
-          <option>N3</option>
-          <option>N4</option>
-          <option selected>N5</option>
+          <option disabled>N1</option>
+          <option disabled>N2</option>
+          <option disabled>N3</option>
+          <option selected>N4</option>
+          <option disabled>N5</option>
         </select>
       </label>
       <label
         >Question type
         <select id="typeSelect">
-          <option>Kanji</option>
-          <option>Vocabulary</option>
-          <option>Dokkai</option>
-          <option>Grammar</option>
+          <option selected>Kanji</option>
+          <option disabled>Vocabulary</option>
+          <option disabled>Dokkai</option>
+          <option disabled>Grammar</option>
         </select>
       </label>
     </nav>
@@ -34,7 +37,7 @@
     <main class="container">
       <div class="heading-row">
         <h1 id="testTitle">N5 - Kanji</h1>
-        <span id="pageLabel"></span>
+        <!-- <span id="pageLabel"></span> -->
       </div>
       <div class="pagination">
         <button id="prevBtn" class="secondary">Previous</button>
@@ -47,11 +50,11 @@
         <button id="resetBtn" class="secondary">Reset</button>
       </div>
       <div id="score" class="score"></div>
-      <div class="pagination">
+      <!-- <div class="pagination">
         <button id="prevBtn" class="secondary">Previous</button>
         <span id="paginationLabel"></span>
         <button id="nextBtn" class="secondary">Next</button>
-      </div>
+      </div> -->
     </main>
     <!-- Added for the furigana feature (deferred, at the end of body,
          so a slow/blocked CDN can never hang page rendering) -->

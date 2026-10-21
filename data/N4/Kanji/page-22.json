@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 22,
+    "questionsPerPage": 20,
+    "description": "N4 Kanji Reading Quiz - Page 22"
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p22-q1",
+      "questionHtml": "カレーを作るために「<strong>材料</strong>」を買いました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ざいりょう" },
+        { "id": "b", "html": "ざいりょ" },
+        { "id": "c", "html": "さいりょう" },
+        { "id": "d", "html": "ざいりゅう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>材料（ざいりょう）</strong> means materials or ingredients."
+    },
+    {
+      "id": "N4-Kanji-p22-q2",
+      "questionHtml": "健康のために「<strong>野菜</strong>」をたくさん食べます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "のさい" },
+        { "id": "b", "html": "やざい" },
+        { "id": "c", "html": "やさい" },
+        { "id": "d", "html": "やな" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>野菜（やさい）</strong> means vegetables."
+    },
+    {
+      "id": "N4-Kanji-p22-q3",
+      "questionHtml": "母は毎日おいしい「<strong>料理</strong>」を作ります。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "りょうり" },
+        { "id": "b", "html": "りようり" },
+        { "id": "c", "html": "りょり" },
+        { "id": "d", "html": "りょうれい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>料理（りょうり）</strong> means cooking or a dish."
+    },
+    {
+      "id": "N4-Kanji-p22-q4",
+      "questionHtml": "朝ご飯のあとで温かい「<strong>お茶</strong>」を飲みました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "おちゃ" },
+        { "id": "b", "html": "おさ" },
+        { "id": "c", "html": "おじゃ" },
+        { "id": "d", "html": "おちゃあ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>お茶（おちゃ）</strong> means tea."
+    },
+    {
+      "id": "N4-Kanji-p22-q5",
+      "questionHtml": "大学で「<strong>地理</strong>」を勉強しています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "じり" },
+        { "id": "b", "html": "ちり" },
+        { "id": "c", "html": "ちれい" },
+        { "id": "d", "html": "じれい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>地理（ちり）</strong> means geography."
+    },
+    {
+      "id": "N4-Kanji-p22-q6",
+      "questionHtml": "一人で全部するのは「<strong>無理</strong>」です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "むり" },
+        { "id": "b", "html": "ぶり" },
+        { "id": "c", "html": "むれい" },
+        { "id": "d", "html": "むに" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>無理（むり）</strong> means impossible, unreasonable, or too difficult."
+    },
+    {
+      "id": "N4-Kanji-p22-q7",
+      "questionHtml": "遅刻した「<strong>理由</strong>」を先生に説明しました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "りゆ" },
+        { "id": "b", "html": "りじ" },
+        { "id": "c", "html": "りゆう" },
+        { "id": "d", "html": "りゅうい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>理由（りゆう）</strong> means reason."
+    },
+    {
+      "id": "N4-Kanji-p22-q8",
+      "questionHtml": "その会社の「<strong>理事</strong>」が会議に出席しました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "りし" },
+        { "id": "b", "html": "りじ" },
+        { "id": "c", "html": "りこと" },
+        { "id": "d", "html": "りち" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>理事（りじ）</strong> means director or board member."
+    },
+    {
+      "id": "N4-Kanji-p22-q9",
+      "questionHtml": "この「<strong>茶色</strong>」のかばんは私のものです。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ちゃしょく" },
+        { "id": "b", "html": "ちゃいろ" },
+        { "id": "c", "html": "さしょく" },
+        { "id": "d", "html": "ちゃろ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>茶色（ちゃいろ）</strong> means brown."
+    },
+    {
+      "id": "N4-Kanji-p22-q10",
+      "questionHtml": "駅の近くの「<strong>喫茶店</strong>」で友達と会いました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "きっさてん" },
+        { "id": "b", "html": "きさてん" },
+        { "id": "c", "html": "きっさてい" },
+        { "id": "d", "html": "きっしゃてん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>喫茶店（きっさてん）</strong> means a coffee shop or traditional café."
+    },
+    {
+      "id": "N4-Kanji-p22-q11",
+      "questionHtml": "朝はコーヒーより「<strong>紅茶</strong>」を飲むのが好きです。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "べにちゃ" },
+        { "id": "b", "html": "こうちゃ" },
+        { "id": "c", "html": "こうさ" },
+        { "id": "d", "html": "あかちゃ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>紅茶（こうちゃ）</strong> means black tea."
+    },
+    {
+      "id": "N4-Kanji-p22-q12",
+      "questionHtml": "おなかがすいたので「<strong>ご飯</strong>」を食べました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ごはん" },
+        { "id": "b", "html": "ごばん" },
+        { "id": "c", "html": "ごめし" },
+        { "id": "d", "html": "ごほん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>ご飯（ごはん）</strong> means cooked rice or a meal."
+    },
+    {
+      "id": "N4-Kanji-p22-q13",
+      "questionHtml": "私は「<strong>肉</strong>」より魚のほうが好きです。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "にく" },
+        { "id": "b", "html": "にっく" },
+        { "id": "c", "html": "じく" },
+        { "id": "d", "html": "にき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>肉（にく）</strong> means meat."
+    },
+    {
+      "id": "N4-Kanji-p22-q14",
+      "questionHtml": "今晩は「<strong>牛肉</strong>」を使ってカレーを作ります。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "うしにく" },
+        { "id": "b", "html": "ぎゅうにく" },
+        { "id": "c", "html": "ぎゅにく" },
+        { "id": "d", "html": "ぎゅうじく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>牛肉（ぎゅうにく）</strong> means beef."
+    },
+    {
+      "id": "N4-Kanji-p22-q15",
+      "questionHtml": "家族と一緒に「<strong>夕飯</strong>」を食べました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ゆうめし" },
+        { "id": "b", "html": "ゆうはん" },
+        { "id": "c", "html": "ゆはん" },
+        { "id": "d", "html": "ゆうばん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>夕飯（ゆうはん）</strong> means supper or the evening meal."
+    },
+    {
+      "id": "N4-Kanji-p22-q16",
+      "questionHtml": "毎日七時ごろに「<strong>晩ご飯</strong>」を食べます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ばんごはん" },
+        { "id": "b", "html": "ばんごめし" },
+        { "id": "c", "html": "よるごはん" },
+        { "id": "d", "html": "ばんはん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>晩ご飯（ばんごはん）</strong> means dinner or the evening meal."
+    },
+    {
+      "id": "N4-Kanji-p22-q17",
+      "questionHtml": "駅の近くの「<strong>肉屋</strong>」で牛肉を買いました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "にくや" },
+        { "id": "b", "html": "にくいえ" },
+        { "id": "c", "html": "にくおく" },
+        { "id": "d", "html": "じくや" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>肉屋（にくや）</strong> means a butcher or butcher shop."
+    },
+    {
+      "id": "N4-Kanji-p22-q18",
+      "questionHtml": "学校の食堂で「<strong>昼飯</strong>」を食べました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ひるはん" },
+        { "id": "b", "html": "ちゅうめし" },
+        { "id": "c", "html": "ひるめし" },
+        { "id": "d", "html": "ひるばん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>昼飯（ひるめし）</strong> means lunch. It is a casual expression."
+    },
+    {
+      "id": "N4-Kanji-p22-q19",
+      "questionHtml": "毎日運動をして「<strong>筋肉</strong>」を鍛えています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "きんにく" },
+        { "id": "b", "html": "きんじく" },
+        { "id": "c", "html": "すじにく" },
+        { "id": "d", "html": "きにく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>筋肉（きんにく）</strong> means muscle."
+    },
+    {
+      "id": "N4-Kanji-p22-q20",
+      "questionHtml": "今日は家族と一緒に「<strong>夕飯</strong>」を食べます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ゆうめし" },
+        { "id": "b", "html": "ゆうはん" },
+        { "id": "c", "html": "ゆうばん" },
+        { "id": "d", "html": "ゆはん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>夕飯（ゆうはん）</strong> means the evening meal or supper."
+    }
+  ]
+}

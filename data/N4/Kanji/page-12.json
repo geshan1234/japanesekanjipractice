@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 12,
+    "questionsPerPage": 20,
+    "description": "Kanji reading questions for page 12."
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p12-q1",
+      "questionHtml": "<p>今日はとても「暑い」です。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あつい" },
+        { "id": "b", "html": "さむい" },
+        { "id": "c", "html": "あたたかい" },
+        { "id": "d", "html": "すずしい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>暑い（あつい）と読みます。<span>Meaning: hot (weather)</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p12-q2",
+      "questionHtml": "<p>日本では「節分」に豆をまく習慣があります。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せつぶん" },
+        { "id": "b", "html": "せっぷん" },
+        { "id": "c", "html": "せつふん" },
+        { "id": "d", "html": "せつもん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>節分（せつぶん）と読みます。<span>Meaning: Setsubun, a traditional event marking the beginning of spring</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p12-q3",
+      "questionHtml": "<p>九月になっても、まだ「残暑」が続いています。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ざんしゅう" },
+        { "id": "b", "html": "ざんしょ" },
+        { "id": "c", "html": "さんしょ" },
+        { "id": "d", "html": "ざんじょ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>残暑（ざんしょ）と読みます。<span>Meaning: lingering summer heat</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p12-q4",
+      "questionHtml": "<p>「春」になると、花がたくさん咲きます。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あき" },
+        { "id": "b", "html": "なつ" },
+        { "id": "c", "html": "はる" },
+        { "id": "d", "html": "ふゆ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>春（はる）と読みます。<span>Meaning: spring</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p12-q5",
+      "questionHtml": "<p>「青春」の思い出は、今でも大切です。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいしゅん" },
+        { "id": "b", "html": "せいはる" },
+        { "id": "c", "html": "あおしゅん" },
+        { "id": "d", "html": "しょうしゅん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>青春（せいしゅん）と読みます。<span>Meaning: youth</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p12-q6",
+      "questionHtml": "<p>今日はとても「寒い」ので、コートを着ます。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あつい" },
+        { "id": "b", "html": "さむい" },
+        { "id": "c", "html": "ぬるい" },
+        { "id": "d", "html": "すずしい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>寒い（さむい）と読みます。<span>Meaning: cold (weather)</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p12-q7",
+      "questionHtml": "<p>強い「寒波」が来るので、気をつけてください。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かんは" },
+        { "id": "b", "html": "さむなみ" },
+        { "id": "c", "html": "かんぱ" },
+        { "id": "d", "html": "かんば" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>寒波（かんぱ）と読みます。<span>Meaning: cold wave</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p12-q8",
+      "questionHtml": "<p>「夏」は海で泳ぐのが楽しみです。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はる" },
+        { "id": "b", "html": "あき" },
+        { "id": "c", "html": "ふゆ" },
+        { "id": "d", "html": "なつ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>夏（なつ）と読みます。<span>Meaning: summer</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p12-q9",
+      "questionHtml": "<p>「夏休み」に家族と旅行する予定です。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "なつやすみ" },
+        { "id": "b", "html": "なつやす" },
+        { "id": "c", "html": "かやすみ" },
+        { "id": "d", "html": "なつきゅうみ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>夏休み（なつやすみ）と読みます。<span>Meaning: summer vacation</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p12-q10",
+      "questionHtml": "<p>暑い日は「夏服」を着ることが多いです。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "なつふく" },
+        { "id": "b", "html": "かふく" },
+        { "id": "c", "html": "なつぶく" },
+        { "id": "d", "html": "なつふう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>夏服（なつふく）と読みます。<span>Meaning: summer clothes</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p12-q11",
+      "questionHtml": "<p>今日は天気がよくて、とても「暖かい」です。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あつかい" },
+        { "id": "b", "html": "あたたかい" },
+        { "id": "c", "html": "あたかい" },
+        { "id": "d", "html": "あたためい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>暖かい（あたたかい）と読みます。<span>Meaning: warm</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p12-q12",
+      "questionHtml": "<p>今年は「暖冬」なので、雪があまり降りません。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "だんふゆ" },
+        { "id": "b", "html": "あたたかふゆ" },
+        { "id": "c", "html": "だんとう" },
+        { "id": "d", "html": "だんどう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>暖冬（だんとう）と読みます。<span>Meaning: warm winter</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p12-q13",
+      "questionHtml": "<p>寒い朝は「暖房」をつけます。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "だんぼう" },
+        { "id": "b", "html": "だんぽう" },
+        { "id": "c", "html": "あたたぼう" },
+        { "id": "d", "html": "だんほう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>暖房（だんぼう）と読みます。<span>Meaning: heating</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p12-q14",
+      "questionHtml": "<p>「秋」になると、木の葉の色が変わります。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はる" },
+        { "id": "b", "html": "なつ" },
+        { "id": "c", "html": "ふゆ" },
+        { "id": "d", "html": "あき" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>秋（あき）と読みます。<span>Meaning: autumn; fall</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p12-q15",
+      "questionHtml": "<p>今日は風が吹いていて、とても「涼しい」です。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あたたかい" },
+        { "id": "b", "html": "すずしい" },
+        { "id": "c", "html": "さむしい" },
+        { "id": "d", "html": "すずい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>涼しい（すずしい）と読みます。<span>Meaning: cool; pleasantly cool</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p12-q16",
+      "questionHtml": "<p>夕方になると「涼風」が吹いてきました。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りょうふう" },
+        { "id": "b", "html": "すずかぜ" },
+        { "id": "c", "html": "りょうかぜ" },
+        { "id": "d", "html": "すずふう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>涼風（りょうふう）と読みます。<span>Meaning: cool breeze</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p12-q17",
+      "questionHtml": "<p>朝起きたら、「頭」が少し痛かったです。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かお" },
+        { "id": "b", "html": "あたま" },
+        { "id": "c", "html": "かしら" },
+        { "id": "d", "html": "ず" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>頭（あたま）と読みます。<span>Meaning: head</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p12-q18",
+      "questionHtml": "<p>彼女の「声」はとてもきれいです。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おと" },
+        { "id": "b", "html": "こえ" },
+        { "id": "c", "html": "せい" },
+        { "id": "d", "html": "ごえ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>声（こえ）と読みます。<span>Meaning: voice</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p12-q19",
+      "questionHtml": "<p>昨日から「頭痛」が続いているので、病院へ行きます。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あたまいた" },
+        { "id": "b", "html": "とうつう" },
+        { "id": "c", "html": "ずつう" },
+        { "id": "d", "html": "ずいた" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>頭痛（ずつう）と読みます。<span>Meaning: headache</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p12-q20",
+      "questionHtml": "<p>弟はうれしくて「大声」で笑いました。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おおごえ" },
+        { "id": "b", "html": "だいせい" },
+        { "id": "c", "html": "おおこえ" },
+        { "id": "d", "html": "だいごえ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>大声（おおごえ）と読みます。<span>Meaning: loud voice</span></p>"
+    }
+  ]
+}

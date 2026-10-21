@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 30,
+    "questionsPerPage": 20,
+    "description": "N4 Kanji reading practice - Page 30"
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p30-q1",
+      "questionHtml": "私は日本の「<strong>文学</strong>」について勉強しています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ぶんがく" },
+        { "id": "b", "html": "ぶんかく" },
+        { "id": "c", "html": "もんがく" },
+        { "id": "d", "html": "ぶんがっく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>文学（ぶんがく）</strong> means literature."
+    },
+    {
+      "id": "N4-Kanji-p30-q2",
+      "questionHtml": "この漢字の「<strong>文字</strong>」は少し難しいです。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "もんじ" },
+        { "id": "b", "html": "もじ" },
+        { "id": "c", "html": "ぶんじ" },
+        { "id": "d", "html": "じも" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>文字（もじ）</strong> means character or letter."
+    },
+    {
+      "id": "N4-Kanji-p30-q3",
+      "questionHtml": "レストランでカレーを「<strong>注文します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ちゅうもくします" },
+        { "id": "b", "html": "ちゅうぶんします" },
+        { "id": "c", "html": "ちゅうもんします" },
+        { "id": "d", "html": "ちゅうもんじます" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>注文します（ちゅうもんします）</strong> means to order."
+    },
+    {
+      "id": "N4-Kanji-p30-q4",
+      "questionHtml": "夏休みに日本語で「<strong>作文</strong>」を書きました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "さくもん" },
+        { "id": "b", "html": "そうぶん" },
+        { "id": "c", "html": "さくぶん" },
+        { "id": "d", "html": "さっぷん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>作文（さくぶん）</strong> means composition or essay."
+    },
+    {
+      "id": "N4-Kanji-p30-q5",
+      "questionHtml": "将来何をしたいか、よく「<strong>考えます</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "おぼえます" },
+        { "id": "b", "html": "かんがえます" },
+        { "id": "c", "html": "かぞえます" },
+        { "id": "d", "html": "かんじます" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>考えます（かんがえます）</strong> means to think or consider."
+    },
+    {
+      "id": "N4-Kanji-p30-q6",
+      "questionHtml": "兄は大学で「<strong>考古学</strong>」を勉強しています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こうこがく" },
+        { "id": "b", "html": "こうごがく" },
+        { "id": "c", "html": "こうぶんがく" },
+        { "id": "d", "html": "こごがく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>考古学（こうこがく）</strong> means archaeology."
+    },
+    {
+      "id": "N4-Kanji-p30-q7",
+      "questionHtml": "試験のために、図書館で「<strong>参考書</strong>」を借りました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "さんこうしょう" },
+        { "id": "b", "html": "さんごうしょ" },
+        { "id": "c", "html": "さんこうしょ" },
+        { "id": "d", "html": "さんこしょ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>参考書（さんこうしょ）</strong> means reference book or study guide."
+    },
+    {
+      "id": "N4-Kanji-p30-q8",
+      "questionHtml": "先生は学生に日本語を「<strong>教えます</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "おぼえます" },
+        { "id": "b", "html": "おしえます" },
+        { "id": "c", "html": "ならえます" },
+        { "id": "d", "html": "おしります" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>教えます（おしえます）</strong> means to teach."
+    },
+    {
+      "id": "N4-Kanji-p30-q9",
+      "questionHtml": "私の「<strong>教室</strong>」は三階にあります。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "きょうじょ" },
+        { "id": "b", "html": "きょうしつ" },
+        { "id": "c", "html": "きょうじつ" },
+        { "id": "d", "html": "こうしつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>教室（きょうしつ）</strong> means classroom."
+    },
+    {
+      "id": "N4-Kanji-p30-q10",
+      "questionHtml": "新しい「<strong>教科書</strong>」を買いました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "きょうかしょ" },
+        { "id": "b", "html": "きょうがしょ" },
+        { "id": "c", "html": "きょうかしょう" },
+        { "id": "d", "html": "きょうこしょ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>教科書（きょうかしょ）</strong> means textbook."
+    },
+    {
+      "id": "N4-Kanji-p30-q11",
+      "questionHtml": "子どもの「<strong>教育</strong>」はとても大切です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "きょうぎく" },
+        { "id": "b", "html": "きょういき" },
+        { "id": "c", "html": "きょういく" },
+        { "id": "d", "html": "こういく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>教育（きょういく）</strong> means education."
+    },
+    {
+      "id": "N4-Kanji-p30-q12",
+      "questionHtml": "日曜日に町の「<strong>教会</strong>」へ行きました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "きょうかい" },
+        { "id": "b", "html": "きょうがい" },
+        { "id": "c", "html": "こうかい" },
+        { "id": "d", "html": "きょうえ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>教会（きょうかい）</strong> means church. It does not generally mean organization."
+    },
+    {
+      "id": "N4-Kanji-p30-q13",
+      "questionHtml": "私は毎週、先生にピアノを「<strong>習います</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ならいます" },
+        { "id": "b", "html": "おそいます" },
+        { "id": "c", "html": "まなびます" },
+        { "id": "d", "html": "ならえます" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>習います（ならいます）</strong> means to learn or take lessons."
+    },
+    {
+      "id": "N4-Kanji-p30-q14",
+      "questionHtml": "毎日、日本語の会話を「<strong>練習</strong>」しています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "れんせい" },
+        { "id": "b", "html": "れんしゅう" },
+        { "id": "c", "html": "ねんしゅう" },
+        { "id": "d", "html": "れんしょう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>練習（れんしゅう）</strong> means practice."
+    },
+    {
+      "id": "N4-Kanji-p30-q15",
+      "questionHtml": "試験の前に、前の課を「<strong>復習します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ふくしゅします" },
+        { "id": "b", "html": "ふっしゅうします" },
+        { "id": "c", "html": "ふくしゅうします" },
+        { "id": "d", "html": "ふくしょうします" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>復習します（ふくしゅうします）</strong> means to review or revise."
+    },
+    {
+      "id": "N4-Kanji-p30-q16",
+      "questionHtml": "日本では、学校が始まる時期に「<strong>週間</strong>」の予定を確認します。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しゅうけん" },
+        { "id": "b", "html": "しゅうかん" },
+        { "id": "c", "html": "しゅかん" },
+        { "id": "d", "html": "しゅうがん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>週間（しゅうかん）</strong> means a period of one week or a number of weeks. It does not mean custom; 習慣（しゅうかん） means custom or habit."
+    },
+    {
+      "id": "N4-Kanji-p30-q17",
+      "questionHtml": "毎晩、二時間ぐらい「<strong>勉強します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "べんきょうします" },
+        { "id": "b", "html": "べんぎょうします" },
+        { "id": "c", "html": "べんこうします" },
+        { "id": "d", "html": "べんきょします" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>勉強します（べんきょうします）</strong> means to study."
+    },
+    {
+      "id": "N4-Kanji-p30-q18",
+      "questionHtml": "その「<strong>研究者</strong>」は新しい薬を研究しています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "けんきゅうしゃ" },
+        { "id": "b", "html": "けんきゅうじゃ" },
+        { "id": "c", "html": "けんぎゅうしゃ" },
+        { "id": "d", "html": "けんきゅしゃ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>研究者（けんきゅうしゃ）</strong> means researcher."
+    },
+    {
+      "id": "N4-Kanji-p30-q19",
+      "questionHtml": "先生は大学の「<strong>研究室</strong>」にいます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "けんきゅうじょ" },
+        { "id": "b", "html": "けんきょうしつ" },
+        { "id": "c", "html": "けんきゅうしつ" },
+        { "id": "d", "html": "けんきゅうむろ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>研究室（けんきゅうしつ）</strong> means research laboratory or researcher's office."
+    },
+    {
+      "id": "N4-Kanji-p30-q20",
+      "questionHtml": "テストの最後の「<strong>問</strong>」は難しかったです。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "もん" },
+        { "id": "b", "html": "とい" },
+        { "id": "c", "html": "とん" },
+        { "id": "d", "html": "も" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>問（とい）</strong> means question or inquiry. In compounds, 問 is often read もん."
+    }
+  ]
+}

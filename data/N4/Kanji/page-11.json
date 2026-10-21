@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 11,
+    "questionsPerPage": 20,
+    "description": "Kanji reading questions for page 11."
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p11-q1",
+      "questionHtml": "<p>朝早く、山から「日光」が差し込んできました。「日光」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "にちこう" },
+        { "id": "b", "html": "にっこう" },
+        { "id": "c", "html": "ひこう" },
+        { "id": "d", "html": "にっこ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>日光（にっこう）と読みます。<span>Meaning: <strong>sunlight</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p11-q2",
+      "questionHtml": "<p>祖父は田舎に広い「土地」を持っています。「土地」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "どち" },
+        { "id": "b", "html": "とじ" },
+        { "id": "c", "html": "とち" },
+        { "id": "d", "html": "つちち" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>土地（とち）と読みます。<span>Meaning: <strong>land, plot of land</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p11-q3",
+      "questionHtml": "<p>京都には多くの外国人が「観光」に来ます。「観光」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かんこう" },
+        { "id": "b", "html": "かんごう" },
+        { "id": "c", "html": "みこう" },
+        { "id": "d", "html": "かんきょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>観光（かんこう）と読みます。<span>Meaning: <strong>sightseeing</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p11-q4",
+      "questionHtml": "<p>昨日の夜、大きな「地震」がありました。「地震」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちしん" },
+        { "id": "b", "html": "じじん" },
+        { "id": "c", "html": "ちじん" },
+        { "id": "d", "html": "じしん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>地震（じしん）と読みます。<span>Meaning: <strong>earthquake</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p11-q5",
+      "questionHtml": "<p>公園の「池」には魚がたくさんいます。「池」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いけ" },
+        { "id": "b", "html": "いし" },
+        { "id": "c", "html": "ち" },
+        { "id": "d", "html": "いが" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>池（いけ）と読みます。<span>Meaning: <strong>pond</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p11-q6",
+      "questionHtml": "<p>リモコンの「電池」がなくなりました。「電池」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "でんじ" },
+        { "id": "b", "html": "でんち" },
+        { "id": "c", "html": "てんち" },
+        { "id": "d", "html": "でんし" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>電池（でんち）と読みます。<span>Meaning: <strong>battery</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p11-q7",
+      "questionHtml": "<p>荷物を小さな「台」の上に置きました。「台」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たい" },
+        { "id": "b", "html": "どい" },
+        { "id": "c", "html": "だい" },
+        { "id": "d", "html": "うてな" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>台（だい）と読みます。<span>Meaning: <strong>stand, platform</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p11-q8",
+      "questionHtml": "<p>母は「台所」で夕食を作っています。「台所」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "だいしょ" },
+        { "id": "b", "html": "たいどころ" },
+        { "id": "c", "html": "だいどこ" },
+        { "id": "d", "html": "だいどころ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>台所（だいどころ）と読みます。<span>Meaning: <strong>kitchen</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p11-q9",
+      "questionHtml": "<p>この建物はしっかりした「土台」の上に建っています。「土台」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "どだい" },
+        { "id": "b", "html": "とだい" },
+        { "id": "c", "html": "どたい" },
+        { "id": "d", "html": "つちだい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>土台（どだい）と読みます。<span>Meaning: <strong>foundation, base</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p11-q10",
+      "questionHtml": "<p>夏には強い「台風」が来ることがあります。「台風」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "だいふう" },
+        { "id": "b", "html": "たいふう" },
+        { "id": "c", "html": "たいかぜ" },
+        { "id": "d", "html": "だいかぜ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>台風（たいふう）と読みます。<span>Meaning: <strong>typhoon</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p11-q11",
+      "questionHtml": "<p>夏休みに家族と「海」へ行きました。「海」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "うみ" },
+        { "id": "b", "html": "かい" },
+        { "id": "c", "html": "みず" },
+        { "id": "d", "html": "うめ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>海（うみ）と読みます。<span>Meaning: <strong>sea, ocean</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p11-q12",
+      "questionHtml": "<p>姉は「海外」で日本語を教えています。「海外」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かいない" },
+        { "id": "b", "html": "うみそと" },
+        { "id": "c", "html": "かいがい" },
+        { "id": "d", "html": "かいかい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>海外（かいがい）と読みます。<span>Meaning: <strong>overseas, abroad</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p11-q13",
+      "questionHtml": "<p>今日は「風」が強いので、帽子が飛ばされそうです。「風」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふう" },
+        { "id": "b", "html": "かぜ" },
+        { "id": "c", "html": "かざ" },
+        { "id": "d", "html": "ふぜ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>風（かぜ）と読みます。<span>Meaning: <strong>wind</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p11-q14",
+      "questionHtml": "<p>強い「台風」が近づいているので、学校は休みになりました。「台風」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たいふう" },
+        { "id": "b", "html": "だいふう" },
+        { "id": "c", "html": "たいぼう" },
+        { "id": "d", "html": "たいかぜ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>台風（たいふう）と読みます。<span>Meaning: <strong>typhoon</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p11-q15",
+      "questionHtml": "<p>この店では「洋風」の家具を売っています。「洋風」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ようふう" },
+        { "id": "b", "html": "ようかぜ" },
+        { "id": "c", "html": "ひろふう" },
+        { "id": "d", "html": "ようぶう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>洋風（ようふう）と読みます。<span>Meaning: <strong>Western style</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p11-q16",
+      "questionHtml": "<p>山の上から美しい「風景」を見ました。「風景」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かぜけい" },
+        { "id": "b", "html": "ふうけい" },
+        { "id": "c", "html": "ふけい" },
+        { "id": "d", "html": "ふうげい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>風景（ふうけい）と読みます。<span>Meaning: <strong>scenery, landscape</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p11-q17",
+      "questionHtml": "<p>日本には「四季」があります。「四季」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よんき" },
+        { "id": "b", "html": "しき" },
+        { "id": "c", "html": "しぎ" },
+        { "id": "d", "html": "よき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>四季（しき）と読みます。<span>Meaning: <strong>the four seasons</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p11-q18",
+      "questionHtml": "<p>日本では「冬」に雪が降る地域もあります。「冬」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふゆ" },
+        { "id": "b", "html": "ふう" },
+        { "id": "c", "html": "とう" },
+        { "id": "d", "html": "ふよ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>冬（ふゆ）と読みます。<span>Meaning: <strong>winter</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p11-q19",
+      "questionHtml": "<p>「冬休み」には、家族と旅行する予定です。「冬休み」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とうやすみ" },
+        { "id": "b", "html": "ふゆやすみ" },
+        { "id": "c", "html": "ふゆきゅうみ" },
+        { "id": "d", "html": "ふゆやす" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>冬休み（ふゆやすみ）と読みます。<span>Meaning: <strong>winter vacation, winter holiday</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p11-q20",
+      "questionHtml": "<p>日本では「季節」によって、食べ物や服が変わります。「季節」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きせつ" },
+        { "id": "b", "html": "きぜつ" },
+        { "id": "c", "html": "きせち" },
+        { "id": "d", "html": "けせつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>季節（きせつ）と読みます。<span>Meaning: <strong>season</strong></span></p>"
+    }
+  ]
+}

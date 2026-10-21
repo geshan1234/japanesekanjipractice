@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 19,
+    "questionsPerPage": 20,
+    "description": "Kanji reading quiz for N4 vocabulary."
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p19-q1",
+      "questionHtml": "私の「<strong>お姉さん</strong>」は大学生です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "おにいさん" },
+        { "id": "b", "html": "おねえさん" },
+        { "id": "c", "html": "あねさん" },
+        { "id": "d", "html": "いもうとさん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>お姉さん（おねえさん）</strong> means older sister. It is also used when referring politely to someone else's older sister."
+    },
+    {
+      "id": "N4-Kanji-p19-q2",
+      "questionHtml": "父は新しい「<strong>自動車</strong>」を買いました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "じどうしゃ" },
+        { "id": "b", "html": "じてんしゃ" },
+        { "id": "c", "html": "じどうしや" },
+        { "id": "d", "html": "じどうくるま" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>自動車（じどうしゃ）</strong> means automobile or car."
+    },
+    {
+      "id": "N4-Kanji-p19-q3",
+      "questionHtml": "毎朝、「<strong>自転車</strong>」で学校へ行きます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "じどうしゃ" },
+        { "id": "b", "html": "してんしゃ" },
+        { "id": "c", "html": "じてんしゃ" },
+        { "id": "d", "html": "じてんじゃ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>自転車（じてんしゃ）</strong> means bicycle."
+    },
+    {
+      "id": "N4-Kanji-p19-q4",
+      "questionHtml": "子どもは「<strong>親</strong>」を大切にしています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しん" },
+        { "id": "b", "html": "おや" },
+        { "id": "c", "html": "はは" },
+        { "id": "d", "html": "ちち" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>親（おや）</strong> means parent."
+    },
+    {
+      "id": "N4-Kanji-p19-q5",
+      "questionHtml": "私の「<strong>母親</strong>」は料理が上手です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ははおや" },
+        { "id": "b", "html": "ちちおや" },
+        { "id": "c", "html": "ぼしん" },
+        { "id": "d", "html": "ははしん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>母親（ははおや）</strong> means mother."
+    },
+    {
+      "id": "N4-Kanji-p19-q6",
+      "questionHtml": "この町の人たちはとても「<strong>親切</strong>」です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しんきり" },
+        { "id": "b", "html": "おやせつ" },
+        { "id": "c", "html": "しんせつ" },
+        { "id": "d", "html": "しんぜつ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>親切（しんせつ）</strong> means kind or considerate."
+    },
+    {
+      "id": "N4-Kanji-p19-q7",
+      "questionHtml": "夏休みに「<strong>両親</strong>」と旅行しました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "りょうしん" },
+        { "id": "b", "html": "りょうじん" },
+        { "id": "c", "html": "ふたおや" },
+        { "id": "d", "html": "りょうおや" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>両親（りょうしん）</strong> means parents, referring to both one's father and mother."
+    },
+    {
+      "id": "N4-Kanji-p19-q8",
+      "questionHtml": "私の「<strong>妹</strong>」は高校生です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "あね" },
+        { "id": "b", "html": "いもうと" },
+        { "id": "c", "html": "おとうと" },
+        { "id": "d", "html": "しまい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>妹（いもうと）</strong> means one's own younger sister."
+    },
+    {
+      "id": "N4-Kanji-p19-q9",
+      "questionHtml": "私には「<strong>姉妹</strong>」が二人います。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "きょうだい" },
+        { "id": "b", "html": "しまつ" },
+        { "id": "c", "html": "しまい" },
+        { "id": "d", "html": "しめい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>姉妹（しまい）</strong> means sisters."
+    },
+    {
+      "id": "N4-Kanji-p19-q10",
+      "questionHtml": "この町は外国の町と「<strong>姉妹都市</strong>」になりました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しまいとし" },
+        { "id": "b", "html": "きょうだいとし" },
+        { "id": "c", "html": "しまいどし" },
+        { "id": "d", "html": "しめいとし" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>姉妹都市（しまいとし）</strong> means sister city or twin town."
+    },
+    {
+      "id": "N4-Kanji-p19-q11",
+      "questionHtml": "私は田中さんと「<strong>親しい</strong>」友達です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "おやしい" },
+        { "id": "b", "html": "したしい" },
+        { "id": "c", "html": "しんしい" },
+        { "id": "d", "html": "ちかしい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>親しい（したしい）</strong> means close or intimate, as in a close friendship."
+    },
+    {
+      "id": "N4-Kanji-p19-q12",
+      "questionHtml": "日本での「<strong>生活</strong>」に少しずつ慣れてきました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "せいがつ" },
+        { "id": "b", "html": "せいかつ" },
+        { "id": "c", "html": "しょうかつ" },
+        { "id": "d", "html": "せいけつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>生活（せいかつ）</strong> means life or daily living."
+    },
+    {
+      "id": "N4-Kanji-p19-q13",
+      "questionHtml": "公園で「<strong>犬</strong>」と遊びました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ねこ" },
+        { "id": "b", "html": "とり" },
+        { "id": "c", "html": "いぬ" },
+        { "id": "d", "html": "うま" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>犬（いぬ）</strong> means dog."
+    },
+    {
+      "id": "N4-Kanji-p19-q14",
+      "questionHtml": "地域の清掃「<strong>活動</strong>」に参加しました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "かつどう" },
+        { "id": "b", "html": "かつとう" },
+        { "id": "c", "html": "かどう" },
+        { "id": "d", "html": "かっどう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>活動（かつどう）</strong> means activity or action."
+    },
+    {
+      "id": "N4-Kanji-p19-q15",
+      "questionHtml": "公園でかわいい「<strong>子犬</strong>」を見ました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こねこ" },
+        { "id": "b", "html": "こいぬ" },
+        { "id": "c", "html": "しいぬ" },
+        { "id": "d", "html": "こうけん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>子犬（こいぬ）</strong> means puppy."
+    },
+    {
+      "id": "N4-Kanji-p19-q16",
+      "questionHtml": "あの子はとても「<strong>活発</strong>」で、いつも元気です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "かつはつ" },
+        { "id": "b", "html": "かっぱつ" },
+        { "id": "c", "html": "かっばつ" },
+        { "id": "d", "html": "かつばつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>活発（かっぱつ）</strong> means active, energetic, or lively."
+    },
+    {
+      "id": "N4-Kanji-p19-q17",
+      "questionHtml": "「<strong>日本犬</strong>」には、柴犬などの種類があります。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "にほんいぬ" },
+        { "id": "b", "html": "にっぽんけん" },
+        { "id": "c", "html": "にほんけん" },
+        { "id": "d", "html": "にほんけんいぬ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>日本犬（にほんけん）</strong> means Japanese dog or Japanese dog breed."
+    },
+    {
+      "id": "N4-Kanji-p19-q18",
+      "questionHtml": "このハンドルを右に「<strong>回します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "まわします" },
+        { "id": "b", "html": "まします" },
+        { "id": "c", "html": "かえします" },
+        { "id": "d", "html": "まがします" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>回します（まわします）</strong> means turn or rotate something."
+    },
+    {
+      "id": "N4-Kanji-p19-q19",
+      "questionHtml": "「<strong>国民</strong>」は税金を払うなどの義務があります。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こくみん" },
+        { "id": "b", "html": "くにたみ" },
+        { "id": "c", "html": "こくじん" },
+        { "id": "d", "html": "こみん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>国民（こくみん）</strong> means citizens or the people of a country."
+    },
+    {
+      "id": "N4-Kanji-p19-q20",
+      "questionHtml": "日本へ行くのは「<strong>一回</strong>」目です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "いちかい" },
+        { "id": "b", "html": "ひとかい" },
+        { "id": "c", "html": "いっかい" },
+        { "id": "d", "html": "いちがい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>一回（いっかい）</strong> means one time or once."
+    }
+  ]
+}

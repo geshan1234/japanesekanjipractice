@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 35,
+    "questionsPerPage": 20,
+    "description": "N4 Kanji reading practice - Page 35"
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p35-q1",
+      "questionHtml": "使わなくなった古い服を「<strong>捨てます</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "すてます" },
+        { "id": "b", "html": "すります" },
+        { "id": "c", "html": "すみます" },
+        { "id": "d", "html": "おてます" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>捨てます（すてます）</strong> means to throw away or discard."
+    },
+    {
+      "id": "N4-Kanji-p35-q2",
+      "questionHtml": "牧場に「<strong>牛</strong>」がたくさんいます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "うま" },
+        { "id": "b", "html": "うし" },
+        { "id": "c", "html": "とり" },
+        { "id": "d", "html": "しか" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>牛（うし）</strong> means cow or cattle."
+    },
+    {
+      "id": "N4-Kanji-p35-q3",
+      "questionHtml": "毎朝、パンと「<strong>牛乳</strong>」を飲みます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ぎゅうにゅう" },
+        { "id": "b", "html": "うしにゅう" },
+        { "id": "c", "html": "ぎゅうじゅう" },
+        { "id": "d", "html": "ぎゅにゅう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>牛乳（ぎゅうにゅう）</strong> means milk."
+    },
+    {
+      "id": "N4-Kanji-p35-q4",
+      "questionHtml": "来週、日本語の試験を「<strong>受けます</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "うかります" },
+        { "id": "b", "html": "うけます" },
+        { "id": "c", "html": "うきます" },
+        { "id": "d", "html": "うけります" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>受けます（うけます）</strong> means to receive, take an examination, or undergo something."
+    },
+    {
+      "id": "N4-Kanji-p35-q5",
+      "questionHtml": "兄は大学の入学試験に「<strong>受かりました</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "うかりました" },
+        { "id": "b", "html": "うけました" },
+        { "id": "c", "html": "うかえりました" },
+        { "id": "d", "html": "うかりましたう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>受かりました（うかりました）</strong> means passed an examination."
+    },
+    {
+      "id": "N4-Kanji-p35-q6",
+      "questionHtml": "病院に着いたら、まず「<strong>受付</strong>」で名前を書いてください。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "うけとり" },
+        { "id": "b", "html": "じゅけつ" },
+        { "id": "c", "html": "うけつけ" },
+        { "id": "d", "html": "うけづけ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>受付（うけつけ）</strong> means reception or front desk."
+    },
+    {
+      "id": "N4-Kanji-p35-q7",
+      "questionHtml": "この橋は「<strong>鉄</strong>」でできています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "てっ" },
+        { "id": "b", "html": "てつ" },
+        { "id": "c", "html": "かな" },
+        { "id": "d", "html": "てち" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>鉄（てつ）</strong> means iron."
+    },
+    {
+      "id": "N4-Kanji-p35-q8",
+      "questionHtml": "毎朝、「<strong>地下鉄</strong>」で会社へ行きます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ちかてつ" },
+        { "id": "b", "html": "じかてつ" },
+        { "id": "c", "html": "ちかてっ" },
+        { "id": "d", "html": "ちげてつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>地下鉄（ちかてつ）</strong> means subway or underground railway."
+    },
+    {
+      "id": "N4-Kanji-p35-q9",
+      "questionHtml": "旅行の写真をたくさん「<strong>取ります</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "とります" },
+        { "id": "b", "html": "とめます" },
+        { "id": "c", "html": "とれます" },
+        { "id": "d", "html": "しゅります" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>取ります（とります）</strong> means to take or get. 写真を撮ります is the usual spelling when specifically taking photographs."
+    },
+    {
+      "id": "N4-Kanji-p35-q10",
+      "questionHtml": "会議には「<strong>全員</strong>」が参加しました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ぜんにん" },
+        { "id": "b", "html": "ぜんいん" },
+        { "id": "c", "html": "ぜいいん" },
+        { "id": "d", "html": "ぜんじん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>全員（ぜんいん）</strong> means everyone or all members."
+    },
+    {
+      "id": "N4-Kanji-p35-q11",
+      "questionHtml": "道路を渡るときは「<strong>安全</strong>」を確認してください。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "あんぜん" },
+        { "id": "b", "html": "あんせん" },
+        { "id": "c", "html": "あぜん" },
+        { "id": "d", "html": "あんぜい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>安全（あんぜん）</strong> means safety or safe."
+    },
+    {
+      "id": "N4-Kanji-p35-q12",
+      "questionHtml": "こちらの「<strong>席</strong>」に座ってください。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "せき" },
+        { "id": "b", "html": "せち" },
+        { "id": "c", "html": "ざき" },
+        { "id": "d", "html": "せっき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>席（せき）</strong> means seat or place."
+    },
+    {
+      "id": "N4-Kanji-p35-q13",
+      "questionHtml": "学生は毎朝、八時までに教室へ「<strong>出席します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しゅっせきします" },
+        { "id": "b", "html": "しゅつせきします" },
+        { "id": "c", "html": "しゅっせぎします" },
+        { "id": "d", "html": "しゅせきします" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>出席します（しゅっせきします）</strong> means to attend or be present."
+    },
+    {
+      "id": "N4-Kanji-p35-q14",
+      "questionHtml": "明日、弟を学校まで「<strong>連れて行きます</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "つれてきます" },
+        { "id": "b", "html": "つれていきます" },
+        { "id": "c", "html": "つれでいきます" },
+        { "id": "d", "html": "つれてゆきます" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>連れて行きます（つれていきます）</strong> means to take someone along to another place."
+    },
+    {
+      "id": "N4-Kanji-p35-q15",
+      "questionHtml": "友達を家に「<strong>連れて来ます</strong>」ので、部屋を掃除します。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "つれていきます" },
+        { "id": "b", "html": "つれできます" },
+        { "id": "c", "html": "つれてきます" },
+        { "id": "d", "html": "つれてくます" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>連れて来ます（つれてきます）</strong> means to bring someone here."
+    },
+    {
+      "id": "N4-Kanji-p35-q16",
+      "questionHtml": "日曜日に家族と「<strong>公園</strong>」へ行きました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こうえん" },
+        { "id": "b", "html": "こうねん" },
+        { "id": "c", "html": "くうえん" },
+        { "id": "d", "html": "こういん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>公園（こうえん）</strong> means park."
+    },
+    {
+      "id": "N4-Kanji-p35-q17",
+      "questionHtml": "子どもたちは「<strong>動物園</strong>」でパンダを見ました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "どうぶつえん" },
+        { "id": "b", "html": "どうぶついん" },
+        { "id": "c", "html": "どうものえん" },
+        { "id": "d", "html": "どうぶつねん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>動物園（どうぶつえん）</strong> means zoo."
+    },
+    {
+      "id": "N4-Kanji-p35-q18",
+      "questionHtml": "電車でお年寄りに席をゆずり、「<strong>座ります</strong>」と言いました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "すわります" },
+        { "id": "b", "html": "ざわります" },
+        { "id": "c", "html": "すいます" },
+        { "id": "d", "html": "すわれます" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>座ります（すわります）</strong> means to sit down."
+    },
+    {
+      "id": "N4-Kanji-p35-q19",
+      "questionHtml": "箱の中に「<strong>全部</strong>」入っていますか。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ぜんぶ" },
+        { "id": "b", "html": "ぜんふ" },
+        { "id": "c", "html": "ぜんぷ" },
+        { "id": "d", "html": "ぜんぶう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>全部（ぜんぶ）</strong> means all or everything."
+    },
+    {
+      "id": "N4-Kanji-p35-q20",
+      "questionHtml": "「<strong>部長</strong>」は午後二時から会議に出ます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ぶちょう" },
+        { "id": "b", "html": "ぶじょう" },
+        { "id": "c", "html": "ぶなが" },
+        { "id": "d", "html": "へちょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>部長（ぶちょう）</strong> means department manager or head of a department."
+    }
+  ]
+}

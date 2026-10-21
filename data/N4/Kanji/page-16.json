@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 16,
+    "questionsPerPage": 20,
+    "description": "Kanji reading questions for page 16."
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p16-q1",
+      "questionHtml": "<p>この部屋は「以内」の人数しか入れません。「以内」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いがい" },
+        { "id": "b", "html": "いない" },
+        { "id": "c", "html": "いぜん" },
+        { "id": "d", "html": "いじょう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>以内（いない）と読みます。<span>Meaning: <strong>within, inside of</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p16-q2",
+      "questionHtml": "<p>山の向こうにきれいな「夕日」が見えます。「夕日」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あさひ" },
+        { "id": "b", "html": "ゆうがた" },
+        { "id": "c", "html": "ゆうひ" },
+        { "id": "d", "html": "よるひ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>夕日（ゆうひ）と読みます。<span>Meaning: <strong>setting sun, evening sun</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p16-q3",
+      "questionHtml": "<p>日本へ「一度」行ったことがあります。「一度」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いちど" },
+        { "id": "b", "html": "ひとたび" },
+        { "id": "c", "html": "いちたび" },
+        { "id": "d", "html": "いちと" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>一度（いちど）と読みます。<span>Meaning: <strong>once, one time</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p16-q4",
+      "questionHtml": "<p>家族といっしょに「夕食」を食べます。「夕食」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆうしょく" },
+        { "id": "b", "html": "ゆうじき" },
+        { "id": "c", "html": "よるしょく" },
+        { "id": "d", "html": "あさしょく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>夕食（ゆうしょく）と読みます。<span>Meaning: <strong>dinner, evening meal</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p16-q5",
+      "questionHtml": "<p>「今度」の日曜日に友達と映画を見ます。「今度」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こんや" },
+        { "id": "b", "html": "いまど" },
+        { "id": "c", "html": "こんど" },
+        { "id": "d", "html": "きんど" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>今度（こんど）と読みます。<span>Meaning: <strong>this time, next time, soon</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p16-q6",
+      "questionHtml": "<p>日本では七月七日に「七夕」を楽しみます。「七夕」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しちゆう" },
+        { "id": "b", "html": "ななよる" },
+        { "id": "c", "html": "たなばた" },
+        { "id": "d", "html": "しちた" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>七夕（たなばた）と読みます。<span>Meaning: <strong>Tanabata, the Star Festival</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p16-q7",
+      "questionHtml": "<p>お風呂のお湯の「温度」を少し下げてください。「温度」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おんど" },
+        { "id": "b", "html": "おんと" },
+        { "id": "c", "html": "ぬくど" },
+        { "id": "d", "html": "あたたど" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>温度（おんど）と読みます。<span>Meaning: <strong>temperature</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p16-q8",
+      "questionHtml": "<p>危ないので、車をここで「止めます」。「止めます」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とまります" },
+        { "id": "b", "html": "やめます" },
+        { "id": "c", "html": "すすめます" },
+        { "id": "d", "html": "とめます" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>止めます（とめます）と読みます。<span>Meaning: <strong>to stop something, to bring something to a stop</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p16-q9",
+      "questionHtml": "<p>雨が強くなったので、試合を「中止します」。「中止します」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちゅうしします" },
+        { "id": "b", "html": "なかとめします" },
+        { "id": "c", "html": "ちゅうじします" },
+        { "id": "d", "html": "ちゅうじゅうします" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>中止します（ちゅうしします）と読みます。<span>Meaning: <strong>to cancel, to call off</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p16-q10",
+      "questionHtml": "<p>車は「一時停止」の標識の前で止まらなければなりません。「一時停止」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いちどていし" },
+        { "id": "b", "html": "いちじていし" },
+        { "id": "c", "html": "いちじていじ" },
+        { "id": "d", "html": "ひとときていし" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>一時停止（いちじていし）と読みます。<span>Meaning: <strong>temporary stop; stop sign</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p16-q11",
+      "questionHtml": "<p>台風のため、イベントは「中止」になりました。「中止」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちゅうじ" },
+        { "id": "b", "html": "なかし" },
+        { "id": "c", "html": "ちゅうし" },
+        { "id": "d", "html": "ちゅうとめ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>中止（ちゅうし）と読みます。<span>Meaning: <strong>cancellation, stoppage</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p16-q12",
+      "questionHtml": "<p>駅で友達を三十分「待ちます」。「待ちます」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "もちます" },
+        { "id": "b", "html": "まちます" },
+        { "id": "c", "html": "たちます" },
+        { "id": "d", "html": "かちます" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>待ちます（まちます）と読みます。<span>Meaning: <strong>to wait</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p16-q13",
+      "questionHtml": "<p>友達を誕生日パーティーに「招待します」。「招待します」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうだいします" },
+        { "id": "b", "html": "じょうたいします" },
+        { "id": "c", "html": "しょうたいします" },
+        { "id": "d", "html": "しょうたいされます" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>招待します（しょうたいします）と読みます。<span>Meaning: <strong>to invite</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p16-q14",
+      "questionHtml": "<p>来年、日本へ行けると「期待します」。「期待します」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きたいします" },
+        { "id": "b", "html": "きだいします" },
+        { "id": "c", "html": "きまちします" },
+        { "id": "d", "html": "けたいします" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>期待します（きたいします）と読みます。<span>Meaning: <strong>to expect, to look forward to</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p16-q15",
+      "questionHtml": "<p>毎朝、駅まで「歩きます」。「歩きます」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はしります" },
+        { "id": "b", "html": "あるきます" },
+        { "id": "c", "html": "おきます" },
+        { "id": "d", "html": "うごきます" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>歩きます（あるきます）と読みます。<span>Meaning: <strong>to walk</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p16-q16",
+      "questionHtml": "<p>健康のために、毎晩公園を「散歩します」。「散歩します」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さんほします" },
+        { "id": "b", "html": "さんぽします" },
+        { "id": "c", "html": "さんぶします" },
+        { "id": "d", "html": "せんぽします" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>散歩します（さんぽします）と読みます。<span>Meaning: <strong>to take a walk</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p16-q17",
+      "questionHtml": "<p>毎日練習して、日本語が少しずつ「進歩します」。「進歩します」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんぽします" },
+        { "id": "b", "html": "しんぶします" },
+        { "id": "c", "html": "すすみます" },
+        { "id": "d", "html": "しんほします" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>進歩します（しんぽします）と読みます。<span>Meaning: <strong>to make progress, to advance</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p16-q18",
+      "questionHtml": "<p>図書館で日本語の本を「借ります」。「借ります」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かします" },
+        { "id": "b", "html": "かります" },
+        { "id": "c", "html": "かえります" },
+        { "id": "d", "html": "おくります" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>借ります（かります）と読みます。<span>Meaning: <strong>to borrow, to rent</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p16-q19",
+      "questionHtml": "<p>彼は銀行からお金を借りて、「借金」があります。「借金」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゃっきん" },
+        { "id": "b", "html": "しゃくきん" },
+        { "id": "c", "html": "かりきん" },
+        { "id": "d", "html": "しゃっこん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>借金（しゃっきん）と読みます。<span>Meaning: <strong>debt, money borrowed</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p16-q20",
+      "questionHtml": "<p>この書類には会社のお金の「貸借」が記録されています。「貸借」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かしかり" },
+        { "id": "b", "html": "たいしゃく" },
+        { "id": "c", "html": "たいかり" },
+        { "id": "d", "html": "かしたい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>貸借（たいしゃく）と読みます。<span>Meaning: <strong>lending and borrowing; debit and credit</strong></span></p>"
+    }
+  ]
+}

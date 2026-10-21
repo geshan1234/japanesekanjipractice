@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 6,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p6-q1",
+      "questionHtml": "<p>今日は仕事が「大変」です。「大変」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たいへん" },
+        { "id": "b", "html": "だいへん" },
+        { "id": "c", "html": "おおへん" },
+        { "id": "d", "html": "たいべん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>大変（たいへん）と読みます。<span>Meaning: <strong>hard, difficult</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p6-q2",
+      "questionHtml": "<p>季節が「変化します」。「変化します」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "へんがします" },
+        { "id": "b", "html": "へんかします" },
+        { "id": "c", "html": "かわかします" },
+        { "id": "d", "html": "へんげします" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>変化します（へんかします）と読みます。<span>Meaning: <strong>to change</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p6-q3",
+      "questionHtml": "<p>このズボンは少し「短い」です。「短い」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たんかい" },
+        { "id": "b", "html": "みじい" },
+        { "id": "c", "html": "みじかい" },
+        { "id": "d", "html": "みしかい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>短い（みじかい）と読みます。<span>Meaning: <strong>short</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p6-q4",
+      "questionHtml": "<p>「短時間」で仕事を終わらせました。「短時間」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "みじかじかん" },
+        { "id": "b", "html": "たんしじかん" },
+        { "id": "c", "html": "たんじけん" },
+        { "id": "d", "html": "たんじかん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>短時間（たんじかん）と読みます。<span>Meaning: <strong>short time</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p6-q5",
+      "questionHtml": "<p>りんごが「赤い」です。「赤い」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せきい" },
+        { "id": "b", "html": "あかい" },
+        { "id": "c", "html": "あきい" },
+        { "id": "d", "html": "あかしい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>赤い（あかい）と読みます。<span>Meaning: <strong>red</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p6-q6",
+      "questionHtml": "<p>「赤ちゃん」が寝ています。「赤ちゃん」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あかちゃん" },
+        { "id": "b", "html": "せきちゃん" },
+        { "id": "c", "html": "あきちゃん" },
+        { "id": "d", "html": "あかさん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>赤ちゃん（あかちゃん）と読みます。<span>Meaning: <strong>baby</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p6-q7",
+      "questionHtml": "<p>地球の「赤道」はどこにありますか？「赤道」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あかみち" },
+        { "id": "b", "html": "せきとう" },
+        { "id": "c", "html": "あかどう" },
+        { "id": "d", "html": "せきどう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>赤道（せきどう）と読みます。<span>Meaning: <strong>equator</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p6-q8",
+      "questionHtml": "<p>今日は天気が「良い」です。「良い」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りょうい" },
+        { "id": "b", "html": "よしい" },
+        { "id": "c", "html": "よい" },
+        { "id": "d", "html": "いい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>良い（よい）と読みます。<span>Meaning: <strong>good</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p6-q9",
+      "questionHtml": "<p>彼には「良心」があります。「良心」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よしん" },
+        { "id": "b", "html": "りょうしん" },
+        { "id": "c", "html": "よいしん" },
+        { "id": "d", "html": "りょうこころ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>良心（りょうしん）と読みます。<span>Meaning: <strong>conscience</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p6-q10",
+      "questionHtml": "<p>空が「青い」です。「青い」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいい" },
+        { "id": "b", "html": "あおしい" },
+        { "id": "c", "html": "あかい" },
+        { "id": "d", "html": "あおい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>青い（あおい）と読みます。<span>Meaning: <strong>blue</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p6-q11",
+      "questionHtml": "<p>今日は「青空」が広がっています。「青空」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あおぞら" },
+        { "id": "b", "html": "せいくう" },
+        { "id": "c", "html": "あおそら" },
+        { "id": "d", "html": "あおぞ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>青空（あおぞら）と読みます。<span>Meaning: <strong>blue sky</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p6-q12",
+      "questionHtml": "<p>「青春」は大切な時期です。「青春」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいはる" },
+        { "id": "b", "html": "あおはる" },
+        { "id": "c", "html": "しょうしゅん" },
+        { "id": "d", "html": "せいしゅん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>青春（せいしゅん）と読みます。<span>Meaning: <strong>youth</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p6-q13",
+      "questionHtml": "<p>この料理は「悪い」です。「悪い」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あくい" },
+        { "id": "b", "html": "わしい" },
+        { "id": "c", "html": "わるい" },
+        { "id": "d", "html": "あっい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>悪い（わるい）と読みます。<span>Meaning: <strong>bad</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p6-q14",
+      "questionHtml": "<p>その「悪人」は警察に捕まりました。「悪人」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "わるにん" },
+        { "id": "b", "html": "あくにん" },
+        { "id": "c", "html": "あくじん" },
+        { "id": "d", "html": "わるひと" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>悪人（あくにん）と読みます。<span>Meaning: <strong>bad person</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p6-q15",
+      "questionHtml": "<p>「黒い」猫が庭にいます。「黒い」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くろい" },
+        { "id": "b", "html": "こくい" },
+        { "id": "c", "html": "くろしい" },
+        { "id": "d", "html": "くろえ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>黒い（くろい）と読みます。<span>Meaning: <strong>black</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p6-q16",
+      "questionHtml": "部屋の中が「真っ黒」です。「真っ黒」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "まくろ" },
+        { "id": "b", "html": "しんくろ" },
+        { "id": "c", "html": "まっくろ" },
+        { "id": "d", "html": "まっこく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>真っ黒（まっくろ）と読みます。<span>Meaning: <strong>pitch black</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p6-q17",
+      "questionHtml": "<p>先生が「黒板」に字を書きました。「黒板」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くろばん" },
+        { "id": "b", "html": "こくいた" },
+        { "id": "c", "html": "くろいた" },
+        { "id": "d", "html": "こくばん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>黒板（こくばん）と読みます。<span>Meaning: <strong>blackboard</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p6-q18",
+      "questionHtml": "<p>鏡に自分の顔を「映します」。「映します」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "えいします" },
+        { "id": "b", "html": "うつします" },
+        { "id": "c", "html": "うつります" },
+        { "id": "d", "html": "はえします" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>映します（うつします）と読みます。<span>Meaning: <strong>to reflect, to project</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p6-q19",
+      "questionHtml": "<p>週末に「映画」を見ました。「映画」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "えが" },
+        { "id": "b", "html": "うつが" },
+        { "id": "c", "html": "えいが" },
+        { "id": "d", "html": "えいか" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>映画（えいが）と読みます。<span>Meaning: <strong>movie</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p6-q20",
+      "questionHtml": "<p>週末に「映画館」へ行きました。「映画館」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "えいがごん" },
+        { "id": "b", "html": "えいかん" },
+        { "id": "c", "html": "うつがかん" },
+        { "id": "d", "html": "えいがかん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>映画館（えいがかん）と読みます。<span>Meaning: <strong>movie theater</strong></span></p>"
+    }
+  ]
+}

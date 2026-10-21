@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 14,
+    "questionsPerPage": 20,
+    "description": "Kanji reading questions for page 14."
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p14-q1",
+      "questionHtml": "<p>箱の「内側」に名前が書いてあります。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "うちがわ" },
+        { "id": "b", "html": "そとがわ" },
+        { "id": "c", "html": "ないそく" },
+        { "id": "d", "html": "うちかわ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>内側（うちがわ）と読みます。<span>Meaning: inside; inner side</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p14-q2",
+      "questionHtml": "<p>おなかが痛いので、「内科」で診てもらいました。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ないが" },
+        { "id": "b", "html": "ないか" },
+        { "id": "c", "html": "うちか" },
+        { "id": "d", "html": "ないけ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>内科（ないか）と読みます。<span>Meaning: internal medicine department</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p14-q3",
+      "questionHtml": "<p>人の「心」を大切にしたいです。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しん" },
+        { "id": "b", "html": "こころ" },
+        { "id": "c", "html": "からだ" },
+        { "id": "d", "html": "きもち" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>心（こころ）と読みます。<span>Meaning: heart; mind; spirit</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p14-q4",
+      "questionHtml": "<p>「車内」では、携帯電話で大きな声で話さないでください。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゃない" },
+        { "id": "b", "html": "くるまうち" },
+        { "id": "c", "html": "しゃうち" },
+        { "id": "d", "html": "しゃがい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>車内（しゃない）と読みます。<span>Meaning: inside a vehicle</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p14-q5",
+      "questionHtml": "<p>試験に合格したと聞いて、「安心しました」。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あんぜんします" },
+        { "id": "b", "html": "あんしんします" },
+        { "id": "c", "html": "あんないします" },
+        { "id": "d", "html": "あんじんします" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>安心します（あんしんします）と読みます。<span>Meaning: to feel relieved; to feel at ease</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p14-q6",
+      "questionHtml": "<p>駅で友達を「案内します」。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あんしんします" },
+        { "id": "b", "html": "あんぜんします" },
+        { "id": "c", "html": "あんないします" },
+        { "id": "d", "html": "あんがいします" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>案内します（あんないします）と読みます。<span>Meaning: to guide; to show someone around</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p14-q7",
+      "questionHtml": "<p>試験の結果が悪いのではないかと、「心配しています」。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんぱいしています" },
+        { "id": "b", "html": "しんはいしています" },
+        { "id": "c", "html": "こころはいしています" },
+        { "id": "d", "html": "しんばいしています" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>心配します（しんぱいします）と読みます。<span>Meaning: to worry; to be concerned</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p14-q8",
+      "questionHtml": "<p>三日「以内」に、この書類を出してください。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いない" },
+        { "id": "b", "html": "いがい" },
+        { "id": "c", "html": "うちない" },
+        { "id": "d", "html": "ないい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>以内（いない）と読みます。<span>Meaning: within; inside of a limit</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p14-q9",
+      "questionHtml": "<p>町の「中心」に大きな駅があります。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちゅうしん" },
+        { "id": "b", "html": "ちゅうじん" },
+        { "id": "c", "html": "なかしん" },
+        { "id": "d", "html": "ちゅうじ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>中心（ちゅうしん）と読みます。<span>Meaning: center; heart of something</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p14-q10",
+      "questionHtml": "<p>「国内」の旅行なら、パスポートはいりません。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こくがい" },
+        { "id": "b", "html": "くになか" },
+        { "id": "c", "html": "こくない" },
+        { "id": "d", "html": "こくうち" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>国内（こくない）と読みます。<span>Meaning: domestic; within the country</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p14-q11",
+      "questionHtml": "<p>「家内」は毎朝、六時に起きます。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いえない" },
+        { "id": "b", "html": "かない" },
+        { "id": "c", "html": "かうち" },
+        { "id": "d", "html": "やない" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>家内（かない）と読みます。<span>Meaning: one's wife (a traditional expression)</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p14-q12",
+      "questionHtml": "<p>「月曜日」は学校へ行きます。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げつようび" },
+        { "id": "b", "html": "かようび" },
+        { "id": "c", "html": "すいようび" },
+        { "id": "d", "html": "きんようび" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>月曜日（げつようび）と読みます。<span>Meaning: Monday</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p14-q13",
+      "questionHtml": "<p>「火曜日」に日本語の授業があります。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げつようび" },
+        { "id": "b", "html": "かようび" },
+        { "id": "c", "html": "もくようび" },
+        { "id": "d", "html": "どようび" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>火曜日（かようび）と読みます。<span>Meaning: Tuesday</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p14-q14",
+      "questionHtml": "<p>「今晩」は家で晩ご飯を食べます。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こんばん" },
+        { "id": "b", "html": "まいばん" },
+        { "id": "c", "html": "こんあさ" },
+        { "id": "d", "html": "きょうばん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>今晩（こんばん）と読みます。<span>Meaning: tonight; this evening</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p14-q15",
+      "questionHtml": "<p>「毎晩」、寝る前に本を読みます。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "まいあさ" },
+        { "id": "b", "html": "まいにち" },
+        { "id": "c", "html": "まいばん" },
+        { "id": "d", "html": "こんばん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>毎晩（まいばん）と読みます。<span>Meaning: every night</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p14-q16",
+      "questionHtml": "<p>家族と一緒に「晩ご飯」を食べました。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひるごはん" },
+        { "id": "b", "html": "ばんごはん" },
+        { "id": "c", "html": "あさごはん" },
+        { "id": "d", "html": "まいばん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>晩ご飯（ばんごはん）と読みます。<span>Meaning: dinner; evening meal</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p14-q17",
+      "questionHtml": "<p>「昼」に友達と公園で会いました。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あさ" },
+        { "id": "b", "html": "よる" },
+        { "id": "c", "html": "ひる" },
+        { "id": "d", "html": "ばん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>昼（ひる）と読みます。<span>Meaning: daytime; noon</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p14-q18",
+      "questionHtml": "<p>今日の「昼ご飯」はカレーでした。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひるごはん" },
+        { "id": "b", "html": "ばんごはん" },
+        { "id": "c", "html": "ひるめし" },
+        { "id": "d", "html": "あさごはん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>昼ご飯（ひるごはん）と読みます。<span>Meaning: lunch</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p14-q19",
+      "questionHtml": "<p>父は新しい「時計」を買いました。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とけい" },
+        { "id": "b", "html": "どけい" },
+        { "id": "c", "html": "とけ" },
+        { "id": "d", "html": "じけい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>時計（とけい）と読みます。<span>Meaning: clock; watch</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p14-q20",
+      "questionHtml": "<p>会社の「昼休み」は十二時からです。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひるやすみ" },
+        { "id": "b", "html": "ひるじかん" },
+        { "id": "c", "html": "ちゅうやすみ" },
+        { "id": "d", "html": "ばんやすみ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>昼休み（ひるやすみ）と読みます。<span>Meaning: lunch break; midday break</span></p>"
+    }
+  ]
+}

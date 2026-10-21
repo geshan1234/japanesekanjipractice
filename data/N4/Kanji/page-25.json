@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 25,
+    "questionsPerPage": 20,
+    "description": "N4 Kanji Reading Quiz - Page 25"
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p25-q1",
+      "questionHtml": "食事の前に手を「<strong>洗います</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "あらいます" },
+        { "id": "b", "html": "あびます" },
+        { "id": "c", "html": "せんいます" },
+        { "id": "d", "html": "あいます" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>洗います（あらいます）</strong> means to wash."
+    },
+    {
+      "id": "N4-Kanji-p25-q2",
+      "questionHtml": "学校に行く前に「<strong>手洗い</strong>」をしました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "てせん" },
+        { "id": "b", "html": "てあらい" },
+        { "id": "c", "html": "しゅあらい" },
+        { "id": "d", "html": "てあれ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>手洗い（てあらい）</strong> means handwashing."
+    },
+    {
+      "id": "N4-Kanji-p25-q3",
+      "questionHtml": "駅の「<strong>お手洗い</strong>」はどこですか。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "おてせん" },
+        { "id": "b", "html": "おしゅあらい" },
+        { "id": "c", "html": "おてあらい" },
+        { "id": "d", "html": "おてれい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>お手洗い（おてあらい）</strong> means restroom or toilet."
+    },
+    {
+      "id": "N4-Kanji-p25-q4",
+      "questionHtml": "週末にたくさんの服を「<strong>洗濯</strong>」しました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "せんたく" },
+        { "id": "b", "html": "せんだく" },
+        { "id": "c", "html": "あらたく" },
+        { "id": "d", "html": "せんてき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>洗濯（せんたく）</strong> means laundry or washing clothes."
+    },
+    {
+      "id": "N4-Kanji-p25-q5",
+      "questionHtml": "道路を渡るときは、車に「<strong>注意します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ちゅうもんします" },
+        { "id": "b", "html": "ちゅういします" },
+        { "id": "c", "html": "ちゅいします" },
+        { "id": "d", "html": "ちゅうじします" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>注意します（ちゅういします）</strong> means to be careful or pay attention."
+    },
+    {
+      "id": "N4-Kanji-p25-q6",
+      "questionHtml": "レストランで料理を「<strong>注文します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ちゅういします" },
+        { "id": "b", "html": "ちゅうしゃします" },
+        { "id": "c", "html": "ちゅうもんします" },
+        { "id": "d", "html": "ちゅうぶんします" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>注文します（ちゅうもんします）</strong> means to order."
+    },
+    {
+      "id": "N4-Kanji-p25-q7",
+      "questionHtml": "病院で「<strong>注射</strong>」を受けました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ちゅうしゃ" },
+        { "id": "b", "html": "ちゅうさ" },
+        { "id": "c", "html": "ちゅしゃ" },
+        { "id": "d", "html": "ちゅうじゃ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>注射（ちゅうしゃ）</strong> means injection or shot."
+    },
+    {
+      "id": "N4-Kanji-p25-q8",
+      "questionHtml": "店員に「<strong>注文</strong>」を伝えました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ちゅうい" },
+        { "id": "b", "html": "ちゅうもん" },
+        { "id": "c", "html": "ちゅうぶん" },
+        { "id": "d", "html": "ちゅうしゃ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>注文（ちゅうもん）</strong> means an order."
+    },
+    {
+      "id": "N4-Kanji-p25-q9",
+      "questionHtml": "この道を歩くときは「<strong>注意</strong>」してください。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ちゅうい" },
+        { "id": "b", "html": "ちゅうもん" },
+        { "id": "c", "html": "ちゅい" },
+        { "id": "d", "html": "ちゅうじ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>注意（ちゅうい）</strong> means caution, care, or attention."
+    },
+    {
+      "id": "N4-Kanji-p25-q10",
+      "questionHtml": "待ち合わせの「<strong>場所</strong>」を友達に伝えました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ばしょう" },
+        { "id": "b", "html": "ばじょ" },
+        { "id": "c", "html": "ばしょ" },
+        { "id": "d", "html": "はしょ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>場所（ばしょ）</strong> means place or location."
+    },
+    {
+      "id": "N4-Kanji-p25-q11",
+      "questionHtml": "雨が降った「<strong>場合</strong>」は、試合を中止します。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ばあい" },
+        { "id": "b", "html": "ばごう" },
+        { "id": "c", "html": "じょうあい" },
+        { "id": "d", "html": "ばいあい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>場合（ばあい）</strong> means situation, case, or occasion."
+    },
+    {
+      "id": "N4-Kanji-p25-q12",
+      "questionHtml": "父は「<strong>工場</strong>」で働いています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こうば" },
+        { "id": "b", "html": "こうじょう" },
+        { "id": "c", "html": "くじょう" },
+        { "id": "d", "html": "こうしょう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>工場（こうじょう）</strong> means factory. Another reading, こうば, is also used in some contexts."
+    },
+    {
+      "id": "N4-Kanji-p25-q13",
+      "questionHtml": "子どもたちは「<strong>広場</strong>」で遊んでいます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ひろば" },
+        { "id": "b", "html": "こうば" },
+        { "id": "c", "html": "ひろじょう" },
+        { "id": "d", "html": "こうじょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>広場（ひろば）</strong> means open square or plaza."
+    },
+    {
+      "id": "N4-Kanji-p25-q14",
+      "questionHtml": "学校の「<strong>運動場</strong>」でサッカーをしました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "うんどうば" },
+        { "id": "b", "html": "うんどうじょう" },
+        { "id": "c", "html": "うんとうじょう" },
+        { "id": "d", "html": "うんどうしょう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>運動場（うんどうじょう）</strong> means sports ground or playground."
+    },
+    {
+      "id": "N4-Kanji-p25-q15",
+      "questionHtml": "コンサートの「<strong>会場</strong>」には多くの人が集まりました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "かいば" },
+        { "id": "b", "html": "かいじょう" },
+        { "id": "c", "html": "えじょう" },
+        { "id": "d", "html": "かいしょう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>会場（かいじょう）</strong> means venue or meeting place."
+    },
+    {
+      "id": "N4-Kanji-p25-q16",
+      "questionHtml": "昼ご飯を「<strong>食堂</strong>」で食べました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しょくどう" },
+        { "id": "b", "html": "しょくとう" },
+        { "id": "c", "html": "しょどう" },
+        { "id": "d", "html": "じきどう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>食堂（しょくどう）</strong> means dining hall or cafeteria; it can also refer to a simple restaurant."
+    },
+    {
+      "id": "N4-Kanji-p25-q17",
+      "questionHtml": "学生たちは「<strong>講堂</strong>」に集まりました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こうとう" },
+        { "id": "b", "html": "こうどう" },
+        { "id": "c", "html": "こうじょう" },
+        { "id": "d", "html": "こうど" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>講堂（こうどう）</strong> means auditorium or lecture hall."
+    },
+    {
+      "id": "N4-Kanji-p25-q18",
+      "questionHtml": "父は新しい家を「<strong>建てます</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "たてます" },
+        { "id": "b", "html": "けんてます" },
+        { "id": "c", "html": "たちます" },
+        { "id": "d", "html": "つくります" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>建てます（たてます）</strong> means to build, especially a building or house."
+    },
+    {
+      "id": "N4-Kanji-p25-q19",
+      "questionHtml": "駅の近くに新しい「<strong>建物</strong>」ができました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "けんぶつ" },
+        { "id": "b", "html": "たてもの" },
+        { "id": "c", "html": "たちもの" },
+        { "id": "d", "html": "けんもの" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>建物（たてもの）</strong> means building or structure."
+    },
+    {
+      "id": "N4-Kanji-p25-q20",
+      "questionHtml": "大学で「<strong>建築</strong>」を勉強しています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "けんちく" },
+        { "id": "b", "html": "けんじく" },
+        { "id": "c", "html": "たてちく" },
+        { "id": "d", "html": "けんちょく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>建築（けんちく）</strong> means architecture or construction."
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 15,
+    "questionsPerPage": 20,
+    "description": "Kanji reading questions for page 15."
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p15-q1",
+      "questionHtml": "<p>来週の旅行の「計画」を立てました。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいけん" },
+        { "id": "b", "html": "けいかく" },
+        { "id": "c", "html": "けいがく" },
+        { "id": "d", "html": "けいこう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>計画（けいかく）と読みます。<span>Meaning: plan; schedule</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p15-q2",
+      "questionHtml": "<p>この箱の重さを「計ります」。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいります" },
+        { "id": "b", "html": "はかります" },
+        { "id": "c", "html": "かぞります" },
+        { "id": "d", "html": "はかりますう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>計ります（はかります）と読みます。<span>Meaning: to measure; to weigh</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p15-q3",
+      "questionHtml": "<p>学校で「昼食」を食べてから、午後の授業に出ます。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちゅうしょく" },
+        { "id": "b", "html": "ちゅうじき" },
+        { "id": "c", "html": "ひるしょく" },
+        { "id": "d", "html": "ちょうしょく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>昼食（ちゅうしょく）と読みます。<span>Meaning: lunch; midday meal</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p15-q4",
+      "questionHtml": "<p>買い物の「合計」は三千円でした。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ごうけい" },
+        { "id": "b", "html": "こうけい" },
+        { "id": "c", "html": "ごうがい" },
+        { "id": "d", "html": "ごけい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>合計（ごうけい）と読みます。<span>Meaning: total; sum</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p15-q5",
+      "questionHtml": "<p>「夜」は静かなので、家で本を読みます。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あさ" },
+        { "id": "b", "html": "ひる" },
+        { "id": "c", "html": "よる" },
+        { "id": "d", "html": "ゆうがた" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>夜（よる）と読みます。<span>Meaning: night; evening</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p15-q6",
+      "questionHtml": "<p>「今夜」は友達と映画を見る予定です。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こんや" },
+        { "id": "b", "html": "こんばん" },
+        { "id": "c", "html": "けさ" },
+        { "id": "d", "html": "まいよる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>今夜（こんや）と読みます。<span>Meaning: tonight</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p15-q7",
+      "questionHtml": "<p>祭りでは、道にたくさんの「夜店」が並んでいました。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よるみせ" },
+        { "id": "b", "html": "やてん" },
+        { "id": "c", "html": "よみせ" },
+        { "id": "d", "html": "よてん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>夜店（よみせ）と読みます。<span>Meaning: nighttime street stall; festival stall</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p15-q8",
+      "questionHtml": "<p>毎日「朝」早く起きて、散歩をします。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よる" },
+        { "id": "b", "html": "あさ" },
+        { "id": "c", "html": "ひる" },
+        { "id": "d", "html": "ばん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>朝（あさ）と読みます。<span>Meaning: morning</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p15-q9",
+      "questionHtml": "<p>「今朝」は六時に起きました。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こんあさ" },
+        { "id": "b", "html": "いまあさ" },
+        { "id": "c", "html": "けさ" },
+        { "id": "d", "html": "こんちょう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>今朝（けさ）と読みます。<span>Meaning: this morning</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p15-q10",
+      "questionHtml": "<p>山の向こうから「朝日」が昇りました。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あさひ" },
+        { "id": "b", "html": "ちょうにち" },
+        { "id": "c", "html": "あさび" },
+        { "id": "d", "html": "あした" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>朝日（あさひ）と読みます。<span>Meaning: morning sun; sunrise</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p15-q11",
+      "questionHtml": "<p>夜遅くに「夜食」を食べすぎないようにしています。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よるしょく" },
+        { "id": "b", "html": "やしょく" },
+        { "id": "c", "html": "よしょく" },
+        { "id": "d", "html": "やじき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>夜食（やしょく）と読みます。<span>Meaning: late-night meal; bedtime snack</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p15-q12",
+      "questionHtml": "<p>毎朝、七時に「朝食」を食べます。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あさしょく" },
+        { "id": "b", "html": "ちょうじき" },
+        { "id": "c", "html": "ちょうしょく" },
+        { "id": "d", "html": "あさじき" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>朝食（ちょうしょく）と読みます。<span>Meaning: breakfast</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p15-q13",
+      "questionHtml": "<p>この仕事には三年以上の経験が必要です。「以上」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いじょう" },
+        { "id": "b", "html": "いか" },
+        { "id": "c", "html": "いぜん" },
+        { "id": "d", "html": "いがい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>以上（いじょう）と読みます。<span>Meaning: at least; or more; not less than</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p15-q14",
+      "questionHtml": "<p>この漢字の「読み方」を教えてください。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よみほう" },
+        { "id": "b", "html": "どくみかた" },
+        { "id": "c", "html": "よみかた" },
+        { "id": "d", "html": "よみがた" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>読み方（よみかた）と読みます。<span>Meaning: how to read; pronunciation</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p15-q15",
+      "questionHtml": "<p>十歳「以下」の子どもは、入場料が無料です。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いじょう" },
+        { "id": "b", "html": "いか" },
+        { "id": "c", "html": "いぜん" },
+        { "id": "d", "html": "いない" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>以下（いか）と読みます。<span>Meaning: at most; or less; not more than</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p15-q16",
+      "questionHtml": "<p>「夕方」になると、少し涼しくなります。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆうがた" },
+        { "id": "b", "html": "ゆうかた" },
+        { "id": "c", "html": "せきがた" },
+        { "id": "d", "html": "よるがた" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>夕方（ゆうがた）と読みます。<span>Meaning: evening; late afternoon</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p15-q17",
+      "questionHtml": "<p>日曜日「以外」は、毎日学校へ行きます。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いぜん" },
+        { "id": "b", "html": "いない" },
+        { "id": "c", "html": "いがい" },
+        { "id": "d", "html": "いじょう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>以外（いがい）と読みます。<span>Meaning: except; other than</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p15-q18",
+      "questionHtml": "<p>「あの方」は私の日本語の先生です。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あのほう" },
+        { "id": "b", "html": "あのかた" },
+        { "id": "c", "html": "あのひとがた" },
+        { "id": "d", "html": "あのがた" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>あの方（あのかた）と読みます。<span>Meaning: that person (polite)</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p15-q19",
+      "questionHtml": "<p>私は「以前」、この町に住んでいました。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いぜん" },
+        { "id": "b", "html": "いがい" },
+        { "id": "c", "html": "いない" },
+        { "id": "d", "html": "いじょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>以前（いぜん）と読みます。<span>Meaning: before; previously</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p15-q20",
+      "questionHtml": "<p>日本語を上手に勉強する「方法」を教えてください。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほうこう" },
+        { "id": "b", "html": "ほうほう" },
+        { "id": "c", "html": "ほほう" },
+        { "id": "d", "html": "ぼうほう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>方法（ほうほう）と読みます。<span>Meaning: method; way</span></p>"
+    }
+  ]
+}

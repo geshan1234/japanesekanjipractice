@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 13,
+    "questionsPerPage": 20,
+    "description": "Kanji reading questions for page 13."
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p13-q1",
+      "questionHtml": "<p>毎日運動して、「体」を大切にしています。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "からだ" },
+        { "id": "b", "html": "かお" },
+        { "id": "c", "html": "あたま" },
+        { "id": "d", "html": "くび" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>体（からだ）と読みます。<span>Meaning: body</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p13-q2",
+      "questionHtml": "<p>毎日走ると、「体力」がつきます。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たいりき" },
+        { "id": "b", "html": "たいりょく" },
+        { "id": "c", "html": "からだりょく" },
+        { "id": "d", "html": "たいろく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>体力（たいりょく）と読みます。<span>Meaning: physical strength; stamina</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p13-q3",
+      "questionHtml": "<p>健康のために、毎月「体重」を測っています。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たいじゅう" },
+        { "id": "b", "html": "からだじゅう" },
+        { "id": "c", "html": "たいちょう" },
+        { "id": "d", "html": "たいおも" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>体重（たいじゅう）と読みます。<span>Meaning: body weight</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p13-q4",
+      "questionHtml": "<p>昨日から「病気」なので、学校を休みました。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "びょうにん" },
+        { "id": "b", "html": "びょうき" },
+        { "id": "c", "html": "びょういん" },
+        { "id": "d", "html": "やまいき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>病気（びょうき）と読みます。<span>Meaning: illness; sickness</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p13-q5",
+      "questionHtml": "<p>熱が高かったので、「病院」へ行きました。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "びょうにん" },
+        { "id": "b", "html": "びょうしつ" },
+        { "id": "c", "html": "びょういん" },
+        { "id": "d", "html": "びょうき" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>病院（びょういん）と読みます。<span>Meaning: hospital</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p13-q6",
+      "questionHtml": "<p>看護師は「病人」の世話をしています。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "びょうじん" },
+        { "id": "b", "html": "びょうにん" },
+        { "id": "c", "html": "びょうひと" },
+        { "id": "d", "html": "やまいにん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>病人（びょうにん）と読みます。<span>Meaning: sick person; patient</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p13-q7",
+      "questionHtml": "<p>学校の「体育館」でバスケットボールをしました。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たいいくかん" },
+        { "id": "b", "html": "たいくかん" },
+        { "id": "c", "html": "たいいくがん" },
+        { "id": "d", "html": "たいいくどう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>体育館（たいいくかん）と読みます。<span>Meaning: gymnasium; sports hall</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p13-q8",
+      "questionHtml": "<p>父は「急病」で、急いで病院へ行きました。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きゅうびょう" },
+        { "id": "b", "html": "きゅうびょ" },
+        { "id": "c", "html": "きゅうびん" },
+        { "id": "d", "html": "きゅうき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>急病（きゅうびょう）と読みます。<span>Meaning: sudden illness</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p13-q9",
+      "questionHtml": "<p>鏡を見て、自分の「顔」を確認しました。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くび" },
+        { "id": "b", "html": "かお" },
+        { "id": "c", "html": "からだ" },
+        { "id": "d", "html": "め" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>顔（かお）と読みます。<span>Meaning: face</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p13-q10",
+      "questionHtml": "<p>疲れていると、「顔色」が悪くなることがあります。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かおしょく" },
+        { "id": "b", "html": "がんしょく" },
+        { "id": "c", "html": "かおいろ" },
+        { "id": "d", "html": "かおじき" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>顔色（かおいろ）と読みます。<span>Meaning: complexion; facial color</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p13-q11",
+      "questionHtml": "<p>頭が痛いので、「薬」を飲みました。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くすり" },
+        { "id": "b", "html": "くすい" },
+        { "id": "c", "html": "やくり" },
+        { "id": "d", "html": "くす" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>薬（くすり）と読みます。<span>Meaning: medicine; drug</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p13-q12",
+      "questionHtml": "<p>目が疲れたので、「目薬」を使いました。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "めやく" },
+        { "id": "b", "html": "めぐすり" },
+        { "id": "c", "html": "もくすり" },
+        { "id": "d", "html": "めぐり" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>目薬（めぐすり）と読みます。<span>Meaning: eye drops</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p13-q13",
+      "questionHtml": "<p>この「薬品」は、薬局で買うことができます。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くすりひん" },
+        { "id": "b", "html": "やくひん" },
+        { "id": "c", "html": "やくしな" },
+        { "id": "d", "html": "くすりしな" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>薬品（やくひん）と読みます。<span>Meaning: medicinal product; pharmaceutical</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p13-q14",
+      "questionHtml": "<p>長い時間スマートフォンを見ると、「首」が疲れます。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かお" },
+        { "id": "b", "html": "くび" },
+        { "id": "c", "html": "てくび" },
+        { "id": "d", "html": "あたま" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>首（くび）と読みます。<span>Meaning: neck</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p13-q15",
+      "questionHtml": "<p>日本の「首都」は東京です。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅと" },
+        { "id": "b", "html": "しゅうと" },
+        { "id": "c", "html": "くびと" },
+        { "id": "d", "html": "しゅど" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>首都（しゅと）と読みます。<span>Meaning: capital city</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p13-q16",
+      "questionHtml": "<p>転んで「手首」を少し痛めました。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "てくび" },
+        { "id": "b", "html": "てしゅ" },
+        { "id": "c", "html": "しゅび" },
+        { "id": "d", "html": "てこうべ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>手首（てくび）と読みます。<span>Meaning: wrist</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p13-q17",
+      "questionHtml": "<p>兄は大学で「科学」を勉強しています。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かがく" },
+        { "id": "b", "html": "かこう" },
+        { "id": "c", "html": "がかく" },
+        { "id": "d", "html": "かかく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>科学（かがく）と読みます。<span>Meaning: science</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p13-q18",
+      "questionHtml": "<p>授業で使う「教科書」を買いました。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きょうかしょ" },
+        { "id": "b", "html": "きょうがしょ" },
+        { "id": "c", "html": "きょうかしょう" },
+        { "id": "d", "html": "きょかしょ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>教科書（きょうかしょ）と読みます。<span>Meaning: textbook</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p13-q19",
+      "questionHtml": "<p>父は「外科」で診察を受けました。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そとか" },
+        { "id": "b", "html": "がいか" },
+        { "id": "c", "html": "げか" },
+        { "id": "d", "html": "げが" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>外科（げか）と読みます。<span>Meaning: surgery; surgical department</span></p>"
+    },
+    {
+      "id": "N4-Kanji-p13-q20",
+      "questionHtml": "<p>日本の「首相」は記者会見で話しました。読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅそう" },
+        { "id": "b", "html": "しゅしょう" },
+        { "id": "c", "html": "くびしょう" },
+        { "id": "d", "html": "しゅじょう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>首相（しゅしょう）と読みます。<span>Meaning: prime minister</span></p>"
+    }
+  ]
+}

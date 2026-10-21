@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 28,
+    "questionsPerPage": 20,
+    "description": "N4 Kanji reading practice - Page 28"
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p28-q1",
+      "questionHtml": "毎日、車を「<strong>運転</strong>」しています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "うんてい" },
+        { "id": "b", "html": "うんでん" },
+        { "id": "c", "html": "うんてん" },
+        { "id": "d", "html": "うてん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>運転（うんてん）</strong> means driving or operation of a vehicle."
+    },
+    {
+      "id": "N4-Kanji-p28-q2",
+      "questionHtml": "この道をまっすぐ「<strong>通ります</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "かよります" },
+        { "id": "b", "html": "とおります" },
+        { "id": "c", "html": "つうります" },
+        { "id": "d", "html": "とおります" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>通ります（とおります）</strong> means to pass through or go along."
+    },
+    {
+      "id": "N4-Kanji-p28-q3",
+      "questionHtml": "毎日、電車で会社に「<strong>通います</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "とおります" },
+        { "id": "b", "html": "つういます" },
+        { "id": "c", "html": "かよいます" },
+        { "id": "d", "html": "かよいります" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>通います（かよいます）</strong> means to commute or go regularly to a place."
+    },
+    {
+      "id": "N4-Kanji-p28-q4",
+      "questionHtml": "妹は毎朝、バスで「<strong>通学</strong>」しています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "つうがく" },
+        { "id": "b", "html": "つがく" },
+        { "id": "c", "html": "とおがく" },
+        { "id": "d", "html": "つうかく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>通学（つうがく）</strong> means commuting to school."
+    },
+    {
+      "id": "N4-Kanji-p28-q5",
+      "questionHtml": "この「<strong>大通り</strong>」には店がたくさんあります。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "だいつうり" },
+        { "id": "b", "html": "おおどおり" },
+        { "id": "c", "html": "おおとおり" },
+        { "id": "d", "html": "おおどうり" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>大通り（おおどおり）</strong> means main street or avenue."
+    },
+    {
+      "id": "N4-Kanji-p28-q6",
+      "questionHtml": "朝は「<strong>交通</strong>」が混んでいるので、早く家を出ます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こうずう" },
+        { "id": "b", "html": "こうとう" },
+        { "id": "c", "html": "こうつう" },
+        { "id": "d", "html": "こつう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>交通（こうつう）</strong> means traffic or transportation."
+    },
+    {
+      "id": "N4-Kanji-p28-q7",
+      "questionHtml": "父は毎朝、車を「<strong>運転します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "うんてんします" },
+        { "id": "b", "html": "うんでんします" },
+        { "id": "c", "html": "うんていします" },
+        { "id": "d", "html": "うてんします" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>運転します（うんてんします）</strong> means to drive or operate a vehicle."
+    },
+    {
+      "id": "N4-Kanji-p28-q8",
+      "questionHtml": "駅まで「<strong>自転車</strong>」で行きます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "じどうしゃ" },
+        { "id": "b", "html": "じてんしゃ" },
+        { "id": "c", "html": "じでんしゃ" },
+        { "id": "d", "html": "してんしゃ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>自転車（じてんしゃ）</strong> means bicycle."
+    },
+    {
+      "id": "N4-Kanji-p28-q9",
+      "questionHtml": "この機械は一分間に何回「<strong>回転</strong>」しますか。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "かいでん" },
+        { "id": "b", "html": "かいてい" },
+        { "id": "c", "html": "かいてん" },
+        { "id": "d", "html": "かいてんう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>回転（かいてん）</strong> means rotation or spinning."
+    },
+    {
+      "id": "N4-Kanji-p28-q10",
+      "questionHtml": "父は来月、大阪へ「<strong>転勤</strong>」します。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "てんきん" },
+        { "id": "b", "html": "てんぎん" },
+        { "id": "c", "html": "でんきん" },
+        { "id": "d", "html": "てんこん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>転勤（てんきん）</strong> means a job transfer to another location."
+    },
+    {
+      "id": "N4-Kanji-p28-q11",
+      "questionHtml": "このバスの「<strong>運転手</strong>」はとても親切です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "うんてんじん" },
+        { "id": "b", "html": "うんでんしゅ" },
+        { "id": "c", "html": "うんてんしゅ" },
+        { "id": "d", "html": "うてんしゅ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>運転手（うんてんしゅ）</strong> means driver."
+    },
+    {
+      "id": "N4-Kanji-p28-q12",
+      "questionHtml": "母は銀行で「<strong>働きます</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "はたらきます" },
+        { "id": "b", "html": "はたきます" },
+        { "id": "c", "html": "どうきます" },
+        { "id": "d", "html": "はだらきます" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>働きます（はたらきます）</strong> means to work."
+    },
+    {
+      "id": "N4-Kanji-p28-q13",
+      "questionHtml": "健康のために、毎日「<strong>運動</strong>」をしています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "うんとう" },
+        { "id": "b", "html": "うんどう" },
+        { "id": "c", "html": "うどう" },
+        { "id": "d", "html": "うんど" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>運動（うんどう）</strong> means exercise or physical activity."
+    },
+    {
+      "id": "N4-Kanji-p28-q14",
+      "questionHtml": "父は新しい「<strong>自動車</strong>」を買いました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "じてんしゃ" },
+        { "id": "b", "html": "じどうじゃ" },
+        { "id": "c", "html": "しどうしゃ" },
+        { "id": "d", "html": "じどうしゃ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<strong>自動車（じどうしゃ）</strong> means automobile or car."
+    },
+    {
+      "id": "N4-Kanji-p28-q15",
+      "questionHtml": "動物園には珍しい「<strong>動物</strong>」がいます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "どうぶつ" },
+        { "id": "b", "html": "どうもの" },
+        { "id": "c", "html": "とうぶつ" },
+        { "id": "d", "html": "どうぶち" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>動物（どうぶつ）</strong> means animal."
+    },
+    {
+      "id": "N4-Kanji-p28-q16",
+      "questionHtml": "地域の人々は環境を守る「<strong>活動</strong>」をしています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "かつと" },
+        { "id": "b", "html": "かつどう" },
+        { "id": "c", "html": "かっどう" },
+        { "id": "d", "html": "かつとう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>活動（かつどう）</strong> means activity or action."
+    },
+    {
+      "id": "N4-Kanji-p28-q17",
+      "questionHtml": "仕事が終わったら、すぐ家に「<strong>帰ります</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "きります" },
+        { "id": "b", "html": "かります" },
+        { "id": "c", "html": "かえります" },
+        { "id": "d", "html": "かいます" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>帰ります（かえります）</strong> means to return home or go back."
+    },
+    {
+      "id": "N4-Kanji-p28-q18",
+      "questionHtml": "留学が終わったら、来年「<strong>帰国します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "きこくします" },
+        { "id": "b", "html": "きごくします" },
+        { "id": "c", "html": "かえこくします" },
+        { "id": "d", "html": "きくにします" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>帰国します（きこくします）</strong> means to return to one's own country."
+    },
+    {
+      "id": "N4-Kanji-p28-q19",
+      "questionHtml": "家に帰ると、母が「<strong>お帰りなさい</strong>」と言いました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "おかえりなさい" },
+        { "id": "b", "html": "おきなさい" },
+        { "id": "c", "html": "おかえなさい" },
+        { "id": "d", "html": "おかえりください" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>お帰りなさい（おかえりなさい）</strong> means welcome home."
+    },
+    {
+      "id": "N4-Kanji-p28-q20",
+      "questionHtml": "毎朝、電車に「<strong>乗ります</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "のります" },
+        { "id": "b", "html": "おります" },
+        { "id": "c", "html": "じょうります" },
+        { "id": "d", "html": "のれます" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>乗ります（のります）</strong> means to get on or ride a vehicle."
+    }
+  ]
+}

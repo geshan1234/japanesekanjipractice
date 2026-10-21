@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 21,
+    "questionsPerPage": 20,
+    "description": "N4 Kanji Reading Quiz - Page 21"
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p21-q1",
+      "questionHtml": "スーパーで「<strong>食品</strong>」を買いました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しょくひん" },
+        { "id": "b", "html": "しょくぶん" },
+        { "id": "c", "html": "しょっぴん" },
+        { "id": "d", "html": "しょくべん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>食品（しょくひん）</strong> means food products."
+    },
+    {
+      "id": "N4-Kanji-p21-q2",
+      "questionHtml": "この箱の「<strong>形</strong>」は四角です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "かがた" },
+        { "id": "b", "html": "かたち" },
+        { "id": "c", "html": "けい" },
+        { "id": "d", "html": "かた" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>形（かたち）</strong> means shape or form."
+    },
+    {
+      "id": "N4-Kanji-p21-q3",
+      "questionHtml": "妹はかわいい「<strong>人形</strong>」を持っています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ひとがた" },
+        { "id": "b", "html": "じんけい" },
+        { "id": "c", "html": "にんぎょう" },
+        { "id": "d", "html": "ひとけい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>人形（にんぎょう）</strong> means doll or figurine."
+    },
+    {
+      "id": "N4-Kanji-p21-q4",
+      "questionHtml": "紙に「<strong>正方形</strong>」を二つ書きました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "せいほうけい" },
+        { "id": "b", "html": "しょうほうけい" },
+        { "id": "c", "html": "せいぼうけい" },
+        { "id": "d", "html": "せいほうがた" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>正方形（せいほうけい）</strong> means square."
+    },
+    {
+      "id": "N4-Kanji-p21-q5",
+      "questionHtml": "算数の時間に「<strong>図形</strong>」を勉強しました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "とけい" },
+        { "id": "b", "html": "ずけい" },
+        { "id": "c", "html": "ずがた" },
+        { "id": "d", "html": "とかた" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>図形（ずけい）</strong> means a figure or geometric shape."
+    },
+    {
+      "id": "N4-Kanji-p21-q6",
+      "questionHtml": "私と兄は「<strong>同じ</strong>」学校に通っています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "おなじ" },
+        { "id": "b", "html": "どうじ" },
+        { "id": "c", "html": "おなしい" },
+        { "id": "d", "html": "おなず" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>同じ（おなじ）</strong> means same."
+    },
+    {
+      "id": "N4-Kanji-p21-q7",
+      "questionHtml": "二人は「<strong>同時に</strong>」家を出ました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "おなじに" },
+        { "id": "b", "html": "どうじに" },
+        { "id": "c", "html": "どうときに" },
+        { "id": "d", "html": "どうしに" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>同時に（どうじに）</strong> means at the same time."
+    },
+    {
+      "id": "N4-Kanji-p21-q8",
+      "questionHtml": "学校で「<strong>同級生</strong>」と話しました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "どうきゅうせい" },
+        { "id": "b", "html": "どうきゅうしょう" },
+        { "id": "c", "html": "おなきゅうせい" },
+        { "id": "d", "html": "どうきょうせい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>同級生（どうきゅうせい）</strong> means classmate or someone in the same grade."
+    },
+    {
+      "id": "N4-Kanji-p21-q9",
+      "questionHtml": "農家の人が「<strong>米</strong>」を作っています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "まい" },
+        { "id": "b", "html": "こめ" },
+        { "id": "c", "html": "べい" },
+        { "id": "d", "html": "ごめ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>米（こめ）</strong> means rice, especially uncooked rice."
+    },
+    {
+      "id": "N4-Kanji-p21-q10",
+      "questionHtml": "「<strong>米国</strong>」には多くの大きな都市があります。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こめこく" },
+        { "id": "b", "html": "まいこく" },
+        { "id": "c", "html": "べいこく" },
+        { "id": "d", "html": "べいごく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>米国（べいこく）</strong> means the United States of America."
+    },
+    {
+      "id": "N4-Kanji-p21-q11",
+      "questionHtml": "毎日「<strong>野菜</strong>」をたくさん食べます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "やさい" },
+        { "id": "b", "html": "のさい" },
+        { "id": "c", "html": "やな" },
+        { "id": "d", "html": "やざい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>野菜（やさい）</strong> means vegetables."
+    },
+    {
+      "id": "N4-Kanji-p21-q12",
+      "questionHtml": "動物園では、動物が「<strong>採食</strong>」する様子を観察できます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "さいしょく" },
+        { "id": "b", "html": "さいじき" },
+        { "id": "c", "html": "さいしき" },
+        { "id": "d", "html": "さいたべ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>採食（さいしょく）</strong> means feeding or foraging. It is not the usual Japanese word for a vegetarian diet."
+    },
+    {
+      "id": "N4-Kanji-p21-q13",
+      "questionHtml": "日本では「<strong>白米</strong>」をよく食べます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しろこめ" },
+        { "id": "b", "html": "はくまい" },
+        { "id": "c", "html": "しらまい" },
+        { "id": "d", "html": "はくべい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>白米（はくまい）</strong> means white or polished rice."
+    },
+    {
+      "id": "N4-Kanji-p21-q14",
+      "questionHtml": "畑で「<strong>青菜</strong>」を育てています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "あおさい" },
+        { "id": "b", "html": "せいな" },
+        { "id": "c", "html": "あおな" },
+        { "id": "d", "html": "あおさいな" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>青菜（あおな）</strong> means green leafy vegetables."
+    },
+    {
+      "id": "N4-Kanji-p21-q15",
+      "questionHtml": "このホテルの「<strong>料金</strong>」はいくらですか。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "りょうきん" },
+        { "id": "b", "html": "りょきん" },
+        { "id": "c", "html": "りょうぎん" },
+        { "id": "d", "html": "りょうこん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>料金（りょうきん）</strong> means fee or charge."
+    },
+    {
+      "id": "N4-Kanji-p21-q16",
+      "questionHtml": "子どもたちは「<strong>野原</strong>」で遊んでいます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "やはら" },
+        { "id": "b", "html": "のはら" },
+        { "id": "c", "html": "のばら" },
+        { "id": "d", "html": "やげん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>野原（のはら）</strong> means a field or open grassy area."
+    },
+    {
+      "id": "N4-Kanji-p21-q17",
+      "questionHtml": "スーパーで「<strong>食料品</strong>」を買いました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しょくりょうひん" },
+        { "id": "b", "html": "しょくりょひん" },
+        { "id": "c", "html": "しょくりょうぼん" },
+        { "id": "d", "html": "しょくりょうびん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>食料品（しょくりょうひん）</strong> means food products or groceries."
+    },
+    {
+      "id": "N4-Kanji-p21-q18",
+      "questionHtml": "森の中で「<strong>野鳥</strong>」を見つけました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "のとり" },
+        { "id": "b", "html": "やどり" },
+        { "id": "c", "html": "やちょう" },
+        { "id": "d", "html": "のちょう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>野鳥（やちょう）</strong> means a wild bird."
+    },
+    {
+      "id": "N4-Kanji-p21-q19",
+      "questionHtml": "先生が授業で使う「<strong>資料</strong>」を準備しました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しりょう" },
+        { "id": "b", "html": "しざい" },
+        { "id": "c", "html": "じりょう" },
+        { "id": "d", "html": "しりょ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>資料（しりょう）</strong> means materials, documents, or data."
+    },
+    {
+      "id": "N4-Kanji-p21-q20",
+      "questionHtml": "医学の「<strong>分野</strong>」について勉強しています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ぶんの" },
+        { "id": "b", "html": "ぶんや" },
+        { "id": "c", "html": "ふんや" },
+        { "id": "d", "html": "ぶんよ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>分野（ぶんや）</strong> means field, area, or domain."
+    }
+  ]
+}

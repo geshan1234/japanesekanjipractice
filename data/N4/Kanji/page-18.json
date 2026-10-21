@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 18,
+    "questionsPerPage": 20,
+    "description": "Kanji reading quiz for N4 vocabulary."
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p18-q1",
+      "questionHtml": "兄と私は「<strong>両方</strong>」とも日本語を勉強しています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "りょうて" },
+        { "id": "b", "html": "りょうほう" },
+        { "id": "c", "html": "りょうがえ" },
+        { "id": "d", "html": "りょうぼう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>両方（りょうほう）</strong> means both or both sides."
+    },
+    {
+      "id": "N4-Kanji-p18-q2",
+      "questionHtml": "私の「<strong>家内</strong>」は毎日、料理を作ってくれます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "かてい" },
+        { "id": "b", "html": "かぞく" },
+        { "id": "c", "html": "いえない" },
+        { "id": "d", "html": "かない" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<strong>家内（かない）</strong> means wife; it is commonly used to refer to one's own wife."
+    },
+    {
+      "id": "N4-Kanji-p18-q3",
+      "questionHtml": "寒いので、ポケットに「<strong>両手</strong>」を入れました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "りょうて" },
+        { "id": "b", "html": "りょうほう" },
+        { "id": "c", "html": "ふたて" },
+        { "id": "d", "html": "りょうしゅ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>両手（りょうて）</strong> means both hands."
+    },
+    {
+      "id": "N4-Kanji-p18-q4",
+      "questionHtml": "私の「<strong>家庭</strong>」はとても明るくて、楽しいです。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "かない" },
+        { "id": "b", "html": "かぞく" },
+        { "id": "c", "html": "かてい" },
+        { "id": "d", "html": "いえにわ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>家庭（かてい）</strong> means family or household."
+    },
+    {
+      "id": "N4-Kanji-p18-q5",
+      "questionHtml": "銀行で日本のお金を外国のお金に「<strong>両替</strong>」しました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "りょうて" },
+        { "id": "b", "html": "りょうがえ" },
+        { "id": "c", "html": "りょうほう" },
+        { "id": "d", "html": "りょうかえ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>両替（りょうがえ）</strong> means exchanging money or currency exchange."
+    },
+    {
+      "id": "N4-Kanji-p18-q6",
+      "questionHtml": "週末は「<strong>家族</strong>」と一緒に公園へ行きます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "かない" },
+        { "id": "b", "html": "かてい" },
+        { "id": "c", "html": "いえぞく" },
+        { "id": "d", "html": "かぞく" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<strong>家族（かぞく）</strong> means family or family members."
+    },
+    {
+      "id": "N4-Kanji-p18-q7",
+      "questionHtml": "世界にはいろいろな「<strong>民族</strong>」がいます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "みんぞく" },
+        { "id": "b", "html": "みんしゅ" },
+        { "id": "c", "html": "じんぞく" },
+        { "id": "d", "html": "みんそく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>民族（みんぞく）</strong> means an ethnic group or people sharing a common cultural identity."
+    },
+    {
+      "id": "N4-Kanji-p18-q8",
+      "questionHtml": "私の「<strong>兄</strong>」は大学で英語を勉強しています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "おとうと" },
+        { "id": "b", "html": "あにさん" },
+        { "id": "c", "html": "あに" },
+        { "id": "d", "html": "あね" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>兄（あに）</strong> means one's own older brother."
+    },
+    {
+      "id": "N4-Kanji-p18-q9",
+      "questionHtml": "田中さんは私の「<strong>お兄さん</strong>」と同じ学校に通っています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "おとうさん" },
+        { "id": "b", "html": "おにいさん" },
+        { "id": "c", "html": "おあにさん" },
+        { "id": "d", "html": "おねえさん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>お兄さん（おにいさん）</strong> means older brother; it is often used when referring to someone else's older brother."
+    },
+    {
+      "id": "N4-Kanji-p18-q10",
+      "questionHtml": "日曜日に子どもと「<strong>水族館</strong>」へ行きました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "すいぞくえん" },
+        { "id": "b", "html": "みずぞくかん" },
+        { "id": "c", "html": "すいぞっかん" },
+        { "id": "d", "html": "すいぞくかん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<strong>水族館（すいぞくかん）</strong> means aquarium."
+    },
+    {
+      "id": "N4-Kanji-p18-q11",
+      "questionHtml": "私には「<strong>兄弟</strong>」が三人います。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "きょうだい" },
+        { "id": "b", "html": "きょうたい" },
+        { "id": "c", "html": "けいてい" },
+        { "id": "d", "html": "きょうない" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>兄弟（きょうだい）</strong> means siblings, including brothers and sisters."
+    },
+    {
+      "id": "N4-Kanji-p18-q12",
+      "questionHtml": "「<strong>私</strong>」は毎朝七時に起きます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "あなた" },
+        { "id": "b", "html": "わたくしさん" },
+        { "id": "c", "html": "わたし" },
+        { "id": "d", "html": "じぶん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>私（わたし）</strong> means I or me. It can also be read as わたくし in formal situations."
+    },
+    {
+      "id": "N4-Kanji-p18-q13",
+      "questionHtml": "姉は東京の「<strong>私立大学</strong>」で日本語を勉強しています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しりつだいがく" },
+        { "id": "b", "html": "わたしりつだいがく" },
+        { "id": "c", "html": "しりゅうだいがく" },
+        { "id": "d", "html": "しりつたいがく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>私立大学（しりつだいがく）</strong> means private university."
+    },
+    {
+      "id": "N4-Kanji-p18-q14",
+      "questionHtml": "仕事と「<strong>私生活</strong>」のバランスは大切です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しせいがつ" },
+        { "id": "b", "html": "しせいかつ" },
+        { "id": "c", "html": "わたしせいかつ" },
+        { "id": "d", "html": "ししょうかつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>私生活（しせいかつ）</strong> means private life or personal life."
+    },
+    {
+      "id": "N4-Kanji-p18-q15",
+      "questionHtml": "私の「<strong>弟</strong>」はサッカーが大好きです。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "あに" },
+        { "id": "b", "html": "おとうさん" },
+        { "id": "c", "html": "おとうと" },
+        { "id": "d", "html": "おととい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>弟（おとうと）</strong> means one's own younger brother."
+    },
+    {
+      "id": "N4-Kanji-p18-q16",
+      "questionHtml": "ドアの前に立つと、「<strong>自動ドア</strong>」が開きました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "じどうドア" },
+        { "id": "b", "html": "じぶんドア" },
+        { "id": "c", "html": "しどうドア" },
+        { "id": "d", "html": "じどうとびら" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>自動ドア（じどうドア）</strong> means automatic door."
+    },
+    {
+      "id": "N4-Kanji-p18-q17",
+      "questionHtml": "私は「<strong>自分</strong>」で料理を作りました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "じふん" },
+        { "id": "b", "html": "しぶん" },
+        { "id": "c", "html": "じぶん" },
+        { "id": "d", "html": "じほん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>自分（じぶん）</strong> means oneself or myself, depending on context."
+    },
+    {
+      "id": "N4-Kanji-p18-q18",
+      "questionHtml": "子どもたちは「<strong>自由</strong>」に遊んでいます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "じぜん" },
+        { "id": "b", "html": "じゆう" },
+        { "id": "c", "html": "しゆう" },
+        { "id": "d", "html": "じどう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>自由（じゆう）</strong> means freedom or being free."
+    },
+    {
+      "id": "N4-Kanji-p18-q19",
+      "questionHtml": "「<strong>自然</strong>」の中を散歩すると、気持ちがいいです。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "じねん" },
+        { "id": "b", "html": "しぜん" },
+        { "id": "c", "html": "じぜん" },
+        { "id": "d", "html": "しねん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>自然（しぜん）</strong> means nature or natural."
+    },
+    {
+      "id": "N4-Kanji-p18-q20",
+      "questionHtml": "私の「<strong>姉</strong>」は病院で働いています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "あに" },
+        { "id": "b", "html": "いもうと" },
+        { "id": "c", "html": "おねえさん" },
+        { "id": "d", "html": "あね" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<strong>姉（あね）</strong> means one's own older sister."
+    }
+  ]
+}

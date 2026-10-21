@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 29,
+    "questionsPerPage": 20,
+    "description": "N4 Kanji reading practice - Page 29"
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p29-q1",
+      "questionHtml": "駅の「<strong>乗り場</strong>」でバスを待っています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "のりば" },
+        { "id": "b", "html": "じょうば" },
+        { "id": "c", "html": "のりじょう" },
+        { "id": "d", "html": "のるば" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>乗り場（のりば）</strong> means a boarding place or platform for a train, bus, or other vehicle."
+    },
+    {
+      "id": "N4-Kanji-p29-q2",
+      "questionHtml": "駅で「<strong>乗車券</strong>」を買いました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "じょうしゃけん" },
+        { "id": "b", "html": "じょうしゃきん" },
+        { "id": "c", "html": "のりしゃけん" },
+        { "id": "d", "html": "じょうじゃけん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>乗車券（じょうしゃけん）</strong> means a ticket for riding or boarding a vehicle."
+    },
+    {
+      "id": "N4-Kanji-p29-q3",
+      "questionHtml": "電車は午前九時に「<strong>出発</strong>」します。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しゅっぱつ" },
+        { "id": "b", "html": "しゅつはつ" },
+        { "id": "c", "html": "しゅっぱち" },
+        { "id": "d", "html": "しゅうはつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>出発（しゅっぱつ）</strong> means departure or setting off."
+    },
+    {
+      "id": "N4-Kanji-p29-q4",
+      "questionHtml": "日本語の「<strong>発音</strong>」を練習しています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "はついん" },
+        { "id": "b", "html": "はつおん" },
+        { "id": "c", "html": "ほつおん" },
+        { "id": "d", "html": "はっおん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>発音（はつおん）</strong> means pronunciation."
+    },
+    {
+      "id": "N4-Kanji-p29-q5",
+      "questionHtml": "次の駅で電車を「<strong>降ります</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ふります" },
+        { "id": "b", "html": "くだります" },
+        { "id": "c", "html": "おちます" },
+        { "id": "d", "html": "おります" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<strong>降ります（おります）</strong> means to get off or alight from a vehicle."
+    },
+    {
+      "id": "N4-Kanji-p29-q6",
+      "questionHtml": "明日は雨が「<strong>降ります</strong>」か。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "おります" },
+        { "id": "b", "html": "くだります" },
+        { "id": "c", "html": "ふります" },
+        { "id": "d", "html": "おちます" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>降ります（ふります）</strong> means to fall or come down, as in rain or snow."
+    },
+    {
+      "id": "N4-Kanji-p29-q7",
+      "questionHtml": "この駅では多くの人が電車の「<strong>乗り降り</strong>」をします。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "のりおり" },
+        { "id": "b", "html": "じょうこうり" },
+        { "id": "c", "html": "のりくだり" },
+        { "id": "d", "html": "のるおり" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>乗り降り（のりおり）</strong> means getting on and off a vehicle."
+    },
+    {
+      "id": "N4-Kanji-p29-q8",
+      "questionHtml": "今年の「<strong>降雨量</strong>」は去年より多いです。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こううりょう" },
+        { "id": "b", "html": "こうゆりょう" },
+        { "id": "c", "html": "ごううりょう" },
+        { "id": "d", "html": "こううりょ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>降雨量（こううりょう）</strong> means rainfall or the amount of rain."
+    },
+    {
+      "id": "N4-Kanji-p29-q9",
+      "questionHtml": "電車はあと五分で駅に「<strong>着きます</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "つきます" },
+        { "id": "b", "html": "ききます" },
+        { "id": "c", "html": "ちゃくます" },
+        { "id": "d", "html": "つぎます" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>着きます（つきます）</strong> means to arrive or reach a destination."
+    },
+    {
+      "id": "N4-Kanji-p29-q10",
+      "questionHtml": "旅行に行くので、新しい「<strong>下着</strong>」を買いました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "したぎ" },
+        { "id": "b", "html": "したちゃく" },
+        { "id": "c", "html": "かちゃく" },
+        { "id": "d", "html": "げぎ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>下着（したぎ）</strong> means underwear. The usual kanji spelling is 下着."
+    },
+    {
+      "id": "N4-Kanji-p29-q11",
+      "questionHtml": "この「<strong>漢字</strong>」の読み方を教えてください。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "かんし" },
+        { "id": "b", "html": "かんじ" },
+        { "id": "c", "html": "かんじい" },
+        { "id": "d", "html": "がんじ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>漢字（かんじ）</strong> means kanji, Chinese characters used in Japanese writing."
+    },
+    {
+      "id": "N4-Kanji-p29-q12",
+      "questionHtml": "大学で日本の歴史を「<strong>研究します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "けんきゅします" },
+        { "id": "b", "html": "けんぎゅうします" },
+        { "id": "c", "html": "けんきゅうします" },
+        { "id": "d", "html": "けんきゅします" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>研究します（けんきゅうします）</strong> means to research or conduct a study."
+    },
+    {
+      "id": "N4-Kanji-p29-q13",
+      "questionHtml": "名前をひらがなではなく漢字一「<strong>字</strong>」で書きました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "じ" },
+        { "id": "b", "html": "あざ" },
+        { "id": "c", "html": "し" },
+        { "id": "d", "html": "もじ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>字（じ）</strong> means a written character or letter."
+    },
+    {
+      "id": "N4-Kanji-p29-q14",
+      "questionHtml": "小学校で「<strong>漢字</strong>」をたくさん習いました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "かんし" },
+        { "id": "b", "html": "がんじ" },
+        { "id": "c", "html": "かんじ" },
+        { "id": "d", "html": "かんじい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>漢字（かんじ）</strong> means kanji or Chinese characters used in Japanese writing."
+    },
+    {
+      "id": "N4-Kanji-p29-q15",
+      "questionHtml": "昔は本を作るために「<strong>活字</strong>」を使っていました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "かつし" },
+        { "id": "b", "html": "かつじ" },
+        { "id": "c", "html": "かっじ" },
+        { "id": "d", "html": "かつもじ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>活字（かつじ）</strong> means type or movable type used in printing."
+    },
+    {
+      "id": "N4-Kanji-p29-q16",
+      "questionHtml": "学校で筆を使って「<strong>習字</strong>」をしました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しゅうし" },
+        { "id": "b", "html": "ならじ" },
+        { "id": "c", "html": "しゅじ" },
+        { "id": "d", "html": "しゅうじ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<strong>習字（しゅうじ）</strong> means calligraphy or handwriting practice."
+    },
+    {
+      "id": "N4-Kanji-p29-q17",
+      "questionHtml": "私は毎日「<strong>英語</strong>」を勉強しています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "えいご" },
+        { "id": "b", "html": "えいこ" },
+        { "id": "c", "html": "えご" },
+        { "id": "d", "html": "えんご" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>英語（えいご）</strong> means the English language."
+    },
+    {
+      "id": "N4-Kanji-p29-q18",
+      "questionHtml": "「<strong>英国</strong>」では英語が話されています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "えいこく" },
+        { "id": "b", "html": "えんこく" },
+        { "id": "c", "html": "えいごく" },
+        { "id": "d", "html": "えこく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>英国（えいこく）</strong> means Britain or the United Kingdom."
+    },
+    {
+      "id": "N4-Kanji-p29-q19",
+      "questionHtml": "この物語の「<strong>英雄</strong>」は、多くの人を助けました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "えいおう" },
+        { "id": "b", "html": "えいゆう" },
+        { "id": "c", "html": "えゆう" },
+        { "id": "d", "html": "えんゆう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>英雄（えいゆう）</strong> means hero or heroic person."
+    },
+    {
+      "id": "N4-Kanji-p29-q20",
+      "questionHtml": "この「<strong>文</strong>」を読んで、質問に答えてください。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "もん" },
+        { "id": "b", "html": "ふみ" },
+        { "id": "c", "html": "ぶん" },
+        { "id": "d", "html": "ぶ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>文（ぶん）</strong> means sentence or text. It can have other readings in different contexts."
+    }
+  ]
+}

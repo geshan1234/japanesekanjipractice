@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 36,
+    "questionsPerPage": 20,
+    "description": "N4 Kanji reading practice - Page 36"
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p36-q1",
+      "questionHtml": "大学の「<strong>学部</strong>」について説明を聞きました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "がくふ" },
+        { "id": "b", "html": "がくぶ" },
+        { "id": "c", "html": "がっぶ" },
+        { "id": "d", "html": "まなぶ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>学部（がくぶ）</strong> means faculty or academic department."
+    },
+    {
+      "id": "N4-Kanji-p36-q2",
+      "questionHtml": "私の「<strong>部屋</strong>」は二階にあります。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ぶや" },
+        { "id": "b", "html": "へや" },
+        { "id": "c", "html": "へいえ" },
+        { "id": "d", "html": "ぶへや" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>部屋（へや）</strong> means room."
+    },
+    {
+      "id": "N4-Kanji-p36-q3",
+      "questionHtml": "食べられなかった料理を冷蔵庫に「<strong>残します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "のこります" },
+        { "id": "b", "html": "あまします" },
+        { "id": "c", "html": "のこします" },
+        { "id": "d", "html": "のします" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>残します（のこします）</strong> means to leave something behind or save what remains."
+    },
+    {
+      "id": "N4-Kanji-p36-q4",
+      "questionHtml": "会議が終わっても、まだ仕事が「<strong>残ります</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "のこります" },
+        { "id": "b", "html": "のこします" },
+        { "id": "c", "html": "ざんります" },
+        { "id": "d", "html": "のります" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>残ります（のこります）</strong> means to remain or be left over."
+    },
+    {
+      "id": "N4-Kanji-p36-q5",
+      "questionHtml": "旅行に行けなくて、とても「<strong>残念</strong>」です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ざんねい" },
+        { "id": "b", "html": "さんねん" },
+        { "id": "c", "html": "ざんねん" },
+        { "id": "d", "html": "ざねん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>残念（ざんねん）</strong> means disappointing, regrettable, or unfortunate."
+    },
+    {
+      "id": "N4-Kanji-p36-q6",
+      "questionHtml": "父は忙しくて、今週は三日も「<strong>残業します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ざんぎょうします" },
+        { "id": "b", "html": "ざんごうします" },
+        { "id": "c", "html": "ざんぎょします" },
+        { "id": "d", "html": "さんぎょうします" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>残業します（ざんぎょうします）</strong> means to work overtime."
+    },
+    {
+      "id": "N4-Kanji-p36-q7",
+      "questionHtml": "私の「<strong>祖父</strong>」は毎朝、公園を散歩します。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "そぶ" },
+        { "id": "b", "html": "そふ" },
+        { "id": "c", "html": "そうふ" },
+        { "id": "d", "html": "そちち" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>祖父（そふ）</strong> means grandfather."
+    },
+    {
+      "id": "N4-Kanji-p36-q8",
+      "questionHtml": "「<strong>祖母</strong>」は料理がとても上手です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "そはは" },
+        { "id": "b", "html": "そうぼ" },
+        { "id": "c", "html": "そぼ" },
+        { "id": "d", "html": "そば" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>祖母（そぼ）</strong> means grandmother."
+    },
+    {
+      "id": "N4-Kanji-p36-q9",
+      "questionHtml": "分からない言葉を辞書で「<strong>調べます</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しらべます" },
+        { "id": "b", "html": "ちょうべます" },
+        { "id": "c", "html": "しらいます" },
+        { "id": "d", "html": "しらめます" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>調べます（しらべます）</strong> means to check, investigate, or look up."
+    },
+    {
+      "id": "N4-Kanji-p36-q10",
+      "questionHtml": "あの「<strong>若い</strong>」先生はとても親切です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "わかい" },
+        { "id": "b", "html": "わがい" },
+        { "id": "c", "html": "じゃくい" },
+        { "id": "d", "html": "わけい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>若い（わかい）</strong> means young."
+    },
+    {
+      "id": "N4-Kanji-p36-q11",
+      "questionHtml": "毎日、日本語の勉強を「<strong>続けます</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "つつけます" },
+        { "id": "b", "html": "つづきます" },
+        { "id": "c", "html": "つづけます" },
+        { "id": "d", "html": "ぞくけます" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>続けます（つづけます）</strong> means to continue something."
+    },
+    {
+      "id": "N4-Kanji-p36-q12",
+      "questionHtml": "雨は朝からずっと「<strong>続きます</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "つづけます" },
+        { "id": "b", "html": "つづきます" },
+        { "id": "c", "html": "つつきます" },
+        { "id": "d", "html": "ぞくします" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>続きます（つづきます）</strong> means to continue or go on."
+    },
+    {
+      "id": "N4-Kanji-p36-q13",
+      "questionHtml": "先生に、明日の会議の時間を「<strong>伝えます</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "つたえます" },
+        { "id": "b", "html": "つだえます" },
+        { "id": "c", "html": "でんえます" },
+        { "id": "d", "html": "つたいます" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>伝えます（つたえます）</strong> means to tell, communicate, or inform."
+    },
+    {
+      "id": "N4-Kanji-p36-q14",
+      "questionHtml": "田中さんから電話があったと、受付の人が「<strong>伝言</strong>」を残しました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "でんごん" },
+        { "id": "b", "html": "でんげん" },
+        { "id": "c", "html": "てんごん" },
+        { "id": "d", "html": "でんこん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>伝言（でんごん）</strong> means a message passed on to someone."
+    },
+    {
+      "id": "N4-Kanji-p36-q15",
+      "questionHtml": "母の料理を作るのを「<strong>手伝います</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "てつたいます" },
+        { "id": "b", "html": "しゅだいます" },
+        { "id": "c", "html": "てつだいます" },
+        { "id": "d", "html": "てだついます" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>手伝います（てつだいます）</strong> means to help or assist."
+    },
+    {
+      "id": "N4-Kanji-p36-q16",
+      "questionHtml": "毎晩、漢字を読む「<strong>練習します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "れんしゅします" },
+        { "id": "b", "html": "れんしゅうします" },
+        { "id": "c", "html": "ねんしゅうします" },
+        { "id": "d", "html": "れんじゅうします" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>練習します（れんしゅうします）</strong> means to practice."
+    },
+    {
+      "id": "N4-Kanji-p36-q17",
+      "questionHtml": "家族と相談して、旅行の日を「<strong>決めます</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "きまります" },
+        { "id": "b", "html": "けめます" },
+        { "id": "c", "html": "きめます" },
+        { "id": "d", "html": "きります" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>決めます（きめます）</strong> means to decide or choose something."
+    },
+    {
+      "id": "N4-Kanji-p36-q18",
+      "questionHtml": "会議の日は来週の月曜日に「<strong>決まります</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "きめます" },
+        { "id": "b", "html": "けまります" },
+        { "id": "c", "html": "きります" },
+        { "id": "d", "html": "きまります" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<strong>決まります（きまります）</strong> means to be decided or settled."
+    },
+    {
+      "id": "N4-Kanji-p36-q19",
+      "questionHtml": "電車の中で財布を「<strong>落とします</strong>」ました。 この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "おちます" },
+        { "id": "b", "html": "おとします" },
+        { "id": "c", "html": "おとります" },
+        { "id": "d", "html": "らくとします" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>落とします（おとします）</strong> means to drop or let something fall."
+    },
+    {
+      "id": "N4-Kanji-p36-q20",
+      "questionHtml": "木からりんごが「<strong>落ちます</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "おちます" },
+        { "id": "b", "html": "おとします" },
+        { "id": "c", "html": "おります" },
+        { "id": "d", "html": "らくちます" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>落ちます（おちます）</strong> means to fall or drop by itself."
+    }
+  ]
+}

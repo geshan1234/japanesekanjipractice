@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 8,
+    "questionsPerPage": 20,
+    "description": "Kanji reading questions for page 8."
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p8-q1",
+      "questionHtml": "<p>この仕事は簡単で、とても「楽」です。「楽」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "らく"
+        },
+        {
+          "id": "b",
+          "html": "がく"
+        },
+        {
+          "id": "c",
+          "html": "たの"
+        },
+        {
+          "id": "d",
+          "html": "らっく"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>楽（らく）と読みます。<span>Meaning: <strong>Easy; comfortable</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p8-q2",
+      "questionHtml": "<p>子どものころから「世界」を旅行したいと思っています。「世界」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "せがい"
+        },
+        {
+          "id": "b",
+          "html": "せかい"
+        },
+        {
+          "id": "c",
+          "html": "せっかい"
+        },
+        {
+          "id": "d",
+          "html": "せけい"
+        }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>世界（せかい）と読みます。<span>Meaning: <strong>world</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p8-q3",
+      "questionHtml": "<p>妹は毎日、犬の「世話」をしています。「世話」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "せわ"
+        },
+        {
+          "id": "b",
+          "html": "よわ"
+        },
+        {
+          "id": "c",
+          "html": "せいわ"
+        },
+        {
+          "id": "d",
+          "html": "せば"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>世話（せわ）と読みます。<span>Meaning: <strong>looking after; care</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p8-q4",
+      "questionHtml": "<p>私の祖父は20世紀に生まれ、私は「21世紀」に生まれました。「21世紀」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "にじゅうせいき"
+        },
+        {
+          "id": "b",
+          "html": "にじゅういっせいき"
+        },
+        {
+          "id": "c",
+          "html": "にじゅういちせき"
+        },
+        {
+          "id": "d",
+          "html": "にじゅういっせっき"
+        }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>21世紀（にじゅういっせいき）と読みます。<span>Meaning: <strong>21st century</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p8-q5",
+      "questionHtml": "<p>「世の中」には、いろいろな仕事があります。「世の中」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "せのなか"
+        },
+        {
+          "id": "b",
+          "html": "よのなか"
+        },
+        {
+          "id": "c",
+          "html": "よのちゅう"
+        },
+        {
+          "id": "d",
+          "html": "せかいじゅう"
+        }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>世の中（よのなか）と読みます。<span>Meaning: <strong>world; society</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p8-q6",
+      "questionHtml": "<p>カラオケで友達と一緒に「歌います」。「歌います」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "かいます"
+        },
+        {
+          "id": "b",
+          "html": "うたいます"
+        },
+        {
+          "id": "c",
+          "html": "うたえます"
+        },
+        {
+          "id": "d",
+          "html": "うたみます"
+        }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>歌います（うたいます）と読みます。<span>Meaning: <strong>to sing</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p8-q7",
+      "questionHtml": "<p>姉は有名な「歌手」になりたいと思っています。「歌手」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "うたて"
+        },
+        {
+          "id": "b",
+          "html": "かしゅ"
+        },
+        {
+          "id": "c",
+          "html": "かて"
+        },
+        {
+          "id": "d",
+          "html": "がしゅ"
+        }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>歌手（かしゅ）と読みます。<span>Meaning: <strong>singer</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p8-q8",
+      "questionHtml": "<p>インターネットで「世界」のニュースを読みます。「世界」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "せかい"
+        },
+        {
+          "id": "b",
+          "html": "せがい"
+        },
+        {
+          "id": "c",
+          "html": "せけ"
+        },
+        {
+          "id": "d",
+          "html": "せっかい"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>世界（せかい）と読みます。<span>Meaning: <strong>world</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p8-q9",
+      "questionHtml": "<p>父は「政界」のニュースに関心があります。「政界」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "せかい"
+        },
+        {
+          "id": "b",
+          "html": "せいがい"
+        },
+        {
+          "id": "c",
+          "html": "せいかい"
+        },
+        {
+          "id": "d",
+          "html": "まつりかい"
+        }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>政界（せいかい）と読みます。<span>Meaning: <strong>political world</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p8-q10",
+      "questionHtml": "<p>毎朝、九時に会社へ行って「仕事」をします。「仕事」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "しごと"
+        },
+        {
+          "id": "b",
+          "html": "じごと"
+        },
+        {
+          "id": "c",
+          "html": "しこと"
+        },
+        {
+          "id": "d",
+          "html": "しごう"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>仕事（しごと）と読みます。<span>Meaning: <strong>work; job</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p8-q11",
+      "questionHtml": "<p>兄は病院で毎日「働きます」。「働きます」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "はたきます"
+        },
+        {
+          "id": "b",
+          "html": "どうきます"
+        },
+        {
+          "id": "c",
+          "html": "はたらきます"
+        },
+        {
+          "id": "d",
+          "html": "はらたきます"
+        }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>働きます（はたらきます）と読みます。<span>Meaning: <strong>to work</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p8-q12",
+      "questionHtml": "<p>学生たちは地域の清掃「活動」に参加しました。「活動」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "かつどう"
+        },
+        {
+          "id": "b",
+          "html": "かっどう"
+        },
+        {
+          "id": "c",
+          "html": "かつとう"
+        },
+        {
+          "id": "d",
+          "html": "がつどう"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>活動（かつどう）と読みます。<span>Meaning: <strong>activity</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p8-q13",
+      "questionHtml": "<p>大切な「事」を忘れないでください。「事」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "じ"
+        },
+        {
+          "id": "b",
+          "html": "ごと"
+        },
+        {
+          "id": "c",
+          "html": "こと"
+        },
+        {
+          "id": "d",
+          "html": "もの"
+        }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>事（こと）と読みます。<span>Meaning: <strong>matter; thing</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p8-q14",
+      "questionHtml": "<p>具合が悪いので、病院で「医者」に診てもらいました。「医者」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "いしや"
+        },
+        {
+          "id": "b",
+          "html": "いしゃ"
+        },
+        {
+          "id": "c",
+          "html": "いじゃ"
+        },
+        {
+          "id": "d",
+          "html": "えしゃ"
+        }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>医者（いしゃ）と読みます。<span>Meaning: <strong>doctor</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p8-q15",
+      "questionHtml": "<p>近くで「火事」があったので、消防車が来ました。「火事」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "ひごと"
+        },
+        {
+          "id": "b",
+          "html": "かじ"
+        },
+        {
+          "id": "c",
+          "html": "かこと"
+        },
+        {
+          "id": "d",
+          "html": "かし"
+        }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>火事（かじ）と読みます。<span>Meaning: <strong>fire; fire incident</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p8-q16",
+      "questionHtml": "<p>歯が痛いので、明日「歯医者」へ行きます。「歯医者」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "はせんせい"
+        },
+        {
+          "id": "b",
+          "html": "はいしや"
+        },
+        {
+          "id": "c",
+          "html": "はいしゃ"
+        },
+        {
+          "id": "d",
+          "html": "はじゃ"
+        }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>歯医者（はいしゃ）と読みます。<span>Meaning: <strong>dentist</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p8-q17",
+      "questionHtml": "<p>今日は大切な「用事」があるので、早く帰ります。「用事」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "ようじ"
+        },
+        {
+          "id": "b",
+          "html": "ようし"
+        },
+        {
+          "id": "c",
+          "html": "ゆうじ"
+        },
+        {
+          "id": "d",
+          "html": "もちごと"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>用事（ようじ）と読みます。<span>Meaning: <strong>errand; business</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p8-q18",
+      "questionHtml": "<p>その「学者」は日本の歴史を研究しています。「学者」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "がくじゃ"
+        },
+        {
+          "id": "b",
+          "html": "がくしゃ"
+        },
+        {
+          "id": "c",
+          "html": "まなぶもの"
+        },
+        {
+          "id": "d",
+          "html": "がっしゃ"
+        }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>学者（がくしゃ）と読みます。<span>Meaning: <strong>scholar</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p8-q19",
+      "questionHtml": "<p>健康はとても「大事」です。「大事」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "おおごと"
+        },
+        {
+          "id": "b",
+          "html": "たいじ"
+        },
+        {
+          "id": "c",
+          "html": "だいじ"
+        },
+        {
+          "id": "d",
+          "html": "だいこと"
+        }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>大事（だいじ）と読みます。<span>Meaning: <strong>important; precious</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p8-q20",
+      "questionHtml": "<p>この小説の「作者」はだれですか。「作者」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "さくしゃ"
+        },
+        {
+          "id": "b",
+          "html": "さっしゃ"
+        },
+        {
+          "id": "c",
+          "html": "そうしゃ"
+        },
+        {
+          "id": "d",
+          "html": "さくじゃ"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>作者（さくしゃ）と読みます。<span>Meaning: <strong>author; creator</strong></span></p>"
+    }
+  ]
+}

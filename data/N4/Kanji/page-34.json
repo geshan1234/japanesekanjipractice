@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 34,
+    "questionsPerPage": 20,
+    "description": "N4 Kanji reading practice - Page 34"
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p34-q1",
+      "questionHtml": "私は「<strong>去年</strong>」日本へ旅行しました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "きょねん" },
+        { "id": "b", "html": "きょうねん" },
+        { "id": "c", "html": "こねん" },
+        { "id": "d", "html": "さくねん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>去年（きょねん）</strong> means last year."
+    },
+    {
+      "id": "N4-Kanji-p34-q2",
+      "questionHtml": "「<strong>過去</strong>」の失敗から学ぶことは大切です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "かご" },
+        { "id": "b", "html": "かこ" },
+        { "id": "c", "html": "すぎこ" },
+        { "id": "d", "html": "かきょ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>過去（かこ）</strong> means the past."
+    },
+    {
+      "id": "N4-Kanji-p34-q3",
+      "questionHtml": "コンピューターの古いデータを「<strong>消去</strong>」しました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しょうこう" },
+        { "id": "b", "html": "しょうきょ" },
+        { "id": "c", "html": "せいきょ" },
+        { "id": "d", "html": "しょうじょ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>消去（しょうきょ）</strong> means erasing or deletion."
+    },
+    {
+      "id": "N4-Kanji-p34-q4",
+      "questionHtml": "先生は文法の使い方を「<strong>説明します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "せつめいします" },
+        { "id": "b", "html": "せつみょうします" },
+        { "id": "c", "html": "せっめいします" },
+        { "id": "d", "html": "せつべいします" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>説明します（せつめいします）</strong> means to explain."
+    },
+    {
+      "id": "N4-Kanji-p34-q5",
+      "questionHtml": "電車の中で日本語の「<strong>小説</strong>」を読みました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しょうぜつ" },
+        { "id": "b", "html": "こせつ" },
+        { "id": "c", "html": "しょうせつ" },
+        { "id": "d", "html": "しょうせち" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>小説（しょうせつ）</strong> means novel."
+    },
+    {
+      "id": "N4-Kanji-p34-q6",
+      "questionHtml": "この物語の主人公は最後に「<strong>死にます</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しにます" },
+        { "id": "b", "html": "じにます" },
+        { "id": "c", "html": "しみます" },
+        { "id": "d", "html": "なくなります" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>死にます（しにます）</strong> means to die."
+    },
+    {
+      "id": "N4-Kanji-p34-q7",
+      "questionHtml": "事故で「<strong>死者</strong>」が出ました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しもの" },
+        { "id": "b", "html": "ししゃ" },
+        { "id": "c", "html": "しじゃ" },
+        { "id": "d", "html": "しものしゃ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>死者（ししゃ）</strong> means a dead person or fatality."
+    },
+    {
+      "id": "N4-Kanji-p34-q8",
+      "questionHtml": "ニュースで有名な作家の「<strong>急死</strong>」を知りました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "きゅうじ" },
+        { "id": "b", "html": "きゅうし" },
+        { "id": "c", "html": "きゅし" },
+        { "id": "d", "html": "きょうし" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>急死（きゅうし）</strong> means sudden death."
+    },
+    {
+      "id": "N4-Kanji-p34-q9",
+      "questionHtml": "その人は重い病気で「<strong>病死</strong>」しました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "びょうじ" },
+        { "id": "b", "html": "びょうし" },
+        { "id": "c", "html": "びょうせい" },
+        { "id": "d", "html": "へいし" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>病死（びょうし）</strong> means death from illness or disease."
+    },
+    {
+      "id": "N4-Kanji-p34-q10",
+      "questionHtml": "私はいつか日本に住みたいと「<strong>思う</strong>」ことがあります。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "おもう" },
+        { "id": "b", "html": "おもる" },
+        { "id": "c", "html": "しもう" },
+        { "id": "d", "html": "おぼう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>思う（おもう）</strong> means to think or feel."
+    },
+    {
+      "id": "N4-Kanji-p34-q11",
+      "questionHtml": "子どものころの友達を「<strong>思い出します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "おもいでします" },
+        { "id": "b", "html": "おもいだします" },
+        { "id": "c", "html": "おぼえだします" },
+        { "id": "d", "html": "おもだします" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>思い出します（おもいだします）</strong> means to remember or recall."
+    },
+    {
+      "id": "N4-Kanji-p34-q12",
+      "questionHtml": "家族との旅行は大切な「<strong>思い出</strong>」です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "おもいで" },
+        { "id": "b", "html": "おもいだ" },
+        { "id": "c", "html": "しで" },
+        { "id": "d", "html": "おぼいで" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>思い出（おもいで）</strong> means memory or recollection."
+    },
+    {
+      "id": "N4-Kanji-p34-q13",
+      "questionHtml": "大学で昔の人々の「<strong>思想</strong>」について勉強しています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しぞう" },
+        { "id": "b", "html": "しそう" },
+        { "id": "c", "html": "おもそう" },
+        { "id": "d", "html": "ししょう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>思想（しそう）</strong> means thought, ideas, or ideology."
+    },
+    {
+      "id": "N4-Kanji-p34-q14",
+      "questionHtml": "重い荷物を持つには「<strong>力</strong>」が必要です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ちから" },
+        { "id": "b", "html": "りき" },
+        { "id": "c", "html": "ちがら" },
+        { "id": "d", "html": "りょく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>力（ちから）</strong> means strength, power, or force."
+    },
+    {
+      "id": "N4-Kanji-p34-q15",
+      "questionHtml": "彼女は外国語を話す「<strong>能力</strong>」があります。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "のうりき" },
+        { "id": "b", "html": "のうりょく" },
+        { "id": "c", "html": "のりょく" },
+        { "id": "d", "html": "のうろく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>能力（のうりょく）</strong> means ability or capability."
+    },
+    {
+      "id": "N4-Kanji-p34-q16",
+      "questionHtml": "重いドアを「<strong>押します</strong>」が、なかなか開きません。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "おします" },
+        { "id": "b", "html": "おじます" },
+        { "id": "c", "html": "ひきます" },
+        { "id": "d", "html": "おせます" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>押します（おします）</strong> means to push or press."
+    },
+    {
+      "id": "N4-Kanji-p34-q17",
+      "questionHtml": "「<strong>田中</strong>」さんは私の日本語の先生です。この名前の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "たなか" },
+        { "id": "b", "html": "たなこう" },
+        { "id": "c", "html": "だなか" },
+        { "id": "d", "html": "でんちゅう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>田中（たなか）</strong> is a common Japanese surname, Tanaka."
+    },
+    {
+      "id": "N4-Kanji-p34-q18",
+      "questionHtml": "「<strong>山田</strong>」さんは毎朝、公園を散歩します。この名前の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "やまだ" },
+        { "id": "b", "html": "やまた" },
+        { "id": "c", "html": "さんだ" },
+        { "id": "d", "html": "やまいだ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>山田（やまだ）</strong> is a common Japanese surname, Yamada."
+    },
+    {
+      "id": "N4-Kanji-p34-q19",
+      "questionHtml": "道に落ちていた財布を「<strong>拾います</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ひろいます" },
+        { "id": "b", "html": "ひろえます" },
+        { "id": "c", "html": "しゅいます" },
+        { "id": "d", "html": "ひらいます" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>拾います（ひろいます）</strong> means to pick up or find something on the ground."
+    },
+    {
+      "id": "N4-Kanji-p34-q20",
+      "questionHtml": "今日はいつもより「<strong>早い</strong>」時間に起きました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "はやい" },
+        { "id": "b", "html": "おそい" },
+        { "id": "c", "html": "はやり" },
+        { "id": "d", "html": "そうい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>早い（はやい）</strong> means early or soon."
+    }
+  ]
+}

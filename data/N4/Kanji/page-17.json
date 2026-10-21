@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 17,
+    "questionsPerPage": 20,
+    "description": "Kanji reading questions for page 17."
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p17-q1",
+      "questionHtml": "<p>毎朝、公園で三キロ「走ります」。「走ります」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あるきます" },
+        { "id": "b", "html": "はしります" },
+        { "id": "c", "html": "とまります" },
+        { "id": "d", "html": "おきます" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>走ります（はしります）と読みます。<span>Meaning: <strong>to run</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p17-q2",
+      "questionHtml": "<p>選手はゴールを目指して「力走します」。「力走します」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りきそうします" },
+        { "id": "b", "html": "ちからはしります" },
+        { "id": "c", "html": "りょくそうします" },
+        { "id": "d", "html": "りきぞうします" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>力走します（りきそうします）と読みます。<span>Meaning: <strong>to run with all one's strength</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p17-q3",
+      "questionHtml": "<p>友達に私の自転車を「貸します」。「貸します」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かります" },
+        { "id": "b", "html": "もちます" },
+        { "id": "c", "html": "かします" },
+        { "id": "d", "html": "わたします" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>貸します（かします）と読みます。<span>Meaning: <strong>to lend</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p17-q4",
+      "questionHtml": "<p>駅の近くに「貸家」があります。「貸家」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かけや" },
+        { "id": "b", "html": "かしや" },
+        { "id": "c", "html": "たいか" },
+        { "id": "d", "html": "かりいえ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>貸家（かしや）と読みます。<span>Meaning: <strong>house for rent</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p17-q5",
+      "questionHtml": "<p>毎朝六時に「起きます」。「起きます」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おきます" },
+        { "id": "b", "html": "あきます" },
+        { "id": "c", "html": "はじきます" },
+        { "id": "d", "html": "おこします" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>起きます（おきます）と読みます。<span>Meaning: <strong>to wake up, to get up</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p17-q6",
+      "questionHtml": "<p>私は毎日「早起き」をして勉強します。「早起き」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はやおこし" },
+        { "id": "b", "html": "そうおき" },
+        { "id": "c", "html": "はやおき" },
+        { "id": "d", "html": "はやはじまり" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>早起き（はやおき）と読みます。<span>Meaning: <strong>getting up early, early rising</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p17-q7",
+      "questionHtml": "<p>彼女は自分の会社を作った「起業家」です。「起業家」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きぎょうか" },
+        { "id": "b", "html": "きょうか" },
+        { "id": "c", "html": "きぎょういえ" },
+        { "id": "d", "html": "おきぎょうか" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>起業家（きぎょうか）と読みます。<span>Meaning: <strong>entrepreneur, business founder</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p17-q8",
+      "questionHtml": "<p>授業は午前九時に「始まります」。「始まります」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おわります" },
+        { "id": "b", "html": "はじまります" },
+        { "id": "c", "html": "とまります" },
+        { "id": "d", "html": "はじめます" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>始まります（はじまります）と読みます。<span>Meaning: <strong>to begin, to start</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p17-q9",
+      "questionHtml": "<p>コンサートは午後六時に「開始します」。「開始します」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かいしします" },
+        { "id": "b", "html": "かいじします" },
+        { "id": "c", "html": "かいおわりします" },
+        { "id": "d", "html": "はじめします" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>開始します（かいしします）と読みます。<span>Meaning: <strong>to start, to commence</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p17-q10",
+      "questionHtml": "<p>東京駅から午前五時に「始発」が出ます。「始発」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅっぱつ" },
+        { "id": "b", "html": "しはつ" },
+        { "id": "c", "html": "はじはつ" },
+        { "id": "d", "html": "しばつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>始発（しはつ）と読みます。<span>Meaning: <strong>first train or bus of the day</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p17-q11",
+      "questionHtml": "<p>この重い箱を両手で「持ちます」。「持ちます」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "まちます" },
+        { "id": "b", "html": "もちます" },
+        { "id": "c", "html": "かちます" },
+        { "id": "d", "html": "たちます" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>持ちます（もちます）と読みます。<span>Meaning: <strong>to hold, to carry, to have</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p17-q12",
+      "questionHtml": "<p>日本語で自分の「気持ち」を伝えたいです。「気持ち」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きもち" },
+        { "id": "b", "html": "きまち" },
+        { "id": "c", "html": "きじ" },
+        { "id": "d", "html": "きもつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>気持ち（きもち）と読みます。<span>Meaning: <strong>feeling, mood</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p17-q13",
+      "questionHtml": "<p>出かける前に「持ち物」を確認してください。「持ち物」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "もちもの" },
+        { "id": "b", "html": "じもの" },
+        { "id": "c", "html": "もつぶつ" },
+        { "id": "d", "html": "もちぶつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>持ち物（もちもの）と読みます。<span>Meaning: <strong>belongings, things one carries</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p17-q14",
+      "questionHtml": "<p>私はその新しい計画を「支持します」。「支持します」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しじします" },
+        { "id": "b", "html": "ししします" },
+        { "id": "c", "html": "じじします" },
+        { "id": "d", "html": "しえんします" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>支持します（しじします）と読みます。<span>Meaning: <strong>to support, to endorse</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p17-q15",
+      "questionHtml": "<p>映画は午後十時に「終わります」。「終わります」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はじまります" },
+        { "id": "b", "html": "とまります" },
+        { "id": "c", "html": "おわります" },
+        { "id": "d", "html": "おこります" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>終わります（おわります）と読みます。<span>Meaning: <strong>to end, to finish</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p17-q16",
+      "questionHtml": "<p>終電に乗るために、急いで駅へ行きました。「終電」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅうでん" },
+        { "id": "b", "html": "しゅでん" },
+        { "id": "c", "html": "おわりでん" },
+        { "id": "d", "html": "しゅうてん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>終電（しゅうでん）と読みます。<span>Meaning: <strong>last train of the day</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p17-q17",
+      "questionHtml": "<p>このアニメの「最終回」は来週放送されます。「最終回」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さいしゅうかい" },
+        { "id": "b", "html": "さいしゅうがい" },
+        { "id": "c", "html": "さいじゅうかい" },
+        { "id": "d", "html": "さいしゅかい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>最終回（さいしゅうかい）と読みます。<span>Meaning: <strong>final episode, last installment</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p17-q18",
+      "questionHtml": "<p>私の「家」は駅の近くにあります。「家」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "やね" },
+        { "id": "b", "html": "いえ" },
+        { "id": "c", "html": "かぞく" },
+        { "id": "d", "html": "うちゅう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>家（いえ）と読みます。<span>Meaning: <strong>house, home</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p17-q19",
+      "questionHtml": "<p>私の「両親」は毎日忙しく働いています。「両親」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りょうしん" },
+        { "id": "b", "html": "りょうじん" },
+        { "id": "c", "html": "ふたおや" },
+        { "id": "d", "html": "りょしん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>両親（りょうしん）と読みます。<span>Meaning: <strong>parents, both parents</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p17-q20",
+      "questionHtml": "<p>私の叔父は有名な「画家」です。「画家」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "がしゃ" },
+        { "id": "b", "html": "えか" },
+        { "id": "c", "html": "がか" },
+        { "id": "d", "html": "かが" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>画家（がか）と読みます。<span>Meaning: <strong>painter, artist</strong></span></p>"
+    }
+  ]
+}

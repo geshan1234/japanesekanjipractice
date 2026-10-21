@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 7,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p7-q1",
+      "questionHtml": "<p>写真を「写します」。「写します」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゃします" },
+        { "id": "b", "html": "うつします" },
+        { "id": "c", "html": "うっします" },
+        { "id": "d", "html": "うつります" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>写します（うっします）と読みます。<span>Meaning: <strong>copy</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p7-q2",
+      "questionHtml": "<p>旅行でたくさん「写真」を撮りました。「写真」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゃしん" },
+        { "id": "b", "html": "しゃじん" },
+        { "id": "c", "html": "うつしん" },
+        { "id": "d", "html": "しゃせん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>写真（しゃしん）と読みます。<span>Meaning: <strong>photograph</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p7-q3",
+      "questionHtml": "<p>有名な「画家」の絵を見ました。「画家」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "がいえ" },
+        { "id": "b", "html": "かくか" },
+        { "id": "c", "html": "がか" },
+        { "id": "d", "html": "がしゃ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>画家（がか）と読みます。<span>Meaning: <strong>painter</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p7-q4",
+      "questionHtml": "<p>美術館で「日本画」を見ました。「日本画」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "にほんか" },
+        { "id": "b", "html": "にっぽんが" },
+        { "id": "c", "html": "にほんえ" },
+        { "id": "d", "html": "にほんが" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>日本画（にほんが）と読みます。<span>Meaning: <strong>Japanese painting</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p7-q5",
+      "questionHtml": "<p>昨日「映画」を見ました。「映画」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "えいが" },
+        { "id": "b", "html": "えが" },
+        { "id": "c", "html": "うつが" },
+        { "id": "d", "html": "えいか" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>映画（えいが）と読みます。<span>Meaning: <strong>movie</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p7-q6",
+      "questionHtml": "<p>旅行の「計画」を立てています。「計画」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいが" },
+        { "id": "b", "html": "けいかく" },
+        { "id": "c", "html": "けかく" },
+        { "id": "d", "html": "けいがく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>計画（けいかく）と読みます。<span>Meaning: <strong>plan</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p7-q7",
+      "questionHtml": "<p>家族の「写真」を見ています。「写真」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゃじん" },
+        { "id": "b", "html": "しゃせん" },
+        { "id": "c", "html": "しゃしん" },
+        { "id": "d", "html": "うつしん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>写真（しゃしん）と読みます。<span>Meaning: <strong>photograph</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p7-q8",
+      "questionHtml": "<p>「真実」を話してください。「真実」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "まじつ" },
+        { "id": "b", "html": "しんじつ" },
+        { "id": "c", "html": "しんじち" },
+        { "id": "d", "html": "まことじつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>真実（しんじつ）と読みます。<span>Meaning: <strong>truth</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p7-q9",
+      "questionHtml": "<p>部屋の「真ん中」に座りました。「真ん中」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんなか" },
+        { "id": "b", "html": "まなか" },
+        { "id": "c", "html": "まんなか" },
+        { "id": "d", "html": "しんちゅう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>真ん中（まんなか）と読みます。<span>Meaning: <strong>center</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p7-q10",
+      "questionHtml": "<p>雪で道が「真っ白」になりました。「真っ白」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "まっしろ" },
+        { "id": "b", "html": "ましろ" },
+        { "id": "c", "html": "しんはく" },
+        { "id": "d", "html": "まっはく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>真っ白（まっしろ）と読みます。<span>Meaning: <strong>pure white</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p7-q11",
+      "questionHtml": "テレビから大きな「音」が聞こえます。「音」の読み方はどれですか？",
+      "options": [
+        { "id": "a", "html": "おん" },
+        { "id": "b", "html": "おと" },
+        { "id": "c", "html": "ね" },
+        { "id": "d", "html": "おう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>音（おと）と読みます。<span>Meaning: <strong>sound</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p7-q12",
+      "questionHtml": "日本語の「発音」を練習しています。「発音」の読み方はどれですか？",
+      "options": [
+        { "id": "a", "html": "はつね" },
+        { "id": "b", "html": "はっおん" },
+        { "id": "c", "html": "はつおん" },
+        { "id": "d", "html": "ほつおん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>発音（はつおん）と読みます。<span>Meaning: <strong>pronunciation</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p7-q13",
+      "questionHtml": "ピアノで「高音」を出します。「高音」の読み方はどれですか？",
+      "options": [
+        { "id": "a", "html": "こうね" },
+        { "id": "b", "html": "たかおと" },
+        { "id": "c", "html": "こうおん" },
+        { "id": "d", "html": "こういん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>高音（こうおん）と読みます。<span>Meaning: <strong>high note</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p7-q14",
+      "questionHtml": "<p>毎日「音楽」を聞いています。「音楽」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おとがく" },
+        { "id": "b", "html": "おんがく" },
+        { "id": "c", "html": "おんらく" },
+        { "id": "d", "html": "おうがく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>音楽（おんがく）と読みます。<span>Meaning: <strong>music</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p7-q15",
+      "questionHtml": "<p>夏休みに京都へ「旅」をしました。「旅」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たび" },
+        { "id": "b", "html": "りょ" },
+        { "id": "c", "html": "たひ" },
+        { "id": "d", "html": "たびい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>旅（たび）と読みます。<span>Meaning: <strong>trip</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p7-q16",
+      "questionHtml": "<p>来月、北海道へ「旅行」します。「旅行」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りょこう" },
+        { "id": "b", "html": "りよこう" },
+        { "id": "c", "html": "たびこう" },
+        { "id": "d", "html": "りょごう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>旅行（りょこう）と読みます。<span>Meaning: <strong>travel</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p7-q17",
+      "questionHtml": "<p>夏休みに家族と「旅行します」。「旅行します」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りよこうします" },
+        { "id": "b", "html": "りょこうします" },
+        { "id": "c", "html": "りょごうします" },
+        { "id": "d", "html": "たびこうします" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>旅行します（りょこうします）と読みます。<span>Meaning: <strong>to take a trip</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p7-q18",
+      "questionHtml": "<p>京都の「旅館」に泊まりました。「旅館」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たびかん" },
+        { "id": "b", "html": "りょかん" },
+        { "id": "c", "html": "りょがん" },
+        { "id": "d", "html": "たびやかた" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>旅館（りょかん）と読みます。<span>Meaning: <strong>Japanese-style hotel</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p7-q19",
+      "questionHtml": "<p>友達と遊ぶのは「楽しい」です。「楽しい」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "らくしい" },
+        { "id": "b", "html": "たのしい" },
+        { "id": "c", "html": "たのし" },
+        { "id": "d", "html": "がくしい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>楽しい（たのしい）と読みます。<span>Meaning: <strong>enjoyable</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p7-q20",
+      "questionHtml": "<p>毎晩「音楽」を聞きます。「音楽」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おんらく" },
+        { "id": "b", "html": "おうがく" },
+        { "id": "c", "html": "おとがく" },
+        { "id": "d", "html": "おんがく" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>音楽（おんがく）と読みます。<span>Meaning: <strong>music</strong></span></p>"
+    }
+  ]
+}

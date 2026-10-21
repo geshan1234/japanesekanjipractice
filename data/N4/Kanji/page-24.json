@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 24,
+    "questionsPerPage": 20,
+    "description": "N4 Kanji Reading Quiz - Page 24"
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p24-q1",
+      "questionHtml": "日本の「<strong>文化</strong>」について勉強しています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ぶんか" },
+        { "id": "b", "html": "ぶんが" },
+        { "id": "c", "html": "ふんか" },
+        { "id": "d", "html": "ぶんけ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>文化（ぶんか）</strong> means culture."
+    },
+    {
+      "id": "N4-Kanji-p24-q2",
+      "questionHtml": "高校で「<strong>化学</strong>」を勉強しています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "かがく" },
+        { "id": "b", "html": "ばけがく" },
+        { "id": "c", "html": "かっがく" },
+        { "id": "d", "html": "かけい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>化学（かがく）</strong> means chemistry."
+    },
+    {
+      "id": "N4-Kanji-p24-q3",
+      "questionHtml": "この小説は来年「<strong>映画化</strong>」されます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "えいがけ" },
+        { "id": "b", "html": "えいかか" },
+        { "id": "c", "html": "えいがか" },
+        { "id": "d", "html": "えがか" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>映画化（えいがか）</strong> means adaptation into a movie or making something into a film."
+    },
+    {
+      "id": "N4-Kanji-p24-q4",
+      "questionHtml": "私は友達の言葉を「<strong>信じる</strong>」ことにしました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しんじる" },
+        { "id": "b", "html": "しんする" },
+        { "id": "c", "html": "のんじる" },
+        { "id": "d", "html": "しじる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>信じる（しんじる）</strong> means to believe or trust."
+    },
+    {
+      "id": "N4-Kanji-p24-q5",
+      "questionHtml": "赤い「<strong>信号</strong>」で止まりました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しんこう" },
+        { "id": "b", "html": "しんごう" },
+        { "id": "c", "html": "しんご" },
+        { "id": "d", "html": "じんごう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>信号（しんごう）</strong> means signal, especially a traffic light."
+    },
+    {
+      "id": "N4-Kanji-p24-q6",
+      "questionHtml": "毎日練習して、少しずつ「<strong>自信</strong>」がつきました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "じしん" },
+        { "id": "b", "html": "じじん" },
+        { "id": "c", "html": "ししん" },
+        { "id": "d", "html": "じせん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>自信（じしん）</strong> means confidence."
+    },
+    {
+      "id": "N4-Kanji-p24-q7",
+      "questionHtml": "インターネットで友達と「<strong>通信</strong>」しています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "つうしん" },
+        { "id": "b", "html": "つうじん" },
+        { "id": "c", "html": "つしん" },
+        { "id": "d", "html": "つうじ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>通信（つうしん）</strong> means communication or correspondence."
+    },
+    {
+      "id": "N4-Kanji-p24-q8",
+      "questionHtml": "まっすぐ前に「<strong>進みます</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しんみます" },
+        { "id": "b", "html": "すすみます" },
+        { "id": "c", "html": "すみます" },
+        { "id": "d", "html": "すすめます" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>進みます（すすみます）</strong> means to proceed, advance, or move forward."
+    },
+    {
+      "id": "N4-Kanji-p24-q9",
+      "questionHtml": "毎日勉強して、日本語が少しずつ「<strong>進歩</strong>」しています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しんぽ" },
+        { "id": "b", "html": "しんふ" },
+        { "id": "c", "html": "すすほ" },
+        { "id": "d", "html": "しんぼ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>進歩（しんぽ）</strong> means progress or advancement."
+    },
+    {
+      "id": "N4-Kanji-p24-q10",
+      "questionHtml": "日本は経済が発展した「<strong>先進国</strong>」の一つです。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "せんしんこく" },
+        { "id": "b", "html": "せんじんこく" },
+        { "id": "c", "html": "さきしんこく" },
+        { "id": "d", "html": "せんしこく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>先進国（せんしんこく）</strong> means a developed or advanced country."
+    },
+    {
+      "id": "N4-Kanji-p24-q11",
+      "questionHtml": "明日、友達に手紙を「<strong>送ります</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "おくります" },
+        { "id": "b", "html": "お送りします" },
+        { "id": "c", "html": "そうります" },
+        { "id": "d", "html": "おこります" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>送ります（おくります）</strong> means to send."
+    },
+    {
+      "id": "N4-Kanji-p24-q12",
+      "questionHtml": "海外の家族に「<strong>送金</strong>」しました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "そうきん" },
+        { "id": "b", "html": "おくきん" },
+        { "id": "c", "html": "そうこん" },
+        { "id": "d", "html": "そうぎん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>送金（そうきん）</strong> means remittance or sending money."
+    },
+    {
+      "id": "N4-Kanji-p24-q13",
+      "questionHtml": "夜のニュースはテレビで「<strong>放送</strong>」されます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ほうそう" },
+        { "id": "b", "html": "ほうぞう" },
+        { "id": "c", "html": "ほそう" },
+        { "id": "d", "html": "ほうしょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>放送（ほうそう）</strong> means broadcasting."
+    },
+    {
+      "id": "N4-Kanji-p24-q14",
+      "questionHtml": "メールを友達に「<strong>送信</strong>」しました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "そうじん" },
+        { "id": "b", "html": "そうしん" },
+        { "id": "c", "html": "おくしん" },
+        { "id": "d", "html": "そうせん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>送信（そうしん）</strong> means sending or transmission, such as sending an email."
+    },
+    {
+      "id": "N4-Kanji-p24-q15",
+      "questionHtml": "この電車は車庫へ「<strong>回送</strong>」されます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "かいそう" },
+        { "id": "b", "html": "かいぞう" },
+        { "id": "c", "html": "まわそう" },
+        { "id": "d", "html": "かそう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>回送（かいそう）</strong> means moving or transferring a vehicle without passengers; on a train or bus, it can indicate that the service is out of service."
+    },
+    {
+      "id": "N4-Kanji-p24-q16",
+      "questionHtml": "借りた本が図書館に「<strong>返ります</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "かえります" },
+        { "id": "b", "html": "へんります" },
+        { "id": "c", "html": "かえします" },
+        { "id": "d", "html": "もどします" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>返ります（かえります）</strong> means to return. Note that for returning a borrowed item, the more usual verb is <strong>返します（かえします）</strong>."
+    },
+    {
+      "id": "N4-Kanji-p24-q17",
+      "questionHtml": "借りた本を明日「<strong>返します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "へんします" },
+        { "id": "b", "html": "かえします" },
+        { "id": "c", "html": "かえります" },
+        { "id": "d", "html": "もどります" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>返します（かえします）</strong> means to return or give something back."
+    },
+    {
+      "id": "N4-Kanji-p24-q18",
+      "questionHtml": "質問の「<strong>返事</strong>」をすぐに書きました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "へんじ" },
+        { "id": "b", "html": "へんし" },
+        { "id": "c", "html": "かえじ" },
+        { "id": "d", "html": "へんこと" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>返事（へんじ）</strong> means a reply or answer."
+    },
+    {
+      "id": "N4-Kanji-p24-q19",
+      "questionHtml": "受け取ったメールに「<strong>返信</strong>」しました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "へんしん" },
+        { "id": "b", "html": "へんじん" },
+        { "id": "c", "html": "かえしん" },
+        { "id": "d", "html": "へんせん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>返信（へんしん）</strong> means a reply, especially a reply to a message or email."
+    },
+    {
+      "id": "N4-Kanji-p24-q20",
+      "questionHtml": "間違えた言葉を何度も「<strong>くり返します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "くりかえします" },
+        { "id": "b", "html": "くりがえします" },
+        { "id": "c", "html": "くりかえります" },
+        { "id": "d", "html": "くりもどします" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>くり返します（くりかえします）</strong> means to repeat."
+    }
+  ]
+}

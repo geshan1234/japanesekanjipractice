@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 10,
+    "questionsPerPage": 20,
+    "description": "Kanji reading questions for page 10."
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p10-q1",
+      "questionHtml": "<p>今日の「授業」は午前九時に始まります。「授業」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じゅぎょう" },
+        { "id": "b", "html": "じゅうぎょう" },
+        { "id": "c", "html": "じゅぎょ" },
+        { "id": "d", "html": "さずぎょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>授業（じゅぎょう）と読みます。<span>Meaning: <strong>class, lesson</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p10-q2",
+      "questionHtml": "<p>この道の両側には「林」があります。「林」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "もり" },
+        { "id": "b", "html": "はやし" },
+        { "id": "c", "html": "りん" },
+        { "id": "d", "html": "やま" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>林（はやし）と読みます。<span>Meaning: <strong>woods, grove</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p10-q3",
+      "questionHtml": "<p>日本と「東洋」の文化について勉強しています。「東洋」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とうよう" },
+        { "id": "b", "html": "ひがしよう" },
+        { "id": "c", "html": "とうゆう" },
+        { "id": "d", "html": "とよう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>東洋（とうよう）と読みます。<span>Meaning: <strong>the East, the Orient</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p10-q4",
+      "questionHtml": "<p>レストランで「洋食」を食べました。「洋食」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ようじき" },
+        { "id": "b", "html": "ようしょく" },
+        { "id": "c", "html": "よしょく" },
+        { "id": "d", "html": "ようじょく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>洋食（ようしょく）と読みます。<span>Meaning: <strong>Western-style food</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p10-q5",
+      "questionHtml": "<p>この地域には広い「森林」があります。「森林」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんもり" },
+        { "id": "b", "html": "もりばやし" },
+        { "id": "c", "html": "しんりん" },
+        { "id": "d", "html": "じんりん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>森林（しんりん）と読みます。<span>Meaning: <strong>forest</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p10-q6",
+      "questionHtml": "<p>冬になると、新しい「洋服」を買います。「洋服」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ようふく" },
+        { "id": "b", "html": "ようぶく" },
+        { "id": "c", "html": "ひろふく" },
+        { "id": "d", "html": "ようふう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>洋服（ようふく）と読みます。<span>Meaning: <strong>Western-style clothes</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p10-q7",
+      "questionHtml": "<p>この「林道」を車でゆっくり走りました。「林道」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はやしみち" },
+        { "id": "b", "html": "りんどう" },
+        { "id": "c", "html": "りんみち" },
+        { "id": "d", "html": "はやしどう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>林道（りんどう）と読みます。<span>Meaning: <strong>forest road</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p10-q8",
+      "questionHtml": "<p>ホテルの「洋室」には大きなベッドがあります。「洋室」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ようしつ" },
+        { "id": "b", "html": "ようむろ" },
+        { "id": "c", "html": "ひろしつ" },
+        { "id": "d", "html": "ようじつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>洋室（ようしつ）と読みます。<span>Meaning: <strong>Western-style room</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p10-q9",
+      "questionHtml": "<p>昔の「西洋」の文化について本を読みました。「西洋」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "にしよう" },
+        { "id": "b", "html": "せいよう" },
+        { "id": "c", "html": "さいよう" },
+        { "id": "d", "html": "せいゆう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>西洋（せいよう）と読みます。<span>Meaning: <strong>the West, Western countries</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p10-q10",
+      "questionHtml": "<p>子どもたちは「森」の中を歩きました。「森」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はやし" },
+        { "id": "b", "html": "しん" },
+        { "id": "c", "html": "もり" },
+        { "id": "d", "html": "もれ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>森（もり）と読みます。<span>Meaning: <strong>forest, woods</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p10-q11",
+      "questionHtml": "<p>多くの動物がこの「森林」に住んでいます。「森林」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんりん" },
+        { "id": "b", "html": "しんれん" },
+        { "id": "c", "html": "もりばやし" },
+        { "id": "d", "html": "じんりん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>森林（しんりん）と読みます。<span>Meaning: <strong>forest</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p10-q12",
+      "questionHtml": "<p>昨夜、「雪」がたくさん降りました。「雪」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せつ" },
+        { "id": "b", "html": "ゆき" },
+        { "id": "c", "html": "ゆけ" },
+        { "id": "d", "html": "せち" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>雪（ゆき）と読みます。<span>Meaning: <strong>snow</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p10-q13",
+      "questionHtml": "<p>昨夜は「大雪」で、電車が止まりました。「大雪」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "だいせつ" },
+        { "id": "b", "html": "おおせつ" },
+        { "id": "c", "html": "おおゆき" },
+        { "id": "d", "html": "だいゆき" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>大雪（おおゆき）と読みます。<span>Meaning: <strong>heavy snow, a heavy snowfall</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p10-q14",
+      "questionHtml": "<p>山の上には、まだ「新雪」が残っています。「新雪」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんゆき" },
+        { "id": "b", "html": "しんせつ" },
+        { "id": "c", "html": "あらゆき" },
+        { "id": "d", "html": "しんぜつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>新雪（しんせつ）と読みます。<span>Meaning: <strong>fresh snow</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p10-q15",
+      "questionHtml": "<p>旅行に行く前に、「地図」で道を確認しました。「地図」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちず" },
+        { "id": "b", "html": "じず" },
+        { "id": "c", "html": "ちと" },
+        { "id": "d", "html": "ちづ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>地図（ちず）と読みます。<span>Meaning: <strong>map</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p10-q16",
+      "questionHtml": "<p>駅の「地下」に大きな駐車場があります。「地下」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じか" },
+        { "id": "b", "html": "ちした" },
+        { "id": "c", "html": "ちか" },
+        { "id": "d", "html": "ちげ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>地下（ちか）と読みます。<span>Meaning: <strong>underground, below ground</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p10-q17",
+      "questionHtml": "<p>窓から明るい「光」が入ってきました。「光」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こう" },
+        { "id": "b", "html": "ひかり" },
+        { "id": "c", "html": "ひがり" },
+        { "id": "d", "html": "ひかる" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>光（ひかり）と読みます。<span>Meaning: <strong>light</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p10-q18",
+      "questionHtml": "<p>毎朝、「地下鉄」に乗って学校へ行きます。「地下鉄」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちかてつ" },
+        { "id": "b", "html": "じかてつ" },
+        { "id": "c", "html": "ちかでつ" },
+        { "id": "d", "html": "ちげてつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>地下鉄（ちかてつ）と読みます。<span>Meaning: <strong>subway, underground railway</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p10-q19",
+      "questionHtml": "<p>夜になると、星がきれいに「光ります」。「光ります」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうります" },
+        { "id": "b", "html": "ひかります" },
+        { "id": "c", "html": "ひがります" },
+        { "id": "d", "html": "ひかれます" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>光ります（ひかります）と読みます。<span>Meaning: <strong>to shine, to glow</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p10-q20",
+      "questionHtml": "<p>「地球」は太陽の周りを回っています。「地球」の読み方はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちきゅう" },
+        { "id": "b", "html": "じきゅう" },
+        { "id": "c", "html": "ちたま" },
+        { "id": "d", "html": "ちきょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>地球（ちきゅう）と読みます。<span>Meaning: <strong>Earth, the planet Earth</strong></span></p>"
+    }
+  ]
+}

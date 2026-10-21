@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 23,
+    "questionsPerPage": 20,
+    "description": "N4 Kanji Reading Quiz - Page 23"
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p23-q1",
+      "questionHtml": "この料理は「<strong>味</strong>」がいいです。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "あじ" },
+        { "id": "b", "html": "あみ" },
+        { "id": "c", "html": "み" },
+        { "id": "d", "html": "あし" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>味（あじ）</strong> means taste or flavor."
+    },
+    {
+      "id": "N4-Kanji-p23-q2",
+      "questionHtml": "公園で「<strong>鳥</strong>」を見ました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ちょう" },
+        { "id": "b", "html": "とり" },
+        { "id": "c", "html": "どり" },
+        { "id": "d", "html": "とる" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>鳥（とり）</strong> means bird."
+    },
+    {
+      "id": "N4-Kanji-p23-q3",
+      "questionHtml": "庭に小さな「<strong>小鳥</strong>」が来ました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しょうとり" },
+        { "id": "b", "html": "こどり" },
+        { "id": "c", "html": "ことり" },
+        { "id": "d", "html": "こちょう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>小鳥（ことり）</strong> means little bird."
+    },
+    {
+      "id": "N4-Kanji-p23-q4",
+      "questionHtml": "この漢字の「<strong>意味</strong>」を教えてください。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "いみ" },
+        { "id": "b", "html": "いあじ" },
+        { "id": "c", "html": "いし" },
+        { "id": "d", "html": "いめい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>意味（いみ）</strong> means meaning."
+    },
+    {
+      "id": "N4-Kanji-p23-q5",
+      "questionHtml": "私の「<strong>趣味</strong>」は日本語を勉強することです。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しゅあじ" },
+        { "id": "b", "html": "しゅみ" },
+        { "id": "c", "html": "しゅび" },
+        { "id": "d", "html": "しゅいみ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>趣味（しゅみ）</strong> means hobby or personal interest."
+    },
+    {
+      "id": "N4-Kanji-p23-q6",
+      "questionHtml": "湖に美しい「<strong>白鳥</strong>」がいました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しろとり" },
+        { "id": "b", "html": "はくとり" },
+        { "id": "c", "html": "はくちょう" },
+        { "id": "d", "html": "しらちょう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>白鳥（はくちょう）</strong> means swan."
+    },
+    {
+      "id": "N4-Kanji-p23-q7",
+      "questionHtml": "私は日本の歴史に「<strong>興味</strong>」があります。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こうみ" },
+        { "id": "b", "html": "きょうみ" },
+        { "id": "c", "html": "きようみ" },
+        { "id": "d", "html": "こうめい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>興味（きょうみ）</strong> means interest."
+    },
+    {
+      "id": "N4-Kanji-p23-q8",
+      "questionHtml": "今日は病気の同僚と「<strong>代わります</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "だいわります" },
+        { "id": "b", "html": "かわります" },
+        { "id": "c", "html": "かえります" },
+        { "id": "d", "html": "かわれます" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>代わります（かわります）</strong> means to take someone's place or substitute for someone."
+    },
+    {
+      "id": "N4-Kanji-p23-q9",
+      "questionHtml": "母が忙しいので、私が「<strong>代わりに</strong>」料理をしました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "だいわりに" },
+        { "id": "b", "html": "かわりに" },
+        { "id": "c", "html": "かえりに" },
+        { "id": "d", "html": "かわるに" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>代わりに（かわりに）</strong> means instead of or on behalf of someone."
+    },
+    {
+      "id": "N4-Kanji-p23-q10",
+      "questionHtml": "この写真は明治「<strong>時代</strong>」のものです。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "じだい" },
+        { "id": "b", "html": "ときだい" },
+        { "id": "c", "html": "じたい" },
+        { "id": "d", "html": "しだい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>時代（じだい）</strong> means age, era, or period."
+    },
+    {
+      "id": "N4-Kanji-p23-q11",
+      "questionHtml": "今月の「<strong>ガス代</strong>」は高かったです。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ガスよ" },
+        { "id": "b", "html": "ガスだい" },
+        { "id": "c", "html": "ガスたい" },
+        { "id": "d", "html": "ガスしろ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>ガス代（ガスだい）</strong> means gas bill or gas charge."
+    },
+    {
+      "id": "N4-Kanji-p23-q12",
+      "questionHtml": "博物館で「<strong>古代</strong>」の道具を見ました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こだい" },
+        { "id": "b", "html": "ふるだい" },
+        { "id": "c", "html": "こうだい" },
+        { "id": "d", "html": "こたい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>古代（こだい）</strong> means ancient times or antiquity."
+    },
+    {
+      "id": "N4-Kanji-p23-q13",
+      "questionHtml": "毎日、辞書を「<strong>使います</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "つかいます" },
+        { "id": "b", "html": "つくいます" },
+        { "id": "c", "html": "しいます" },
+        { "id": "d", "html": "つかえます" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>使います（つかいます）</strong> means to use."
+    },
+    {
+      "id": "N4-Kanji-p23-q14",
+      "questionHtml": "東京にある「<strong>大使館</strong>」へ行きました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "だいしかん" },
+        { "id": "b", "html": "たいしかん" },
+        { "id": "c", "html": "たいじかん" },
+        { "id": "d", "html": "おおしかん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>大使館（たいしかん）</strong> means embassy."
+    },
+    {
+      "id": "N4-Kanji-p23-q15",
+      "questionHtml": "このトイレは「<strong>使用中</strong>」です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しようちゅう" },
+        { "id": "b", "html": "しょようちゅう" },
+        { "id": "c", "html": "しようじゅう" },
+        { "id": "d", "html": "しゅようちゅう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>使用中（しようちゅう）</strong> means in use or currently occupied."
+    },
+    {
+      "id": "N4-Kanji-p23-q16",
+      "questionHtml": "週末に友達とケーキを「<strong>作ります</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "さくります" },
+        { "id": "b", "html": "つくります" },
+        { "id": "c", "html": "つくれます" },
+        { "id": "d", "html": "つけります" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>作ります（つくります）</strong> means to make or create."
+    },
+    {
+      "id": "N4-Kanji-p23-q17",
+      "questionHtml": "日本語の授業で短い「<strong>作文</strong>」を書きました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "さくぶん" },
+        { "id": "b", "html": "さくもん" },
+        { "id": "c", "html": "さっぶん" },
+        { "id": "d", "html": "さぶん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>作文（さくぶん）</strong> means composition or essay."
+    },
+    {
+      "id": "N4-Kanji-p23-q18",
+      "questionHtml": "あの「<strong>作家</strong>」は有名な小説を書きました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "さっか" },
+        { "id": "b", "html": "さくいえ" },
+        { "id": "c", "html": "さっけ" },
+        { "id": "d", "html": "さか" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>作家（さっか）</strong> means writer or author."
+    },
+    {
+      "id": "N4-Kanji-p23-q19",
+      "questionHtml": "工場で新しい「<strong>作業</strong>」を始めました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "さぎょう" },
+        { "id": "b", "html": "さくぎょう" },
+        { "id": "c", "html": "さぎょ" },
+        { "id": "d", "html": "さこう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>作業（さぎょう）</strong> means work, task, or operation."
+    },
+    {
+      "id": "N4-Kanji-p23-q20",
+      "questionHtml": "季節が変わると、天気も「<strong>変化します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "へんげします" },
+        { "id": "b", "html": "へんかします" },
+        { "id": "c", "html": "へんがします" },
+        { "id": "d", "html": "へんけします" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>変化します（へんかします）</strong> means to change or undergo a change."
+    }
+  ]
+}

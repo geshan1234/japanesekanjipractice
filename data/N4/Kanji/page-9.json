@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 9,
+    "questionsPerPage": 20,
+    "description": "Kanji reading questions for page 9."
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p9-q1",
+      "questionHtml": "<p>家族と一緒に「食事」をしました。「食事」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "しょくじ"
+        },
+        {
+          "id": "b",
+          "html": "しょくし"
+        },
+        {
+          "id": "c",
+          "html": "たべじ"
+        },
+        {
+          "id": "d",
+          "html": "しょっじ"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>食事（しょくじ）と読みます。<span>Meaning: <strong>a meal; dining</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p9-q2",
+      "questionHtml": "<p>困っている「者」がいたら、助けてあげましょう。「者」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "しゃ"
+        },
+        {
+          "id": "b",
+          "html": "もの"
+        },
+        {
+          "id": "c",
+          "html": "ひとしゃ"
+        },
+        {
+          "id": "d",
+          "html": "もん"
+        }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>者（もの）と読みます。<span>Meaning: <strong>person</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p9-q3",
+      "questionHtml": "<p>この指輪は「銀」でできています。「銀」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "きん"
+        },
+        {
+          "id": "b",
+          "html": "ぎん"
+        },
+        {
+          "id": "c",
+          "html": "がね"
+        },
+        {
+          "id": "d",
+          "html": "ぎいん"
+        }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>銀（ぎん）と読みます。<span>Meaning: <strong>silver</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p9-q4",
+      "questionHtml": "<p>駅の近くの「本屋」で本を買いました。「本屋」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "ほんおく"
+        },
+        {
+          "id": "b",
+          "html": "もとや"
+        },
+        {
+          "id": "c",
+          "html": "ほんや"
+        },
+        {
+          "id": "d",
+          "html": "ほんいえ"
+        }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>本屋（ほんや）と読みます。<span>Meaning: <strong>bookstore</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p9-q5",
+      "questionHtml": "<p>私の「部屋」は二階にあります。「部屋」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "へや"
+        },
+        {
+          "id": "b",
+          "html": "ぶや"
+        },
+        {
+          "id": "c",
+          "html": "へいえ"
+        },
+        {
+          "id": "d",
+          "html": "べや"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>部屋（へや）と読みます。<span>Meaning: <strong>room</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p9-q6",
+      "questionHtml": "<p>銀行でお金をおろしました。「銀行」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "ぎんぎょう"
+        },
+        {
+          "id": "b",
+          "html": "きんこう"
+        },
+        {
+          "id": "c",
+          "html": "ぎんこう"
+        },
+        {
+          "id": "d",
+          "html": "ぎんごう"
+        }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>銀行（ぎんこう）と読みます。<span>Meaning: <strong>bank</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p9-q7",
+      "questionHtml": "<p>昼休みにビルの「屋上」で景色を見ました。「屋上」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "やじょう"
+        },
+        {
+          "id": "b",
+          "html": "おくじょう"
+        },
+        {
+          "id": "c",
+          "html": "おくうえ"
+        },
+        {
+          "id": "d",
+          "html": "おじょう"
+        }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>屋上（おくじょう）と読みます。<span>Meaning: <strong>rooftop</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p9-q8",
+      "questionHtml": "<p>父は会社で働いている「会社員」です。「会社員」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "かいしゃにん"
+        },
+        {
+          "id": "b",
+          "html": "かいしゃいん"
+        },
+        {
+          "id": "c",
+          "html": "かいじょういん"
+        },
+        {
+          "id": "d",
+          "html": "がいしゃいん"
+        }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>会社員（かいしゃいん）と読みます。<span>Meaning: <strong>company employee</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p9-q9",
+      "questionHtml": "<p>あの「銀行員」は親切に説明してくれました。「銀行員」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "ぎんこういん"
+        },
+        {
+          "id": "b",
+          "html": "ぎんぎょういん"
+        },
+        {
+          "id": "c",
+          "html": "きんこういん"
+        },
+        {
+          "id": "d",
+          "html": "ぎんこうにん"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>銀行員（ぎんこういん）と読みます。<span>Meaning: <strong>bank employee</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p9-q10",
+      "questionHtml": "<p>店の「店員」に商品の場所を聞きました。「店員」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "みせいん"
+        },
+        {
+          "id": "b",
+          "html": "てんにん"
+        },
+        {
+          "id": "c",
+          "html": "てんいん"
+        },
+        {
+          "id": "d",
+          "html": "ていいん"
+        }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>店員（てんいん）と読みます。<span>Meaning: <strong>shop clerk; store employee</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p9-q11",
+      "questionHtml": "<p>この図書館の「会員」になるには、申込書が必要です。「会員」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "かいにん"
+        },
+        {
+          "id": "b",
+          "html": "かいいん"
+        },
+        {
+          "id": "c",
+          "html": "えいん"
+        },
+        {
+          "id": "d",
+          "html": "かいじん"
+        }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>会員（かいいん）と読みます。<span>Meaning: <strong>member</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p9-q12",
+      "questionHtml": "<p>クラスの「全員」が遠足に参加しました。「全員」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "ぜんにん"
+        },
+        {
+          "id": "b",
+          "html": "ぜいいん"
+        },
+        {
+          "id": "c",
+          "html": "ぜんいん"
+        },
+        {
+          "id": "d",
+          "html": "ぜんえん"
+        }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>全員（ぜんいん）と読みます。<span>Meaning: <strong>everyone; all members</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p9-q13",
+      "questionHtml": "<p>この猫は来月、子猫を「産みます」。「産みます」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "うみます"
+        },
+        {
+          "id": "b",
+          "html": "さんみます"
+        },
+        {
+          "id": "c",
+          "html": "はらみます"
+        },
+        {
+          "id": "d",
+          "html": "うまれます"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>産みます（うみます）と読みます。<span>Meaning: <strong>to give birth; to bear</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p9-q14",
+      "questionHtml": "<p>この工場では車を「生産します」。「生産します」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "せいざんします"
+        },
+        {
+          "id": "b",
+          "html": "せいさんします"
+        },
+        {
+          "id": "c",
+          "html": "しょうさんします"
+        },
+        {
+          "id": "d",
+          "html": "せさんします"
+        }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>生産します（せいさんします）と読みます。<span>Meaning: <strong>to produce; manufacture</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p9-q15",
+      "questionHtml": "<p>祖父は家と土地を「財産」として残しました。「財産」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "さいさん"
+        },
+        {
+          "id": "b",
+          "html": "ざいざん"
+        },
+        {
+          "id": "c",
+          "html": "ざいさん"
+        },
+        {
+          "id": "d",
+          "html": "ざいせん"
+        }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>財産（ざいさん）と読みます。<span>Meaning: <strong>property; fortune; assets</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p9-q16",
+      "questionHtml": "<p>道が分からなかったので、「駅員」に聞きました。「駅員」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "えきにん"
+        },
+        {
+          "id": "b",
+          "html": "えきいん"
+        },
+        {
+          "id": "c",
+          "html": "えぎいん"
+        },
+        {
+          "id": "d",
+          "html": "えきえん"
+        }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>駅員（えきいん）と読みます。<span>Meaning: <strong>station employee</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p9-q17",
+      "questionHtml": "<p>この町では自動車「産業」が盛んです。「産業」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "さんぎょう"
+        },
+        {
+          "id": "b",
+          "html": "さんきょう"
+        },
+        {
+          "id": "c",
+          "html": "ざんぎょう"
+        },
+        {
+          "id": "d",
+          "html": "さんぎょ"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>産業（さんぎょう）と読みます。<span>Meaning: <strong>industry</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p9-q18",
+      "questionHtml": "<p>姉は大学で「医学」を勉強しています。「医学」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "いかく"
+        },
+        {
+          "id": "b",
+          "html": "いがく"
+        },
+        {
+          "id": "c",
+          "html": "いげん"
+        },
+        {
+          "id": "d",
+          "html": "えがく"
+        }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>医学（いがく）と読みます。<span>Meaning: <strong>medical science; medicine</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p9-q19",
+      "questionHtml": "<p>この地域は「工業」が発達しています。「工業」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "こうぎょう"
+        },
+        {
+          "id": "b",
+          "html": "こうきょう"
+        },
+        {
+          "id": "c",
+          "html": "くぎょう"
+        },
+        {
+          "id": "d",
+          "html": "こうぎょ"
+        }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>工業（こうぎょう）と読みます。<span>Meaning: <strong>industry; manufacturing</strong></span></p>"
+    },
+    {
+      "id": "N4-Kanji-p9-q20",
+      "questionHtml": "<p>熱があるので、近くの「医院」で診てもらいました。「医院」の読み方はどれですか？</p>",
+      "options": [
+        {
+          "id": "a",
+          "html": "いえん"
+        },
+        {
+          "id": "b",
+          "html": "いいん"
+        },
+        {
+          "id": "c",
+          "html": "いにん"
+        },
+        {
+          "id": "d",
+          "html": "いんいん"
+        }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>医院（いいん）と読みます。<span>Meaning: <strong>clinic; doctor's office</strong></span></p>"
+    }
+  ]
+}

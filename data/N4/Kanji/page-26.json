@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 26,
+    "questionsPerPage": 20,
+    "description": "N4 Kanji reading practice - Page 26"
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p26-q1",
+      "questionHtml": "毎日、この「<strong>教室</strong>」で日本語を勉強します。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "きょうしつ" },
+        { "id": "b", "html": "きょうじつ" },
+        { "id": "c", "html": "きょしつ" },
+        { "id": "d", "html": "きょうじゅつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>教室（きょうしつ）</strong> means classroom."
+    },
+    {
+      "id": "N4-Kanji-p26-q2",
+      "questionHtml": "この家には「<strong>地下室</strong>」があります。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ちかじつ" },
+        { "id": "b", "html": "じかしつ" },
+        { "id": "c", "html": "ちかしつ" },
+        { "id": "d", "html": "ちげしつ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>地下室（ちかしつ）</strong> means basement."
+    },
+    {
+      "id": "N4-Kanji-p26-q3",
+      "questionHtml": "病院の「<strong>待合室</strong>」で名前を呼ばれるのを待っています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "まちあいしつ" },
+        { "id": "b", "html": "まちあいへや" },
+        { "id": "c", "html": "たいあいしつ" },
+        { "id": "d", "html": "まちあしつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>待合室（まちあいしつ）</strong> means waiting room."
+    },
+    {
+      "id": "N4-Kanji-p26-q4",
+      "questionHtml": "質問がある人は「<strong>事務室</strong>」に来てください。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "じむじつ" },
+        { "id": "b", "html": "じむしつ" },
+        { "id": "c", "html": "じぶしつ" },
+        { "id": "d", "html": "ことむしつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>事務室（じむしつ）</strong> means office or administrative room."
+    },
+    {
+      "id": "N4-Kanji-p26-q5",
+      "questionHtml": "日本の家には「<strong>和室</strong>」があることがあります。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "わへや" },
+        { "id": "b", "html": "かしつ" },
+        { "id": "c", "html": "わじつ" },
+        { "id": "d", "html": "わしつ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<strong>和室（わしつ）</strong> means a Japanese-style room."
+    },
+    {
+      "id": "N4-Kanji-p26-q6",
+      "questionHtml": "机の上に大切な「<strong>物</strong>」を置きました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "もの" },
+        { "id": "b", "html": "ぶつ" },
+        { "id": "c", "html": "もん" },
+        { "id": "d", "html": "ぼの" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>物（もの）</strong> means thing or object."
+    },
+    {
+      "id": "N4-Kanji-p26-q7",
+      "questionHtml": "週末に母と「<strong>買い物</strong>」に行きました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "かいぶつ" },
+        { "id": "b", "html": "かいもの" },
+        { "id": "c", "html": "ばいもの" },
+        { "id": "d", "html": "かもの" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>買い物（かいもの）</strong> means shopping."
+    },
+    {
+      "id": "N4-Kanji-p26-q8",
+      "questionHtml": "冷蔵庫の中に「<strong>食べ物</strong>」がたくさんあります。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しょくもの" },
+        { "id": "b", "html": "たべぶつ" },
+        { "id": "c", "html": "たべもの" },
+        { "id": "d", "html": "たべもん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>食べ物（たべもの）</strong> means food."
+    },
+    {
+      "id": "N4-Kanji-p26-q9",
+      "questionHtml": "暑いので、冷たい「<strong>飲み物</strong>」を買いました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "のみぶつ" },
+        { "id": "b", "html": "いんみもの" },
+        { "id": "c", "html": "のみもん" },
+        { "id": "d", "html": "のみもの" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<strong>飲み物（のみもの）</strong> means drink or beverage."
+    },
+    {
+      "id": "N4-Kanji-p26-q10",
+      "questionHtml": "動物園では、いろいろな「<strong>動物</strong>」を見ることができます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "どうぶつ" },
+        { "id": "b", "html": "どうもの" },
+        { "id": "c", "html": "とうぶつ" },
+        { "id": "d", "html": "どうぶち" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>動物（どうぶつ）</strong> means animal."
+    },
+    {
+      "id": "N4-Kanji-p26-q11",
+      "questionHtml": "駅で大きな「<strong>荷物</strong>」を持っている人を見ました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "にぶつ" },
+        { "id": "b", "html": "にもつ" },
+        { "id": "c", "html": "かもつ" },
+        { "id": "d", "html": "にもの" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>荷物（にもつ）</strong> means baggage, luggage, or belongings."
+    },
+    {
+      "id": "N4-Kanji-p26-q12",
+      "questionHtml": "父は大きな「<strong>工場</strong>」で働いています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こうば" },
+        { "id": "b", "html": "くじょう" },
+        { "id": "c", "html": "こうじょう" },
+        { "id": "d", "html": "こうしょう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>工場（こうじょう）</strong> means factory. It can also be read as こうば in some contexts."
+    },
+    {
+      "id": "N4-Kanji-p26-q13",
+      "questionHtml": "この道路では「<strong>工事</strong>」をしているので、通れません。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こうじ" },
+        { "id": "b", "html": "こうし" },
+        { "id": "c", "html": "くじ" },
+        { "id": "d", "html": "こうごと" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>工事（こうじ）</strong> means construction work."
+    },
+    {
+      "id": "N4-Kanji-p26-q14",
+      "questionHtml": "日本では自動車の「<strong>工業</strong>」が発達しています。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こうごう" },
+        { "id": "b", "html": "くぎょう" },
+        { "id": "c", "html": "こうぎょ" },
+        { "id": "d", "html": "こうぎょう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<strong>工業（こうぎょう）</strong> means industry or manufacturing industry."
+    },
+    {
+      "id": "N4-Kanji-p26-q15",
+      "questionHtml": "学校で紙を使って「<strong>工作</strong>」をしました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こうさつ" },
+        { "id": "b", "html": "こうさく" },
+        { "id": "c", "html": "くさく" },
+        { "id": "d", "html": "こうせい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>工作（こうさく）</strong> means handicraft or making things by hand."
+    },
+    {
+      "id": "N4-Kanji-p26-q16",
+      "questionHtml": "この建物はまだ「<strong>工事中</strong>」です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こうじなか" },
+        { "id": "b", "html": "こうしちゅう" },
+        { "id": "c", "html": "こうじちゅう" },
+        { "id": "d", "html": "くじちゅう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>工事中（こうじちゅう）</strong> means under construction."
+    },
+    {
+      "id": "N4-Kanji-p26-q17",
+      "questionHtml": "具合が悪いので、「<strong>病院</strong>」へ行きました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "びょういん" },
+        { "id": "b", "html": "びょうえん" },
+        { "id": "c", "html": "びょいん" },
+        { "id": "d", "html": "びょうにん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>病院（びょういん）</strong> means hospital."
+    },
+    {
+      "id": "N4-Kanji-p26-q18",
+      "questionHtml": "祖父は来週、検査のために「<strong>入院します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "にゅうえんします" },
+        { "id": "b", "html": "にゅういんします" },
+        { "id": "c", "html": "はいりいんします" },
+        { "id": "d", "html": "にゅいんします" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>入院します（にゅういんします）</strong> means to be hospitalized or admitted to a hospital."
+    },
+    {
+      "id": "N4-Kanji-p26-q19",
+      "questionHtml": "姉は大学を卒業した後、「<strong>大学院</strong>」に進みました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "だいがくえん" },
+        { "id": "b", "html": "たいがくいん" },
+        { "id": "c", "html": "だいがくいん" },
+        { "id": "d", "html": "だいがくじん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>大学院（だいがくいん）</strong> means graduate school."
+    },
+    {
+      "id": "N4-Kanji-p26-q20",
+      "questionHtml": "ノートに日本の地図を「<strong>図</strong>」で表しました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "と" },
+        { "id": "b", "html": "ち" },
+        { "id": "c", "html": "づ" },
+        { "id": "d", "html": "ず" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<strong>図（ず）</strong> means figure, diagram, or drawing."
+    }
+  ]
+}

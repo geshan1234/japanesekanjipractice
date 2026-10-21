@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N4",
+    "questionType": "Kanji",
+    "page": 31,
+    "questionsPerPage": 20,
+    "description": "N4 Kanji reading practice - Page 31"
+  },
+  "questions": [
+    {
+      "id": "N4-Kanji-p31-q1",
+      "questionHtml": "テストには難しい「<strong>問題</strong>」がたくさんありました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "もんたい" },
+        { "id": "b", "html": "もんだい" },
+        { "id": "c", "html": "もんない" },
+        { "id": "d", "html": "ぶんだい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>問題（もんだい）</strong> means question, problem, or issue."
+    },
+    {
+      "id": "N4-Kanji-p31-q2",
+      "questionHtml": "分からないことがあったので、先生に「<strong>質問します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しつもんします" },
+        { "id": "b", "html": "しちもんします" },
+        { "id": "c", "html": "しつぶんします" },
+        { "id": "d", "html": "じつもんします" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>質問します（しつもんします）</strong> means to ask a question."
+    },
+    {
+      "id": "N4-Kanji-p31-q3",
+      "questionHtml": "この靴は私の足に「<strong>合います</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ごいます" },
+        { "id": "b", "html": "あいます" },
+        { "id": "c", "html": "かいます" },
+        { "id": "d", "html": "あえます" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>合います（あいます）</strong> means to fit, match, or suit."
+    },
+    {
+      "id": "N4-Kanji-p31-q4",
+      "questionHtml": "急いで走ったので、電車に「<strong>間に合いました</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "まにあいました" },
+        { "id": "b", "html": "あいだにあいました" },
+        { "id": "c", "html": "まにごいました" },
+        { "id": "d", "html": "まにあえました" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>間に合いました（まにあいました）</strong> means made it in time."
+    },
+    {
+      "id": "N4-Kanji-p31-q5",
+      "questionHtml": "日曜日に友達とサッカーの「<strong>試合</strong>」をしました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しごう" },
+        { "id": "b", "html": "じあい" },
+        { "id": "c", "html": "しあい" },
+        { "id": "d", "html": "ためしあい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>試合（しあい）</strong> means game or match."
+    },
+    {
+      "id": "N4-Kanji-p31-q6",
+      "questionHtml": "雨が降った「<strong>場合</strong>」は、試合を中止します。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ばめん" },
+        { "id": "b", "html": "ばあい" },
+        { "id": "c", "html": "じょうあい" },
+        { "id": "d", "html": "ばごう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>場合（ばあい）</strong> means case or situation."
+    },
+    {
+      "id": "N4-Kanji-p31-q7",
+      "questionHtml": "明日の午後なら「<strong>都合がいい</strong>」です。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "とごうがいい" },
+        { "id": "b", "html": "つごうがよい" },
+        { "id": "c", "html": "つごうがいい" },
+        { "id": "d", "html": "つこうがいい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>都合がいい（つごうがいい）</strong> means convenient or suitable."
+    },
+    {
+      "id": "N4-Kanji-p31-q8",
+      "questionHtml": "この本の「<strong>題名</strong>」を教えてください。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "だいめい" },
+        { "id": "b", "html": "たいめい" },
+        { "id": "c", "html": "だいみょう" },
+        { "id": "d", "html": "だいな" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>題名（だいめい）</strong> means title or name of a work."
+    },
+    {
+      "id": "N4-Kanji-p31-q9",
+      "questionHtml": "この「<strong>問題</strong>」の答えが分かりません。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "もんない" },
+        { "id": "b", "html": "もんだい" },
+        { "id": "c", "html": "もんたい" },
+        { "id": "d", "html": "ぶんだい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>問題（もんだい）</strong> means question or problem."
+    },
+    {
+      "id": "N4-Kanji-p31-q10",
+      "questionHtml": "学校からたくさん「<strong>宿題</strong>」が出ました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しゅくだい" },
+        { "id": "b", "html": "しゅくたい" },
+        { "id": "c", "html": "じゅくだい" },
+        { "id": "d", "html": "しゅうだい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>宿題（しゅくだい）</strong> means homework."
+    },
+    {
+      "id": "N4-Kanji-p31-q11",
+      "questionHtml": "最近、学校で人気のある「<strong>話題</strong>」は何ですか。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "はなしだい" },
+        { "id": "b", "html": "わだい" },
+        { "id": "c", "html": "わたい" },
+        { "id": "d", "html": "はだい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>話題（わだい）</strong> means topic or subject of conversation."
+    },
+    {
+      "id": "N4-Kanji-p31-q12",
+      "questionHtml": "先生の質問に正しく「<strong>答えます</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こたえます" },
+        { "id": "b", "html": "こだえます" },
+        { "id": "c", "html": "おしえます" },
+        { "id": "d", "html": "こたいます" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>答えます（こたえます）</strong> means to answer."
+    },
+    {
+      "id": "N4-Kanji-p31-q13",
+      "questionHtml": "この質問の「<strong>答え</strong>」を書いてください。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "こだえ" },
+        { "id": "b", "html": "こたえ" },
+        { "id": "c", "html": "こたわえ" },
+        { "id": "d", "html": "とうえ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>答え（こたえ）</strong> means answer or response."
+    },
+    {
+      "id": "N4-Kanji-p31-q14",
+      "questionHtml": "アンケートの「<strong>回答</strong>」をメールで送りました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "かいとう" },
+        { "id": "b", "html": "かいどう" },
+        { "id": "c", "html": "かいこたえ" },
+        { "id": "d", "html": "がいとう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>回答（かいとう）</strong> means answer or reply."
+    },
+    {
+      "id": "N4-Kanji-p31-q15",
+      "questionHtml": "テレビで日本代表の「<strong>試合</strong>」を見ました。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ためしあい" },
+        { "id": "b", "html": "しあい" },
+        { "id": "c", "html": "しごう" },
+        { "id": "d", "html": "じあい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<strong>試合（しあい）</strong> means game or match."
+    },
+    {
+      "id": "N4-Kanji-p31-q16",
+      "questionHtml": "来週、日本語の「<strong>試験</strong>」があります。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "しげん" },
+        { "id": "b", "html": "じけん" },
+        { "id": "c", "html": "しけん" },
+        { "id": "d", "html": "ためしけん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<strong>試験（しけん）</strong> means examination or test."
+    },
+    {
+      "id": "N4-Kanji-p31-q17",
+      "questionHtml": "兄は大学の「<strong>入試</strong>」を受けます。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "にゅうし" },
+        { "id": "b", "html": "にゅうじ" },
+        { "id": "c", "html": "いりし" },
+        { "id": "d", "html": "にゅうけん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>入試（にゅうし）</strong> means entrance examination."
+    },
+    {
+      "id": "N4-Kanji-p31-q18",
+      "questionHtml": "新しい方法を「<strong>試します</strong>」ので、少し待ってください。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ためします" },
+        { "id": "b", "html": "こころみます" },
+        { "id": "c", "html": "しします" },
+        { "id": "d", "html": "ためみます" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>試します（ためします）</strong> means to try or test."
+    },
+    {
+      "id": "N4-Kanji-p31-q19",
+      "questionHtml": "今日は大切な「<strong>用事</strong>」があるので、早く帰ります。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "ようじ" },
+        { "id": "b", "html": "ようごと" },
+        { "id": "c", "html": "もちじ" },
+        { "id": "d", "html": "ようし" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>用事（ようじ）</strong> means errand, business, or something to do."
+    },
+    {
+      "id": "N4-Kanji-p31-q20",
+      "questionHtml": "この図書館のパソコンを「<strong>利用します</strong>」。この言葉の読み方は何ですか。",
+      "options": [
+        { "id": "a", "html": "りようします" },
+        { "id": "b", "html": "りゅうようします" },
+        { "id": "c", "html": "りょうようします" },
+        { "id": "d", "html": "りようじます" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<strong>利用します（りようします）</strong> means to use or make use of."
+    }
+  ]
+}

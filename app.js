@@ -2,7 +2,7 @@ const levelSelect = document.getElementById("levelSelect");
 const typeSelect = document.getElementById("typeSelect");
 const questionContainer = document.getElementById("questionContainer");
 const testTitle = document.getElementById("testTitle");
-const pageLabel = document.getElementById("pageLabel");
+// const pageLabel = document.getElementById("pageLabel");
 const paginationLabel = document.getElementById("paginationLabel");
 const score = document.getElementById("score");
 const submitBtn = document.getElementById("submitBtn");
@@ -13,6 +13,18 @@ const nextBtn = document.getElementById("nextBtn");
 let currentPage = 1;
 let testData = null;
 let submitted = false;
+
+document.addEventListener('contextmenu', function(e) {
+  e.preventDefault();
+});
+document.addEventListener('copy', function(e) {
+  e.preventDefault();
+});
+document.addEventListener('keydown', function(e) {
+  if (e.keyCode === 123 || (e.ctrlKey && e.shiftKey && (e.keyCode === 73 || e.keyCode === 74)) || (e.ctrlKey && e.keyCode === 85)) {
+    e.preventDefault();
+  }
+});
 
 function filePath() {
   return `data/${levelSelect.value}/${typeSelect.value}/page-${currentPage}.json`;
@@ -160,6 +172,7 @@ async function loadPage() {
   submitted = false;
   score.textContent = "";
   questionContainer.innerHTML = "<p>Loading questions...</p>";
+  
   try {
     const response = await fetch(filePath());
     if (!response.ok) throw new Error("File not found");
@@ -176,7 +189,7 @@ async function loadPage() {
 function renderQuestions() {
   const meta = testData.metadata;
   testTitle.textContent = `${meta.level} - ${meta.questionType}`;
-  pageLabel.textContent = `Page ${meta.page}`;
+  // pageLabel.textContent = `Page ${meta.page}`;
   questionContainer.innerHTML = "";
 
   testData.questions.forEach((question, index) => {
@@ -196,6 +209,8 @@ function renderQuestions() {
     /* ----- Furigana button + line (added) ----- */
     const furiganaBtn = document.createElement("button");
     furiganaBtn.type = "button";
+    furiganaBtn.style.backgroundColor = "green"; // Changes the button's background color
+    furiganaBtn.style.color = "white"; 
     furiganaBtn.className = "furigana-btn";
     furiganaBtn.textContent = "Show reading";
     card.appendChild(furiganaBtn);
