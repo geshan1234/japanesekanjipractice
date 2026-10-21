@@ -132,25 +132,25 @@ button:disabled {
 
 #questionContainer {
   font-size: 1.25rem;
-  /* Makes the text about 25% bigger than the default size */
   line-height: 1.6;
-  /* Adds extra breathing room between lines */
   margin-bottom: 20px;
+}
+
+.question-text {
+  line-height: 2.2;
+}
+
+#questionContainer ruby rt {
+  font-size: 0.65em;
+  color: #374151;
 }
 
 .furigana-btn {
   background-color: #4b7562;
-  /* Blue background */
   color: white;
-  /* White text */
   border: none;
-  /* No border */
   padding: 10px 20px;
-  /* Padding for better click area */
   border-radius: 6px;
-  /* Rounded corners */
   cursor: pointer;
-  /* Pointer cursor on hover */
   font-size: 1rem;
-  /* Slightly larger text */
 }

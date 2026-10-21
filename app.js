@@ -14,165 +14,48 @@ let currentPage = 1;
 let testData = null;
 let submitted = false;
 
-document.addEventListener('contextmenu', function(e) {
-  e.preventDefault();
-});
-document.addEventListener('copy', function(e) {
-  e.preventDefault();
-});
-document.addEventListener('keydown', function(e) {
-  if (e.keyCode === 123 || (e.ctrlKey && e.shiftKey && (e.keyCode === 73 || e.keyCode === 74)) || (e.ctrlKey && e.keyCode === 85)) {
-    e.preventDefault();
-  }
-});
-
 function filePath() {
   return `data/${levelSelect.value}/${typeSelect.value}/page-${currentPage}.json`;
 }
 
 /* ============================================================
-   Furigana feature (added) — everything in this block is new.
-   Nothing outside it was changed.
+   Furigana (manual notation)
 
-   The word being tested is wrapped in 「...」 inside questionHtml
-   (e.g. 「住みます」). That part is left as plain kanji so the
-   reading isn't given away; everything else gets furigana.
+   In questionHtml, write {kanji|reading}, e.g.
+     "{私|わたし}は{東京|とうきょう}に「住みます」。"
+   Leave the tested word plain (inside 「」) so its reading
+   isn't given away.
    ============================================================ */
 
-let kuroshiroInstancePromise = null;
-
-// Lazily creates (once) and returns a ready Kuroshiro instance.
-function getKuroshiro() {
-  if (!kuroshiroInstancePromise) {
-    kuroshiroInstancePromise = (async () => {
-      if (typeof Kuroshiro === "undefined" || typeof KuromojiAnalyzer === "undefined") {
-        throw new Error("Furigana library failed to load (check the script tags / your connection).");
-      }
-      const KuroshiroCtor = typeof Kuroshiro === "function" ? Kuroshiro : Kuroshiro.default;
-      const kuroshiro = new KuroshiroCtor();
-      await kuroshiro.init(
-        new KuromojiAnalyzer({ dictPath: "https://cdn.jsdelivr.net/npm/kuromoji@0.1.2/dict/" })
-      );
-      return kuroshiro;
-    })();
-  }
-  return kuroshiroInstancePromise;
+// {kanji|reading}  ->  <ruby>kanji<rt>reading</rt></ruby>
+function rubyToHtml(html) {
+  return html.replace(/\{([^|{}]+)\|([^|{}]+)\}/g, "<ruby>$1<rt>$2</rt></ruby>");
 }
 
-// Injects the small amount of CSS the furigana button/line need,
-// so nothing has to be added to styles.css by hand.
-function injectFuriganaStyles() {
-  if (document.getElementById("furigana-inline-styles")) return;
-  const style = document.createElement("style");
-  style.id = "furigana-inline-styles";
-  style.textContent = `
-    .furigana-btn {
-      display: inline-block;
-      margin: 6px 0 4px;
-      padding: 4px 10px;
-      font-size: 0.85rem;
-      border: 1px solid #ccc;
-      border-radius: 6px;
-      background: #f3f4f6;
-      cursor: pointer;
-    }
-    .furigana-btn:hover { background: #e5e7eb; }
-    .furigana-btn:disabled { opacity: 0.6; cursor: default; }
-    .furigana-line {
-      margin: 4px 0 10px;
-      padding: 8px 10px;
-      background: #f9fafb;
-      border-left: 3px solid #93c5fd;
-      border-radius: 4px;
-      line-height: 2.1;
-      font-size: 1rem;
-    }
-    .furigana-line[hidden] { display: none; }
-    .furigana-line ruby rt { font-size: 0.6em; color: #374151; }
-    .furigana-target { border-bottom: 1px dashed #9ca3af; }
-    .furigana-error { color: #991b1b; font-size: 0.85rem; }
-  `;
-  document.head.appendChild(style);
+// {kanji|reading}  ->  kanji   (readings hidden)
+function rubyToPlain(html) {
+  return html.replace(/\{([^|{}]+)\|([^|{}]+)\}/g, "$1");
 }
-
-function stripHtml(html) {
-  const tmp = document.createElement("div");
-  tmp.innerHTML = html;
-  return tmp.textContent || tmp.innerText || "";
-}
-
-function escapeHtml(text) {
-  const tmp = document.createElement("div");
-  tmp.textContent = text;
-  return tmp.innerHTML;
-}
-
-// Converts plain text to furigana HTML, leaving any 「...」-quoted
-// segment untouched (that's the word being tested).
-async function convertToFuriganaPreservingTarget(kuroshiro, plainText) {
-  const parts = plainText.split(/(「[^」]*」)/g);
-  let result = "";
-  for (const part of parts) {
-    if (!part) continue;
-    if (/^「[^」]*」$/.test(part)) {
-      result += `<span class="furigana-target">${escapeHtml(part)}</span>`;
-    } else {
-      result += await kuroshiro.convert(part, { to: "hiragana", mode: "furigana" });
-    }
-  }
-  return result;
-}
-
-// Shows/hides the furigana line under a question, converting
-// (and caching) the reading the first time it's requested.
-async function toggleFurigana(question, button, furiganaLine) {
-  const isCurrentlyHidden = furiganaLine.hidden;
-
-  if (!isCurrentlyHidden) {
-    furiganaLine.hidden = true;
-    button.textContent = "Show reading";
-    return;
-  }
-
-  if (question._furiganaHtml) {
-    furiganaLine.innerHTML = question._furiganaHtml;
-    furiganaLine.hidden = false;
-    button.textContent = "Hide reading";
-    return;
-  }
-
-  button.disabled = true;
-  const originalLabel = button.textContent;
-  button.textContent = "Converting...";
-
-  try {
-    const kuroshiro = await getKuroshiro();
-    const plainText = stripHtml(question.questionHtml);
-    const furiganaHtml = await convertToFuriganaPreservingTarget(kuroshiro, plainText);
-    question._furiganaHtml = furiganaHtml;
-    furiganaLine.innerHTML = furiganaHtml;
-    furiganaLine.hidden = false;
-    button.textContent = "Hide reading";
-  } catch (error) {
-    furiganaLine.innerHTML = `<span class="furigana-error">Could not load furigana: ${error.message}</span>`;
-    furiganaLine.hidden = false;
-    button.textContent = originalLabel;
-  } finally {
-    button.disabled = false;
-  }
-}
-
-injectFuriganaStyles();
 
 /* ============================================================
-   End furigana feature
+   End furigana
    ============================================================ */
 
 async function loadPage() {
   submitted = false;
   score.textContent = "";
   questionContainer.innerHTML = "<p>Loading questions...</p>";
-  
+  document.addEventListener('contextmenu', function(e) {
+    e.preventDefault();
+  });
+  document.addEventListener('copy', function(e) {
+    e.preventDefault();
+  });
+  document.addEventListener('keydown', function(e) {
+    if (e.keyCode === 123 || (e.ctrlKey && e.shiftKey && (e.keyCode === 73 || e.keyCode === 74)) || (e.ctrlKey && e.keyCode === 85)) {
+      e.preventDefault();
+    }
+  });
   try {
     const response = await fetch(filePath());
     if (!response.ok) throw new Error("File not found");
@@ -203,10 +86,11 @@ function renderQuestions() {
     card.appendChild(number);
 
     const prompt = document.createElement("div");
-    prompt.innerHTML = question.questionHtml;
+    prompt.className = "question-text";
+    prompt.innerHTML = rubyToPlain(question.questionHtml);
     card.appendChild(prompt);
 
-    /* ----- Furigana button + line (added) ----- */
+    /* ----- Furigana button ----- */
     const furiganaBtn = document.createElement("button");
     furiganaBtn.type = "button";
     furiganaBtn.style.backgroundColor = "green"; // Changes the button's background color
@@ -215,15 +99,15 @@ function renderQuestions() {
     furiganaBtn.textContent = "Show reading";
     card.appendChild(furiganaBtn);
 
-    const furiganaLine = document.createElement("div");
-    furiganaLine.className = "furigana-line";
-    furiganaLine.hidden = true;
-    card.appendChild(furiganaLine);
-
+    let showingReading = false;
     furiganaBtn.addEventListener("click", () => {
-      toggleFurigana(question, furiganaBtn, furiganaLine);
+      showingReading = !showingReading;
+      prompt.innerHTML = showingReading
+        ? rubyToHtml(question.questionHtml)
+        : rubyToPlain(question.questionHtml);
+      furiganaBtn.textContent = showingReading ? "Hide reading" : "Show reading";
     });
-    /* ----- End addition ----- */
+    /* ----- End furigana button ----- */
 
     question.options.forEach(option => {
       const label = document.createElement("label");
