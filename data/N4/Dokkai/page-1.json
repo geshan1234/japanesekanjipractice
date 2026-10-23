@@ -3,489 +3,108 @@
     "level": "N4",
     "questionType": "Dokkai",
     "page": 1,
-    "questionsPerPage": 20,
-    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+    "totalPages": 1,
+    "description": "Edit passageHtml, difficultWords, questions, options, correctAnswer, and explanationHtml. Use {kanji|reading} for furigana."
   },
-  "questions": [
+  "passages": [
     {
-      "id": "N4-Dokkai-p1-q1",
-      "questionHtml": "<p><strong>Sample Dokkai question 1</strong></p><p>Edit this HTML question in the JSON file.</p>",
-      "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
+      "id": "N4-Dokkai-p1-r1",
+      "title": "Passage 1",
+      "passageHtml": "<p>{あて|あて}{先|さき} ： 2011kawashamazemi@groups.ac.jp</p><p>{件名|けんめい} ： {川島|かわしま}{先生|せんせい}のお{別|わ}れ{会|かい}について</p><p>{送信|そうしん}{日時|にちじ} ： 2011{年|ねん}6{月|がつ}30{日|にち} 16:20</p><hr><p>{川島|かわしま}{先生|せんせい}のお{別|わ}れ{会|かい}について、{詳|くわ}しいことが{決|き}まりましたので、お{知|し}らせします。</p><p>7{月|がつ}8{日|にち}（{金|きん}）までに{参加|さんか}するかどうかを{返信|へんしん}してください。</p><p></p><p style=\"padding-left: 40px;\">{日時|にちじ} ： 8{月|がつ}10{日|にち}（{水|すい}） {午後|ごご}7{時|じ}～9{時|じ}</p><p style=\"padding-left: 40px;\">{会場|かいじょう} ： レストラン「{春|ハル}」</p><p style=\"padding-left: 40px;\">{会費|かいひ} ： 3,000{円|えん}</p><p style=\"padding-left: 40px;\">{記念品|きねんひん}{代|だい} ： 500{円|えん}（{記念品|きねんひん}としてネクタイを{贈|おく}りたいと{思|おも}います）</p><p></p><p>{会費|かいひ}と{記念品|きねんひん}{代|だい}は{会場|かいじょう}で{集|あつ}めます。</p><p>{参加|さんか}できない{人|ひと}は、{記念品|きねんひん}{代|だい}だけを7{月|がつ}{中|ちゅう}にお{払|はら}いにください。</p><p></p><p>{大田|おおた}</p>",
+      "difficultWords": [
+        { "word": "散歩", "reading": "さんぽ", "meaning": "walk, stroll" },
+        { "word": "池", "reading": "いけ", "meaning": "pond" },
+        { "word": "一緒", "reading": "いっしょ", "meaning": "together" },
+        { "word": "弁当", "reading": "べんとう", "meaning": "boxed lunch" },
+        { "word": "つもり", "reading": "", "meaning": "intention, plan" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+      "questions": [
+        {
+          "id": "N4-Dokkai-p1-r1-q1",
+          "questionHtml": "<p>{私|わたし}は{毎週|まいしゅう}{日曜日|にちようび}にどこで{散歩|さんぽ}しますか。</p>",
+          "options": [
+            { "id": "a", "html": "近くの公園" },
+            { "id": "b", "html": "友達の家" },
+            { "id": "c", "html": "図書館" },
+            { "id": "d", "html": "池の前のレストラン" }
+          ],
+          "correctAnswer": "a",
+          "explanationHtml": "<p>「近くの公園を散歩します」と書いてあります。</p>"
+        },
+        {
+          "id": "N4-Dokkai-p1-r1-q2",
+          "questionHtml": "<p>{先週|せんしゅう}、{公園|こうえん}で{何|なに}をしましたか。</p>",
+          "options": [
+            { "id": "a", "html": "本を読みました" },
+            { "id": "b", "html": "お弁当を食べました" },
+            { "id": "c", "html": "鳥を買いました" },
+            { "id": "d", "html": "雨の中を歩きました" }
+          ],
+          "correctAnswer": "b",
+          "explanationHtml": "<p>天気がよかったので、池の前でお弁当を食べました。</p>"
+        },
+        {
+          "id": "N4-Dokkai-p1-r1-q3",
+          "questionHtml": "<p>{来週|らいしゅう}は{何|なに}をするつもりですか。</p>",
+          "options": [
+            { "id": "a", "html": "公園で散歩する" },
+            { "id": "b", "html": "友達とお弁当を食べる" },
+            { "id": "c", "html": "家で本を読む" },
+            { "id": "d", "html": "池で鳥を見る" }
+          ],
+          "correctAnswer": "c",
+          "explanationHtml": "<p>雨かもしれないので、家で本を読むつもりです。</p>"
+        }
+      ]
     },
     {
-      "id": "N4-Dokkai-p1-q2",
-      "questionHtml": "<p><strong>Sample Dokkai question 2</strong></p><p>Edit this HTML question in the JSON file.</p>",
-      "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
+      "id": "N4-Dokkai-p1-r2",
+      "title": "Passage 2",
+      "passageHtml": "<p>{山田|やまだ}さんへ</p><p>{明日|あした}の{会議|かいぎ}は{午後|ごご}{二時|にじ}からです。{場所|ばしょ}は{三階|さんがい}の{会議室|かいぎしつ}に{変|か}わりました。{資料|しりょう}は{私|わたし}が{準備|じゅんび}しますから、{持|も}って{来|こ}なくてもいいです。ただし、{自分|じぶん}のノートは{忘|わす}れないでください。</p><p style=\"text-align:right\">{鈴木|すずき}</p>",
+      "difficultWords": [
+        { "word": "会議室", "reading": "かいぎしつ", "meaning": "meeting room" },
+        { "word": "資料", "reading": "しりょう", "meaning": "materials, documents" },
+        { "word": "準備", "reading": "じゅんび", "meaning": "preparation" },
+        { "word": "忘れる", "reading": "わすれる", "meaning": "to forget" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
-    },
-    {
-      "id": "N4-Dokkai-p1-q3",
-      "questionHtml": "<p><strong>Sample Dokkai question 3</strong></p><p>Edit this HTML question in the JSON file.</p>",
-      "options": [
+      "questions": [
         {
-          "id": "a",
-          "html": "Answer A"
+          "id": "N4-Dokkai-p1-r2-q1",
+          "questionHtml": "<p>{会議|かいぎ}は{何時|なんじ}からですか。</p>",
+          "options": [
+            { "id": "a", "html": "午前二時" },
+            { "id": "b", "html": "午後二時" },
+            { "id": "c", "html": "午後三時" },
+            { "id": "d", "html": "午前三時" }
+          ],
+          "correctAnswer": "b",
+          "explanationHtml": "<p>明日の会議は午後二時からです。</p>"
         },
         {
-          "id": "b",
-          "html": "Answer B"
+          "id": "N4-Dokkai-p1-r2-q2",
+          "questionHtml": "<p>{会議|かいぎ}はどこでありますか。</p>",
+          "options": [
+            { "id": "a", "html": "二階の会議室" },
+            { "id": "b", "html": "三階の会議室" },
+            { "id": "c", "html": "山田さんの部屋" },
+            { "id": "d", "html": "鈴木さんの家" }
+          ],
+          "correctAnswer": "b",
+          "explanationHtml": "<p>場所は三階の会議室に変わりました。</p>"
         },
         {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
+          "id": "N4-Dokkai-p1-r2-q3",
+          "questionHtml": "<p>{山田|やまだ}さんは{何|なに}を{持|も}って{行|い}かなければなりませんか。</p>",
+          "options": [
+            { "id": "a", "html": "資料" },
+            { "id": "b", "html": "何も持たなくてもいい" },
+            { "id": "c", "html": "自分のノート" },
+            { "id": "d", "html": "資料とノート" }
+          ],
+          "correctAnswer": "c",
+          "explanationHtml": "<p>資料は鈴木さんが準備しますが、ノートは忘れないでくださいと書いてあります。</p>"
         }
-      ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
-    },
-    {
-      "id": "N4-Dokkai-p1-q4",
-      "questionHtml": "<p><strong>Sample Dokkai question 4</strong></p><p>Edit this HTML question in the JSON file.</p>",
-      "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
-      ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
-    },
-    {
-      "id": "N4-Dokkai-p1-q5",
-      "questionHtml": "<p><strong>Sample Dokkai question 5</strong></p><p>Edit this HTML question in the JSON file.</p>",
-      "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
-      ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
-    },
-    {
-      "id": "N4-Dokkai-p1-q6",
-      "questionHtml": "<p><strong>Sample Dokkai question 6</strong></p><p>Edit this HTML question in the JSON file.</p>",
-      "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
-      ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
-    },
-    {
-      "id": "N4-Dokkai-p1-q7",
-      "questionHtml": "<p><strong>Sample Dokkai question 7</strong></p><p>Edit this HTML question in the JSON file.</p>",
-      "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
-      ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
-    },
-    {
-      "id": "N4-Dokkai-p1-q8",
-      "questionHtml": "<p><strong>Sample Dokkai question 8</strong></p><p>Edit this HTML question in the JSON file.</p>",
-      "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
-      ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
-    },
-    {
-      "id": "N4-Dokkai-p1-q9",
-      "questionHtml": "<p><strong>Sample Dokkai question 9</strong></p><p>Edit this HTML question in the JSON file.</p>",
-      "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
-      ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
-    },
-    {
-      "id": "N4-Dokkai-p1-q10",
-      "questionHtml": "<p><strong>Sample Dokkai question 10</strong></p><p>Edit this HTML question in the JSON file.</p>",
-      "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
-      ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
-    },
-    {
-      "id": "N4-Dokkai-p1-q11",
-      "questionHtml": "<p><strong>Sample Dokkai question 11</strong></p><p>Edit this HTML question in the JSON file.</p>",
-      "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
-      ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
-    },
-    {
-      "id": "N4-Dokkai-p1-q12",
-      "questionHtml": "<p><strong>Sample Dokkai question 12</strong></p><p>Edit this HTML question in the JSON file.</p>",
-      "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
-      ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
-    },
-    {
-      "id": "N4-Dokkai-p1-q13",
-      "questionHtml": "<p><strong>Sample Dokkai question 13</strong></p><p>Edit this HTML question in the JSON file.</p>",
-      "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
-      ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
-    },
-    {
-      "id": "N4-Dokkai-p1-q14",
-      "questionHtml": "<p><strong>Sample Dokkai question 14</strong></p><p>Edit this HTML question in the JSON file.</p>",
-      "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
-      ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
-    },
-    {
-      "id": "N4-Dokkai-p1-q15",
-      "questionHtml": "<p><strong>Sample Dokkai question 15</strong></p><p>Edit this HTML question in the JSON file.</p>",
-      "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
-      ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
-    },
-    {
-      "id": "N4-Dokkai-p1-q16",
-      "questionHtml": "<p><strong>Sample Dokkai question 16</strong></p><p>Edit this HTML question in the JSON file.</p>",
-      "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
-      ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
-    },
-    {
-      "id": "N4-Dokkai-p1-q17",
-      "questionHtml": "<p><strong>Sample Dokkai question 17</strong></p><p>Edit this HTML question in the JSON file.</p>",
-      "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
-      ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
-    },
-    {
-      "id": "N4-Dokkai-p1-q18",
-      "questionHtml": "<p><strong>Sample Dokkai question 18</strong></p><p>Edit this HTML question in the JSON file.</p>",
-      "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
-      ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
-    },
-    {
-      "id": "N4-Dokkai-p1-q19",
-      "questionHtml": "<p><strong>Sample Dokkai question 19</strong></p><p>Edit this HTML question in the JSON file.</p>",
-      "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
-      ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
-    },
-    {
-      "id": "N4-Dokkai-p1-q20",
-      "questionHtml": "<p><strong>Sample Dokkai question 20</strong></p><p>Edit this HTML question in the JSON file.</p>",
-      "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
-      ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+      ]
     }
   ]
 }
