@@ -367,7 +367,7 @@ function renderDokkai() {
     toolbar.append(
       furiganaBtn,
       makeToggleButton("Difficult words", wordsPanel, () => buildWordList(wordsPanel, passage)),
-      makeToggleButton("Edit words", editPanel, () => buildWordEditor(editPanel, passage, refreshWords))
+      // makeToggleButton("Edit words", editPanel, () => buildWordEditor(editPanel, passage, refreshWords))
     );
     card.append(toolbar, wordsPanel, editPanel);
 
