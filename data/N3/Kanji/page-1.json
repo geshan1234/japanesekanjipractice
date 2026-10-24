@@ -9,483 +9,243 @@
   "questions": [
     {
       "id": "N3-Kanji-p1-q1",
-      "questionHtml": "<p><strong>Sample Kanji question 1</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "questionHtml": "<p>この{道|みち}に「駐車」してはいけません。「駐車」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
+        { "id": "a", "html": "ちゅうしゃ" },
+        { "id": "b", "html": "ちゅうじゃ" },
+        { "id": "c", "html": "ちゅしゃ" },
+        { "id": "d", "html": "ちゅうしゅ" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+      "explanationHtml": "<p>駐車（ちゅうしゃ）と読みます。<span>Meaning: <strong>to park (a car, bike...)</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p1-q2",
-      "questionHtml": "<p><strong>Sample Kanji question 2</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "questionHtml": "<p>{車|くるま}を「駐車場」に{止|と}めます。「駐車場」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
+        { "id": "a", "html": "ちゅうしゃば" },
+        { "id": "b", "html": "ちゅうしゃじょう" },
+        { "id": "c", "html": "ちゅうじゃじょう" },
+        { "id": "d", "html": "ちゅうしゃにわ" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>駐車場（ちゅうしゃじょう）と読みます。<span>Meaning: <strong>parking area</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p1-q3",
-      "questionHtml": "<p><strong>Sample Kanji question 3</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "questionHtml": "<p>{軍隊|ぐんたい}が{新|あたら}しい{基地|きち}に「移駐」しました。「移駐」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
+        { "id": "a", "html": "いじゅう" },
+        { "id": "b", "html": "いちゅう" },
+        { "id": "c", "html": "わたりちゅう" },
+        { "id": "d", "html": "いちゅ" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>移駐（いちゅう）と読みます。<span>Meaning: <strong>moving; transferring</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p1-q4",
-      "questionHtml": "<p><strong>Sample Kanji question 4</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "questionHtml": "<p>{父|ちち}は{海外|かいがい}に「駐在」しています。「駐在」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
+        { "id": "a", "html": "ちゅうさい" },
+        { "id": "b", "html": "ちゅざい" },
+        { "id": "c", "html": "ちゅうざい" },
+        { "id": "d", "html": "ちゅうあり" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>駐在（ちゅうざい）と読みます。<span>Meaning: <strong>residence; stay; (job) posting; being stationed (overseas, etc.)</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p1-q5",
-      "questionHtml": "<p><strong>Sample Kanji question 5</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "questionHtml": "<p>「駐日」{大使|たいし}が{会見|かいけん}を{開|ひら}きました。「駐日」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
+        { "id": "a", "html": "ちゅうにち" },
+        { "id": "b", "html": "ちゅうじつ" },
+        { "id": "c", "html": "ちゅにち" },
+        { "id": "d", "html": "ちゅうび" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+      "explanationHtml": "<p>駐日（ちゅうにち）と読みます。<span>Meaning: <strong>resident in Japan</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p1-q6",
-      "questionHtml": "<p><strong>Sample Kanji question 6</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "questionHtml": "<p>{彼|かれ}は「駐英」{大使|たいし}として{働|はたら}いています。「駐英」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
+        { "id": "a", "html": "ちゅうえん" },
+        { "id": "b", "html": "ちゅうえ" },
+        { "id": "c", "html": "ちゅえい" },
+        { "id": "d", "html": "ちゅうえい" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>駐英（ちゅうえい）と読みます。<span>Meaning: <strong>stationed in the United Kingdom; resident in the United Kingdom</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p1-q7",
-      "questionHtml": "<p><strong>Sample Kanji question 7</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "questionHtml": "<p>{彼|かれ}は「駐米」{大使|たいし}を{務|つと}めました。「駐米」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
+        { "id": "a", "html": "ちゅうまい" },
+        { "id": "b", "html": "ちゅうべい" },
+        { "id": "c", "html": "ちゅべい" },
+        { "id": "d", "html": "ちゅうこめ" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>駐米（ちゅうべい）と読みます。<span>Meaning: <strong>stationed in the United States; resident in the United States</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p1-q8",
-      "questionHtml": "<p><strong>Sample Kanji question 8</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "questionHtml": "<p>ここは「駐禁」の{場所|ばしょ}です。「駐禁」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
+        { "id": "a", "html": "ちゅうぎん" },
+        { "id": "b", "html": "ちゅきん" },
+        { "id": "c", "html": "ちゅうきん" },
+        { "id": "d", "html": "ちゅうこん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>駐禁（ちゅうきん）と読みます。<span>Meaning: <strong>no parking</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p1-q9",
-      "questionHtml": "<p><strong>Sample Kanji question 9</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "questionHtml": "<p>この{駐車場|ちゅうしゃじょう}は「無料」です。「無料」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
+        { "id": "a", "html": "ぶりょう" },
+        { "id": "b", "html": "むりょう" },
+        { "id": "c", "html": "むりょ" },
+        { "id": "d", "html": "ないりょう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>無料（むりょう）と読みます。<span>Meaning: <strong>free (of charge)</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p1-q10",
-      "questionHtml": "<p><strong>Sample Kanji question 10</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "questionHtml": "<p>{一人|ひとり}でこの{荷物|にもつ}を{運|はこ}ぶのは「無理」です。「無理」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
+        { "id": "a", "html": "ぶり" },
+        { "id": "b", "html": "むいり" },
+        { "id": "c", "html": "むりい" },
+        { "id": "d", "html": "むり" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>無理（むり）と読みます。<span>Meaning: <strong>impossible, unreasonable</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p1-q11",
-      "questionHtml": "<p><strong>Sample Kanji question 11</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "questionHtml": "<p>{財布|さいふ}にお{金|かね}が「無い」。「無い」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
+        { "id": "a", "html": "なし" },
+        { "id": "b", "html": "むい" },
+        { "id": "c", "html": "ない" },
+        { "id": "d", "html": "ぶい" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>無い（ない）と読みます。<span>Meaning: <strong>unpossessed; unowned</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p1-q12",
-      "questionHtml": "<p><strong>Sample Kanji question 12</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "questionHtml": "<p>{駐車場|ちゅうしゃじょう}は「満車」でした。「満車」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
+        { "id": "a", "html": "まんぐるま" },
+        { "id": "b", "html": "まんしゃ" },
+        { "id": "c", "html": "まんくるま" },
+        { "id": "d", "html": "みちしゃ" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>満車（まんしゃ）と読みます。<span>Meaning: <strong>(parking lot) be full of cars</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p1-q13",
-      "questionHtml": "<p><strong>Sample Kanji question 13</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "questionHtml": "<p>{朝|あさ}の{電車|でんしゃ}は「満員」です。「満員」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
+        { "id": "a", "html": "まんえん" },
+        { "id": "b", "html": "まいん" },
+        { "id": "c", "html": "みちいん" },
+        { "id": "d", "html": "まんいん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>満員（まんいん）と読みます。<span>Meaning: <strong>crowded, full of people</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p1-q14",
-      "questionHtml": "<p><strong>Sample Kanji question 14</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "questionHtml": "<p>{彼|かれ}は{給料|きゅうりょう}に「不満」があるようです。「不満」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
+        { "id": "a", "html": "ぶまん" },
+        { "id": "b", "html": "ふまん" },
+        { "id": "c", "html": "ふみつ" },
+        { "id": "d", "html": "ふまま" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>不満（ふまん）と読みます。<span>Meaning: <strong>not enough (people); unsatisfied, dissatisfied</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p1-q15",
-      "questionHtml": "<p><strong>Sample Kanji question 15</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "questionHtml": "<p>{駅|えき}はどちらの「方向」ですか。「方向」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
+        { "id": "a", "html": "ほこう" },
+        { "id": "b", "html": "ぼうこう" },
+        { "id": "c", "html": "ほうこう" },
+        { "id": "d", "html": "ほうごう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>方向（ほうこう）と読みます。<span>Meaning: <strong>direction</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p1-q16",
-      "questionHtml": "<p><strong>Sample Kanji question 16</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "questionHtml": "<p>{私|わたし}は{今|いま}{空港|くうこう}に「向かう」{途中|とちゅう}です。「向かう」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
+        { "id": "a", "html": "むこう" },
+        { "id": "b", "html": "むきあう" },
+        { "id": "c", "html": "こうかう" },
+        { "id": "d", "html": "むかう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>向かう（むかう）と読みます。<span>Meaning: <strong>to face</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p1-q17",
-      "questionHtml": "<p><strong>Sample Kanji question 17</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "questionHtml": "<p>{川|かわ}の「向こう」に{大|おお}きな{建物|たてもの}が{見|み}えます。「向こう」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
+        { "id": "a", "html": "むかこう" },
+        { "id": "b", "html": "むかう" },
+        { "id": "c", "html": "むこう" },
+        { "id": "d", "html": "むきこう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>向こう（むこう）と読みます。<span>Meaning: <strong>other side, that side, there</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p1-q18",
-      "questionHtml": "<p><strong>Sample Kanji question 18</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "questionHtml": "<p>{車|くるま}の「向き」を{変|か}えてください。「向き」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
+        { "id": "a", "html": "こうき" },
+        { "id": "b", "html": "むけ" },
+        { "id": "c", "html": "ほうき" },
+        { "id": "d", "html": "むき" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>向き（むき）と読みます。<span>Meaning: <strong>direction (car)</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p1-q19",
-      "questionHtml": "<p><strong>Sample Kanji question 19</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "questionHtml": "<p>ここでの{喫煙|きつえん}は「禁止」です。「禁止」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
+        { "id": "a", "html": "きんじ" },
+        { "id": "b", "html": "きんし" },
+        { "id": "c", "html": "ぎんし" },
+        { "id": "d", "html": "きんしょう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>禁止（きんし）と読みます。<span>Meaning: <strong>prohibition, ban, forbid</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p1-q20",
-      "questionHtml": "<p><strong>Sample Kanji question 20</strong></p><p>Edit this HTML question in the JSON file.</p>",
+      "questionHtml": "<p>それは{誰|だれ}も{触|ふ}れてはいけない「禁断」の{果実|かじつ}です。「禁断」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        {
-          "id": "a",
-          "html": "Answer A"
-        },
-        {
-          "id": "b",
-          "html": "Answer B"
-        },
-        {
-          "id": "c",
-          "html": "Answer C"
-        },
-        {
-          "id": "d",
-          "html": "Answer D"
-        }
+        { "id": "a", "html": "きんたん" },
+        { "id": "b", "html": "ぎんだん" },
+        { "id": "c", "html": "きんだん" },
+        { "id": "d", "html": "きんどん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>Add an explanation or corrected answer here.</p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>禁断（きんだん）と読みます。<span>Meaning: <strong>prohibition; interdiction</strong></span></p>"
     }
   ]
 }

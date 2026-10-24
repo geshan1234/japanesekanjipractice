@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 4,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p4-q1",
+      "questionHtml": "<p>{彼|かれ}の「横柄」な{話|はな}し{方|かた}に{腹|はら}が{立|た}ちました。「横柄」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おうがら" },
+        { "id": "b", "html": "よこへい" },
+        { "id": "c", "html": "おうべい" },
+        { "id": "d", "html": "おうへい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>横柄（おうへい）と読みます。<span>Meaning: <strong>arrogant; haughty; insolent</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p4-q2",
+      "questionHtml": "<p>{書類|しょるい}の「形式」は{自由|じゆう}です。「形式」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいじき" },
+        { "id": "b", "html": "けいしき" },
+        { "id": "c", "html": "かたしき" },
+        { "id": "d", "html": "けいしこ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>形式（けいしき）と読みます。<span>Meaning: <strong>format; form; style; manner</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p4-q3",
+      "questionHtml": "<p>{卒業|そつぎょう}の「式典」が{行|おこな}われました。「式典」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しきてん" },
+        { "id": "b", "html": "しきでん" },
+        { "id": "c", "html": "しきたん" },
+        { "id": "d", "html": "しきてい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>式典（しきてん）と読みます。<span>Meaning: <strong>ceremony; rites</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p4-q4",
+      "questionHtml": "<p>{結婚式|けっこんしき}には「式服」を{着|き}ます。「式服」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しきぶく" },
+        { "id": "b", "html": "しきふ" },
+        { "id": "c", "html": "しきふく" },
+        { "id": "d", "html": "しょくふく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>式服（しきふく）と読みます。<span>Meaning: <strong>ceremonial dress</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p4-q5",
+      "questionHtml": "<p>{結婚|けっこん}の「式場」を{予約|よやく}しました。「式場」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しきば" },
+        { "id": "b", "html": "しきちょう" },
+        { "id": "c", "html": "しきじょ" },
+        { "id": "d", "html": "しきじょう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>式場（しきじょう）と読みます。<span>Meaning: <strong>ceremonial hall (e.g. wedding, funeral); hall for ceremonies</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p4-q6",
+      "questionHtml": "<p>{今日|きょう}は{学校|がっこう}の「式日」です。「式日」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しきにち" },
+        { "id": "b", "html": "しきじつ" },
+        { "id": "c", "html": "しきひ" },
+        { "id": "d", "html": "しょくじつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>式日（しきじつ）と読みます。<span>Meaning: <strong>day of a ceremony or event</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p4-q7",
+      "questionHtml": "<p>{古|ふる}い「儀式」が{今|いま}も{残|のこ}っています。「儀式」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きしき" },
+        { "id": "b", "html": "ぎじき" },
+        { "id": "c", "html": "ぎしき" },
+        { "id": "d", "html": "ぎしこ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>儀式（ぎしき）と読みます。<span>Meaning: <strong>ceremony; rite; ritual; service</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p4-q8",
+      "questionHtml": "<p>これは「公式」の{発表|はっぴょう}です。「公式」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうしき" },
+        { "id": "b", "html": "こうしょく" },
+        { "id": "c", "html": "くしき" },
+        { "id": "d", "html": "こうじき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>公式（こうしき）と読みます。<span>Meaning: <strong>official; formal</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p4-q9",
+      "questionHtml": "<p>{会社|かいしゃ}の「株式」を{買|か}いました。「株式」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かぶしょく" },
+        { "id": "b", "html": "かぶじき" },
+        { "id": "c", "html": "かぶき" },
+        { "id": "d", "html": "かぶしき" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>株式（かぶしき）と読みます。<span>Meaning: <strong>share (in a company); stock</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p4-q10",
+      "questionHtml": "<p>{来週|らいしゅう}、「正式」に{契約|けいやく}します。「正式」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうしき" },
+        { "id": "b", "html": "せいしき" },
+        { "id": "c", "html": "せいしょく" },
+        { "id": "d", "html": "せいじき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>正式（せいしき）と読みます。<span>Meaning: <strong>due form; official; formality</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p4-q11",
+      "questionHtml": "<p>この{信号|しんごう}は「押しボタン式」です。「押しボタン式」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おしぼたんしょく" },
+        { "id": "b", "html": "おうぼたんしき" },
+        { "id": "c", "html": "おしぼたんしき" },
+        { "id": "d", "html": "おしぼたんじき" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>押しボタン式（おしぼたんしき）と読みます。<span>Meaning: <strong>push-button operated</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p4-q12",
+      "questionHtml": "<p>{来月|らいげつ}、「入学式」があります。「入学式」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "にゅうがくしき" },
+        { "id": "b", "html": "にゅうがくしょく" },
+        { "id": "c", "html": "いりがくしき" },
+        { "id": "d", "html": "にゅうがくじき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>入学式（にゅうがくしき）と読みます。<span>Meaning: <strong>school entrance ceremony</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p4-q13",
+      "questionHtml": "<p>{黒板|こくばん}に「数式」を{書|か}きます。「数式」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かずしき" },
+        { "id": "b", "html": "すうしょく" },
+        { "id": "c", "html": "すしき" },
+        { "id": "d", "html": "すうしき" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>数式（すうしき）と読みます。<span>Meaning: <strong>numerical formula</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p4-q14",
+      "questionHtml": "<p>メールを「送信」しました。「送信」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そうじん" },
+        { "id": "b", "html": "そうしん" },
+        { "id": "c", "html": "おくしん" },
+        { "id": "d", "html": "そしん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>送信（そうしん）と読みます。<span>Meaning: <strong>sending; transmission</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p4-q15",
+      "questionHtml": "<p>{私|わたし}は{友達|ともだち}の{言葉|ことば}を「信じる」。「信じる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しじる" },
+        { "id": "b", "html": "しんにる" },
+        { "id": "c", "html": "しんじる" },
+        { "id": "d", "html": "しんじゅる" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>信じる（しんじる）と読みます。<span>Meaning: <strong>trust</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p4-q16",
+      "questionHtml": "<p>{彼|かれ}のことは「信用」できません。「信用」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんよう" },
+        { "id": "b", "html": "しんゆう" },
+        { "id": "c", "html": "しんよ" },
+        { "id": "d", "html": "しんにょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>信用（しんよう）と読みます。<span>Meaning: <strong>reliance</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p4-q17",
+      "questionHtml": "<p>{私|わたし}は{英語|えいご}に「自信」があります。「自信」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じしょう" },
+        { "id": "b", "html": "しじん" },
+        { "id": "c", "html": "ししん" },
+        { "id": "d", "html": "じしん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>自信（じしん）と読みます。<span>Meaning: <strong>confident</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p4-q18",
+      "questionHtml": "<p>「信号」が{赤|あか}になりました。「信号」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんこう" },
+        { "id": "b", "html": "しんごう" },
+        { "id": "c", "html": "しんぎょう" },
+        { "id": "d", "html": "しんそう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>信号（しんごう）と読みます。<span>Meaning: <strong>signal; red light</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p4-q19",
+      "questionHtml": "<p>{私|わたし}は{三|さん}「号車」に{乗|の}ります。「号車」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ごうくるま" },
+        { "id": "b", "html": "こうしゃ" },
+        { "id": "c", "html": "ごうしゃ" },
+        { "id": "d", "html": "ごしゃ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>号車（ごうしゃ）と読みます。<span>Meaning: <strong>car number...</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p4-q20",
+      "questionHtml": "<p>{電話|でんわ}の「番号」を{教|おし}えてください。「番号」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ばんごう" },
+        { "id": "b", "html": "ばんこう" },
+        { "id": "c", "html": "ばんぎょう" },
+        { "id": "d", "html": "ばんぞう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>番号（ばんごう）と読みます。<span>Meaning: <strong>number; series of digits</strong></span></p>"
+    }
+  ]
+}

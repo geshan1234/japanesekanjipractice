@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 12,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p12-q1",
+      "questionHtml": "<p>{新幹線|しんかんせん}の「指定席」を{予約|よやく}しました。「指定席」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "していぜき" },
+        { "id": "b", "html": "していせき" },
+        { "id": "c", "html": "しじせき" },
+        { "id": "d", "html": "ゆびていせき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>指定席（していせき）と読みます。<span>Meaning: <strong>reserved seat</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p12-q2",
+      "questionHtml": "<p>{冷|つめ}たくて「指」が{痛|いた}いです。「指」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "し" },
+        { "id": "b", "html": "さし" },
+        { "id": "c", "html": "ゆみ" },
+        { "id": "d", "html": "ゆび" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>指（ゆび）と読みます。<span>Meaning: <strong>finger</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p12-q3",
+      "questionHtml": "<p>{彼女|かのじょ}に「指輪」を{贈|おく}りました。「指輪」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆびわ" },
+        { "id": "b", "html": "ゆびりん" },
+        { "id": "c", "html": "しわ" },
+        { "id": "d", "html": "ゆびぼ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>指輪（ゆびわ）と読みます。<span>Meaning: <strong>ring</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p12-q4",
+      "questionHtml": "<p>{明日|あした}の「予定」を{教|おし}えてください。「予定」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よじょう" },
+        { "id": "b", "html": "よさだ" },
+        { "id": "c", "html": "よてい" },
+        { "id": "d", "html": "よってい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>予定（よてい）と読みます。<span>Meaning: <strong>plans, arrangement</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p12-q5",
+      "questionHtml": "<p>{結果|けっか}が「確定」しました。「確定」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かくじょう" },
+        { "id": "b", "html": "かくてい" },
+        { "id": "c", "html": "たしてい" },
+        { "id": "d", "html": "がくてい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>確定（かくてい）と読みます。<span>Meaning: <strong>decision, settlement</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p12-q6",
+      "questionHtml": "<p>{会議|かいぎ}で「決定」しました。「決定」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けつてい" },
+        { "id": "b", "html": "きめてい" },
+        { "id": "c", "html": "けっじょう" },
+        { "id": "d", "html": "けってい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>決定（けってい）と読みます。<span>Meaning: <strong>determination</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p12-q7",
+      "questionHtml": "<p>{原因|げんいん}を「推定」します。「推定」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "すいてい" },
+        { "id": "b", "html": "おしてい" },
+        { "id": "c", "html": "すいじょう" },
+        { "id": "d", "html": "ずいてい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>推定（すいてい）と読みます。<span>Meaning: <strong>presumption</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p12-q8",
+      "questionHtml": "<p>{証拠|しょうこ}なしに「断定」してはいけません。「断定」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "だんじょう" },
+        { "id": "b", "html": "たんてい" },
+        { "id": "c", "html": "だんてい" },
+        { "id": "d", "html": "ことわてい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>断定（だんてい）と読みます。<span>Meaning: <strong>conclusion</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p12-q9",
+      "questionHtml": "<p>{彼|かれ}はその{話|はなし}を「否定」しました。「否定」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふてい" },
+        { "id": "b", "html": "ひてい" },
+        { "id": "c", "html": "ひじょう" },
+        { "id": "d", "html": "ひってい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>否定（ひてい）と読みます。<span>Meaning: <strong>negation, denial</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p12-q10",
+      "questionHtml": "<p>{場所|ばしょ}を「指定」してください。「指定」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しじょう" },
+        { "id": "b", "html": "ゆびさだ" },
+        { "id": "c", "html": "しじてい" },
+        { "id": "d", "html": "してい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>指定（してい）と読みます。<span>Meaning: <strong>appointment</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p12-q11",
+      "questionHtml": "<p>この{店|みせ}の「定休日」は{水曜日|すいようび}です。「定休日」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ていきゅうび" },
+        { "id": "b", "html": "ていきゅうにち" },
+        { "id": "c", "html": "じょうきゅうび" },
+        { "id": "d", "html": "ていやすみび" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>定休日（ていきゅうび）と読みます。<span>Meaning: <strong>regular holiday</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p12-q12",
+      "questionHtml": "<p>{生活|せいかつ}が「安定」してきました。「安定」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あんじょう" },
+        { "id": "b", "html": "やすてい" },
+        { "id": "c", "html": "あんてい" },
+        { "id": "d", "html": "あんでい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>安定（あんてい）と読みます。<span>Meaning: <strong>stability; steadiness</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p12-q13",
+      "questionHtml": "<p>「客席」は{満員|まんいん}です。「客席」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かくせき" },
+        { "id": "b", "html": "きゃくせき" },
+        { "id": "c", "html": "きゃくぜき" },
+        { "id": "d", "html": "きゃくせい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>客席（きゃくせき）と読みます。<span>Meaning: <strong>guest seating (e.g. theater, stadium); passenger seat (e.g. taxi)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p12-q14",
+      "questionHtml": "<p>{皆|みな}さん、「着席」してください。「着席」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きせき" },
+        { "id": "b", "html": "ちゃくぜき" },
+        { "id": "c", "html": "ちゃくせい" },
+        { "id": "d", "html": "ちゃくせき" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>着席（ちゃくせき）と読みます。<span>Meaning: <strong>taking a seat; sitting down (in one's seat)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p12-q15",
+      "questionHtml": "<p>{電車|でんしゃ}に「空席」がありません。「空席」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くうせき" },
+        { "id": "b", "html": "そらせき" },
+        { "id": "c", "html": "くうぜき" },
+        { "id": "d", "html": "からせき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>空席（くうせき）と読みます。<span>Meaning: <strong>empty seat; unoccupied seat</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p12-q16",
+      "questionHtml": "<p>{今夜|こんや}の{飛行機|ひこうき}は「満席」です。「満席」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "まんぜき" },
+        { "id": "b", "html": "まいせき" },
+        { "id": "c", "html": "まんせき" },
+        { "id": "d", "html": "みちせき" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>満席（まんせき）と読みます。<span>Meaning: <strong>full house; all seats occupied; fully occupied</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p12-q17",
+      "questionHtml": "<p>{彼|かれ}は{国|くに}の「主席」です。「主席」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅうせき" },
+        { "id": "b", "html": "しゅせき" },
+        { "id": "c", "html": "ぬしせき" },
+        { "id": "d", "html": "しゅぜき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>主席（しゅせき）と読みます。<span>Meaning: <strong>head; chief; chairman; governor; president</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p12-q18",
+      "questionHtml": "<p>「席順」を{決|き}めます。「席順」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せきしゅん" },
+        { "id": "b", "html": "せきじゅ" },
+        { "id": "c", "html": "せぎじゅん" },
+        { "id": "d", "html": "せきじゅん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>席順（せきじゅん）と読みます。<span>Meaning: <strong>seating order</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p12-q19",
+      "questionHtml": "<p>{課長|かちょう}は{今|いま}「席外」しています。「席外」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せきがい" },
+        { "id": "b", "html": "せきそと" },
+        { "id": "c", "html": "せきげ" },
+        { "id": "d", "html": "せきかい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>席外（せきがい）と読みます。<span>Meaning: <strong>leaving one's seat</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p12-q20",
+      "questionHtml": "<p>{隣|となり}の「席」に{座|すわ}ります。「席」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "し" },
+        { "id": "b", "html": "せい" },
+        { "id": "c", "html": "せき" },
+        { "id": "d", "html": "ぜき" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>席（せき）と読みます。<span>Meaning: <strong>location (of a gathering, etc.); place</strong></span></p>"
+    }
+  ]
+}

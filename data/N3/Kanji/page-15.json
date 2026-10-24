@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 15,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p15-q1",
+      "questionHtml": "<p>{感染|かんせん}の「経路」を{調|しら}べます。「経路」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいじ" },
+        { "id": "b", "html": "きょうろ" },
+        { "id": "c", "html": "けいろ" },
+        { "id": "d", "html": "けいみち" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>経路（けいろ）と読みます。<span>Meaning: <strong>course; route; path; channel</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p15-q2",
+      "questionHtml": "<p>{庭|にわ}の「迷路」で{遊|あそ}びました。「迷路」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "めいろ" },
+        { "id": "b", "html": "まよいろ" },
+        { "id": "c", "html": "めいじ" },
+        { "id": "d", "html": "みょうろ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>迷路（めいろ）と読みます。<span>Meaning: <strong>maze; labyrinth</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p15-q3",
+      "questionHtml": "<p>{畑|はたけ}に「水路」で{水|みず}を{引|ひ}きます。「水路」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "みずろ" },
+        { "id": "b", "html": "すいじ" },
+        { "id": "c", "html": "すいみち" },
+        { "id": "d", "html": "すいろ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>水路（すいろ）と読みます。<span>Meaning: <strong>waterway; canal; channel; watercourse; aqueduct</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p15-q4",
+      "questionHtml": "<p>{狭|せま}い「路地」を{歩|ある}きました。「路地」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ろち" },
+        { "id": "b", "html": "ろじ" },
+        { "id": "c", "html": "みちじ" },
+        { "id": "d", "html": "ろうじ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>路地（ろじ）と読みます。<span>Meaning: <strong>alley; alleyway; lane</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p15-q5",
+      "questionHtml": "<p>「空路」で{北海道|ほっかいどう}へ{行|い}きます。「空路」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そらろ" },
+        { "id": "b", "html": "くうじ" },
+        { "id": "c", "html": "くうろ" },
+        { "id": "d", "html": "からろ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>空路（くうろ）と読みます。<span>Meaning: <strong>air route; air lane</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p15-q6",
+      "questionHtml": "<p>{山|やま}を{越|こ}えて「陸路」で{進|すす}みます。「陸路」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りくろ" },
+        { "id": "b", "html": "りくじ" },
+        { "id": "c", "html": "おかろ" },
+        { "id": "d", "html": "ろくろ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>陸路（りくろ）と読みます。<span>Meaning: <strong>land route; overland route</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p15-q7",
+      "questionHtml": "<p>{雨|あめ}で「路面」が{滑|すべ}りやすいです。「路面」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ろみ" },
+        { "id": "b", "html": "みちめん" },
+        { "id": "c", "html": "ろうめん" },
+        { "id": "d", "html": "ろめん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>路面（ろめん）と読みます。<span>Meaning: <strong>road surface</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p15-q8",
+      "questionHtml": "<p>{電車|でんしゃ}が「停止」しました。「停止」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ていじ" },
+        { "id": "b", "html": "ていし" },
+        { "id": "c", "html": "ちょうし" },
+        { "id": "d", "html": "とうし" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>停止（ていし）と読みます。<span>Meaning: <strong>stoppage; coming to a stop; halt; standstill</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p15-q9",
+      "questionHtml": "<p>{工事|こうじ}で{交通|こうつう}が「停滞」しています。「停滞」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ていだい" },
+        { "id": "b", "html": "ていたん" },
+        { "id": "c", "html": "ていたい" },
+        { "id": "d", "html": "ちょうたい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>停滞（ていたい）と読みます。<span>Meaning: <strong>stagnation; tie-up; standstill; congestion; delay</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p15-q10",
+      "questionHtml": "<p>{嵐|あらし}で「停電」しました。「停電」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ていでん" },
+        { "id": "b", "html": "ていてん" },
+        { "id": "c", "html": "てんでん" },
+        { "id": "d", "html": "ていでい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>停電（ていでん）と読みます。<span>Meaning: <strong>power outage; electricity outage; blackout</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p15-q11",
+      "questionHtml": "<p>{電車|でんしゃ}は{次|つぎ}の{駅|えき}に「停車」します。「停車」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ていじゃ" },
+        { "id": "b", "html": "とめしゃ" },
+        { "id": "c", "html": "ていしゅ" },
+        { "id": "d", "html": "ていしゃ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>停車（ていしゃ）と読みます。<span>Meaning: <strong>stopping (e.g. train)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p15-q12",
+      "questionHtml": "<p>「バス停」で{友達|ともだち}を{待|ま}ちます。「バス停」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ばすてん" },
+        { "id": "b", "html": "ばすてい" },
+        { "id": "c", "html": "ばすとい" },
+        { "id": "d", "html": "ばすちょう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>バス停（ばすてい）と読みます。<span>Meaning: <strong>bus stop</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p15-q13",
+      "questionHtml": "<p>{車|くるま}が{家|いえ}の{前|まえ}に「停まる」。「停まる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ていまる" },
+        { "id": "b", "html": "ひくまる" },
+        { "id": "c", "html": "とまる" },
+        { "id": "d", "html": "たまる" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>停まる（とまる）と読みます。<span>Meaning: <strong>to stop (moving); to come to a stop</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p15-q14",
+      "questionHtml": "<p>{机|つくえ}の{上|うえ}を「整理」します。「整理」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいり" },
+        { "id": "b", "html": "せいじ" },
+        { "id": "c", "html": "ととのり" },
+        { "id": "d", "html": "せいろ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>整理（せいり）と読みます。<span>Meaning: <strong>sorting; arrangement; adjust</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p15-q15",
+      "questionHtml": "<p>「整理券」を{取|と}ってください。「整理券」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいりげん" },
+        { "id": "b", "html": "せいじけん" },
+        { "id": "c", "html": "せいりかん" },
+        { "id": "d", "html": "せいりけん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>整理券（せいりけん）と読みます。<span>Meaning: <strong>numbered ticket (e.g. to determine order of service in shop, etc.)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p15-q16",
+      "questionHtml": "<p>{競馬|けいば}で「馬券」を{買|か}いました。「馬券」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "うまけん" },
+        { "id": "b", "html": "ばけん" },
+        { "id": "c", "html": "ばげん" },
+        { "id": "d", "html": "まけん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>馬券（ばけん）と読みます。<span>Meaning: <strong>betting ticket; betting slip</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p15-q17",
+      "questionHtml": "<p>{空港|くうこう}で「旅券」を{見|み}せます。「旅券」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りょけん" },
+        { "id": "b", "html": "たびけん" },
+        { "id": "c", "html": "りょげん" },
+        { "id": "d", "html": "りょうけん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>旅券（りょけん）と読みます。<span>Meaning: <strong>passport</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p15-q18",
+      "questionHtml": "<p>{祖父|そふ}は「株券」を{持|も}っています。「株券」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かぶげん" },
+        { "id": "b", "html": "かぶがね" },
+        { "id": "c", "html": "かぶけん" },
+        { "id": "d", "html": "かぶき" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>株券（かぶけん）と読みます。<span>Meaning: <strong>stock certificate</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p15-q19",
+      "questionHtml": "<p>{国|くに}の「債券」を{買|か}いました。「債券」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ざいけん" },
+        { "id": "b", "html": "さいげん" },
+        { "id": "c", "html": "さいかん" },
+        { "id": "d", "html": "さいけん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>債券（さいけん）と読みます。<span>Meaning: <strong>bond; debenture</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p15-q20",
+      "questionHtml": "<p>{食堂|しょくどう}で「食券」を{買|か}います。「食券」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょくけん" },
+        { "id": "b", "html": "しょっけん" },
+        { "id": "c", "html": "しょくげん" },
+        { "id": "d", "html": "たべけん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>食券（しょっけん）と読みます。<span>Meaning: <strong>meal ticket</strong></span></p>"
+    }
+  ]
+}

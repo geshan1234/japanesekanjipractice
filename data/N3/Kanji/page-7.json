@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 7,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p7-q1",
+      "questionHtml": "<p>この{服|ふく}の「値段」は{高|たか}いです。「値段」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちだん" },
+        { "id": "b", "html": "ねたん" },
+        { "id": "c", "html": "ねだん" },
+        { "id": "d", "html": "あたいだん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>値段（ねだん）と読みます。<span>Meaning: <strong>price; cost</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p7-q2",
+      "questionHtml": "<p>{問題|もんだい}を{解決|かいけつ}する「手段」を{考|かんが}えます。「手段」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅだん" },
+        { "id": "b", "html": "てだん" },
+        { "id": "c", "html": "しゅたん" },
+        { "id": "d", "html": "しゅうだん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>手段（しゅだん）と読みます。<span>Meaning: <strong>means; way; measure</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p7-q3",
+      "questionHtml": "<p>「普段」は{電車|でんしゃ}で{通勤|つうきん}しています。「普段」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふたん" },
+        { "id": "b", "html": "ぶだん" },
+        { "id": "c", "html": "ふつだん" },
+        { "id": "d", "html": "ふだん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>普段（ふだん）と読みます。<span>Meaning: <strong>usual; normal; everyday; habitual; ordinary</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p7-q4",
+      "questionHtml": "<p>{工事|こうじ}は{最終|さいしゅう}の「段階」です。「段階」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たんかい" },
+        { "id": "b", "html": "だんかい" },
+        { "id": "c", "html": "だんがい" },
+        { "id": "d", "html": "だんけい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>段階（だんかい）と読みます。<span>Meaning: <strong>stage; step; phase</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p7-q5",
+      "questionHtml": "<p>{今日|きょう}は{昨日|きのう}より「一段」と{寒|さむ}いです。「一段」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いちだん" },
+        { "id": "b", "html": "いったん" },
+        { "id": "c", "html": "いちたん" },
+        { "id": "d", "html": "いちどん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>一段（いちだん）と読みます。<span>Meaning: <strong>even more; still more; much more; further</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p7-q6",
+      "questionHtml": "<p>{文章|ぶんしょう}を{三|みっ}つの「段落」に{分|わ}けます。「段落」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たんらく" },
+        { "id": "b", "html": "だんろく" },
+        { "id": "c", "html": "だんらく" },
+        { "id": "d", "html": "だんおち" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>段落（だんらく）と読みます。<span>Meaning: <strong>paragraph</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p7-q7",
+      "questionHtml": "<p>{本|ほん}は「下段」の{棚|たな}にあります。「下段」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かだん" },
+        { "id": "b", "html": "げだん" },
+        { "id": "c", "html": "したたん" },
+        { "id": "d", "html": "げたん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>下段（げだん）と読みます。<span>Meaning: <strong>lower tier; lower step; lower column; lower berth; bottom shelf</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p7-q8",
+      "questionHtml": "<p>{荷物|にもつ}を「上段」に{置|お}いてください。「上段」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "うえだん" },
+        { "id": "b", "html": "しょうだん" },
+        { "id": "c", "html": "じょうたん" },
+        { "id": "d", "html": "じょうだん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>上段（じょうだん）と読みます。<span>Meaning: <strong>upper tier; upper section; upper deck; upper row</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p7-q9",
+      "questionHtml": "<p>{階段|かいだん}の「中段」で{休|やす}みました。「中段」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちゅうだん" },
+        { "id": "b", "html": "なかだん" },
+        { "id": "c", "html": "ちゅうたん" },
+        { "id": "d", "html": "じゅうだん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>中段（ちゅうだん）と読みます。<span>Meaning: <strong>half-way up a slope or stairway; landing</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p7-q10",
+      "questionHtml": "<p>{長|なが}い「石段」を{登|のぼ}ります。「石段」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せきだん" },
+        { "id": "b", "html": "いしたん" },
+        { "id": "c", "html": "いしだん" },
+        { "id": "d", "html": "いわだん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>石段（いしだん）と読みます。<span>Meaning: <strong>(flight of) stone steps; stone stairway</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p7-q11",
+      "questionHtml": "<p>{部屋|へや}に「書箱」を{置|お}きました。「書箱」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょばこ" },
+        { "id": "b", "html": "しょそう" },
+        { "id": "c", "html": "かきばこ" },
+        { "id": "d", "html": "しょこ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>書箱（しょそう）と読みます。<span>Meaning: <strong>bookcase</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p7-q12",
+      "questionHtml": "<p>{机|つくえ}の{上|うえ}に「箱」があります。「箱」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ばこ" },
+        { "id": "b", "html": "そう" },
+        { "id": "c", "html": "ひこ" },
+        { "id": "d", "html": "はこ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>箱（はこ）と読みます。<span>Meaning: <strong>box, case</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p7-q13",
+      "questionHtml": "<p>{紙|かみ}を「ゴミ箱」に{捨|す}てます。「ゴミ箱」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ごみばこ" },
+        { "id": "b", "html": "ごみはこ" },
+        { "id": "c", "html": "ごみそう" },
+        { "id": "d", "html": "ごみぱこ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>ゴミ箱（ごみばこ）と読みます。<span>Meaning: <strong>recycle bin</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p7-q14",
+      "questionHtml": "<p>{本|ほん}を「本箱」に{入|い}れます。「本箱」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほんはこ" },
+        { "id": "b", "html": "ほんそう" },
+        { "id": "c", "html": "ほんばこ" },
+        { "id": "d", "html": "もとばこ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>本箱（ほんばこ）と読みます。<span>Meaning: <strong>bookcase</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p7-q15",
+      "questionHtml": "<p>{宝物|たからもの}が「大箱」に{入|はい}っていました。「大箱」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "だいばこ" },
+        { "id": "b", "html": "おおばこ" },
+        { "id": "c", "html": "おおはこ" },
+        { "id": "d", "html": "たいはこ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>大箱（おおばこ）と読みます。<span>Meaning: <strong>large box; chest</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p7-q16",
+      "questionHtml": "<p>{棚|たな}の{上|うえ}に「香箱」が{置|お}いてあります。「香箱」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かばこ" },
+        { "id": "b", "html": "こうはこ" },
+        { "id": "c", "html": "かおりばこ" },
+        { "id": "d", "html": "こうばこ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>香箱（こうばこ）と読みます。<span>Meaning: <strong>incense box</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p7-q17",
+      "questionHtml": "<p>ここは「危険」ですから{入|はい}らないでください。「危険」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きけん" },
+        { "id": "b", "html": "あぶけん" },
+        { "id": "c", "html": "ききけん" },
+        { "id": "d", "html": "きげん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>危険（きけん）と読みます。<span>Meaning: <strong>danger</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p7-q18",
+      "questionHtml": "<p>{道|みち}が{暗|くら}くて「危ない」です。「危ない」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きない" },
+        { "id": "b", "html": "あやない" },
+        { "id": "c", "html": "あぶない" },
+        { "id": "d", "html": "あぶなう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>危ない（あぶない）と読みます。<span>Meaning: <strong>dangerous</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p7-q19",
+      "questionHtml": "<p>{人|ひと}に「危害」を{加|くわ}えてはいけません。「危害」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きかい" },
+        { "id": "b", "html": "きがい" },
+        { "id": "c", "html": "あぶがい" },
+        { "id": "d", "html": "きげい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>危害（きがい）と読みます。<span>Meaning: <strong>injury; harm; danger</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p7-q20",
+      "questionHtml": "<p>{国|くに}の「安危」に{関|かか}わる{問題|もんだい}です。「安危」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あんい" },
+        { "id": "b", "html": "やすき" },
+        { "id": "c", "html": "あんぎ" },
+        { "id": "d", "html": "あんき" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>安危（あんき）と読みます。<span>Meaning: <strong>fate; safety; welfare</strong></span></p>"
+    }
+  ]
+}

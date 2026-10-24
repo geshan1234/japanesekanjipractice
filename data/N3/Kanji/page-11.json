@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 11,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p11-q1",
+      "questionHtml": "<p>{手紙|てがみ}を「速達」で{送|おく}ります。「速達」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そくだつ" },
+        { "id": "b", "html": "はやたつ" },
+        { "id": "c", "html": "そくたつ" },
+        { "id": "d", "html": "ぞくたつ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>速達（そくたつ）と読みます。<span>Meaning: <strong>express; special delivery</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p11-q2",
+      "questionHtml": "<p>{事故|じこ}は{運転手|うんてんしゅ}の「過失」でした。「過失」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かしつ" },
+        { "id": "b", "html": "かしち" },
+        { "id": "c", "html": "すぎしつ" },
+        { "id": "d", "html": "かじつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>過失（かしつ）と読みます。<span>Meaning: <strong>accident (caused by negligence); error; blunder</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p11-q3",
+      "questionHtml": "<p>{結果|けっか}より「過程」が{大切|たいせつ}です。「過程」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かてん" },
+        { "id": "b", "html": "かじょう" },
+        { "id": "c", "html": "かってい" },
+        { "id": "d", "html": "かてい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>過程（かてい）と読みます。<span>Meaning: <strong>process; course; mechanism</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p11-q4",
+      "questionHtml": "<p>{東京|とうきょう}は「過密」{都市|とし}です。「過密」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かびつ" },
+        { "id": "b", "html": "かみつ" },
+        { "id": "c", "html": "かみち" },
+        { "id": "d", "html": "がみつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>過密（かみつ）と読みます。<span>Meaning: <strong>overcrowding; crowded; congestion</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p11-q5",
+      "questionHtml": "<p>{彼|かれ}は「過労」で{倒|たお}れました。「過労」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かろ" },
+        { "id": "b", "html": "かろく" },
+        { "id": "c", "html": "かろう" },
+        { "id": "d", "html": "かどう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>過労（かろう）と読みます。<span>Meaning: <strong>overwork; strain</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p11-q6",
+      "questionHtml": "<p>「過度」な{運動|うんどう}は{体|からだ}に{悪|わる}いです。「過度」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かど" },
+        { "id": "b", "html": "かと" },
+        { "id": "c", "html": "かたび" },
+        { "id": "d", "html": "がど" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>過度（かど）と読みます。<span>Meaning: <strong>excessive; immoderate</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p11-q7",
+      "questionHtml": "<p>「過激」な{意見|いけん}が{問題|もんだい}になりました。「過激」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かけき" },
+        { "id": "b", "html": "かげい" },
+        { "id": "c", "html": "かこう" },
+        { "id": "d", "html": "かげき" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>過激（かげき）と読みます。<span>Meaning: <strong>extreme; radical</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p11-q8",
+      "questionHtml": "<p>{電車|でんしゃ}は{駅|えき}を「通過」しました。「通過」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とおか" },
+        { "id": "b", "html": "つうか" },
+        { "id": "c", "html": "つうが" },
+        { "id": "d", "html": "とうか" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>通過（つうか）と読みます。<span>Meaning: <strong>pass</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p11-q9",
+      "questionHtml": "<p>「過去」は{変|か}えられません。「過去」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かこ" },
+        { "id": "b", "html": "かきょ" },
+        { "id": "c", "html": "すぎこ" },
+        { "id": "d", "html": "がこ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>過去（かこ）と読みます。<span>Meaning: <strong>past</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p11-q10",
+      "questionHtml": "<p>{約束|やくそく}の{時間|じかん}を「過ぎる」と{会|あ}えません。「過ぎる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "すぐる" },
+        { "id": "b", "html": "すごる" },
+        { "id": "c", "html": "すぎる" },
+        { "id": "d", "html": "すがる" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>過ぎる（すぎる）と読みます。<span>Meaning: <strong>to pass (i.e. of time); to elapse</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p11-q11",
+      "questionHtml": "<p>「電鉄」の{会社|かいしゃ}で{働|はたら}いています。「電鉄」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "でんてい" },
+        { "id": "b", "html": "でんどう" },
+        { "id": "c", "html": "てんてつ" },
+        { "id": "d", "html": "でんてつ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>電鉄（でんてつ）と読みます。<span>Meaning: <strong>electric railway</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p11-q12",
+      "questionHtml": "<p>{昔|むかし}の「国鉄」は{今|いま}のJRです。「国鉄」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こくてい" },
+        { "id": "b", "html": "こくてつ" },
+        { "id": "c", "html": "くにてつ" },
+        { "id": "d", "html": "こくがね" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>国鉄（こくてつ）と読みます。<span>Meaning: <strong>national railway</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p11-q13",
+      "questionHtml": "<p>この{町|まち}は「製鉄」で{有名|ゆうめい}です。「製鉄」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいてつ" },
+        { "id": "b", "html": "せいてい" },
+        { "id": "c", "html": "せいくろがね" },
+        { "id": "d", "html": "せいでつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>製鉄（せいてつ）と読みます。<span>Meaning: <strong>iron manufacture</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p11-q14",
+      "questionHtml": "<p>「地下鉄」に{乗|の}って{会社|かいしゃ}へ{行|い}きます。「地下鉄」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じかてつ" },
+        { "id": "b", "html": "ちかてい" },
+        { "id": "c", "html": "ちかてつ" },
+        { "id": "d", "html": "ちげてつ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>地下鉄（ちかてつ）と読みます。<span>Meaning: <strong>subway; metro; underground (railway)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p11-q15",
+      "questionHtml": "<p>この{町|まち}には「鉄道」がありません。「鉄道」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "てつみち" },
+        { "id": "b", "html": "てつとう" },
+        { "id": "c", "html": "てっどう" },
+        { "id": "d", "html": "てつどう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>鉄道（てつどう）と読みます。<span>Meaning: <strong>railway</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p11-q16",
+      "questionHtml": "<p>この{橋|はし}は「鉄」でできています。「鉄」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きん" },
+        { "id": "b", "html": "てつ" },
+        { "id": "c", "html": "てん" },
+        { "id": "d", "html": "くろ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>鉄（てつ）と読みます。<span>Meaning: <strong>iron</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p11-q17",
+      "questionHtml": "<p>{先生|せんせい}の「指示」に{従|したが}います。「指示」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しじ" },
+        { "id": "b", "html": "しし" },
+        { "id": "c", "html": "ゆびじ" },
+        { "id": "d", "html": "しいじ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>指示（しじ）と読みます。<span>Meaning: <strong>indication; denotation; designation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p11-q18",
+      "questionHtml": "<p>{彼|かれ}が{議長|ぎちょう}に「指名」されました。「指名」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆびな" },
+        { "id": "b", "html": "しみょう" },
+        { "id": "c", "html": "しめい" },
+        { "id": "d", "html": "しなめい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>指名（しめい）と読みます。<span>Meaning: <strong>naming; nominating; designating</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p11-q19",
+      "questionHtml": "<p>{席|せき}は「指定」されています。「指定」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しじょう" },
+        { "id": "b", "html": "ゆびさだ" },
+        { "id": "c", "html": "しじてい" },
+        { "id": "d", "html": "してい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>指定（してい）と読みます。<span>Meaning: <strong>designation; specification; assignment</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p11-q20",
+      "questionHtml": "<p>{先生|せんせい}が{間違|まちが}いを「指摘」しました。「指摘」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しせき" },
+        { "id": "b", "html": "してき" },
+        { "id": "c", "html": "しきょう" },
+        { "id": "d", "html": "しでき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>指摘（してき）と読みます。<span>Meaning: <strong>pointing out; identification</strong></span></p>"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 13,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p13-q1",
+      "questionHtml": "<p>{会議|かいぎ}に「出席」します。「出席」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅせき" },
+        { "id": "b", "html": "でせき" },
+        { "id": "c", "html": "しゅっせき" },
+        { "id": "d", "html": "しゅうせき" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>出席（しゅっせき）と読みます。<span>Meaning: <strong>attendance; presence</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p13-q2",
+      "questionHtml": "<p>{風邪|かぜ}で「欠席」しました。「欠席」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けっせき" },
+        { "id": "b", "html": "けつせき" },
+        { "id": "c", "html": "かんせき" },
+        { "id": "d", "html": "けんせき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>欠席（けっせき）と読みます。<span>Meaning: <strong>absent</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p13-q3",
+      "questionHtml": "<p>ここでは「自由」に{話|はな}してください。「自由」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じゅう" },
+        { "id": "b", "html": "しゆう" },
+        { "id": "c", "html": "じよう" },
+        { "id": "d", "html": "じゆう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>自由（じゆう）と読みます。<span>Meaning: <strong>free, freedom</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p13-q4",
+      "questionHtml": "<p>「自由席」は{空|あ}いていますか。「自由席」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じゆうぜき" },
+        { "id": "b", "html": "じゆうせき" },
+        { "id": "c", "html": "じゆせき" },
+        { "id": "d", "html": "じゆうせい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>自由席（じゆうせき）と読みます。<span>Meaning: <strong>unreserved seat</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p13-q5",
+      "questionHtml": "<p>{遅刻|ちこく}した「理由」を{教|おし}えてください。「理由」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りゆ" },
+        { "id": "b", "html": "りゅう" },
+        { "id": "c", "html": "りゆう" },
+        { "id": "d", "html": "りよう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>理由（りゆう）と読みます。<span>Meaning: <strong>reason</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p13-q6",
+      "questionHtml": "<p>{田舎|いなか}は{交通|こうつう}が「不自由」です。「不自由」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふじゆう" },
+        { "id": "b", "html": "ふじゅう" },
+        { "id": "c", "html": "ぶじゆう" },
+        { "id": "d", "html": "ふゆう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>不自由（ふじゆう）と読みます。<span>Meaning: <strong>discomfort; inconvenience</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p13-q7",
+      "questionHtml": "<p>{彼|かれ}が{来|こ}ない「由」を{聞|き}きました。「由」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆみ" },
+        { "id": "b", "html": "よき" },
+        { "id": "c", "html": "ぬし" },
+        { "id": "d", "html": "よし" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>由（よし）と読みます。<span>Meaning: <strong>reason, significance, cause</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p13-q8",
+      "questionHtml": "<p>「由なき」{争|あらそ}いは{避|さ}けるべきです。「由なき」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆなき" },
+        { "id": "b", "html": "よしなき" },
+        { "id": "c", "html": "ゆいなき" },
+        { "id": "d", "html": "よりなき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>由なき（よしなき）と読みます。<span>Meaning: <strong>meaningless; senseless; absurd</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p13-q9",
+      "questionHtml": "<p>{私|わたし}は{彼|かれ}が「一番」{好|す}きです。「一番」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひとばん" },
+        { "id": "b", "html": "いちはん" },
+        { "id": "c", "html": "いちばん" },
+        { "id": "d", "html": "いっぱん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>一番（いちばん）と読みます。<span>Meaning: <strong>first, number one</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p13-q10",
+      "questionHtml": "<p>やっと{私|わたし}の「出番」です。「出番」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "でばん" },
+        { "id": "b", "html": "しゅつばん" },
+        { "id": "c", "html": "いでばん" },
+        { "id": "d", "html": "ではん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>出番（でばん）と読みます。<span>Meaning: <strong>one's turn</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p13-q11",
+      "questionHtml": "<p>この「番組」は{面白|おもしろ}いです。「番組」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ばんそ" },
+        { "id": "b", "html": "ばんくみ" },
+        { "id": "c", "html": "はんぐみ" },
+        { "id": "d", "html": "ばんぐみ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>番組（ばんぐみ）と読みます。<span>Meaning: <strong>program</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p13-q12",
+      "questionHtml": "<p>いよいよ「本番」の{日|ひ}です。「本番」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほんはん" },
+        { "id": "b", "html": "ほんばん" },
+        { "id": "c", "html": "もとばん" },
+        { "id": "d", "html": "ほんぱん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>本番（ほんばん）と読みます。<span>Meaning: <strong>performance, game, season</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p13-q13",
+      "questionHtml": "<p>「交番」で{道|みち}を{聞|き}きました。「交番」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうはん" },
+        { "id": "b", "html": "かうばん" },
+        { "id": "c", "html": "こうばん" },
+        { "id": "d", "html": "こうぱん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>交番（こうばん）と読みます。<span>Meaning: <strong>police box</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p13-q14",
+      "questionHtml": "<p>{住所|じゅうしょ}の「番地」を{書|か}いてください。「番地」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ばんち" },
+        { "id": "b", "html": "はんち" },
+        { "id": "c", "html": "ばんじ" },
+        { "id": "d", "html": "ばんじゃ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>番地（ばんち）と読みます。<span>Meaning: <strong>house number, address</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p13-q15",
+      "questionHtml": "<p>{今週|こんしゅう}は{私|わたし}が{掃除|そうじ}の「当番」です。「当番」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とうばい" },
+        { "id": "b", "html": "あたりばん" },
+        { "id": "c", "html": "とうはん" },
+        { "id": "d", "html": "とうばん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>当番（とうばん）と読みます。<span>Meaning: <strong>being on duty</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p13-q16",
+      "questionHtml": "<p>{門|もん}の「番人」が{立|た}っています。「番人」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ばんじん" },
+        { "id": "b", "html": "ばんにん" },
+        { "id": "c", "html": "はんにん" },
+        { "id": "d", "html": "ばんひと" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>番人（ばんにん）と読みます。<span>Meaning: <strong>guard, watchman</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p13-q17",
+      "questionHtml": "<p>{受付|うけつけ}の「番号」を{呼|よ}びます。「番号」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ばんごう" },
+        { "id": "b", "html": "ばんこう" },
+        { "id": "c", "html": "ばんぎょう" },
+        { "id": "d", "html": "ばんぞう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>番号（ばんごう）と読みます。<span>Meaning: <strong>number</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p13-q18",
+      "questionHtml": "<p>{私|わたし}は{五|ご}「番」の{席|せき}です。「番」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はん" },
+        { "id": "b", "html": "ぱん" },
+        { "id": "c", "html": "ばん" },
+        { "id": "d", "html": "ほん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>〜番（〜ばん）と読みます。<span>Meaning: <strong>number ~</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p13-q19",
+      "questionHtml": "<p>{新幹線|しんかんせん}は{十|じゅう}「番線」から{出|で}ます。「番線」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はんせん" },
+        { "id": "b", "html": "ばんぜん" },
+        { "id": "c", "html": "ばんしゃ" },
+        { "id": "d", "html": "ばんせん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>〜番線（〜ばんせん）と読みます。<span>Meaning: <strong>track, line number ~</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p13-q20",
+      "questionHtml": "<p>{二羽|にわ}の{鳥|とり}が「番い」で{飛|と}んでいます。「番い」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ばんい" },
+        { "id": "b", "html": "つがい" },
+        { "id": "c", "html": "つない" },
+        { "id": "d", "html": "ひとつい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>番い（つがい）と読みます。<span>Meaning: <strong>pair, couple</strong></span></p>"
+    }
+  ]
+}

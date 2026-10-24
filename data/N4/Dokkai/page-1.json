@@ -3,7 +3,6 @@
     "level": "N4",
     "questionType": "Dokkai",
     "page": 1,
-    "totalPages": 1,
     "description": "Edit passageHtml, difficultWords, questions, options, correctAnswer, and explanationHtml. Use {kanji|reading} for furigana."
   },
   "passages": [

@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 2,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p2-q1",
+      "questionHtml": "<p>あの{店|みせ}で{騒|さわ}いで「出禁」になりました。「出禁」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅっきん" },
+        { "id": "b", "html": "できん" },
+        { "id": "c", "html": "でぎん" },
+        { "id": "d", "html": "でたきん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>出禁（できん）と読みます。<span>Meaning: <strong>ban on entering (a building, venue, etc.)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p2-q2",
+      "questionHtml": "<p>{健康|けんこう}のために「禁煙」を{始|はじ}めました。「禁煙」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぎんえん" },
+        { "id": "b", "html": "きんいん" },
+        { "id": "c", "html": "きんえん" },
+        { "id": "d", "html": "きんけん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>禁煙（きんえん）と読みます。<span>Meaning: <strong>abstaining from smoking; quitting smoking</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p2-q3",
+      "questionHtml": "<p>{油断|ゆだん}は「禁物」です。「禁物」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きんぶつ" },
+        { "id": "b", "html": "きんのもの" },
+        { "id": "c", "html": "ぎんもつ" },
+        { "id": "d", "html": "きんもつ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>禁物（きんもつ）と読みます。<span>Meaning: <strong>thing that should be (carefully) avoided</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p2-q4",
+      "questionHtml": "<p>{環境|かんきょう}に「関する」{本|ほん}を{読|よ}みました。「関する」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せきする" },
+        { "id": "b", "html": "かんじる" },
+        { "id": "c", "html": "かんする" },
+        { "id": "d", "html": "げんする" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>関する（かんする）と読みます。<span>Meaning: <strong>relate to, involve to</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p2-q5",
+      "questionHtml": "<p>{客|きゃく}が「玄関」で{待|ま}っています。「玄関」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんがん" },
+        { "id": "b", "html": "げんかん" },
+        { "id": "c", "html": "けんかん" },
+        { "id": "d", "html": "げんせき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>玄関（げんかん）と読みます。<span>Meaning: <strong>entrance; front door; entryway; entranceway</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p2-q6",
+      "questionHtml": "<p>{私|わたし}は「関西」に{住|す}んでいます。「関西」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かんにし" },
+        { "id": "b", "html": "かんせい" },
+        { "id": "c", "html": "かんさい" },
+        { "id": "d", "html": "げんさい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>関西（かんさい）と読みます。<span>Meaning: <strong>Kansai; region consisting of Osaka, Kobe, Kyoto and surrounding prefectures</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p2-q7",
+      "questionHtml": "<p>{二人|ふたり}の「関係」は{良|よ}いです。「関係」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かんげい" },
+        { "id": "b", "html": "かんけい" },
+        { "id": "c", "html": "かんかい" },
+        { "id": "d", "html": "げんけい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>関係（かんけい）と読みます。<span>Meaning: <strong>relation; relationship; connection</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p2-q8",
+      "questionHtml": "<p>{空港|くうこう}の「税関」で{荷物|にもつ}を{調|しら}べます。「税関」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぜいかん" },
+        { "id": "b", "html": "せいかん" },
+        { "id": "c", "html": "ぜいげん" },
+        { "id": "d", "html": "ぜっかん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>税関（ぜいかん）と読みます。<span>Meaning: <strong>customs; customs house</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p2-q9",
+      "questionHtml": "<p>{輸入品|ゆにゅうひん}に「関税」がかかります。「関税」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かんせい" },
+        { "id": "b", "html": "げんぜい" },
+        { "id": "c", "html": "かんぞう" },
+        { "id": "d", "html": "かんぜい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>関税（かんぜい）と読みます。<span>Meaning: <strong>tariff (import tax), duty; customs</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p2-q10",
+      "questionHtml": "<p>{彼|かれ}は{政治|せいじ}に「関心」があります。「関心」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かんじん" },
+        { "id": "b", "html": "かんしん" },
+        { "id": "c", "html": "げんしん" },
+        { "id": "d", "html": "かんせん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>関心（かんしん）と読みます。<span>Meaning: <strong>concern; interest</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p2-q11",
+      "questionHtml": "<p>この{問題|もんだい}は{事件|じけん}と「関連」があります。「関連」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かんりん" },
+        { "id": "b", "html": "げんれん" },
+        { "id": "c", "html": "かんれん" },
+        { "id": "d", "html": "かんてん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>関連（かんれん）と読みます。<span>Meaning: <strong>relation; connection; relevance</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p2-q12",
+      "questionHtml": "<p>{仕事|しごと}と{全然|ぜんぜん}「関係」ない{話|はなし}です。「関係」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かんげい" },
+        { "id": "b", "html": "かんけ" },
+        { "id": "c", "html": "げんけい" },
+        { "id": "d", "html": "かんけい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>関係（かんけい）と読みます。<span>Meaning: <strong>relationship</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p2-q13",
+      "questionHtml": "<p>{私|わたし}は{受付|うけつけ}の「係り」です。「係り」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かかわり" },
+        { "id": "b", "html": "けいり" },
+        { "id": "c", "html": "ひかえり" },
+        { "id": "d", "html": "かかり" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>係り（かかり）と読みます。<span>Meaning: <strong>in charge of</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p2-q14",
+      "questionHtml": "<p>この{式|しき}の「係数」を{求|もと}めてください。「係数」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいすう" },
+        { "id": "b", "html": "かかりすう" },
+        { "id": "c", "html": "けいかず" },
+        { "id": "d", "html": "げんすう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>係数（けいすう）と読みます。<span>Meaning: <strong>coefficient; factor; proportional constant</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p2-q15",
+      "questionHtml": "<p>{二|ふた}つの{会社|かいしゃ}は{土地|とち}の「係争」{中|ちゅう}です。「係争」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいぞう" },
+        { "id": "b", "html": "かかりあらそい" },
+        { "id": "c", "html": "けいそう" },
+        { "id": "d", "html": "けいそ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>係争（けいそう）と読みます。<span>Meaning: <strong>dispute; contention; conflict; controversy</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p2-q16",
+      "questionHtml": "<p>{船|ふね}を{港|みなと}に「係留」します。「係留」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいりゅ" },
+        { "id": "b", "html": "けいりゅう" },
+        { "id": "c", "html": "かかりとめ" },
+        { "id": "d", "html": "けいとめ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>係留（けいりゅう）と読みます。<span>Meaning: <strong>mooring; anchorage</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p2-q17",
+      "questionHtml": "<p>{文法|ぶんぽう}の{授業|じゅぎょう}で「係助」について{習|なら}いました。「係助」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かかりじょ" },
+        { "id": "b", "html": "けいじょ" },
+        { "id": "c", "html": "けいすけ" },
+        { "id": "d", "html": "げいじょ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>係助（けいじょ）と読みます。<span>Meaning: <strong>binding particle</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p2-q18",
+      "questionHtml": "<p>{機械|きかい}の{部品|ぶひん}が「係合」しています。「係合」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かかりあい" },
+        { "id": "b", "html": "けいあい" },
+        { "id": "c", "html": "けいごう" },
+        { "id": "d", "html": "けいがう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>係合（けいごう）と読みます。<span>Meaning: <strong>joining elements so they mate or hook together (e.g. a clutch); engagement</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p2-q19",
+      "questionHtml": "<p>{事件|じけん}は{裁判所|さいばんしょ}に「係属」しています。「係属」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいぞう" },
+        { "id": "b", "html": "けいしょく" },
+        { "id": "c", "html": "かかりぞく" },
+        { "id": "d", "html": "けいぞく" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>係属（けいぞく）と読みます。<span>Meaning: <strong>connection; relation; association; affiliation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p2-q20",
+      "questionHtml": "<p>「無断」で{欠席|けっせき}してはいけません。「無断」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぶだん" },
+        { "id": "b", "html": "むだん" },
+        { "id": "c", "html": "むたん" },
+        { "id": "d", "html": "むだ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>無断（むだん）と読みます。<span>Meaning: <strong>without permission; without notice</strong></span></p>"
+    }
+  ]
+}

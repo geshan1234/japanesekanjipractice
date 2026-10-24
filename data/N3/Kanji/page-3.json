@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 3,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p3-q1",
+      "questionHtml": "<p>{誘|さそ}いを「断る」のは{難|むずか}しいです。「断る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たえる" },
+        { "id": "b", "html": "たつる" },
+        { "id": "c", "html": "ことわる" },
+        { "id": "d", "html": "ことばる" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>断る（ことわる）と読みます。<span>Meaning: <strong>refuse; dismiss</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p3-q2",
+      "questionHtml": "<p>{彼|かれ}は「不断」の{努力|どりょく}を{続|つづ}けています。「不断」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふだん" },
+        { "id": "b", "html": "ぶだん" },
+        { "id": "c", "html": "ふたん" },
+        { "id": "d", "html": "ふどん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>不断（ふだん）と読みます。<span>Meaning: <strong>constancy; persistence</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p3-q3",
+      "questionHtml": "<p>{明日|あした}は「断水」があります。「断水」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "だんみず" },
+        { "id": "b", "html": "たんすい" },
+        { "id": "c", "html": "だんずい" },
+        { "id": "d", "html": "だんすい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>断水（だんすい）と読みます。<span>Meaning: <strong>water outage</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p3-q4",
+      "questionHtml": "<p>{大雨|おおあめ}で{町|まち}が「分断」されました。「分断」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぶんたん" },
+        { "id": "b", "html": "ぶんだん" },
+        { "id": "c", "html": "ふんだん" },
+        { "id": "d", "html": "わかだん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>分断（ぶんだん）と読みます。<span>Meaning: <strong>dividing into parts</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p3-q5",
+      "questionHtml": "<p>{結果|けっか}は「予断」を{許|ゆる}しません。「予断」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よたん" },
+        { "id": "b", "html": "よだ" },
+        { "id": "c", "html": "よだん" },
+        { "id": "d", "html": "よんだん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>予断（よだん）と読みます。<span>Meaning: <strong>guessing; prediction</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p3-q6",
+      "questionHtml": "<p>{雨|あめ}で{試合|しあい}が「中断」しました。「中断」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちゅうだん" },
+        { "id": "b", "html": "ちゅうたん" },
+        { "id": "c", "html": "なかだん" },
+        { "id": "d", "html": "ちゅだん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>中断（ちゅうだん）と読みます。<span>Meaning: <strong>interruption; suspension</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p3-q7",
+      "questionHtml": "<p>{試験|しけん}の{前|まえ}に「油断」してはいけません。「油断」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆたん" },
+        { "id": "b", "html": "ゆうだん" },
+        { "id": "c", "html": "あぶらだん" },
+        { "id": "d", "html": "ゆだん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>油断（ゆだん）と読みます。<span>Meaning: <strong>negligence; unpreparedness</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p3-q8",
+      "questionHtml": "<p>{赤信号|あかしんごう}で{道路|どうろ}を「横断」してはいけません。「横断」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おうたん" },
+        { "id": "b", "html": "おうだん" },
+        { "id": "c", "html": "よこだん" },
+        { "id": "d", "html": "おだん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>横断（おうだん）と読みます。<span>Meaning: <strong>cross (road)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p3-q9",
+      "questionHtml": "<p>「横断歩道」を{渡|わた}ります。「横断歩道」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おうだんぶどう" },
+        { "id": "b", "html": "よこだんほどう" },
+        { "id": "c", "html": "おうだんほどう" },
+        { "id": "d", "html": "おうたんほどう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>横断歩道（おうだんほどう）と読みます。<span>Meaning: <strong>pedestrian crossing</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p3-q10",
+      "questionHtml": "<p>{机|つくえ}の「横」に{椅子|いす}があります。「横」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よこ" },
+        { "id": "b", "html": "おう" },
+        { "id": "c", "html": "よく" },
+        { "id": "d", "html": "ごう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>横（よこ）と読みます。<span>Meaning: <strong>horizontal</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p3-q11",
+      "questionHtml": "<p>{町|まち}で{犯罪|はんざい}が「横行」しています。「横行」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よこいき" },
+        { "id": "b", "html": "おうぎょう" },
+        { "id": "c", "html": "よこゆき" },
+        { "id": "d", "html": "おうこう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>横行（おうこう）と読みます。<span>Meaning: <strong>being rampant; being widespread; being prevalent</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p3-q12",
+      "questionHtml": "<p>{掃除|そうじ}を「横着」しないでください。「横着」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おうちゃ" },
+        { "id": "b", "html": "おうちゃく" },
+        { "id": "c", "html": "よこちゃく" },
+        { "id": "d", "html": "おうじゃく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>横着（おうちゃく）と読みます。<span>Meaning: <strong>laziness; shirking</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p3-q13",
+      "questionHtml": "<p>「横柄」な{態度|たいど}は{良|よ}くありません。「横柄」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おうがら" },
+        { "id": "b", "html": "よこへい" },
+        { "id": "c", "html": "おうへい" },
+        { "id": "d", "html": "おうべい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>横柄（おうへい）と読みます。<span>Meaning: <strong>arrogant; haughty; insolent</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p3-q14",
+      "questionHtml": "<p>{体|からだ}を「横に」して{休|やす}みます。「横に」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よこに" },
+        { "id": "b", "html": "おうに" },
+        { "id": "c", "html": "よこへ" },
+        { "id": "d", "html": "よくに" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>横に（よこに）と読みます。<span>Meaning: <strong>horizontally; flat</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p3-q15",
+      "questionHtml": "<p>{彼|かれ}を「横目」で{見|み}ました。「横目」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おうめ" },
+        { "id": "b", "html": "よこもく" },
+        { "id": "c", "html": "おうもく" },
+        { "id": "d", "html": "よこめ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>横目（よこめ）と読みます。<span>Meaning: <strong>sidelong glance</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p3-q16",
+      "questionHtml": "<p>ボタンを「押す」とドアが{開|ひら}きます。「押す」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おとす" },
+        { "id": "b", "html": "おす" },
+        { "id": "c", "html": "ひく" },
+        { "id": "d", "html": "おさす" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>押す（おす）と読みます。<span>Meaning: <strong>press; push</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p3-q17",
+      "questionHtml": "<p>{布団|ふとん}を「押し入れ」に{入|い}れます。「押し入れ」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おうしいれ" },
+        { "id": "b", "html": "おしはいれ" },
+        { "id": "c", "html": "おしいれ" },
+        { "id": "d", "html": "おしにゅうれ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>押し入れ（おしいれ）と読みます。<span>Meaning: <strong>closet</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p3-q18",
+      "questionHtml": "<p>{手|て}で{紙|かみ}を「押さえる」。「押さえる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おさえる" },
+        { "id": "b", "html": "おさせる" },
+        { "id": "c", "html": "おせる" },
+        { "id": "d", "html": "おおさえる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>押さえる（おさえる）と読みます。<span>Meaning: <strong>hold</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p3-q19",
+      "questionHtml": "<p>{警察|けいさつ}が{証拠|しょうこ}を「押収」しました。「押収」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おしゅう" },
+        { "id": "b", "html": "おうしゅ" },
+        { "id": "c", "html": "おしおさめ" },
+        { "id": "d", "html": "おうしゅう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>押収（おうしゅう）と読みます。<span>Meaning: <strong>seizure; confiscation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p3-q20",
+      "questionHtml": "<p>{書類|しょるい}に「押印」してください。「押印」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おしいん" },
+        { "id": "b", "html": "おういん" },
+        { "id": "c", "html": "おいん" },
+        { "id": "d", "html": "おうしん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>押印（おういん）と読みます。<span>Meaning: <strong>affixing a seal (to)</strong></span></p>"
+    }
+  ]
+}

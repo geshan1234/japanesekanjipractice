@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 14,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p14-q1",
+      "questionHtml": "<p>{彼|かれ}は「窓外」の{景色|けしき}を{見|み}ていました。「窓外」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "まどそと" },
+        { "id": "b", "html": "そうがい" },
+        { "id": "c", "html": "そうそと" },
+        { "id": "d", "html": "まどがい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>窓外（そうがい）と読みます。<span>Meaning: <strong>outside a window</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p14-q2",
+      "questionHtml": "<p>「同窓」の{友人|ゆうじん}と{会|あ}いました。「同窓」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "どうさ" },
+        { "id": "b", "html": "どうまど" },
+        { "id": "c", "html": "どうそ" },
+        { "id": "d", "html": "どうそう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>同窓（どうそう）と読みます。<span>Meaning: <strong>the same school</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p14-q3",
+      "questionHtml": "<p>「車窓」から{富士山|ふじさん}が{見|み}えます。「車窓」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゃそう" },
+        { "id": "b", "html": "くるまそう" },
+        { "id": "c", "html": "しゃまど" },
+        { "id": "d", "html": "しゃそ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>車窓（しゃそう）と読みます。<span>Meaning: <strong>train window, car window</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p14-q4",
+      "questionHtml": "<p>「窓」を{開|あ}けてください。「窓」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そう" },
+        { "id": "b", "html": "まと" },
+        { "id": "c", "html": "まど" },
+        { "id": "d", "html": "かど" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>窓（まど）と読みます。<span>Meaning: <strong>window</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p14-q5",
+      "questionHtml": "<p>{銀行|ぎんこう}の「窓口」で{相談|そうだん}します。「窓口」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "まどくち" },
+        { "id": "b", "html": "まどぐち" },
+        { "id": "c", "html": "そうぐち" },
+        { "id": "d", "html": "まとぐち" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>窓口（まどぐち）と読みます。<span>Meaning: <strong>window</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p14-q6",
+      "questionHtml": "<p>{建物|たてもの}の「側面」に{入口|いりぐち}があります。「側面」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そくめ" },
+        { "id": "b", "html": "がわめん" },
+        { "id": "c", "html": "そくづら" },
+        { "id": "d", "html": "そくめん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>側面（そくめん）と読みます。<span>Meaning: <strong>side; flank; profile; sidelight; lateral</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p14-q7",
+      "questionHtml": "<p>{彼|かれ}は{社長|しゃちょう}の「側近」です。「側近」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そっきん" },
+        { "id": "b", "html": "そくきん" },
+        { "id": "c", "html": "がわちか" },
+        { "id": "d", "html": "そつきん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>側近（そっきん）と読みます。<span>Meaning: <strong>close associate; close aide; entourage; attendant; retainer</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p14-q8",
+      "questionHtml": "<p>トンネルの「側壁」を{調|しら}べます。「側壁」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そくかべ" },
+        { "id": "b", "html": "そうへき" },
+        { "id": "c", "html": "そくへき" },
+        { "id": "d", "html": "そくぺき" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>側壁（そくへき）と読みます。<span>Meaning: <strong>side wall</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p14-q9",
+      "questionHtml": "<p>{道|みち}の「両側」に{木|き}があります。「両側」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りょうそく" },
+        { "id": "b", "html": "りょうがわ" },
+        { "id": "c", "html": "りょうかわ" },
+        { "id": "d", "html": "ふたがわ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>両側（りょうがわ）と読みます。<span>Meaning: <strong>both sides</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p14-q10",
+      "questionHtml": "<p>「窓側」の{席|せき}をお{願|ねが}いします。「窓側」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "まどそく" },
+        { "id": "b", "html": "そうがわ" },
+        { "id": "c", "html": "まどかわ" },
+        { "id": "d", "html": "まどがわ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>窓側（まどがわ）と読みます。<span>Meaning: <strong>window-side</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p14-q11",
+      "questionHtml": "<p>{車|くるま}は{道|みち}の「右側」を{走|はし}ります。「右側」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "みぎがわ" },
+        { "id": "b", "html": "うそく" },
+        { "id": "c", "html": "みぎかわ" },
+        { "id": "d", "html": "みぎそく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>右側（みぎがわ）と読みます。<span>Meaning: <strong>on the right side</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p14-q12",
+      "questionHtml": "<p>{駅|えき}は「左側」にあります。「左側」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さそく" },
+        { "id": "b", "html": "ひだりそく" },
+        { "id": "c", "html": "ひだりがわ" },
+        { "id": "d", "html": "ひだりかわ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>左側（ひだりがわ）と読みます。<span>Meaning: <strong>left side; left-hand side</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p14-q13",
+      "questionHtml": "<p>{紙|かみ}の「下側」に{名前|なまえ}を{書|か}きます。「下側」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かがわ" },
+        { "id": "b", "html": "したがわ" },
+        { "id": "c", "html": "げそく" },
+        { "id": "d", "html": "したかわ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>下側（したがわ）と読みます。<span>Meaning: <strong>underside</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p14-q14",
+      "questionHtml": "<p>ドアの「内側」に{鍵|かぎ}があります。「内側」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ないそく" },
+        { "id": "b", "html": "うちかわ" },
+        { "id": "c", "html": "ないがわ" },
+        { "id": "d", "html": "うちがわ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>内側（うちがわ）と読みます。<span>Meaning: <strong>inside; interior; inner part</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p14-q15",
+      "questionHtml": "<p>この「道路」は{広|ひろ}いです。「道路」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "どうろ" },
+        { "id": "b", "html": "どうじ" },
+        { "id": "c", "html": "みちろ" },
+        { "id": "d", "html": "とうろ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>道路（どうろ）と読みます。<span>Meaning: <strong>road; highway</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p14-q16",
+      "questionHtml": "<p>「通路」を{空|あ}けてください。「通路」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とおりろ" },
+        { "id": "b", "html": "つうじ" },
+        { "id": "c", "html": "つうろ" },
+        { "id": "d", "html": "とうろ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>通路（つうろ）と読みます。<span>Meaning: <strong>passage; pathway; roadway; avenue; aisle</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p14-q17",
+      "questionHtml": "<p>「線路」の{近|ちか}くは{危|あぶ}ないです。「線路」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せんじ" },
+        { "id": "b", "html": "せんろ" },
+        { "id": "c", "html": "せんみち" },
+        { "id": "d", "html": "さんろ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>線路（せんろ）と読みます。<span>Meaning: <strong>railway track; railway line; railroad; railway; track; line</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p14-q18",
+      "questionHtml": "<p>この「回路」は{電気|でんき}を{通|とお}します。「回路」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かいじ" },
+        { "id": "b", "html": "まわりろ" },
+        { "id": "c", "html": "かいみち" },
+        { "id": "d", "html": "かいろ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>回路（かいろ）と読みます。<span>Meaning: <strong>circuit (electric)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p14-q19",
+      "questionHtml": "<p>{卒業後|そつぎょうご}の「進路」を{決|き}めます。「進路」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんろ" },
+        { "id": "b", "html": "しんじ" },
+        { "id": "c", "html": "すすみち" },
+        { "id": "d", "html": "しんど" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>進路（しんろ）と読みます。<span>Meaning: <strong>route; course; path</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p14-q20",
+      "questionHtml": "<p>「海路」で{日本|にほん}へ{向|む}かいました。「海路」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "うみろ" },
+        { "id": "b", "html": "かいじ" },
+        { "id": "c", "html": "かいろ" },
+        { "id": "d", "html": "かいみち" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>海路（かいろ）と読みます。<span>Meaning: <strong>sea route</strong></span></p>"
+    }
+  ]
+}

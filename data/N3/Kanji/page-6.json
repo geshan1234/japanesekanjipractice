@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 6,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p6-q1",
+      "questionHtml": "<p>{彼|かれ}は「非常」な{努力|どりょく}をしました。「非常」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひしょう" },
+        { "id": "b", "html": "ひじょう" },
+        { "id": "c", "html": "ふじょう" },
+        { "id": "d", "html": "ひじょ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>非常（ひじょう）と読みます。<span>Meaning: <strong>extraordinary; unusual</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p6-q2",
+      "questionHtml": "<p>この{映画|えいが}は「非常に」{面白|おもしろ}いです。「非常に」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひしょうに" },
+        { "id": "b", "html": "ひじょ" },
+        { "id": "c", "html": "ふじょうに" },
+        { "id": "d", "html": "ひじょうに" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>非常に（ひじょうに）と読みます。<span>Meaning: <strong>very; extremely; exceedingly</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p6-q3",
+      "questionHtml": "<p>「非常口」は{右|みぎ}にあります。「非常口」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひじょうぐち" },
+        { "id": "b", "html": "ひじょうこう" },
+        { "id": "c", "html": "ひしょうぐち" },
+        { "id": "d", "html": "ひじょうくち" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>非常口（ひじょうぐち）と読みます。<span>Meaning: <strong>emergency exit</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p6-q4",
+      "questionHtml": "<p>「日常」{生活|せいかつ}で{使|つか}う{言葉|ことば}を{学|まな}びます。「日常」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "にちじょ" },
+        { "id": "b", "html": "にっしょう" },
+        { "id": "c", "html": "にちじょう" },
+        { "id": "d", "html": "ひじょう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>日常（にちじょう）と読みます。<span>Meaning: <strong>everyday; ordinary</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p6-q5",
+      "questionHtml": "<p>{機械|きかい}は「正常」に{動|うご}いています。「正常」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいしょう" },
+        { "id": "b", "html": "せいじょう" },
+        { "id": "c", "html": "しょうじょう" },
+        { "id": "d", "html": "せいつね" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>正常（せいじょう）と読みます。<span>Meaning: <strong>normality; norma</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p6-q6",
+      "questionHtml": "<p>{体|からだ}に「異常」はありませんでした。「異常」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いしょう" },
+        { "id": "b", "html": "いじょ" },
+        { "id": "c", "html": "いぞう" },
+        { "id": "d", "html": "いじょう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>異常（いじょう）と読みます。<span>Meaning: <strong>strangeness; abnormality; disorder</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p6-q7",
+      "questionHtml": "<p>「非常」ベルが{鳴|な}りました。「非常」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひじょう" },
+        { "id": "b", "html": "ひしょう" },
+        { "id": "c", "html": "ひじょ" },
+        { "id": "d", "html": "ひつね" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>非常（ひじょう）と読みます。<span>Meaning: <strong>emergency</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p6-q8",
+      "questionHtml": "<p>この{薬|くすり}は「常用」してはいけません。「常用」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じょうゆう" },
+        { "id": "b", "html": "つねよう" },
+        { "id": "c", "html": "じょうよう" },
+        { "id": "d", "html": "しょうよう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>常用（じょうよう）と読みます。<span>Meaning: <strong>habitual use; daily use</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p6-q9",
+      "questionHtml": "<p>このお{店|みせ}は「常時」{開|あ}いています。「常時」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じょうし" },
+        { "id": "b", "html": "じょうじ" },
+        { "id": "c", "html": "しょうじ" },
+        { "id": "d", "html": "つねとき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>常時（じょうじ）と読みます。<span>Meaning: <strong>usually; ordinarily; always</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p6-q10",
+      "questionHtml": "<p>{彼|かれ}は{遅刻|ちこく}の「常習」{者|しゃ}です。「常習」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じょうしゅ" },
+        { "id": "b", "html": "しょうしゅう" },
+        { "id": "c", "html": "つねしゅう" },
+        { "id": "d", "html": "じょうしゅう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>常習（じょうしゅう）と読みます。<span>Meaning: <strong>custom; common practice; habit</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p6-q11",
+      "questionHtml": "<p>{彼|かれ}は「常に」{笑顔|えがお}です。「常に」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "つねに" },
+        { "id": "b", "html": "じょうに" },
+        { "id": "c", "html": "とこに" },
+        { "id": "d", "html": "つねいに" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>常に（つねに）と読みます。<span>Meaning: <strong>always, constantly</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p6-q12",
+      "questionHtml": "<p>{先生|せんせい}は「常々」そう{言|い}っていました。「常々」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じょうじょう" },
+        { "id": "b", "html": "つねつね" },
+        { "id": "c", "html": "つねづね" },
+        { "id": "d", "html": "とこどこ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>常々（つねづね）と読みます。<span>Meaning: <strong>always; usually</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p6-q13",
+      "questionHtml": "<p>{駅|えき}の「階段」で{転|ころ}びました。「階段」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "がいだん" },
+        { "id": "b", "html": "かいだん" },
+        { "id": "c", "html": "かいたん" },
+        { "id": "d", "html": "かいけい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>階段（かいだん）と読みます。<span>Meaning: <strong>stairs; stairway; staircase</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p6-q14",
+      "questionHtml": "<p>{計画|けいかく}は{次|つぎ}の「段階」に{進|すす}みます。「段階」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たんかい" },
+        { "id": "b", "html": "だんがい" },
+        { "id": "c", "html": "だんけい" },
+        { "id": "d", "html": "だんかい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>段階（だんかい）と読みます。<span>Meaning: <strong>stage; step; phase</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p6-q15",
+      "questionHtml": "<p>{彼|かれ}は「階下」で{待|ま}っています。「階下」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かいか" },
+        { "id": "b", "html": "かいげ" },
+        { "id": "c", "html": "かいした" },
+        { "id": "d", "html": "がいか" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>階下（かいか）と読みます。<span>Meaning: <strong>lower floor; downstairs</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p6-q16",
+      "questionHtml": "<p>{食品|しょくひん}{売|う}り{場|ば}は「地階」にあります。「地階」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じかい" },
+        { "id": "b", "html": "ちがい" },
+        { "id": "c", "html": "ちかい" },
+        { "id": "d", "html": "ちかく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>地階（ちかい）と読みます。<span>Meaning: <strong>basement; cellar</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p6-q17",
+      "questionHtml": "<p>ピアノで「音階」を{練習|れんしゅう}します。「音階」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おんがい" },
+        { "id": "b", "html": "おんかい" },
+        { "id": "c", "html": "おとかい" },
+        { "id": "d", "html": "おんけい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>音階（おんかい）と読みます。<span>Meaning: <strong>scale</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p6-q18",
+      "questionHtml": "<p>{事務所|じむしょ}は{五|ご}「階」にあります。「階」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きざ" },
+        { "id": "b", "html": "かん" },
+        { "id": "c", "html": "けい" },
+        { "id": "d", "html": "かい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>〜階（〜かい）と読みます。<span>Meaning: <strong>~ floor</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p6-q19",
+      "questionHtml": "<p>{家|いえ}の「階段」は{急|きゅう}です。「階段」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かいだん" },
+        { "id": "b", "html": "かいたん" },
+        { "id": "c", "html": "がいだん" },
+        { "id": "d", "html": "けいだん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>階段（かいだん）と読みます。<span>Meaning: <strong>stair case</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p6-q20",
+      "questionHtml": "<p>「段々」{暖|あたた}かくなってきました。「段々」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "だんだ" },
+        { "id": "b", "html": "だんたん" },
+        { "id": "c", "html": "だんだん" },
+        { "id": "d", "html": "たんたん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>段々（だんだん）と読みます。<span>Meaning: <strong>gradually; by degrees; little by little; more and more; increasingly</strong></span></p>"
+    }
+  ]
+}

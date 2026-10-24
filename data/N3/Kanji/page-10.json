@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 10,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p10-q1",
+      "questionHtml": "<p>「各週」{月曜日|げつようび}に{会議|かいぎ}があります。「各週」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かくしゅ" },
+        { "id": "b", "html": "かくしゅう" },
+        { "id": "c", "html": "かくじゅう" },
+        { "id": "d", "html": "おのしゅう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>各週（かくしゅう）と読みます。<span>Meaning: <strong>every week</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p10-q2",
+      "questionHtml": "<p>{町|まち}の「各所」に{花|はな}が{咲|さ}いています。「各所」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かくしょう" },
+        { "id": "b", "html": "かくじょ" },
+        { "id": "c", "html": "かくところ" },
+        { "id": "d", "html": "かくしょ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>各所（かくしょ）と読みます。<span>Meaning: <strong>each place; various places</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p10-q3",
+      "questionHtml": "<p>「各社」が{新商品|しんしょうひん}を{発表|はっぴょう}しました。「各社」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かくしゃ" },
+        { "id": "b", "html": "かくしょ" },
+        { "id": "c", "html": "かくじゃ" },
+        { "id": "d", "html": "おのしゃ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>各社（かくしゃ）と読みます。<span>Meaning: <strong>all companies; each company</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p10-q4",
+      "questionHtml": "<p>「次代」を{担|にな}う{若者|わかもの}が{育|そだ}っています。「次代」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "つぎだい" },
+        { "id": "b", "html": "じたい" },
+        { "id": "c", "html": "じだい" },
+        { "id": "d", "html": "じて" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>次代（じだい）と読みます。<span>Meaning: <strong>the next era</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p10-q5",
+      "questionHtml": "<p>「次回」の{会議|かいぎ}は{来月|らいげつ}です。「次回」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じかえ" },
+        { "id": "b", "html": "じかい" },
+        { "id": "c", "html": "つぎかい" },
+        { "id": "d", "html": "じがい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>次回（じかい）と読みます。<span>Meaning: <strong>next time (occasion)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p10-q6",
+      "questionHtml": "<p>{選挙|せんきょ}で「次点」になりました。「次点」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "つぎてん" },
+        { "id": "b", "html": "じでん" },
+        { "id": "c", "html": "じたん" },
+        { "id": "d", "html": "じてん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>次点（じてん）と読みます。<span>Meaning: <strong>runner-up</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p10-q7",
+      "questionHtml": "<p>「次期」{社長|しゃちょう}が{決|き}まりました。「次期」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じき" },
+        { "id": "b", "html": "じぎ" },
+        { "id": "c", "html": "つぎき" },
+        { "id": "d", "html": "じごう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>次期（じき）と読みます。<span>Meaning: <strong>next term; next period</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p10-q8",
+      "questionHtml": "<p>{彼|かれ}は「次席」{検事|けんじ}を{務|つと}めています。「次席」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じしき" },
+        { "id": "b", "html": "つぎせき" },
+        { "id": "c", "html": "じせき" },
+        { "id": "d", "html": "じせい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>次席（じせき）と読みます。<span>Meaning: <strong>associate; junior; assistant; runner-up</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p10-q9",
+      "questionHtml": "<p>{彼|かれ}は{省|しょう}の「次官」です。「次官」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じがん" },
+        { "id": "b", "html": "じかん" },
+        { "id": "c", "html": "つぎかん" },
+        { "id": "d", "html": "じこん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>次官（じかん）と読みます。<span>Meaning: <strong>vice-minister; undersecretary</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p10-q10",
+      "questionHtml": "<p>「次週」{試験|しけん}があります。「次週」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じしゅ" },
+        { "id": "b", "html": "つぎしゅう" },
+        { "id": "c", "html": "じじゅう" },
+        { "id": "d", "html": "じしゅう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>次週（じしゅう）と読みます。<span>Meaning: <strong>next week</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p10-q11",
+      "questionHtml": "<p>{本|ほん}の「目次」を{見|み}ます。「目次」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "もくじ" },
+        { "id": "b", "html": "もくし" },
+        { "id": "c", "html": "めじ" },
+        { "id": "d", "html": "もくつぎ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>目次（もくじ）と読みます。<span>Meaning: <strong>table of contents; contents</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p10-q12",
+      "questionHtml": "<p>「年次」{報告書|ほうこくしょ}を{作|つく}ります。「年次」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "としじ" },
+        { "id": "b", "html": "ねんし" },
+        { "id": "c", "html": "ねんじ" },
+        { "id": "d", "html": "ねんつぎ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>年次（ねんじ）と読みます。<span>Meaning: <strong>annual; yearly</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p10-q13",
+      "questionHtml": "<p>「次」の{駅|えき}で{降|お}ります。「次」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "し" },
+        { "id": "b", "html": "つぎ" },
+        { "id": "c", "html": "つぐ" },
+        { "id": "d", "html": "ついで" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>次（つぎ）と読みます。<span>Meaning: <strong>next</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p10-q14",
+      "questionHtml": "<p>{大阪|おおさか}は{東京|とうきょう}に「次ぐ」{大|おお}きな{都市|とし}です。「次ぐ」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "つぎぐ" },
+        { "id": "b", "html": "じぐ" },
+        { "id": "c", "html": "つげる" },
+        { "id": "d", "html": "つぐ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>次ぐ（つぐ）と読みます。<span>Meaning: <strong>to rank next to, to come after</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p10-q15",
+      "questionHtml": "<p>{社長|しゃちょう}が{話|はな}し、「次いで」{部長|ぶちょう}が{話|はな}しました。「次いで」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ついで" },
+        { "id": "b", "html": "つぎいで" },
+        { "id": "c", "html": "じいで" },
+        { "id": "d", "html": "つぐいで" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>次いで（ついで）と読みます。<span>Meaning: <strong>next; secondly; subsequently</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p10-q16",
+      "questionHtml": "<p>「快速」{電車|でんしゃ}は{小|ちい}さな{駅|えき}に{止|と}まりません。「快速」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かいぞく" },
+        { "id": "b", "html": "かいしょく" },
+        { "id": "c", "html": "かいそく" },
+        { "id": "d", "html": "こころそく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>快速（かいそく）と読みます。<span>Meaning: <strong>(train) high speed (an electric train that just stops at some base station)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p10-q17",
+      "questionHtml": "<p>「快い」{風|かぜ}が{吹|ふ}いています。「快い」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かいい" },
+        { "id": "b", "html": "こころよい" },
+        { "id": "c", "html": "たのしい" },
+        { "id": "d", "html": "よろこい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>快い（こころよい）と読みます。<span>Meaning: <strong>pleasant; agreeable</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p10-q18",
+      "questionHtml": "<p>「高速道路」は{混|こ}んでいます。「高速道路」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうそくどうじ" },
+        { "id": "b", "html": "こうぞくどうろ" },
+        { "id": "c", "html": "こうそくみち" },
+        { "id": "d", "html": "こうそくどうろ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>高速道路（こうそくどうろ）と読みます。<span>Meaning: <strong>highway</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p10-q19",
+      "questionHtml": "<p>{車|くるま}の「速度」を{落|お}としてください。「速度」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そくど" },
+        { "id": "b", "html": "はやど" },
+        { "id": "c", "html": "そくと" },
+        { "id": "d", "html": "ぞくど" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>速度（そくど）と読みます。<span>Meaning: <strong>speed</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p10-q20",
+      "questionHtml": "<p>{彼|かれ}は{走|はし}るのが「速い」です。「速い」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そくい" },
+        { "id": "b", "html": "はやく" },
+        { "id": "c", "html": "はやい" },
+        { "id": "d", "html": "おそい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>速い（はやい）と読みます。<span>Meaning: <strong>fast, quick, rapid</strong></span></p>"
+    }
+  ]
+}

@@ -11,11 +11,31 @@ const prevBtn = document.getElementById("prevBtn");
 const nextBtn = document.getElementById("nextBtn");
 
 let currentPage = 1;
+let totalPages = 0;
 let testData = null;
 let submitted = false;
 
 function filePath() {
   return `data/${levelSelect.value}/${typeSelect.value}/page-${currentPage}.json`;
+}
+
+async function getTotalPageCount() {
+  const path = `data/${levelSelect.value}/${typeSelect.value}/manifest.json`;
+  
+  try {
+    const response = await fetch(path);
+    if (!response.ok) throw new Error("File not found");
+    
+    // 2. Fixed JSON parsing chain
+    const data = await response.json();
+    
+    // 3. Extract the total pages (using optional chaining ?. to prevent crashes if metadata is missing)
+    const totalPages = data.metadata?.totalPages || 0;
+    return totalPages;
+    
+  } catch (error) {
+    return 0;
+  }
 }
 
 // {kanji|reading}  ->  <ruby>kanji<rt>reading</rt></ruby>
@@ -43,6 +63,9 @@ async function loadPage() {
       e.preventDefault();
     }
   });
+  if ( currentPage === 1) {
+    totalPages = await getTotalPageCount();
+  }
   try {
     const response = await fetch(filePath());
     if (!response.ok) throw new Error("File not found");
@@ -50,8 +73,7 @@ async function loadPage() {
     if (isDokkai()) renderDokkai(); else renderQuestions();
   } catch (error) {
     testData = null;
-    questionContainer.innerHTML = `<p>There is no JSON file for this page yet: <code>${filePath()}</code></p>
-      <p>Create that file by copying another page JSON file and updating its metadata.</p>`;
+    questionContainer.innerHTML = `No content available for this page.</p>`;
     updatePagination();
   }
 }
@@ -172,14 +194,18 @@ function resetTest() {
 function updatePagination() {
   paginationLabel.textContent = `Page ${currentPage}`;
   prevBtn.disabled = currentPage <= 1;
-  if (isDokkai()) {
-    // Dokkai pages hold passages, not a fixed question count.
-    // Optional metadata.totalPages stops "Next" on the last page.
-    const total = testData && testData.metadata && testData.metadata.totalPages;
-    nextBtn.disabled = !testData || (total ? currentPage >= total : false);
-  } else {
-    nextBtn.disabled = !testData || testData.questions.length < 20;
-  }
+  const total = totalPages;
+  nextBtn.disabled = !testData || (total ? ((currentPage) >= total) : false);
+  // if (isDokkai()) {
+  //   // Dokkai pages hold passages, not a fixed question count.
+  //   // Optional metadata.totalPages stops "Next" on the last page.
+  //   const total = testData && testData.metadata && testData.metadata.totalPages;
+  //   nextBtn.disabled = !testData || (total ? currentPage >= total : false);
+  // } else {
+  //   const total = totalPages;
+  //   nextBtn.disabled = !testData || (total ? ((currentPage) >= total) : false);
+  //   // nextBtn.disabled = !testData || testData.questions.length < 20;
+  // }
 }
 
 function isDokkai() {
@@ -458,11 +484,11 @@ function resetDokkai() {
   });
 }
 
-levelSelect.addEventListener("change", () => { currentPage = 1; loadPage(); });
-typeSelect.addEventListener("change", () => { currentPage = 1; loadPage(); });
+levelSelect.addEventListener("change", () => { currentPage = 1; loadPage();  });
+typeSelect.addEventListener("change", () => { currentPage = 1; loadPage();  });
 submitBtn.addEventListener("click", submitTest);
 resetBtn.addEventListener("click", resetTest);
-prevBtn.addEventListener("click", () => { if (currentPage > 1) { currentPage--; loadPage(); } });
+prevBtn.addEventListener("click", () => { if (currentPage > 1) { currentPage--; loadPage(); }});
 nextBtn.addEventListener("click", () => { currentPage++; loadPage(); });
 
 loadPage();

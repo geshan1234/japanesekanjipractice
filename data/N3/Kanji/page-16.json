@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 16,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p16-q1",
+      "questionHtml": "<p>「証券」{会社|がいしゃ}で{働|はたら}いています。「証券」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうげん" },
+        { "id": "b", "html": "しょけん" },
+        { "id": "c", "html": "しょうけん" },
+        { "id": "d", "html": "しょうかん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>証券（しょうけん）と読みます。<span>Meaning: <strong>bond; bill; certificate; security</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p16-q2",
+      "questionHtml": "<p>{駐車場|ちゅうしゃじょう}で「駐車券」を{取|と}りました。「駐車券」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちゅうしゃけん" },
+        { "id": "b", "html": "ちゅうしゃげん" },
+        { "id": "c", "html": "ちゅうしゃかん" },
+        { "id": "d", "html": "ちゅうじゃけん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>駐車券（ちゅうしゃけん）と読みます。<span>Meaning: <strong>parking ticket</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p16-q3",
+      "questionHtml": "<p>{電車|でんしゃ}の「回数券」を{買|か}いました。「回数券」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かいすげん" },
+        { "id": "b", "html": "かいすうかん" },
+        { "id": "c", "html": "まわりすうけん" },
+        { "id": "d", "html": "かいすうけん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>回数券（かいすうけん）と読みます。<span>Meaning: <strong>coupon tickets, book of tickets</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p16-q4",
+      "questionHtml": "<p>{駅|えき}で「乗車券」を{買|か}います。「乗車券」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "のりしゃけん" },
+        { "id": "b", "html": "じょうしゃけん" },
+        { "id": "c", "html": "じょうしゃげん" },
+        { "id": "d", "html": "じょしゃけん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>乗車券（じょうしゃけん）と読みます。<span>Meaning: <strong>passenger ticket</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p16-q5",
+      "questionHtml": "<p>「現代」{社会|しゃかい}の{問題|もんだい}を{考|かんが}えます。「現代」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けんだい" },
+        { "id": "b", "html": "げんたい" },
+        { "id": "c", "html": "げんだい" },
+        { "id": "d", "html": "あらわだい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>現代（げんだい）と読みます。<span>Meaning: <strong>nowadays, modern era</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p16-q6",
+      "questionHtml": "<p>「現行」の{法律|ほうりつ}を{守|まも}ります。「現行」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんこう" },
+        { "id": "b", "html": "げんぎょう" },
+        { "id": "c", "html": "げんゆき" },
+        { "id": "d", "html": "けんこう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>現行（げんこう）と読みます。<span>Meaning: <strong>present, current</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p16-q7",
+      "questionHtml": "<p>「現在」の{時刻|じこく}は{三時|さんじ}です。「現在」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんさい" },
+        { "id": "b", "html": "げんあり" },
+        { "id": "c", "html": "けんざい" },
+        { "id": "d", "html": "げんざい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>現在（げんざい）と読みます。<span>Meaning: <strong>now, current, present</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p16-q8",
+      "questionHtml": "<p>{夢|ゆめ}と「現実」は{違|ちが}います。「現実」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんじ" },
+        { "id": "b", "html": "げんじつ" },
+        { "id": "c", "html": "げんしつ" },
+        { "id": "d", "html": "けんじつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>現実（げんじつ）と読みます。<span>Meaning: <strong>reality, actuality</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p16-q9",
+      "questionHtml": "<p>{夢|ゆめ}が「実現」しました。「実現」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じつげん" },
+        { "id": "b", "html": "じっげん" },
+        { "id": "c", "html": "みげん" },
+        { "id": "d", "html": "じつけん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>実現（じつげん）と読みます。<span>Meaning: <strong>implementation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p16-q10",
+      "questionHtml": "<p>{町|まち}に{熊|くま}が「出現」しました。「出現」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "でげん" },
+        { "id": "b", "html": "しゅっげん" },
+        { "id": "c", "html": "しゅつげん" },
+        { "id": "d", "html": "しゅげん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>出現（しゅつげん）と読みます。<span>Meaning: <strong>appearance, arrival</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p16-q11",
+      "questionHtml": "<p>{気持|きも}ちを「表現」するのは{難|むずか}しいです。「表現」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひょうけん" },
+        { "id": "b", "html": "ひょげん" },
+        { "id": "c", "html": "ひょうぎん" },
+        { "id": "d", "html": "ひょうげん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>表現（ひょうげん）と読みます。<span>Meaning: <strong>expression</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p16-q12",
+      "questionHtml": "<p>「現職」の{市長|しちょう}が{勝|か}ちました。「現職」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんしょ" },
+        { "id": "b", "html": "げんしょく" },
+        { "id": "c", "html": "げんじょく" },
+        { "id": "d", "html": "けんしょく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>現職（げんしょく）と読みます。<span>Meaning: <strong>current job</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p16-q13",
+      "questionHtml": "<p>「現金」で{払|はら}います。「現金」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんきん" },
+        { "id": "b", "html": "げんぎん" },
+        { "id": "c", "html": "けんきん" },
+        { "id": "d", "html": "あらきん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>現金（げんきん）と読みます。<span>Meaning: <strong>cash</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p16-q14",
+      "questionHtml": "<p>この{言葉|ことば}の「表現」は{正|ただ}しいですか。「表現」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひょうけん" },
+        { "id": "b", "html": "ひょうげん" },
+        { "id": "c", "html": "ひょげん" },
+        { "id": "d", "html": "ひょうごん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>表現（ひょうげん）と読みます。<span>Meaning: <strong>expression</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p16-q15",
+      "questionHtml": "<p>{太陽|たいよう}が{雲|くも}の{間|あいだ}から「現れる」。「現れる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんれる" },
+        { "id": "b", "html": "あらわる" },
+        { "id": "c", "html": "あらわれる" },
+        { "id": "d", "html": "あらはれる" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>現れる（あらわれる）と読みます。<span>Meaning: <strong>to appear; to come in sight; to become visible; to come out</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p16-q16",
+      "questionHtml": "<p>{私|わたし}は「両方」{好|す}きです。「両方」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りょうほう" },
+        { "id": "b", "html": "りょうぼう" },
+        { "id": "c", "html": "りょほう" },
+        { "id": "d", "html": "りょうかた" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>両方（りょうほう）と読みます。<span>Meaning: <strong>both; both sides; both parties</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p16-q17",
+      "questionHtml": "<p>「両手」で{荷物|にもつ}を{持|も}ちます。「両手」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りょうしゅ" },
+        { "id": "b", "html": "りょうで" },
+        { "id": "c", "html": "ふたて" },
+        { "id": "d", "html": "りょうて" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>両手（りょうて）と読みます。<span>Meaning: <strong>both hands; both arms</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p16-q18",
+      "questionHtml": "<p>この{紙|かみ}は「両面」{印刷|いんさつ}できます。「両面」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りょうづら" },
+        { "id": "b", "html": "りょうめん" },
+        { "id": "c", "html": "りょめん" },
+        { "id": "d", "html": "りょうみ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>両面（りょうめん）と読みます。<span>Meaning: <strong>both sides; two sides; double-sided</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p16-q19",
+      "questionHtml": "<p>{駅|えき}の「両側」に{店|みせ}があります。「両側」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りょうそく" },
+        { "id": "b", "html": "ふたがわ" },
+        { "id": "c", "html": "りょうがわ" },
+        { "id": "d", "html": "りょうかわ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>両側（りょうがわ）と読みます。<span>Meaning: <strong>both sides</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p16-q20",
+      "questionHtml": "<p>{電車|でんしゃ}は{八|はち}「両」{編成|へんせい}です。「両」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りょう" },
+        { "id": "b", "html": "ろう" },
+        { "id": "c", "html": "りょ" },
+        { "id": "d", "html": "りゅう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>〜両（〜りょう）と読みます。<span>Meaning: <strong>one vehicle</strong></span></p>"
+    }
+  ]
+}

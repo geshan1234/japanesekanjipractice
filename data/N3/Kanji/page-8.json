@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 8,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p8-q1",
+      "questionHtml": "<p>{国|くに}は「危急」の{時|とき}を{迎|むか}えています。「危急」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きぎゅう" },
+        { "id": "b", "html": "ききゅう" },
+        { "id": "c", "html": "きこう" },
+        { "id": "d", "html": "あぶきゅう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>危急（ききゅう）と読みます。<span>Meaning: <strong>emergency; crisis; imminent danger</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p8-q2",
+      "questionHtml": "<p>{環境|かんきょう}の{悪化|あっか}を「危惧」しています。「危惧」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きく" },
+        { "id": "b", "html": "きぐう" },
+        { "id": "c", "html": "あやぐ" },
+        { "id": "d", "html": "きぐ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>危惧（きぐ）と読みます。<span>Meaning: <strong>apprehension; misgivings; uneasiness; fear; anxiety</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p8-q3",
+      "questionHtml": "<p>この{川|かわ}は「危険」です。「危険」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きけん" },
+        { "id": "b", "html": "きげん" },
+        { "id": "c", "html": "あぶけん" },
+        { "id": "d", "html": "きけい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>危険（きけん）と読みます。<span>Meaning: <strong>danger; peril; hazard</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p8-q4",
+      "questionHtml": "<p>{少年|しょうねん}は「冒険」の{旅|たび}に{出|で}ました。「冒険」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぼうげん" },
+        { "id": "b", "html": "もうけん" },
+        { "id": "c", "html": "ぼうけん" },
+        { "id": "d", "html": "ぼうけい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>冒険（ぼうけん）と読みます。<span>Meaning: <strong>adventure; venture</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p8-q5",
+      "questionHtml": "<p>{車|くるま}の「保険」に{入|はい}ります。「保険」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほうけん" },
+        { "id": "b", "html": "ほけん" },
+        { "id": "c", "html": "ほげん" },
+        { "id": "d", "html": "ぼけん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>保険（ほけん）と読みます。<span>Meaning: <strong>insurance; guarantee</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p8-q6",
+      "questionHtml": "<p>{洞窟|どうくつ}を「探検」しました。「探検」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たんげん" },
+        { "id": "b", "html": "たんけい" },
+        { "id": "c", "html": "さがけん" },
+        { "id": "d", "html": "たんけん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>探検（たんけん）と読みます。<span>Meaning: <strong>exploration; expedition</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p8-q7",
+      "questionHtml": "<p>{彼|かれ}は「真剣」な{顔|かお}で{話|はな}しました。「真剣」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんけん" },
+        { "id": "b", "html": "しんげん" },
+        { "id": "c", "html": "しんけい" },
+        { "id": "d", "html": "まけん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>真剣（しんけん）と読みます。<span>Meaning: <strong>serious; earnest</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p8-q8",
+      "questionHtml": "<p>「険難」な{山道|やまみち}を{歩|ある}きます。「険難」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きけん" },
+        { "id": "b", "html": "けんたん" },
+        { "id": "c", "html": "けんなん" },
+        { "id": "d", "html": "けんかん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>険難（けんなん）と読みます。<span>Meaning: <strong>steep; dangerous</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p8-q9",
+      "questionHtml": "<p>{山道|やまみち}は「険しい」です。「険しい」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けんしい" },
+        { "id": "b", "html": "けわしい" },
+        { "id": "c", "html": "きびしい" },
+        { "id": "d", "html": "あやしい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>険しい（けわしい）と読みます。<span>Meaning: <strong>precipitous, rugged, inaccessible, impregnable, steep, grim</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p8-q10",
+      "questionHtml": "<p>いらない{物|もの}を「捨てる」。「捨てる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひろてる" },
+        { "id": "b", "html": "すえる" },
+        { "id": "c", "html": "おとてる" },
+        { "id": "d", "html": "すてる" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>捨てる（すてる）と読みます。<span>Meaning: <strong>throw</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p8-q11",
+      "questionHtml": "<p>{紙|かみ}に「線」を{引|ひ}きます。「線」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せん" },
+        { "id": "b", "html": "さん" },
+        { "id": "c", "html": "けん" },
+        { "id": "d", "html": "しん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>線（せん）と読みます。<span>Meaning: <strong>line</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p8-q12",
+      "questionHtml": "<p>{電車|でんしゃ}は{三|さん}「番線」に{来|き}ます。「番線」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はんせん" },
+        { "id": "b", "html": "ばんせん" },
+        { "id": "c", "html": "ばんぜん" },
+        { "id": "d", "html": "ばんしゃ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>〜番線（〜ばんせん）と読みます。<span>Meaning: <strong>track number ~</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p8-q13",
+      "questionHtml": "<p>{強|つよ}い「光線」が{目|め}に{入|はい}りました。「光線」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうぜん" },
+        { "id": "b", "html": "ひかりせん" },
+        { "id": "c", "html": "こうせん" },
+        { "id": "d", "html": "こうさん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>光線（こうせん）と読みます。<span>Meaning: <strong>beam; light ray</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p8-q14",
+      "questionHtml": "<p>{鳥|とり}が「電線」に{止|と}まっています。「電線」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "でんぜん" },
+        { "id": "b", "html": "でんさん" },
+        { "id": "c", "html": "てんせん" },
+        { "id": "d", "html": "でんせん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>電線（でんせん）と読みます。<span>Meaning: <strong>electric line; electric cable; power cable</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p8-q15",
+      "questionHtml": "<p>{右|みぎ}の「車線」を{走|はし}ります。「車線」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゃせん" },
+        { "id": "b", "html": "くるません" },
+        { "id": "c", "html": "しゃぜん" },
+        { "id": "d", "html": "しゃさん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>車線（しゃせん）と読みます。<span>Meaning: <strong>traffic lane; road lane</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p8-q16",
+      "questionHtml": "<p>「内線」{番号|ばんごう}を{教|おし}えてください。「内線」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ないぜん" },
+        { "id": "b", "html": "ないせん" },
+        { "id": "c", "html": "うちせん" },
+        { "id": "d", "html": "だいせん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>内線（ないせん）と読みます。<span>Meaning: <strong>phone extension; indoor wiring; inner line</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p8-q17",
+      "questionHtml": "<p>{駅|えき}の「沿線」に{住|す}んでいます。「沿線」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "えんぜん" },
+        { "id": "b", "html": "そうせん" },
+        { "id": "c", "html": "えんせん" },
+        { "id": "d", "html": "ふちせん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>沿線（えんせん）と読みます。<span>Meaning: <strong>alongside a railway line, bus route</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p8-q18",
+      "questionHtml": "<p>「無線」で{連絡|れんらく}します。「無線」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぶせん" },
+        { "id": "b", "html": "むぜん" },
+        { "id": "c", "html": "むさん" },
+        { "id": "d", "html": "むせん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>無線（むせん）と読みます。<span>Meaning: <strong>radio (communication)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p8-q19",
+      "questionHtml": "<p>{答|こた}えに「下線」を{引|ひ}いてください。「下線」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かせん" },
+        { "id": "b", "html": "げせん" },
+        { "id": "c", "html": "したせん" },
+        { "id": "d", "html": "かぜん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>下線（かせん）と読みます。<span>Meaning: <strong>underline; underscore</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p8-q20",
+      "questionHtml": "<p>{鉛筆|えんぴつ}で「線画」を{描|か}きます。「線画」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せんか" },
+        { "id": "b", "html": "せんが" },
+        { "id": "c", "html": "さんが" },
+        { "id": "d", "html": "せんかい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>線画（せんが）と読みます。<span>Meaning: <strong>line drawing</strong></span></p>"
+    }
+  ]
+}

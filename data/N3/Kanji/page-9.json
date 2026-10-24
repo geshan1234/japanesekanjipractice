@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 9,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p9-q1",
+      "questionHtml": "<p>テニスの「線審」が{判定|はんてい}しました。「線審」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せんぎ" },
+        { "id": "b", "html": "せんじん" },
+        { "id": "c", "html": "せんしん" },
+        { "id": "d", "html": "さんしん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>線審（せんしん）と読みます。<span>Meaning: <strong>line judge; linesman</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p9-q2",
+      "questionHtml": "<p>{道路|どうろ}は「全面」{通行止|つうこうど}めです。「全面」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぜんめん" },
+        { "id": "b", "html": "ぜんめ" },
+        { "id": "c", "html": "ぜんづら" },
+        { "id": "d", "html": "せんめん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>全面（ぜんめん）と読みます。<span>Meaning: <strong>whole surface; entire</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p9-q3",
+      "questionHtml": "<p>スマホの「画面」が{割|わ}れました。「画面」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "がめ" },
+        { "id": "b", "html": "かくめん" },
+        { "id": "c", "html": "えめん" },
+        { "id": "d", "html": "がめん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>画面（がめん）と読みます。<span>Meaning: <strong>terminal screen; scene; picture; the field</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p9-q4",
+      "questionHtml": "<p>{明日|あした}、「面接」があります。「面接」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "めんさつ" },
+        { "id": "b", "html": "めんせつ" },
+        { "id": "c", "html": "めんしょう" },
+        { "id": "d", "html": "めんぜつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>面接（めんせつ）と読みます。<span>Meaning: <strong>interview (e.g. for a job)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p9-q5",
+      "questionHtml": "<p>{子供|こども}の「面倒」を{見|み}ます。「面倒」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "めんとう" },
+        { "id": "b", "html": "めんじゅう" },
+        { "id": "c", "html": "めんどう" },
+        { "id": "d", "html": "めんだお" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>面倒（めんどう）と読みます。<span>Meaning: <strong>trouble; bother</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p9-q6",
+      "questionHtml": "<p>{東京|とうきょう}「方面」の{電車|でんしゃ}に{乗|の}ります。「方面」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほうめん" },
+        { "id": "b", "html": "ほうづら" },
+        { "id": "c", "html": "ほめん" },
+        { "id": "d", "html": "ぼうめん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>方面（ほうめん）と読みます。<span>Meaning: <strong>direction; district; area</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p9-q7",
+      "questionHtml": "<p>{駅|えき}の「正面」に{銀行|ぎんこう}があります。「正面」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいめん" },
+        { "id": "b", "html": "しょうめ" },
+        { "id": "c", "html": "ただしめん" },
+        { "id": "d", "html": "しょうめん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>正面（しょうめん）と読みます。<span>Meaning: <strong>front; frontage; facade; main</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p9-q8",
+      "questionHtml": "<p>{彼|かれ}は{大|おお}きな{問題|もんだい}に「直面」しています。「直面」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じきめん" },
+        { "id": "b", "html": "ちょくめん" },
+        { "id": "c", "html": "ちょうめん" },
+        { "id": "d", "html": "なおめん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>直面（ちょくめん）と読みます。<span>Meaning: <strong>confrontation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p9-q9",
+      "questionHtml": "<p>{私|わたし}は「普段」{朝|あさ}ご{飯|はん}を{食|た}べません。「普段」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふたん" },
+        { "id": "b", "html": "ぶだん" },
+        { "id": "c", "html": "ふだん" },
+        { "id": "d", "html": "ふつだん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>普段（ふだん）と読みます。<span>Meaning: <strong>usual; normal; everyday; habitual; ordinary</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p9-q10",
+      "questionHtml": "<p>これは「普遍」の{真理|しんり}です。「普遍」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふへん" },
+        { "id": "b", "html": "ふべん" },
+        { "id": "c", "html": "ふえん" },
+        { "id": "d", "html": "ぶへん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>普遍（ふへん）と読みます。<span>Meaning: <strong>universal; general; ubiquitous; omnipresent</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p9-q11",
+      "questionHtml": "<p>スマホが「普及」しました。「普及」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふぎゅう" },
+        { "id": "b", "html": "ふきょう" },
+        { "id": "c", "html": "ふっきゅう" },
+        { "id": "d", "html": "ふきゅう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>普及（ふきゅう）と読みます。<span>Meaning: <strong>diffusion; spread; popularization; promulgation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p9-q12",
+      "questionHtml": "<p>{家|いえ}では「普段着」で{過|す}ごします。「普段着」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふだんちゃく" },
+        { "id": "b", "html": "ふだんぎ" },
+        { "id": "c", "html": "ふつうぎ" },
+        { "id": "d", "html": "ふだんき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>普段着（ふだんぎ）と読みます。<span>Meaning: <strong>everyday clothes; ordinary clothes; casual wear</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p9-q13",
+      "questionHtml": "<p>「普遍的」な{価値|かち}について{考|かんが}えます。「普遍的」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふべんてき" },
+        { "id": "b", "html": "ふへんてい" },
+        { "id": "c", "html": "ふへんてき" },
+        { "id": "d", "html": "ふえんてき" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>普遍的（ふへんてき）と読みます。<span>Meaning: <strong>universal; omnipresent; ubiquitous</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p9-q14",
+      "questionHtml": "<p>{私|わたし}は「普通」{電車|でんしゃ}に{乗|の}ります。「普通」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふつう" },
+        { "id": "b", "html": "ふづう" },
+        { "id": "c", "html": "ふとう" },
+        { "id": "d", "html": "ぶつう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>普通（ふつう）と読みます。<span>Meaning: <strong>general; ordinary; usual</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p9-q15",
+      "questionHtml": "<p>{情報|じょうほう}が「普く」{伝|つた}わりました。「普く」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふく" },
+        { "id": "b", "html": "ひらく" },
+        { "id": "c", "html": "あまく" },
+        { "id": "d", "html": "あまねく" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>普く（あまねく）と読みます。<span>Meaning: <strong>widely, extensively, everywhere, generally, universally</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p9-q16",
+      "questionHtml": "<p>「各駅」{停車|ていしゃ}の{電車|でんしゃ}に{乗|の}ります。「各駅」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かくえい" },
+        { "id": "b", "html": "かくえき" },
+        { "id": "c", "html": "かくやく" },
+        { "id": "d", "html": "おのえき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>各駅（かくえき）と読みます。<span>Meaning: <strong>every station</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p9-q17",
+      "questionHtml": "<p>「各自」お{弁当|べんとう}を{持|も}ってきてください。「各自」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かくじ" },
+        { "id": "b", "html": "かくし" },
+        { "id": "c", "html": "かくじん" },
+        { "id": "d", "html": "おのじ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>各自（かくじ）と読みます。<span>Meaning: <strong>each person</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p9-q18",
+      "questionHtml": "<p>{台風|たいふう}で「各地」に{被害|ひがい}が{出|で}ました。「各地」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かくじ" },
+        { "id": "b", "html": "かくだい" },
+        { "id": "c", "html": "かくち" },
+        { "id": "d", "html": "かくじん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>各地（かくち）と読みます。<span>Meaning: <strong>every place; various places</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p9-q19",
+      "questionHtml": "<p>この{店|みせ}は「各種」のお{茶|ちゃ}を{売|う}っています。「各種」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かくしゅう" },
+        { "id": "b", "html": "かくじゅ" },
+        { "id": "c", "html": "かくたね" },
+        { "id": "d", "html": "かくしゅ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>各種（かくしゅ）と読みます。<span>Meaning: <strong>every kind; all sorts</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p9-q20",
+      "questionHtml": "<p>「各国」の{代表|だいひょう}が{集|あつ}まりました。「各国」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かくこく" },
+        { "id": "b", "html": "かっこく" },
+        { "id": "c", "html": "おのくに" },
+        { "id": "d", "html": "かこく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>各国（かっこく）と読みます。<span>Meaning: <strong>each country; every country; various countries; all countries</strong></span></p>"
+    }
+  ]
+}

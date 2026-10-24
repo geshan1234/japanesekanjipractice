@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 17,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p17-q1",
+      "questionHtml": "<p>{私|わたし}の「両親」は{京都|きょうと}に{住|す}んでいます。「両親」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りょうおや" },
+        { "id": "b", "html": "りょうしん" },
+        { "id": "c", "html": "りょしん" },
+        { "id": "d", "html": "ふたおや" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>両親（りょうしん）と読みます。<span>Meaning: <strong>parents</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p17-q2",
+      "questionHtml": "<p>「両」{肩|かた}が{痛|いた}いです。「両」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りょう" },
+        { "id": "b", "html": "ろう" },
+        { "id": "c", "html": "りょ" },
+        { "id": "d", "html": "りゅう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>〜両（〜りょう）と読みます。<span>Meaning: <strong>both (e.g. both shoulders, etc.)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p17-q3",
+      "questionHtml": "<p>この{電車|でんしゃ}は{新|あたら}しい「車両」です。「車両」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くるまりょう" },
+        { "id": "b", "html": "しゃろう" },
+        { "id": "c", "html": "しゃりょう" },
+        { "id": "d", "html": "しゃりょ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>車両（しゃりょう）と読みます。<span>Meaning: <strong>railroad cars; wheeled vehicles</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p17-q4",
+      "questionHtml": "<p>{担当者|たんとうしゃ}の「移替」を{行|おこな}いました。「移替」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いかえ" },
+        { "id": "b", "html": "うつりがえ" },
+        { "id": "c", "html": "いてい" },
+        { "id": "d", "html": "いたい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>移替（いたい）と読みます。<span>Meaning: <strong>changing (person in charge, etc.), shifting</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p17-q5",
+      "questionHtml": "<p>「代替」{案|あん}を{考|かんが}えましょう。「代替」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "だいがえ" },
+        { "id": "b", "html": "だいたい" },
+        { "id": "c", "html": "だいかえ" },
+        { "id": "d", "html": "たいかわり" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>代替（だいたい）と読みます。<span>Meaning: <strong>substitution; alternative; substitute</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p17-q6",
+      "questionHtml": "<p>{休日|きゅうじつ}の「振替」が{決|き}まりました。「振替」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふりかえ" },
+        { "id": "b", "html": "ふるかえ" },
+        { "id": "c", "html": "しんたい" },
+        { "id": "d", "html": "ふりがえ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>振替（ふりかえ）と読みます。<span>Meaning: <strong>transfer; switching over; change</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p17-q7",
+      "questionHtml": "<p>「日替わり」{定食|ていしょく}を{注文|ちゅうもん}します。「日替わり」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "にちかわり" },
+        { "id": "b", "html": "ひがえり" },
+        { "id": "c", "html": "ひがわり" },
+        { "id": "d", "html": "ひかわり" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>日替わり（ひがわり）と読みます。<span>Meaning: <strong>changing every day</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p17-q8",
+      "questionHtml": "<p>{旅行|りょこう}に「着替え」を{持|も}っていきます。「着替え」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちゃくがえ" },
+        { "id": "b", "html": "きかえ" },
+        { "id": "c", "html": "きがえり" },
+        { "id": "d", "html": "きがえ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>着替え（きがえ）と読みます。<span>Meaning: <strong>changing clothes; change of clothes</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p17-q9",
+      "questionHtml": "<p>{古|ふる}い{電池|でんち}を「取り替える」。「取り替える」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とりかえる" },
+        { "id": "b", "html": "とりがえる" },
+        { "id": "c", "html": "しゅかえる" },
+        { "id": "d", "html": "とりたえる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>取り替える（とりかえる）と読みます。<span>Meaning: <strong>to exchange; to replace</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p17-q10",
+      "questionHtml": "<p>{空港|くうこう}でお{金|かね}を「両替」しました。「両替」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りょうたい" },
+        { "id": "b", "html": "りょうがえ" },
+        { "id": "c", "html": "りょうかえ" },
+        { "id": "d", "html": "ふたがえ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>両替（りょうがえ）と読みます。<span>Meaning: <strong>money exchange</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p17-q11",
+      "questionHtml": "<p>{急|いそ}いで「着替える」。「着替える」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちゃくかえる" },
+        { "id": "b", "html": "きたえる" },
+        { "id": "c", "html": "きがえる" },
+        { "id": "d", "html": "きかえる" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>着替える（きがえる）と読みます。<span>Meaning: <strong>to change one's clothes</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p17-q12",
+      "questionHtml": "<p>{担当|たんとう}が{田中|たなか}さんに「替わる」。「替わる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たわる" },
+        { "id": "b", "html": "かえる" },
+        { "id": "c", "html": "ひわる" },
+        { "id": "d", "html": "かわる" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>替わる（かわる）と読みます。<span>Meaning: <strong>to succeed, to relieve, to replace, to take the place of, to substitute for</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p17-q13",
+      "questionHtml": "<p>{服|ふく}を「替える」。「替える」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かえる" },
+        { "id": "b", "html": "かわる" },
+        { "id": "c", "html": "たえる" },
+        { "id": "d", "html": "かたえる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>替える（かえる）と読みます。<span>Meaning: <strong>to exchange; to interchange; to replace</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p17-q14",
+      "questionHtml": "<p>{私|わたし}たちのチームが「優勝」しました。「優勝」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆうしょ" },
+        { "id": "b", "html": "ゆうしょう" },
+        { "id": "c", "html": "ゆしょう" },
+        { "id": "d", "html": "ゆうそう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>優勝（ゆうしょう）と読みます。<span>Meaning: <strong>overall victory; championship; winning the title</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p17-q15",
+      "questionHtml": "<p>{彼|かれ}はとても「優秀」な{学生|がくせい}です。「優秀」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆうしゅ" },
+        { "id": "b", "html": "ゆうじゅう" },
+        { "id": "c", "html": "ゆうしゅう" },
+        { "id": "d", "html": "ゆしゅう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>優秀（ゆうしゅう）と読みます。<span>Meaning: <strong>superior; excellent; brilliant; outstanding</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p17-q16",
+      "questionHtml": "<p>お{年寄|としよ}りを「優先」します。「優先」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆうせん" },
+        { "id": "b", "html": "ゆうぜん" },
+        { "id": "c", "html": "ゆせん" },
+        { "id": "d", "html": "ゆうさき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>優先（ゆうせん）と読みます。<span>Meaning: <strong>preference; priority; precedence</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p17-q17",
+      "questionHtml": "<p>{試合|しあい}は{我|わ}がチームが「優勢」です。「優勢」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆうぜい" },
+        { "id": "b", "html": "ゆうせ" },
+        { "id": "c", "html": "ゆうしょう" },
+        { "id": "d", "html": "ゆうせい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>優勢（ゆうせい）と読みます。<span>Meaning: <strong>superiority; superior power; predominance; preponderance</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p17-q18",
+      "questionHtml": "<p>「優美」な{踊|おど}りに{感動|かんどう}しました。「優美」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆうみ" },
+        { "id": "b", "html": "ゆうび" },
+        { "id": "c", "html": "ゆび" },
+        { "id": "d", "html": "ゆうぴ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>優美（ゆうび）と読みます。<span>Meaning: <strong>grace; refinement; elegance; daintiness</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p17-q19",
+      "questionHtml": "<p>{交渉|こうしょう}で{彼|かれ}が「優位」に{立|た}ちました。「優位」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆうえ" },
+        { "id": "b", "html": "ゆいい" },
+        { "id": "c", "html": "ゆうい" },
+        { "id": "d", "html": "ゆうび" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>優位（ゆうい）と読みます。<span>Meaning: <strong>predominance; superiority; ascendancy; advantage; supremacy</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p17-q20",
+      "questionHtml": "<p>{彼|かれ}は{有名|ゆうめい}な「俳優」です。「俳優」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はいゆう" },
+        { "id": "b", "html": "はいゆ" },
+        { "id": "c", "html": "ひゃくゆう" },
+        { "id": "d", "html": "はいう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>俳優（はいゆう）と読みます。<span>Meaning: <strong>actor; actress; player; performer</strong></span></p>"
+    }
+  ]
+}
