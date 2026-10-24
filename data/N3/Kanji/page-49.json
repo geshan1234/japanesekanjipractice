@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 49,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p49-q1",
+      "questionHtml": "<p>この缶詰は品質が安定しているため、「常温」で長期保存が可能です。「常温」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じょうおん" },
+        { "id": "b", "html": "つねおん" },
+        { "id": "c", "html": "じょうはる" },
+        { "id": "d", "html": "じょうぬく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>常温（じょうおん）と読みます。<span>Meaning: <strong>normal temperature, room temperature</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p49-q2",
+      "questionHtml": "<p>海外の展示会に参加することで、自社製品の新しい「販路」を開拓する。「販路」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はんじ" },
+        { "id": "b", "html": "ほんろ" },
+        { "id": "c", "html": "はんろ" },
+        { "id": "d", "html": "うりみち" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>販路（はんろ）と読みます。<span>Meaning: <strong>market (for goods), outlet for selling</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p49-q3",
+      "questionHtml": "<p>国内の「自販」市場に関するデータを分析し、自動車の需要を予測する。「自販」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じはん" },
+        { "id": "b", "html": "みずからはん" },
+        { "id": "c", "html": "じばん" },
+        { "id": "d", "html": "しはん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>自販（じはん）と読みます。<span>Meaning: <strong>automobile sales (abbreviation of 自動車販売)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p49-q4",
+      "questionHtml": "<p>この薬は処方箋がなくても、薬局で「市販」されているので簡単に買える。「市販」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いちはん" },
+        { "id": "b", "html": "しはん" },
+        { "id": "c", "html": "まちはん" },
+        { "id": "d", "html": "じはん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>市販（しはん）と読みます。<span>Meaning: <strong>selling on the market, commercially available</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p49-q5",
+      "questionHtml": "<p>新しいスマホの「販売」が開始され、ショップの前に長い列ができた。「販売」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はんばい" },
+        { "id": "b", "html": "ほんばい" },
+        { "id": "c", "html": "はんまい" },
+        { "id": "d", "html": "ばんばい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>販売（はんばい）と読みます。<span>Meaning: <strong>sales, selling, marketing</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p49-q6",
+      "questionHtml": "<p>書籍の「再販」制度を守るための法律について、出版社が議論している。「再販」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さいはん" },
+        { "id": "b", "html": "さいばい" },
+        { "id": "c", "html": "ふたたびはん" },
+        { "id": "d", "html": "さあはん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>再販（再販）と読みます。<span>Meaning: <strong>resale</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p49-q7",
+      "questionHtml": "<p>近くの店舗で売っていない珍しい商品を、ネットの「通販」で取り寄せた。「通販」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かよはん" },
+        { "id": "b", "html": "つうはん" },
+        { "id": "c", "html": "つうばい" },
+        { "id": "d", "html": "とうはん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>通販（つうはん）と読みます。<span>Meaning: <strong>mail order, online shopping, e-commerce</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p49-q8",
+      "questionHtml": "<p>売れ行きを伸ばすため、来月から新しい「販促」キャンペーンを展開する。「販促」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はんそく" },
+        { "id": "b", "html": "ほうそく" },
+        { "id": "c", "html": "はんぞく" },
+        { "id": "d", "html": "うりそく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>販促（販促）と読みます。<span>Meaning: <strong>sales promotion</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p49-q9",
+      "questionHtml": "<p>コンサートの会場では、音楽配信だけでなく限定グッズの「物販」も行われる。「物販」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ものはん" },
+        { "id": "b", "html": "ぶつはん" },
+        { "id": "c", "html": "ぶっぱん" },
+        { "id": "d", "html": "ぶつばい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>物販（ぶっぱん）と読みます。<span>Meaning: <strong>sale of goods</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p49-q10",
+      "questionHtml": "<p>日本の街中には、冷たい飲み物がすぐに買える「自動販売機」がたくさんある。「自動販売機」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じどうはんばいき" },
+        { "id": "b", "html": "じどうほんばいき" },
+        { "id": "c", "html": "じどうはんまいき" },
+        { "id": "d", "html": "じどうばんばいき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>自動販売機（じどうはんばいき）と読みます。<span>Meaning: <strong>vending machine</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p49-q11",
+      "questionHtml": "<p>留学中に知り合った海外の友人と、再び会う「機会」をずっと待っている。「機会」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きかい" },
+        { "id": "b", "html": "ぎかい" },
+        { "id": "c", "html": "はたかい" },
+        { "id": "d", "html": "きがい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>機会（きかい）と読みます。<span>Meaning: <strong>chance, opportunity</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p49-q12",
+      "questionHtml": "<p>工場の奥に設置された最新の「機械」が、製品をハイスピードで組み立てていく。「機械」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きがい" },
+        { "id": "b", "html": "ぎかい" },
+        { "id": "c", "html": "きかい" },
+        { "id": "d", "html": "きかいめ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>機械（きかい）と読みます。<span>Meaning: <strong>machine, mechanism</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p49-q13",
+      "questionHtml": "<p>このスマートウォッチには、心拍数を24時間管理する「機能」が備わっている。「機能」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きのう" },
+        { "id": "b", "html": "ぎのう" },
+        { "id": "c", "html": "はたのう" },
+        { "id": "d", "html": "きゆう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>機能（きのう）と読みます。<span>Meaning: <strong>function, facility, feature</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p49-q14",
+      "questionHtml": "<p>蒸気「機関」車の力強い走りを見るために、全国から多くの鉄道ファンが集まった。「機関」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きかん" },
+        { "id": "b", "html": "ぎかん" },
+        { "id": "c", "html": "きげん" },
+        { "id": "d", "html": "はたかん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>機関（きかん）と読みます。<span>Meaning: <strong>engine, institution, organization</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p49-q15",
+      "questionHtml": "<p>{彼|かれ}がこの研究を始めた本当の「動機」については、誰も詳しく知らない。「動機」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "どうき" },
+        { "id": "b", "html": "うごき" },
+        { "id": "c", "html": "とうき" },
+        { "id": "d", "html": "どうぎ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>動機（どうき）と読みます。<span>Meaning: <strong>motive, incentive</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p49-q16",
+      "questionHtml": "<p>成田空港を飛び立った大きな「飛行機」が、雲を抜けて青空へ向かった。「飛行機」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひこうき" },
+        { "id": "b", "html": "びこうき" },
+        { "id": "c", "html": "ひこうぎ" },
+        { "id": "d", "html": "とぶきき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>飛行機（ひこうき）と読みます。<span>Meaning: <strong>aeroplane, airplane, aircraft</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p49-q17",
+      "questionHtml": "<p>職人が古い「機」を使って、美しい絹の織物を丁寧に織り上げていく。「機」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はた" },
+        { "id": "b", "html": "き" },
+        { "id": "c", "html": "おり" },
+        { "id": "d", "html": "から" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>機（はた）と読みます。<span>Meaning: <strong>loom (weaving machine)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p49-q18",
+      "questionHtml": "<p>人口の増加に伴い、都市部での住宅に対する需要が「増大」している。「増大」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふえだい" },
+        { "id": "b", "html": "ぞうだい" },
+        { "id": "c", "html": "そうだい" },
+        { "id": "d", "html": "ぞうたい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>増大（ぞうだい）と読みます。<span>Meaning: <strong>enlargement, increase</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p49-q19",
+      "questionHtml": "<p>{定期的|ていきてき}な運動は、体力の維持や健康の「増進」に素晴らしい効果がある。「増進」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぞうしん" },
+        { "id": "b", "html": "そうしん" },
+        { "id": "c", "html": "ぞうすすむ" },
+        { "id": "d", "html": "じょうしん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>増進（ぞうしん）と読みます。<span>Meaning: <strong>promoting, increase, advance (e.g. health)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p49-q20",
+      "questionHtml": "<p>{安全|あんぜん}対策を万全にするため、夜間の警備員を「増強」することにした。「増強」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぞうきょう" },
+        { "id": "b", "html": "そうきょう" },
+        { "id": "c", "html": "ぞうつよし" },
+        { "id": "d", "html": "じょうきょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>増強（ぞう強）と読みます。<span>Meaning: <strong>reinforcement, augmentation, strengthening</strong></span></p>"
+    }
+  ]
+}

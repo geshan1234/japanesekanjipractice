@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 19,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p1-q1",
+      "questionHtml": "<p>{別|わか}れた{恋人|こいびと}に「未練」があるのだろうか。「未練」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "みれい" },
+        { "id": "b", "html": "みれん" },
+        { "id": "c", "html": "びれん" },
+        { "id": "d", "html": "みらん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>未練（みれん）と読みます。<span>Meaning: <strong>lingering attachment, regret</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p1-q2",
+      "questionHtml": "<p>その{島|しま}には「未開」の{ジャングル|じゃんぐる}が{広|ひろ}がっている。「未開」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "みかい" },
+        { "id": "b", "html": "みひら" },
+        { "id": "c", "html": "びかい" },
+        { "id": "d", "html": "まいかい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>未開（みかい）と読みます。<span>Meaning: <strong>uncivilized, primitive</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p1-q3",
+      "questionHtml": "<p>{次|つぎ}の{会議|かいぎ}の{日程|にってい}は「未定」です。「未定」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "みてい" },
+        { "id": "b", "html": "みじょう" },
+        { "id": "c", "html": "びてい" },
+        { "id": "d", "html": "みさだ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>未定（みてい）と読みます。<span>Meaning: <strong>undecided, pending</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p1-q4",
+      "questionHtml": "<p>{地球|ちきゅう}の「未来」について{真剣|しんけん}に{考|かんが}える。「未来」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "みく" },
+        { "id": "b", "html": "みき" },
+        { "id": "c", "html": "みらい" },
+        { "id": "d", "html": "びらい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>未来（みらい）と読みます。<span>Meaning: <strong>the future</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p1-q5",
+      "questionHtml": "<p>この{映画|えいが}は20{歳|さい}「未満」は{鑑賞|かんしょう}できません。「未満」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "みまん" },
+        { "id": "b", "html": "みみつ" },
+        { "id": "c", "html": "びまん" },
+        { "id": "d", "html": "みばん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>未満（みまん）と読みます。<span>Meaning: <strong>less than, insufficient</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p1-q6",
+      "questionHtml": "<p>{約束|やくそく}の{時間|じかん}なのに、{彼|かれ}は「未だ」{来|き}ない。「未だ」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いまだ" },
+        { "id": "b", "html": "まだ" },
+        { "id": "c", "html": "また" },
+        { "id": "d", "html": "いまに" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>未だ（まだ）と読みます。<span>Meaning: <strong>still, not yet</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p1-q7",
+      "questionHtml": "<p>{書類|しょるい}の{提出|ていしゅつ}の{期限|きげん}は{今月|こんげつ}の「末日」です。「末日」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "すえじつ" },
+        { "id": "b", "html": "まつび" },
+        { "id": "c", "html": "まつじつ" },
+        { "id": "d", "html": "ばつじつ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>末日（まつじつ）と読みます。<span>Meaning: <strong>last day (of a month)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p1-q8",
+      "questionHtml": "<p>{使|つか}った{道具|どうぐ}はきちんと「始末」してください。「始末」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しまつ" },
+        { "id": "b", "html": "じまつ" },
+        { "id": "c", "html": "しすえ" },
+        { "id": "d", "html": "ちまつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>始末（しまつ）と読みます。<span>Meaning: <strong>management, disposal, cleaning up</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p1-q9",
+      "questionHtml": "<p>「期末」{試験|しけん}のために{毎日|まいにち}{勉強|べんきょう}している。「期末」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きすえ" },
+        { "id": "b", "html": "ごまつ" },
+        { "id": "c", "html": "きばつ" },
+        { "id": "d", "html": "きまつ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>期末（きまつ）と読みます。<span>Meaning: <strong>end of term</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p1-q10",
+      "questionHtml": "<p>{食|た}べ{物|もの}を「粗末」にしてはいけません。「粗末」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そまつ" },
+        { "id": "b", "html": "ぞまつ" },
+        { "id": "c", "html": "あらまつ" },
+        { "id": "d", "html": "そばつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>粗末（そまつ）と読みます。<span>Meaning: <strong>crude, plain, wasteful/shabby</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p1-q11",
+      "questionHtml": "<p>{詳細|しょうさい}な{データ|でーた}は「巻末」に{掲載|けいさい}されています。「巻末」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かんすえ" },
+        { "id": "b", "html": "まきまつ" },
+        { "id": "c", "html": "かんまつ" },
+        { "id": "d", "html": "けんまつ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>巻末（かんまつ）と読みます。<span>Meaning: <strong>end of a book</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p1-q12",
+      "questionHtml": "<p>「週末」は{友達|ともだち}と{一緒|いっしょ}に{映画|えいが}を見に行きます。「週末」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅうまつ" },
+        { "id": "b", "html": "しゅうすえ" },
+        { "id": "c", "html": "しゅばつ" },
+        { "id": "d", "html": "じゅうまつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>週末（しゅうまつ）と読みます。<span>Meaning: <strong>weekend</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p1-q13",
+      "questionHtml": "<p>「月末」までにこの{仕事|しごと}を{終|お}わらせてください。「月末」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "つきまつ" },
+        { "id": "b", "html": "げつまつ" },
+        { "id": "c", "html": "がつまつ" },
+        { "id": "d", "html": "げつすえ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>月末（げつまつ）と読みます。<span>Meaning: <strong>end of the month</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p1-q14",
+      "questionHtml": "<p>「年末」は{実家|じっか}に{帰省|きせい}する{予定|よてい}です。「年末」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "としまつ" },
+        { "id": "b", "html": "ねんすえ" },
+        { "id": "c", "html": "ねんまつ" },
+        { "id": "d", "html": "ねんばつ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>年末（ねんまつ）と読みます。<span>Meaning: <strong>end of the year</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p1-q15",
+      "questionHtml": "<p>{長|なが}い{議論|ぎろん}の「末に」、ようやく{結論|けつろん}が出た。「末に」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "まつに" },
+        { "id": "b", "html": "すえに" },
+        { "id": "c", "html": "うらに" },
+        { "id": "d", "html": "おわりに" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>末に（すえに）と読みます。<span>Meaning: <strong>finally, after, following</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p1-q16",
+      "questionHtml": "<p>この{イベント|いべんと}には「老若」を{問|と}わず多くの人が集まった。「老若」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ろうじゃく" },
+        { "id": "b", "html": "ろうにゃく" },
+        { "id": "c", "html": "おいわか" },
+        { "id": "d", "html": "ろうにゃん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>老若（ろうにゃく）と読みます。<span>Meaning: <strong>young and old, all ages</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p1-q17",
+      "questionHtml": "<p>{彼|かれ}はまだ「若い」が、とても{経験|けいけん}が{豊富|ほうふ}だ。「若い」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "わかい" },
+        { "id": "b", "html": "もしい" },
+        { "id": "c", "html": "にゃくい" },
+        { "id": "d", "html": "おさない" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>若い（わかい）と読みます。<span>Meaning: <strong>young</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p1-q18",
+      "questionHtml": "<p>「若し」{雨|あめ}が{降|ふ}ったら、{試合|しあい}は{中止|ちゅうし}になります。「若し」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "わかし" },
+        { "id": "b", "html": "あるいは" },
+        { "id": "c", "html": "もし" },
+        { "id": "d", "html": "万一" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>若し（もし）と読みます。<span>Meaning: <strong>if, in case, supposing</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p1-q19",
+      "questionHtml": "<p>この{街|まち}には多くの「若者」が{住|す}んでいます。「若者」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "わかもの" },
+        { "id": "b", "html": "じゃくしゃ" },
+        { "id": "c", "html": "わかしゃ" },
+        { "id": "d", "html": "にゃくもの" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>若者（わかもの）と読みます。<span>Meaning: <strong>young people, youth</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p1-q20",
+      "questionHtml": "<p>{会社|かいしゃ}の「若手」{社員|しゃいん}が新しい企画を提案した。「若手」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "わかて" },
+        { "id": "b", "html": "じゃくて" },
+        { "id": "c", "html": "わかしゅ" },
+        { "id": "d", "html": "にゃくて" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>若手（わかて）と読みます。<span>Meaning: <strong>young person, junior staff member</strong></span></p>"
+    }
+  ]
+}

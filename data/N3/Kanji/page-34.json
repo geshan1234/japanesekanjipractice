@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 34,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p34-q1",
+      "questionHtml": "<p>深夜の最終列車に揺られ、ようやく終電の「終点」に到着した。「終点」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おわりてん" },
+        { "id": "b", "html": "しゅうてん" },
+        { "id": "c", "html": "しゅてん" },
+        { "id": "d", "html": "しゅうともし" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>終点（しゅうてん）と読みます。<span>Meaning: <strong>terminus, last stop (of a train/bus)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p34-q2",
+      "questionHtml": "<p>教育制度の改革について、より客観的な「観点」から評価を行う。「観点」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "みおもいてん" },
+        { "id": "b", "html": "がんてん" },
+        { "id": "c", "html": "かんてん" },
+        { "id": "d", "html": "かんともし" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>観点（かんてん）と読みます。<span>Meaning: <strong>point of view, perspective</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p34-q3",
+      "questionHtml": "<p>大きな車が「交差点」の真ん中でエンストしてしまい、パニックになった。「交差点」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうさてん" },
+        { "id": "b", "html": "まじわりさてん" },
+        { "id": "c", "html": "きょうさてん" },
+        { "id": "d", "html": "こうさともし" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>交差点（こうさてん）と読みます。<span>Meaning: <strong>crossing, intersection, crossroads</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p34-q4",
+      "questionHtml": "<p>日本語能力試験の合格「点」をクリアするために毎日猛勉強している。「点」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "てん" },
+        { "id": "b", "html": "でん" },
+        { "id": "c", "html": "ともし" },
+        { "id": "d", "html": "さく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>～点（てん）と読みます。<span>Meaning: <strong>~ point, counter for marks/points</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p34-q5",
+      "questionHtml": "<p>二つの島を結ぶ巨大な「架橋」工事が、来月から本格的にスタートする。「架橋」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かけはし" },
+        { "id": "b", "html": "かきょう" },
+        { "id": "c", "html": "がきょう" },
+        { "id": "d", "html": "がけはし" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>架橋（かきょう）と読みます。<span>Meaning: <strong>bridge-building, bridge construction</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p34-q6",
+      "questionHtml": "<p>川の増水による強い圧力に耐えられるよう、頑丈な「橋台」を造る。「橋台」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はしだい" },
+        { "id": "b", "html": "きょうたい" },
+        { "id": "c", "html": "きょうだい" },
+        { "id": "d", "html": "はしただい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>橋台（きょうだい）と読みます。<span>Meaning: <strong>bridge abutment</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p34-q7",
+      "questionHtml": "<p>美しい川の流れを眺めながら、歴史ある「橋畔」の道をゆっくりと散策した。「橋畔」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きょうはん" },
+        { "id": "b", "html": "はしべ" },
+        { "id": "c", "html": "きょうばん" },
+        { "id": "d", "html": "はしきわ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>橋畔（きょうはん）と読みます。<span>Meaning: <strong>approach to a bridge, bridge side</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p34-q8",
+      "questionHtml": "<p>{電車|でんしゃ}が古い「鉄橋」を渡る際、ゴトゴトと大きな音が周囲に響いた。「鉄橋」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "てつはし" },
+        { "id": "b", "html": "てっきょう" },
+        { "id": "c", "html": "てつきょう" },
+        { "id": "d", "html": "くろがねはし" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>鉄橋（てっきょう）と読みます。<span>Meaning: <strong>railway bridge, iron bridge</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p34-q9",
+      "questionHtml": "<p>線路をまたぐ大きな「陸橋」の上から、行き交う列車を眺めるのが好きだ。「陸橋」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りくはし" },
+        { "id": "b", "html": "りっきょう" },
+        { "id": "c", "html": "りくきょう" },
+        { "id": "d", "html": "おかはし" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>陸橋（りっきょう）と読みます。<span>Meaning: <strong>viaduct, overhead bridge, overpass</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p34-q10",
+      "questionHtml": "<p>{道路|どうろ}を安全に横断するために、少し離れた場所にある「歩道橋」を渡った。「歩道橋」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほどうはし" },
+        { "id": "b", "html": "ふどうきょう" },
+        { "id": "c", "html": "ほどうきょう" },
+        { "id": "d", "html": "あるききょう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>歩道橋（ほどうきょう）と読みます。<span>Meaning: <strong>footbridge, pedestrian overpass</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p34-q11",
+      "questionHtml": "<p>木造の古い「橋」は、台風の激しい濁流によって一瞬で流されてしまった。「橋」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はし" },
+        { "id": "b", "html": "きょう" },
+        { "id": "c", "html": "くた" },
+        { "id": "d", "html": "ふち" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>橋（はし）と読みます。<span>Meaning: <strong>bridge</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p34-q12",
+      "questionHtml": "<p>裁判においては、すべての証拠を「公正」に評価して判断を下すべきだ。「公正」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうせい" },
+        { "id": "b", "html": "くせい" },
+        { "id": "c", "html": "おおやけせい" },
+        { "id": "d", "html": "ごうせい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>公正（公正）と読みます。<span>Meaning: <strong>justice, fairness</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p34-q13",
+      "questionHtml": "<p>{低所得|ていしょとく}世帯に対する「公的」な支援制度の拡充が議論されている。「公的」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうてき" },
+        { "id": "b", "html": "くてき" },
+        { "id": "c", "html": "おおやけてき" },
+        { "id": "d", "html": "こうてきめ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>公的（公的）と読みます。<span>Meaning: <strong>public, official</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p34-q14",
+      "questionHtml": "<p>{中学生|ちゅうがくせい}の政治への関心を高めるため、「公民」の授業で模擬選挙を行う。「公民」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうみん" },
+        { "id": "b", "html": "くみん" },
+        { "id": "c", "html": "おおやけみん" },
+        { "id": "d", "html": "こうたみ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>公民（こうみん）と読みます。<span>Meaning: <strong>citizen, civics, freemen</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p34-q15",
+      "questionHtml": "<p>この地域のリーダーは、住民による「公選」によって民主的に選ばれる。「公選」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうせん" },
+        { "id": "b", "html": "くせん" },
+        { "id": "c", "html": "おおやけせん" },
+        { "id": "d", "html": "こうぜん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>公選（こうせん）と読みます。<span>Meaning: <strong>public election</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p34-q16",
+      "questionHtml": "<p>住民たちが快適に利用できるよう、都市の「公共」施設をきれいに整備する。「公共」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうきょう" },
+        { "id": "b", "html": "くきょう" },
+        { "id": "c", "html": "おおやけきょう" },
+        { "id": "d", "html": "こうぐう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>公共（こうきょう）と読みます。<span>Meaning: <strong>public, community</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p34-q17",
+      "questionHtml": "<p>世間の注目を集める重大事件の第一回「公判」が、明日ついに開かれる。「公判」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうはん" },
+        { "id": "b", "html": "くはん" },
+        { "id": "c", "html": "おおやけばん" },
+        { "id": "d", "html": "こうばん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>公判（こうはん）と読みます。<span>Meaning: <strong>public hearing, trial</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p34-q18",
+      "questionHtml": "<p>開発された新しい技術の詳細は、来月のカンファレンスで「公開」される。「公開」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうかい" },
+        { "id": "b", "html": "くかい" },
+        { "id": "c", "html": "おおやけひらき" },
+        { "id": "d", "html": "こうがい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>公開（こうかい）と読みます。<span>Meaning: <strong>open to the public, release</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p34-q19",
+      "questionHtml": "<p>官僚としての自覚を持ち、私情を挟まずに「公務」に専念しなければならない。「公務」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうむ" },
+        { "id": "b", "html": "くむ" },
+        { "id": "c", "html": "おおやけつとめ" },
+        { "id": "d", "html": "こうぶ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>公務（こうむ）と読みます。<span>Meaning: <strong>official business, public service</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p34-q20",
+      "questionHtml": "<p>政治家には、いかなる疑惑も持たれない「公明」正大な態度が常に求められる。「公明」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうめい" },
+        { "id": "b", "html": "くめい" },
+        { "id": "c", "html": "おおやけあかる" },
+        { "id": "d", "html": "こうみょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>公明（こうめい）と読みます。<span>Meaning: <strong>fairness, justice, openness</strong></span></p>"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 20,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p20-q1",
+      "questionHtml": "<p>{春|はる}になって、{木々|きぎ}に「若葉」が{茂|しげ}り{始|はじ}めた。「若葉」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "わかは" },
+        { "id": "b", "html": "じゃくよう" },
+        { "id": "c", "html": "わかば" },
+        { "id": "d", "html": "にゃくば" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>若葉（わかば）と読みます。<span>Meaning: <strong>new leaves, young leaves</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p20-q2",
+      "questionHtml": "<p>{彼|かれ}は「年若」の{割|わり}にはとても{落ち着|おちつ}いている。「年若」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ねんじゃく" },
+        { "id": "b", "html": "としわか" },
+        { "id": "c", "html": "としかも" },
+        { "id": "d", "html": "としじゃく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>年若（としわか）と読みます。<span>Meaning: <strong>young, youthful</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p20-q3",
+      "questionHtml": "<p>{友達|ともだち}と「一晩」{中|じゅう}{語|かた}り{明|あ}かした。「一晩」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いちばん" },
+        { "id": "b", "html": "ひとばん" },
+        { "id": "c", "html": "いっとう" },
+        { "id": "d", "html": "ひとよ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>一晩（ひとばん）と読みます。<span>Meaning: <strong>one night, one evening</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p20-q4",
+      "questionHtml": "<p>「今晩」の{天気|てんき}は{雨|あめ}の{予報|よほう}です。「今晩」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いまばん" },
+        { "id": "b", "html": "こんよ" },
+        { "id": "c", "html": "きょうばん" },
+        { "id": "d", "html": "こんばん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>今晩（こんばん）と読みます。<span>Meaning: <strong>tonight, this evening</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p20-q5",
+      "questionHtml": "<p>{祖父|そふ}は「毎晩」{日記|にっき}を{書|か}いています。「毎晩」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "まいばん" },
+        { "id": "b", "html": "まいよ" },
+        { "id": "c", "html": "まいてん" },
+        { "id": "d", "html": "まいにち" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>毎晩（まいばん）と読みます。<span>Meaning: <strong>every night</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p20-q6",
+      "questionHtml": "<p>「昨晩」は大きな{地震|じしん}がありました。「昨晩」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きのうばん" },
+        { "id": "b", "html": "さくよ" },
+        { "id": "c", "html": "さくばん" },
+        { "id": "d", "html": "さつばん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>昨晩（さくばん）と読みます。<span>Meaning: <strong>last night</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p20-q7",
+      "questionHtml": "<p>このままの{生活|せいかつ}を{続|つづ}ければ「早晩」{体|からだ}を{壊|こわ}すだろう。「早晩」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そうばん" },
+        { "id": "b", "html": "はやばん" },
+        { "id": "c", "html": "さつばん" },
+        { "id": "d", "html": "そうよ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>早晩（そうばん）と読みます。<span>Meaning: <strong>sooner or later, eventually</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p20-q8",
+      "questionHtml": "<p>{最近|さいきん}は「朝晩」すっかり{涼|すず}しくなりました。「朝晩」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あさよ" },
+        { "id": "b", "html": "ちょうばん" },
+        { "id": "c", "html": "あさばん" },
+        { "id": "d", "html": "あさよる" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>朝晩（あさばん）と読みます。<span>Meaning: <strong>morning and evening</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p20-q9",
+      "questionHtml": "<p>「明晩」、{駅|えき}の{前|まえ}で{集|あつ}まりましょう。「明晩」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "みょうばん" },
+        { "id": "b", "html": "あしたばん" },
+        { "id": "c", "html": "めいばん" },
+        { "id": "d", "html": "みょうよ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>明晩（みょうばん）と読みます。<span>Meaning: <strong>tomorrow evening</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p20-q10",
+      "questionHtml": "<p>いよいよ「晩」の{冷|ひ}え{込|こ}みが{厳|きび}しくなってきた。「晩」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よる" },
+        { "id": "b", "html": "ばん" },
+        { "id": "c", "html": "ゆう" },
+        { "id": "d", "html": "くれ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>晩（ばん）と読みます。<span>Meaning: <strong>evening</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p20-q11",
+      "questionHtml": "<p>今日の「晩御飯」はカレーライスです。「晩御飯」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よるごはん" },
+        { "id": "b", "html": "ゆうごはん" },
+        { "id": "c", "html": "ばんごはん" },
+        { "id": "d", "html": "ばんおはん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>晩御飯（ばんごはん）と読みます。<span>Meaning: <strong>dinner</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p20-q12",
+      "questionHtml": "<p>イタリアはブーツの{形|かたち}をした「半島」です。「半島」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はんじま" },
+        { "id": "b", "html": "ほんとう" },
+        { "id": "c", "html": "はんとう" },
+        { "id": "d", "html": "ぱんとう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>半島（はんとう）と読みます。<span>Meaning: <strong>peninsula</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p20-q13",
+      "questionHtml": "<p>日本は{南北|なんぼく}に{長|なが}い「列島」です。「列島」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "れっとう" },
+        { "id": "b", "html": "れつじま" },
+        { "id": "c", "html": "れつとう" },
+        { "id": "d", "html": "ねっとう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>列島（れっとう）と読みます。<span>Meaning: <strong>archipelago, chain of islands</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p20-q14",
+      "questionHtml": "<p>オキナワ「諸島」には{美|うつく}しい{海|うみ}があります。「諸島」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょじま" },
+        { "id": "b", "html": "ちょとう" },
+        { "id": "c", "html": "しょとう" },
+        { "id": "d", "html": "もろとう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>諸島（しょとう）と読みます。<span>Meaning: <strong>archipelago, group of islands</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p20-q15",
+      "questionHtml": "<p>台風の{影響|えいきょう}で「全島」に{避難|ひなん}勧告が出た。「全島」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぜんじま" },
+        { "id": "b", "html": "ぜんとう" },
+        { "id": "c", "html": "せんとう" },
+        { "id": "d", "html": "まるとう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>全島（ぜんとう）と読みます。<span>Meaning: <strong>the whole island</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p20-q16",
+      "questionHtml": "<p>「島人」たちが{伝統|でんとう}の{踊|おど}りを見せてくれた。「島人」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とうじん" },
+        { "id": "b", "html": "しまひと" },
+        { "id": "c", "html": "とうにん" },
+        { "id": "d", "html": "しまびと" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>島人（とうじん）と読みます。<span>Meaning: <strong>islander</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p20-q17",
+      "questionHtml": "<p>ハワイ「島」はとても{火山|かざん}が{有名|ゆうめい}です。「島」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しま" },
+        { "id": "b", "html": "とう" },
+        { "id": "c", "html": "どう" },
+        { "id": "d", "html": "やま" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>～島（とう）と読みます。<span>Meaning: <strong>island ~ (suffix)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p20-q18",
+      "questionHtml": "<p>いつか小さな「島」を{買|か}って暮らしてみたい。「島」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しま" },
+        { "id": "b", "html": "とう" },
+        { "id": "c", "html": "やま" },
+        { "id": "d", "html": "とり" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>島（しま）と読みます。<span>Meaning: <strong>island</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p20-q19",
+      "questionHtml": "<p>「福島」{県|けん}はおいしいフルーツがたくさん{採|と}れる。「福島」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふくとう" },
+        { "id": "b", "html": "ふくしま" },
+        { "id": "c", "html": "ふくじま" },
+        { "id": "d", "html": "ふくやま" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>福島（ふくしま）と読みます。<span>Meaning: <strong>Fukushima Province/Prefecture</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p20-q20",
+      "questionHtml": "<p>「今晩」は{星|ほし}がとてもきれいに見えます。「今晩」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いまばん" },
+        { "id": "b", "html": "こんよ" },
+        { "id": "c", "html": "きょうばん" },
+        { "id": "d", "html": "こんばん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>今晩（こんばん）と読みます。<span>Meaning: <strong>this evening, tonight</strong></span></p>"
+    }
+  ]
+}

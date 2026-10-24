@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 40,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p40-q1",
+      "questionHtml": "<p>生前に多くの名作を残した「故」・山田博士の功績を称える展示会が催された。「故」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こ" },
+        { "id": "b", "html": "ふる" },
+        { "id": "c", "html": "じ" },
+        { "id": "d", "html": "ゆえ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>故～（こ～）と読みます。<span>Meaning: <strong>the late (deceased) ~</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p40-q2",
+      "questionHtml": "<p>製造ラインのマシンが突然「故障」したため、工場の稼働が一時的にストップした。「故障」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こしょう" },
+        { "id": "b", "html": "ふるしょう" },
+        { "id": "c", "html": "こじょう" },
+        { "id": "d", "html": "こちょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>故障（こしょう）と読みます。<span>Meaning: <strong>breakdown, failure, out of order</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p40-q3",
+      "questionHtml": "<p>世界的な大富豪の波乱万丈な生涯を描いた「伝記」を読んで、強い感銘を受けた。「伝記」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "でんき" },
+        { "id": "b", "html": "てんき" },
+        { "id": "c", "html": "つたえき" },
+        { "id": "d", "html": "でんぎ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>伝記（でんき）と読みます。<span>Meaning: <strong>biography, life story</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p40-q4",
+      "questionHtml": "<p>数百年以上にわたり、職人の手によって守られてきた「伝統」芸能を継承する。「伝統」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "でんとう" },
+        { "id": "b", "html": "てんとう" },
+        { "id": "c", "html": "つたえとう" },
+        { "id": "d", "html": "でんどう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>伝統（でんとう）と読みます。<span>Meaning: <strong>tradition, convention</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p40-q5",
+      "questionHtml": "<p>この古いお寺には、大蛇にまつわる不思議な「伝説」が残されている。「伝説」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "でんせつ" },
+        { "id": "b", "html": "てんせつ" },
+        { "id": "c", "html": "でんぜつ" },
+        { "id": "d", "html": "つたえせつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>伝説（でんせつ）と読みます。<span>Meaning: <strong>legend, folklore</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p40-q6",
+      "questionHtml": "<p>髪の毛や目の色といった身体的な特徴は、親から子へと「遺伝」する。「遺伝」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いでん" },
+        { "id": "b", "html": "ゆいでん" },
+        { "id": "c", "html": "つたえでん" },
+        { "id": "d", "html": "いねん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>遺伝（いでん）と読みます。<span>Meaning: <strong>heredity, inherent</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p40-q7",
+      "questionHtml": "<p>政治家を引退したのを機に、自らの歩みを振り返る「自伝」を執筆した。「自伝」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じでん" },
+        { "id": "b", "html": "みずからでん" },
+        { "id": "c", "html": "じつたえ" },
+        { "id": "d", "html": "しでん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>自伝（じ伝）と読みます。<span>Meaning: <strong>autobiography</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p40-q8",
+      "questionHtml": "<p>新商品の売れ行きを伸ばすため、テレビやSNSを使って大々的に「宣伝」する。「宣伝」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せんでん" },
+        { "id": "b", "html": "ぜんでん" },
+        { "id": "c", "html": "せんてん" },
+        { "id": "d", "html": "ふれでん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>宣伝（せんでん）と読みます。<span>Meaning: <strong>publicity, advertisement</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p40-q9",
+      "questionHtml": "<p>文字を持たない古いコミュニティでは、歴史や神話が「伝承」によって守られた。「伝承」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "でんしょう" },
+        { "id": "b", "html": "てんしょう" },
+        { "id": "c", "html": "でんじょう" },
+        { "id": "d", "html": "つたえしょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>伝承（でんしょう）と読みます。<span>Meaning: <strong>legend, tradition, folklore transmission</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p40-q10",
+      "questionHtml": "<p>重要な連絡事項は、メンバーの全員に間違いなく「伝達」されなければならない。「伝達」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "でんたつ" },
+        { "id": "b", "html": "てんたつ" },
+        { "id": "c", "html": "でんだつ" },
+        { "id": "d", "html": "つたえたつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>伝達（でんたつ）と読みます。<span>Meaning: <strong>transmission, communication</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p40-q11",
+      "questionHtml": "<p>冬の乾燥した時期は、ウイルスによる感染症が「伝染」しやすいので警戒が必要だ。「伝染」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "でんせん" },
+        { "id": "b", "html": "てんせん" },
+        { "id": "c", "html": "でんぜん" },
+        { "id": "d", "html": "つたえそめ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>伝染（でんせん）と読みます。<span>Meaning: <strong>contagion, infection</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p40-q12",
+      "questionHtml": "<p>担当者が席を外しているため、折り返しの電話を求めるよう「伝言」を頼んだ。「伝言」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "でんごん" },
+        { "id": "b", "html": "でんげん" },
+        { "id": "c", "html": "つたえこと" },
+        { "id": "d", "html": "てんごん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>伝言（でんごん）と読みます。<span>Meaning: <strong>verbal message, word</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p40-q13",
+      "questionHtml": "<p>日本の素晴らしい食文化の魅力を、世界中の人々に「伝える」活動を行っている。「伝える」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "つたえる" },
+        { "id": "b", "html": "つたわる" },
+        { "id": "c", "html": "うったえる" },
+        { "id": "d", "html": "でんえる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>伝える（つたえる）と読みます。<span>Meaning: <strong>to transmit, to communicate, to tell</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p40-q14",
+      "questionHtml": "<p>{荷物|にもつ}が重くて一人では運べそうにないので、近くにいたスタッフに「手伝う」よう頼んだ。「手伝う」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "てつだう" },
+        { "id": "b", "html": "てつなう" },
+        { "id": "c", "html": "てづたう" },
+        { "id": "d", "html": "したまう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>手伝う（てつだう）と読みます。<span>Meaning: <strong>to help, to assist, to aid</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p40-q15",
+      "questionHtml": "<p>この化学薬品は危険性を警告するため、容器のラベルが「黄色」に指定されている。「黄色」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おうしょく" },
+        { "id": "b", "html": "きいろ" },
+        { "id": "c", "html": "こうしょく" },
+        { "id": "d", "html": "きしょく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>黄色（おうしょく）と読みます。<span>Meaning: <strong>yellow (noun/color category)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p40-q16",
+      "questionHtml": "<p>秋になると、イチョウの並木道が「黄色い」絨毯を敷いたように鮮やかに染まる。「黄色い」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きいろい" },
+        { "id": "b", "html": "おうしょくい" },
+        { "id": "c", "html": "こがねい" },
+        { "id": "d", "html": "きろい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>黄色い（きいろい）と読みます。<span>Meaning: <strong>yellow (adjective)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p40-q17",
+      "questionHtml": "<p>美術館の特別展で、中世ヨーロッパの宗教的な「絵画」をじっくりと鑑賞した。「絵画」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かいが" },
+        { "id": "b", "html": "えが" },
+        { "id": "c", "html": "えかく" },
+        { "id": "d", "html": "かいかく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>絵画（かいが）と読みます。<span>Meaning: <strong>picture, painting</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p40-q18",
+      "questionHtml": "<p>{将来|しょうらい}は自分のアトリエを持って、美しい自然の「絵」を描いて暮らしたい。「絵」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "え" },
+        { "id": "b", "html": "かい" },
+        { "id": "c", "html": "えず" },
+        { "id": "d", "html": "が" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>絵（え）と読みます。<span>Meaning: <strong>picture, drawing, painting</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p40-q19",
+      "questionHtml": "<p>本屋のキッズコーナーで、カラフルなイラストがたくさん載った「絵本」を購入した。「絵本」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "えほん" },
+        { "id": "b", "html": "かいほん" },
+        { "id": "c", "html": "えぽん" },
+        { "id": "d", "html": "がほん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>絵本（えほん）と読みます。<span>Meaning: <strong>picture book</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p40-q20",
+      "questionHtml": "<p>江戸時代に、多くの美しい浮世絵を手がけた天才的な「絵師」の歴史を調べる。「絵師」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "えし" },
+        { "id": "b", "html": "かいし" },
+        { "id": "c", "html": "えじ" },
+        { "id": "d", "html": "がし" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>絵師（えし）と読みます。<span>Meaning: <strong>painter, artist (traditional/classical context)</strong></span></p>"
+    }
+  ]
+}

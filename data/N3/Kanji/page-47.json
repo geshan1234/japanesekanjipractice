@@ -1,0 +1,239 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 47,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p47-q1",
+      "questionHtml": "<p>市場のニーズを調査し、「消費者」の動向に合わせた新しい製品を開発する。「消費者」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうひしゃ" },
+        { "id": "b", "html": "しょうひもの" },
+        { "id": "c", "html": "そうひしゃ" },
+        { "id": "d", "html": "しょうみしゃ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>消費者（しょうひしゃ）と読みます。<span>Meaning: <strong>consumer</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p47-q2",
+      "questionHtml": "<p>今月のサークルの「会費」として、受付で2000円を支払った。「会費」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あいひ" },
+        { "id": "b", "html": "かいひ" },
+        { "id": "c", "html": "かいび" },
+        { "id": "d", "html": "あうひ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>会費（かいひ）と読みます。<span>Meaning: <strong>membership fee</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p47-q3",
+      "questionHtml": "<p>このキャンペーンの「期間」は、来月の末日までとなっております。「期間」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きかん" },
+        { "id": "b", "html": "ときかん" },
+        { "id": "c", "html": "きげん" },
+        { "id": "d", "html": "きあつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>期間（きかん）と読みます。<span>Meaning: <strong>period, term, interval</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p47-q4",
+      "questionHtml": "<p>{将来|しょうらい}を見据えて、企業の「長期」的な成長戦略を立てる。「長期」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちょうき" },
+        { "id": "b", "html": "ながき" },
+        { "id": "c", "html": "じょうき" },
+        { "id": "d", "html": "ちょうご" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>長期（ちょうき）と読みます。<span>Meaning: <strong>long-term</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p47-q5",
+      "questionHtml": "<p>通学のために、駅の窓口で3ヶ月分の「定期券」を購入した。「定期券」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ていきけん" },
+        { "id": "b", "html": "ていきみせ" },
+        { "id": "c", "html": "だいきけん" },
+        { "id": "d", "html": "じょうきけん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>定期券（ていきけん）と読みます。<span>Meaning: <strong>commuter pass, season ticket</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p47-q6",
+      "questionHtml": "<p>大学の夏休みを利用して、イギリスへ「短期」の語学留学に行く。「短期」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "みじかき" },
+        { "id": "b", "html": "たんき" },
+        { "id": "c", "html": "たんご" },
+        { "id": "d", "html": "だんき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>短期（たんき）と読みます。<span>Meaning: <strong>short-term</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p47-q7",
+      "questionHtml": "<p>レポートの提出「期限」を過ぎると、採点されないので注意してください。「期限」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きげん" },
+        { "id": "b", "html": "きかん" },
+        { "id": "c", "html": "ききり" },
+        { "id": "d", "html": "ぎげん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>期限（きげん）と読みます。<span>Meaning: <strong>time limit, deadline, cutoff date</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p47-q8",
+      "questionHtml": "<p>イベントに参加できる人数は、先着50名様に「限る」。「限る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かぎる" },
+        { "id": "b", "html": "きる" },
+        { "id": "c", "html": "げんる" },
+        { "id": "d", "html": "くぎる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>限る（かぎる）と読みます。<span>Meaning: <strong>to restrict, to limit, to confine</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p47-q9",
+      "questionHtml": "<p>このカフェでは、季節「限定」の特製パフェが大変人気を集めている。「限定」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんてい" },
+        { "id": "b", "html": "かぎりさだめ" },
+        { "id": "c", "html": "けんてい" },
+        { "id": "d", "html": "げんでい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>限定（げんてい）と読みます。<span>Meaning: <strong>limit, restriction, limited edition</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p47-q10",
+      "questionHtml": "<p>いくらお酒が好きでも、健康のために飲む量は「限度」を守るべきだ。「限度」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんど" },
+        { "id": "b", "html": "かぎりど" },
+        { "id": "c", "html": "けんど" },
+        { "id": "d", "html": "げんたび" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>限度（限度）と読みます。<span>Meaning: <strong>limit, bounds</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p47-q11",
+      "questionHtml": "<p>最新の技術を投入した画期的な新「製品」を市場に出荷する。「製品」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいひん" },
+        { "id": "b", "html": "せいしな" },
+        { "id": "c", "html": "しょうひん" },
+        { "id": "d", "html": "ぜいひん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>製品（せいひん）と読みます。<span>Meaning: <strong>manufactured goods, finished product</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p47-q12",
+      "questionHtml": "<p>この工場では、海外向けの自動車用パーツの「製造」を行っている。「製造」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいぞう" },
+        { "id": "b", "html": "せいつくり" },
+        { "id": "c", "html": "こうぞう" },
+        { "id": "d", "html": "ぜいぞう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>製造（せいぞう）と読みます。<span>Meaning: <strong>manufacture, production</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p47-q13",
+      "questionHtml": "<p>クリエイターたちが一丸となり、新しいWebサイトの「制作」に励んでいる。「制作」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいさく" },
+        { "id": "b", "html": "せいつくり" },
+        { "id": "c", "html": "ぜいさく" },
+        { "id": "d", "html": "しょうさく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>制作（制作）と読みます。<span>Meaning: <strong>production, creation (of artwork, media, films)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p47-q14",
+      "questionHtml": "<p>近代化の歴史において、このエリアの「製鉄」業は国の経済を大きく支えた。「製鉄」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいてつ" },
+        { "id": "b", "html": "せいくろがね" },
+        { "id": "c", "html": "ぜいてつ" },
+        { "id": "d", "html": "せんでつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>製鉄（せいてつ）と読みます。<span>Meaning: <strong>iron manufacture, ironworks</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p47-q15",
+      "questionHtml": "<p>誕生日のプレゼントに、母親が「手製」のニットマフラーを編んでくれた。「手製」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "てせい" },
+        { "id": "b", "html": "てづくり" },
+        { "id": "c", "html": "しゅせい" },
+        { "id": "d", "html": "てぜい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>手製（てせい）と読みます。<span>Meaning: <strong>handmade</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p47-q16",
+      "questionHtml": "<p>海外ブランドの時計より、精密で壊れにくい「日本製」の時計を好んで使う。「日本製」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "にほんせい" },
+        { "id": "b", "html": "にっぽんぜい" },
+        { "id": "c", "html": "にほんづくり" },
+        { "id": "d", "html": "にほんひん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>日本製（にほんせい）と読みます。<span>Meaning: <strong>made in Japan</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p47-q17",
+      "questionHtml": "<p>高層ビルの安全性を高めるため、地震の揺れを吸収する「構造」を設計する。「構造」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうぞう" },
+        { "id": "b", "html": "かまえぞう" },
+        { "id": "c", "html": "こうせい" },
+        { "id": "d", "html": "ごうぞう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>構造（こうぞう）と読みます。<span>Meaning: <strong>structure, construction, framework</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p47-q18",
+      "questionHtml": "<p>燃費をより良くするために、古い車のエンジンを「改造」してもらった。「改造」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かいぞう" },
+        { "id": "b", "html": "あらためぞう" },
+        { "id": "c", "html": "がいぞう" },
+        { "id": "d", "html": "かいづくり" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>改造（かいぞう）と読みます。<span>Meaning: <strong>remodeling, reconstruction, modification</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p47-q19",
+      "questionHtml": "<p>天然のダイヤモンドと見分けがつかないほど精巧な「人造」宝石が作られた。「人造」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひとづくり" },
+        { "id": "b", "html": "じんぞう" },
+        { "id": "c", "html": "にんぞう" },
+        { "id": "d", "html": "じんづくり" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>人造（じんぞう）と読みます。<span>Meaning: <strong>artificial, man-made, synthetic</strong></span></p>"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 42,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p42-q1",
+      "questionHtml": "<p>{安全|あんぜん}上の観点から、その地域への「渡航」は延期するよう勧告された。「渡航」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とこう" },
+        { "id": "b", "html": "わたこう" },
+        { "id": "c", "html": "どこう" },
+        { "id": "d", "html": "とごう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>渡航（とこう）と読みます。<span>Meaning: <strong>voyage, travelling abroad</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p42-q2",
+      "questionHtml": "<p>この仏像は、何百年も前に海外から日本へ「渡来」したものだ。「渡来」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とらい" },
+        { "id": "b", "html": "わたらい" },
+        { "id": "c", "html": "どらい" },
+        { "id": "d", "html": "とくらい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>渡来（とらい）と読みます。<span>Meaning: <strong>visit from abroad, arrival</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p42-q3",
+      "questionHtml": "<p>{最先端|さいせんたん}の芸術を現地で学ぶため、来月「渡欧」する予定だ。「渡欧」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とおう" },
+        { "id": "b", "html": "わたおう" },
+        { "id": "c", "html": "とくおう" },
+        { "id": "d", "html": "どおう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>渡欧（とおう）と読みます。<span>Meaning: <strong>going to Europe, trip to Europe</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p42-q4",
+      "questionHtml": "<p>{ＩＴ|あいてぃー}企業で働くため、ビザを取得して「渡米」することにした。「渡米」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とべい" },
+        { "id": "b", "html": "わたべい" },
+        { "id": "c", "html": "とまい" },
+        { "id": "d", "html": "どべい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>渡米（とべい）と読みます。<span>Meaning: <strong>going to the United States</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p42-q5",
+      "questionHtml": "<p>{有名|ゆうめい}なシェフのもとで修業するため、若手料理人が「渡仏」した。「渡仏」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とふつ" },
+        { "id": "b", "html": "わたふつ" },
+        { "id": "c", "html": "とぶつ" },
+        { "id": "d", "html": "どふつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>渡仏（とふつ）と読みます。<span>Meaning: <strong>going to France</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p42-q6",
+      "questionHtml": "<p>{会社|かいしゃ}の経営権を別のグループへ「譲渡」する契約が結ばれた。「譲渡」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じょうと" },
+        { "id": "b", "html": "じょうわた" },
+        { "id": "c", "html": "じょと" },
+        { "id": "d", "html": "じょうどう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>譲渡（譲渡）と読みます。<span>Meaning: <strong>transfer, assignment, conveyance</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p42-q7",
+      "questionHtml": "<p>{信号|しんごう}が変わるのを待ってから、安全に横断歩道を「渡る」。「渡る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "わたる" },
+        { "id": "b", "html": "わたす" },
+        { "id": "c", "html": "とる" },
+        { "id": "d", "html": "とおる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>渡る（わたる）と読みます。<span>Meaning: <strong>to cross over, to go across (intransitive)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p42-q8",
+      "questionHtml": "<p>{窓口|まどぐち}で、必要事項を記入した申込書を係員に「渡す」。「渡す」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "わたす" },
+        { "id": "b", "html": "わたる" },
+        { "id": "c", "html": "とす" },
+        { "id": "d", "html": "まわす" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>渡す（わたす）と読みます。<span>Meaning: <strong>to hand over, to pass, to give (transitive)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p42-q9",
+      "questionHtml": "<p>この古い写真を見ると、街が賑やかだった「昔日」の面影が感じられる。「昔日」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "むかしじつ" },
+        { "id": "b", "html": "せきじつ" },
+        { "id": "c", "html": "しゃくじつ" },
+        { "id": "d", "html": "せきび" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>昔日（せきじつ）と読みます。<span>Meaning: <strong>old days, former times</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p42-q10",
+      "questionHtml": "<p>「往昔」の歴史書を紐解き、この地域を発祥とする神話を調査する。「往昔」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おうせき" },
+        { "id": "b", "html": "おうむかし" },
+        { "id": "c", "html": "ゆくせき" },
+        { "id": "d", "html": "おうしゃく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>往昔（おうせき）と読みます。<span>Meaning: <strong>ancient times, antiquity</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p42-q11",
+      "questionHtml": "<p>「昔時」と比べると、この国を取り巻く貿易環境は大きく変わった。「昔時」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "むかしじ" },
+        { "id": "b", "html": "せきじ" },
+        { "id": "c", "html": "しゃくじ" },
+        { "id": "d", "html": "せきとき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>昔時（せきじ）と読みます。<span>Meaning: <strong>old times, former times</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p42-q12",
+      "questionHtml": "<p>祖父から、自分が子供だった「昔」の生活の様子について聞いた。「昔」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "むかし" },
+        { "id": "b", "html": "せき" },
+        { "id": "c", "html": "いにしえ" },
+        { "id": "d", "html": "むかえ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>昔（むかし）と読みます。<span>Meaning: <strong>olden days, former times</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p42-q13",
+      "questionHtml": "<p>スマートフォンの登場により、ネットの利用環境は「一昔」前と全く異なる。「一昔」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いちせき" },
+        { "id": "b", "html": "ひとむかし" },
+        { "id": "c", "html": "いつむかし" },
+        { "id": "d", "html": "いちむかし" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>一昔（ひとむかし）と読みます。<span>Meaning: <strong>an age ago, a decade ago, a long time ago</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p42-q14",
+      "questionHtml": "<p>リフォーム前の家は、台所が独立した「昔式」のレイアウトだった。「昔式」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せきしき" },
+        { "id": "b", "html": "むかししき" },
+        { "id": "c", "html": "むかしじき" },
+        { "id": "d", "html": "しゃくしき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>昔式（むかししき）と読みます。<span>Meaning: <strong>old fashioned, ancient style</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p42-q15",
+      "questionHtml": "<p>あの作家は、今でも手書きの原稿にこだわる頑固な「昔者」だ。「昔者」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "むかしもの" },
+        { "id": "b", "html": "せきしゃ" },
+        { "id": "c", "html": "むかししゃ" },
+        { "id": "d", "html": "むかししゃもの" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>昔者（むかしもの）と読みます。<span>Meaning: <strong>old-fashioned person, old-timer</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p42-q16",
+      "questionHtml": "<p>エコバッグを持っているので、プラスチックの袋は「不要」です。「不要」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふよう" },
+        { "id": "b", "html": "ふようく" },
+        { "id": "c", "html": "ぶよう" },
+        { "id": "d", "html": "ふかなめ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>不要（ふよう）と読みます。<span>Meaning: <strong>unnecessary, unneeded</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p42-q17",
+      "questionHtml": "<p>プロジェクトを成功させるために、役割の分担が非常に「重要」となる。「重要」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おもよう" },
+        { "id": "b", "html": "じゅうよう" },
+        { "id": "c", "html": "ちょうよう" },
+        { "id": "d", "html": "じゅうじょう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>重要（じゅうよう）と読みます。<span>Meaning: <strong>important, essential</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p42-q18",
+      "questionHtml": "<p>{分析|ぶんせき}の結果、これが売り上げを大きく伸ばした最大の「要因」だと判明した。「要因」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よういん" },
+        { "id": "b", "html": "ようじん" },
+        { "id": "c", "html": "かなめいん" },
+        { "id": "d", "html": "こんいん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>要因（よういん）と読みます。<span>Meaning: <strong>main cause, primary factor</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p42-q19",
+      "questionHtml": "<p>{時間|じかん}が限られているため、説明書の「要点」だけを確認する。「要点」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ようてん" },
+        { "id": "b", "html": "かなめてん" },
+        { "id": "c", "html": "ようともし" },
+        { "id": "d", "html": "いようてん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>要点（ようてん）と読みます。<span>Meaning: <strong>gist, main point</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p42-q20",
+      "questionHtml": "<p>契約条件の改善について、クライアントから厳しい「要求」を突きつけられた。「要求」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ようきゅう" },
+        { "id": "b", "html": "ようく" },
+        { "id": "c", "html": "かなめきゅう" },
+        { "id": "d", "html": "じゅきゅう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>要求（ようきゅう）と読みます。<span>Meaning: <strong>demand, firm request</strong></span></p>"
+    }
+  ]
+}

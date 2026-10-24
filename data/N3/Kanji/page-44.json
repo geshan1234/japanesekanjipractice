@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 44,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p44-q1",
+      "questionHtml": "<p>あの教授の「蔵書」は数万冊に及び、専門書がずらりと並んでいる。「蔵書」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くらしょ" },
+        { "id": "b", "html": "ぞうしょ" },
+        { "id": "c", "html": "そうしょ" },
+        { "id": "d", "html": "ぞうじょ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>蔵書（ぞうしょ）と読みます。<span>Meaning: <strong>collection of books, personal library</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p44-q2",
+      "questionHtml": "<p>この絵画は、国立美術館が「所蔵」している大変貴重な作品です。「所蔵」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょくら" },
+        { "id": "b", "html": "しょぞう" },
+        { "id": "c", "html": "じょぞう" },
+        { "id": "d", "html": "しょそう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>所蔵（しょぞう）と読みます。<span>Meaning: <strong>in one's possession, owned by</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p44-q3",
+      "questionHtml": "<p>収穫した小麦を長期間「貯蔵」するための巨大なサイロが完成した。「貯蔵」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちょぞう" },
+        { "id": "b", "html": "ちょくら" },
+        { "id": "c", "html": "ちょそう" },
+        { "id": "d", "html": "じょぞう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>貯蔵（ちょぞう）と読みます。<span>Meaning: <strong>storage, preservation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p44-q4",
+      "questionHtml": "<p>乳製品は傷みやすいため、必ず「冷蔵」で保存してください。「冷蔵」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "れいとう" },
+        { "id": "b", "html": "れいぞう" },
+        { "id": "c", "html": "れいくら" },
+        { "id": "d", "html": "れいそう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>冷蔵（れいぞう）と読みます。<span>Meaning: <strong>cold storage, refrigeration</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p44-q5",
+      "questionHtml": "<p>このノートパソコンは、高性能なカメラを「内蔵」している。「内蔵」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ないぞう" },
+        { "id": "b", "html": "うちくら" },
+        { "id": "c", "html": "ないそう" },
+        { "id": "d", "html": "だいぞう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>内蔵（ないぞう）と読みます。<span>Meaning: <strong>internal, built-in, equipped with</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p44-q6",
+      "questionHtml": "<p>{祖父|そふ}は若い頃から「愛蔵」してきた古いレコードを大切にしている。「愛蔵」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あいぞう" },
+        { "id": "b", "html": "あいくら" },
+        { "id": "c", "html": "あいそう" },
+        { "id": "d", "html": "えいぞう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>愛蔵（愛蔵）と読みます。<span>Meaning: <strong>treasured, cherished</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p44-q7",
+      "questionHtml": "<p>博物館の地下には、未公開の出土品を「収蔵」するスペースがある。「収蔵」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅうぞう" },
+        { "id": "b", "html": "しゅうくら" },
+        { "id": "c", "html": "しゅうそう" },
+        { "id": "d", "html": "しゅぞう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>収蔵（しゅうぞう）と読みます。<span>Meaning: <strong>garnering, collection, storage</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p44-q8",
+      "questionHtml": "<p>古い寺院の境内に佇む「経蔵」には、貴重な経典が納められている。「経蔵」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きょうくら" },
+        { "id": "b", "html": "けいぞう" },
+        { "id": "c", "html": "きょうぞう" },
+        { "id": "d", "html": "きょうそう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>経蔵（きょうぞう）と読みます。<span>Meaning: <strong>scripture house (at a temple)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p44-q9",
+      "questionHtml": "<p>{夏|夏}は飲み物を冷やすために「冷蔵庫」が大活躍する。「冷蔵庫」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "れいとうこ" },
+        { "id": "b", "html": "れいぞうこ" },
+        { "id": "c", "html": "れいそうこ" },
+        { "id": "d", "html": "れいぞうく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>冷蔵庫（れいぞうこ）と読みます。<span>Meaning: <strong>refrigerator</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p44-q10",
+      "questionHtml": "<p>アイスクリームを保存するために、「冷凍庫」の温度を低く設定する。「冷凍庫」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "れいぞうこ" },
+        { "id": "b", "html": "れいとうこ" },
+        { "id": "c", "html": "れいとうく" },
+        { "id": "d", "html": "れいてんこ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>冷凍庫（れいとうこ）と読みます。<span>Meaning: <strong>freezer</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p44-q11",
+      "questionHtml": "<p>冬の厳しい寒さのせいで、池の水が完全に「凍る」。「凍る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こおる" },
+        { "id": "b", "html": "こおれる" },
+        { "id": "c", "html": "とうる" },
+        { "id": "d", "html": "こわる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>凍る（こおる）と読みます。<span>Meaning: <strong>to freeze, to be frozen over (intransitive)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p44-q12",
+      "questionHtml": "<p>雨から大切な車を守るために、新しくシャッター付きの「車庫」を建てた。「車庫」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くるまこ" },
+        { "id": "b", "html": "しゃこ" },
+        { "id": "c", "html": "しゃく" },
+        { "id": "d", "html": "じゃこ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>車庫（しゃこ）と読みます。<span>Meaning: <strong>garage, carport</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p44-q13",
+      "questionHtml": "<p>港の近くにある大きな「倉庫」に、海外から輸入された大量の荷物が保管されている。「倉庫」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そうこ" },
+        { "id": "b", "html": "ぞうこ" },
+        { "id": "c", "html": "そうく" },
+        { "id": "d", "html": "くらこ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>倉庫（そうこ）と読みます。<span>Meaning: <strong>storehouse, warehouse</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p44-q14",
+      "questionHtml": "<p>大切な売上金を保管するため、オフィスの奥に頑丈な「金庫」を設置した。「金庫」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かねこ" },
+        { "id": "b", "html": "きんこ" },
+        { "id": "c", "html": "ぎんこ" },
+        { "id": "d", "html": "きんく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>金庫（きんこ）と読みます。<span>Meaning: <strong>safe, strongbox</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p44-q15",
+      "questionHtml": "<p>注文が殺到したため、残念ながらショップの「在庫」が切れてしまった。「在庫」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ざいこ" },
+        { "id": "b", "html": "あっこ" },
+        { "id": "c", "html": "さいこ" },
+        { "id": "d", "html": "ざいく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>在庫（在庫）と読みます。<span>Meaning: <strong>stock, inventory</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p44-q16",
+      "questionHtml": "<p>この図書館の貴重な古い文献のコレクションは、まさに歴史の「宝庫」だ。「宝庫」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほうこ" },
+        { "id": "b", "html": "たからこ" },
+        { "id": "c", "html": "ほうく" },
+        { "id": "d", "html": "ぽうこ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>宝庫（宝庫）と読みます。<span>Meaning: <strong>treasury, treasure house, repository</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p44-q17",
+      "questionHtml": "<p>大学の歴史ある「書庫」に入り、古い研究資料をじっくりと探す。「書庫」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょこ" },
+        { "id": "b", "html": "かくこ" },
+        { "id": "c", "html": "しょく" },
+        { "id": "d", "html": "じょこ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>書庫（しょこ）と読みます。<span>Meaning: <strong>library book storage, stack room</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p44-q18",
+      "questionHtml": "<p>中小企業のビジネス展開を経済的に支援する「公庫」の融資を申請した。「公庫」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おおやけこ" },
+        { "id": "b", "html": "こうこ" },
+        { "id": "c", "html": "くこ" },
+        { "id": "d", "html": "こうく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>公庫（公庫）と読みます。<span>Meaning: <strong>finance corporation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p44-q19",
+      "questionHtml": "<p>どうぞ、温かいうちに手作りの料理を「召し上がる」。「召し上がる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "めしあがる" },
+        { "id": "b", "html": "めしあげる" },
+        { "id": "c", "html": "しょうしあがる" },
+        { "id": "d", "html": "めしおる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>召し上がる（めしあがる）と読みます。<span>Meaning: <strong>to eat, to drink (polite/respectful honorific)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p44-q20",
+      "questionHtml": "<p>国の重要な予算案を審議するため、来週国会が「召集」される。「召集」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうしゅう" },
+        { "id": "b", "html": "めしあつめ" },
+        { "id": "c", "html": "じょうしゅう" },
+        { "id": "d", "html": "めししゅう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>召集（召集）と読みます。<span>Meaning: <strong>convening, calling together (parliament/assembly)</strong></span></p>"
+    }
+  ]
+}

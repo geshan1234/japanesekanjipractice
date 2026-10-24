@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 24,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p24-q1",
+      "questionHtml": "<p>{問題|もんだい}を{解決|かいけつ}するための「一案」として、この方法を{検討|けんとう}してみる。「一案」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひとあん" },
+        { "id": "b", "html": "いちあん" },
+        { "id": "c", "html": "いっぽう" },
+        { "id": "d", "html": "いつあん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>一案（いちあん）と読みます。<span>Meaning: <strong>an idea, a plan</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p24-q2",
+      "questionHtml": "<p>{現時点|げんじてん}での{修正|しゅうせい}「案」をクライアントに{提示|ていじ}した。「案」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あん" },
+        { "id": "b", "html": "おん" },
+        { "id": "c", "html": "かん" },
+        { "id": "d", "html": "はん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>案（あん）と読みます。<span>Meaning: <strong>idea, plan, proposal</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p24-q3",
+      "questionHtml": "<p>この{論文|ろんぶん}の「内容」は非常に{論理的|ろんりてき}で素晴らしい。「内容」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ないよう" },
+        { "id": "b", "html": "うちよう" },
+        { "id": "c", "html": "ないおん" },
+        { "id": "d", "html": "だいよう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>内容（ないよう）と読みます。<span>Meaning: <strong>subject, contents, detail</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p24-q4",
+      "questionHtml": "<p>「市内」の{主要|しゅよう}な観光地をバスで{効率|こうりつ}よく回った。「市内」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちない" },
+        { "id": "b", "html": "しない" },
+        { "id": "c", "html": "まちなか" },
+        { "id": "d", "html": "じない" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>市内（しない）と読みます。<span>Meaning: <strong>within a city, local</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p24-q5",
+      "questionHtml": "<p>「車内」での通話は、他の迷惑になりますのでご{遠慮|えんりょ}ください。「車内」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゃない" },
+        { "id": "b", "html": "くるまうち" },
+        { "id": "c", "html": "しゃないく" },
+        { "id": "d", "html": "じゃない" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>車内（しゃない）と読みます。<span>Meaning: <strong>inside a car/train</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p24-q6",
+      "questionHtml": "<p>{週末|しゅうまつ}は「家内」と{一緒|いっしょ}にショッピングに出かけます。「家内」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かない" },
+        { "id": "b", "html": "いえうち" },
+        { "id": "c", "html": "やない" },
+        { "id": "d", "html": "けない" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>家内（かない）と読みます。<span>Meaning: <strong>wife (one's own)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p24-q7",
+      "questionHtml": "<p>{制限|せいげん}{時間|じかん}「以内」にすべての課題をクリアしなければならない。「以内」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いない" },
+        { "id": "b", "html": "うちない" },
+        { "id": "c", "html": "いないく" },
+        { "id": "d", "html": "いがい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>以内（いない）と読みます。<span>Meaning: <strong>within, inside of, less than</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p24-q8",
+      "questionHtml": "<p>このコートの「内側」には便利なポケットがついている。「内側」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ないそく" },
+        { "id": "b", "html": "うちがわ" },
+        { "id": "c", "html": "うちかわ" },
+        { "id": "d", "html": "ないがわ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>内側（うちがわ）と読みます。<span>Meaning: <strong>inside, interior, inner part</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p24-q9",
+      "questionHtml": "<p>{景気|けいき}の回復により、「国内」の{消費|しょうひ}が徐々に伸びてきた。「国内」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こくない" },
+        { "id": "b", "html": "くにうち" },
+        { "id": "c", "html": "こくうち" },
+        { "id": "d", "html": "こがいない" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>国内（こくない）と読みます。<span>Meaning: <strong>internal, domestic</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p24-q10",
+      "questionHtml": "<p>{選挙|せんきょ}の結果は、事前の「予想」とは大きく異なるものだった。「予想」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よそう" },
+        { "id": "b", "html": "あらかじめそう" },
+        { "id": "c", "html": "よしょう" },
+        { "id": "d", "html": "よぞう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>予想（よそう）と読みます。<span>Meaning: <strong>expectation, anticipation, forecast</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p24-q11",
+      "questionHtml": "<p>何か悪いことが起こるのではないかという「予感」がした。「予感」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よかん" },
+        { "id": "b", "html": "よがん" },
+        { "id": "c", "html": "あらかじめかん" },
+        { "id": "d", "html": "いかん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>予感（よかん）と読みます。<span>Meaning: <strong>presentiment, premonition, hunch</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p24-q12",
+      "questionHtml": "<p>占い師が{国王|こくおう}の未来に関する「予言」を残した。「予言」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よごん" },
+        { "id": "b", "html": "よげん" },
+        { "id": "c", "html": "よこと" },
+        { "id": "d", "html": "いげん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>予言（よ言）と読みます。<span>Meaning: <strong>prediction, prophecy</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p24-q13",
+      "questionHtml": "<p>{事態|じたい}は「予期」しない方向へと進んでしまった。「予期」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よご" },
+        { "id": "b", "html": "よき" },
+        { "id": "c", "html": "いき" },
+        { "id": "d", "html": "よごき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>予期（よき）と読みます。<span>Meaning: <strong>expectation, anticipate</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p24-q14",
+      "questionHtml": "<p>{人気|にんき}のレストランなので、事前に「予約」をしておいた。「予約」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よやく" },
+        { "id": "b", "html": "よたい" },
+        { "id": "c", "html": "いやく" },
+        { "id": "d", "html": "よまっく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>予約（よやく）と読みます。<span>Meaning: <strong>reservation, booking</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p24-q15",
+      "questionHtml": "<p>科学技術をもってしても、地震を完全に「予知」することは難しい。「予知」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よち" },
+        { "id": "b", "html": "よし" },
+        { "id": "c", "html": "いち" },
+        { "id": "d", "html": "よじ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>予知（よち）と読みます。<span>Meaning: <strong>foresight, prediction</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p24-q16",
+      "questionHtml": "<p>{試験|しけん}の前に「予備」の消しゴムを用意しておく。「予備」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よび" },
+        { "id": "b", "html": "よぴ" },
+        { "id": "c", "html": "いび" },
+        { "id": "d", "html": "あらかじめび" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>予備（よび）と読みます。<span>Meaning: <strong>preparation, reserve, spare</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p24-q17",
+      "questionHtml": "<p>来年度の「予算」案が国会で承認された。「予算」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よさん" },
+        { "id": "b", "html": "よざん" },
+        { "id": "c", "html": "いさん" },
+        { "id": "d", "html": "よさんく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>予算（よさん）と読みます。<span>Meaning: <strong>estimate, budget</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p24-q18",
+      "questionHtml": "<p>飛行機が遅れたため、本日の「予定」が大幅に変更になった。「予定」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よじょう" },
+        { "id": "b", "html": "よてい" },
+        { "id": "c", "html": "いてい" },
+        { "id": "d", "html": "よさだ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>予定（よてい）と読みます。<span>Meaning: <strong>plans, arrangements, schedule</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p24-q19",
+      "questionHtml": "<p>授業の前にしっかりと「予習」をしておくことが大切だ。「予習」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よしゅう" },
+        { "id": "b", "html": "よじゅう" },
+        { "id": "c", "html": "いしゅう" },
+        { "id": "d", "html": "よならい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>予習（よしゅう）と読みます。<span>Meaning: <strong>preparation for a lesson</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p24-q20",
+      "questionHtml": "<p>お互いの信頼を守るために、交わした「約束」は必ず守る。「約束」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "やくそく" },
+        { "id": "b", "html": "やくぞく" },
+        { "id": "c", "html": "たいそく" },
+        { "id": "d", "html": "やくたば" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>約束（やくそく）と読みます。<span>Meaning: <strong>promise, agreement, arrangement</strong></span></p>"
+    }
+  ]
+}

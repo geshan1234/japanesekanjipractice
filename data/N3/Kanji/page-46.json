@@ -1,0 +1,227 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 46,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p46-q1",
+      "questionHtml": "<p>20世紀の哲学において、人間の「実存」に関する議論が活発に行われた。「実存」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じつそん" },
+        { "id": "b", "html": "みぞん" },
+        { "id": "c", "html": "じつぞん" },
+        { "id": "d", "html": "じちぞん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>実存（じつぞん）と読みます。<span>Meaning: <strong>existence, existential reality</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p46-q2",
+      "questionHtml": "<p>山田先生のご住所を「ご存じ」の方がいらっしゃいましたら、教えてください。「ご存じ」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ごぞんじ" },
+        { "id": "b", "html": "ごそんじ" },
+        { "id": "c", "html": "ごしんじ" },
+        { "id": "d", "html": "ごぞんち" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>ご存じ（ごぞんじ）と読みます。<span>Meaning: <strong>knowing, awareness (respectful/honorific)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p46-q3",
+      "questionHtml": "<p>社長はすでにこの新しいプロジェクトの件を「ご存知です」。「ご存知です」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ごそんじです" },
+        { "id": "b", "html": "ごぞんちです" },
+        { "id": "c", "html": "ごぞんじです" },
+        { "id": "d", "html": "ごしんじです" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>ご存知です（ごぞんじです）と読みます。<span>Meaning: <strong>to know (respectful/honorific expression)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p46-q4",
+      "questionHtml": "<p>誠に申し訳ございませんが、私はその件については全く「存じません」。「存じません」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぞんじません" },
+        { "id": "b", "html": "そんじません" },
+        { "id": "c", "html": "しんじません" },
+        { "id": "d", "html": "ぞんちません" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>存じません（ぞんじません）と読みます。<span>Meaning: <strong>do not know (humble/modest expression)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p46-q5",
+      "questionHtml": "<p>津波の危険が迫り、住民たちは高台へ向けて「必死」に走った。「必死」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひっし" },
+        { "id": "b", "html": "かならずし" },
+        { "id": "c", "html": "ひつし" },
+        { "id": "d", "html": "ひっじ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>必死（ひっし）と読みます。<span>Meaning: <strong>frantic, desperate, inevitable death</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p46-q6",
+      "questionHtml": "<p>災害への備えとして、生活「必需」品を多めに買い蓄えておく。「必需」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひつじゅ" },
+        { "id": "b", "html": "ひっじゅ" },
+        { "id": "c", "html": "かならずじゅ" },
+        { "id": "d", "html": "ひつしゅ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>必需（ひつじゅ）と読みます。<span>Meaning: <strong>necessary, indispensable (used in 必需品)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p46-q7",
+      "questionHtml": "<p>大学を卒業するためには、この歴史学の単位の取得が「必修」となっている。「必修」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひっしゅう" },
+        { "id": "b", "html": "ひつしゅう" },
+        { "id": "c", "html": "ひっしゅ" },
+        { "id": "d", "html": "かならずしゅう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>必修（ひっしゅう）と読みます。<span>Meaning: <strong>required subject, compulsory course</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p46-q8",
+      "questionHtml": "<p>このシステムを開発する上で、高度なプログラミングスキルは「必須」の条件だ。「必須」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひっす" },
+        { "id": "b", "html": "ひつす" },
+        { "id": "c", "html": "ひっしゅ" },
+        { "id": "d", "html": "かならずす" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>必須（ひっす）と読みます。<span>Meaning: <strong>indispensable, essential, required</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p46-q9",
+      "questionHtml": "<p>スタジアムに集まったファンは、チームの「必勝」を信じて熱い声援を送った。「必勝」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひっしょう" },
+        { "id": "b", "html": "ひつしょう" },
+        { "id": "c", "html": "かならずかち" },
+        { "id": "d", "html": "ひっじょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>必勝（ひっしょう）と読みます。<span>Meaning: <strong>certain victory</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p46-q10",
+      "questionHtml": "<p>ミスを防ぐために、提出する前に入念な確認を「必ず」行ってください。「必ず」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かならず" },
+        { "id": "b", "html": "ひつず" },
+        { "id": "c", "html": "ぜったい" },
+        { "id": "d", "html": "きっと" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>必ず（かならず）と読みます。<span>Meaning: <strong>always, without fail, certainly</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p46-q11",
+      "questionHtml": "<p>使わない電気をつけっぱなしにするのは、エネルギーの「浪費」につながる。「浪費」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ろうひ" },
+        { "id": "b", "html": "なみひ" },
+        { "id": "c", "html": "ろうび" },
+        { "id": "d", "html": "どうひ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>浪費（ろうひ）と読みます。<span>Meaning: <strong>waste, extravagance, squandering</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p46-q12",
+      "questionHtml": "<p>無駄な「経費」を削減することで、会社の利益率を大幅に向上させることができた。「経費」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きょうひ" },
+        { "id": "b", "html": "けいひ" },
+        { "id": "c", "html": "へいひ" },
+        { "id": "d", "html": "けいび" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>経費（けいひ）と読みます。<span>Meaning: <strong>expenses, expenditure, outlays costs</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p46-q13",
+      "questionHtml": "<p>今月は結婚式への出席が重なり、予想外の「出費」が増えてしまった。「出費」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "でひ" },
+        { "id": "b", "html": "しゅっぴ" },
+        { "id": "c", "html": "しゅつひ" },
+        { "id": "d", "html": "すいぴ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>出費（しゅっぴ）と読みます。<span>Meaning: <strong>expenses, disbursements, spending outgoings</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p46-q14",
+      "questionHtml": "<p>子供が私立の大学に進学したため、毎月の「学費」を払うのが大変だ。「学費」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "がくひ" },
+        { "id": "b", "html": "まなびひ" },
+        { "id": "c", "html": "がっぴ" },
+        { "id": "d", "html": "かくひ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>学費（がくひ）と読みます。<span>Meaning: <strong>tuition, school expenses</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p46-q15",
+      "questionHtml": "<p>このハイブリッド車は「燃費」が非常に良く、長距離の運転に適している。「燃費」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ねんぴ" },
+        { "id": "b", "html": "もえひ" },
+        { "id": "c", "html": "ねんぴく" },
+        { "id": "d", "html": "ねんび" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>燃費（ねんぴ）と読みます。<span>Meaning: <strong>fuel consumption, gas mileage</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p46-q16",
+      "questionHtml": "<p>自炊の回数を増やすことで、毎月の「食費」を大幅に節約することが可能だ。「食費」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょくひ" },
+        { "id": "b", "html": "たべひ" },
+        { "id": "c", "html": "しょくび" },
+        { "id": "d", "html": "じきひ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>食費（しょくひ）と読みます。<span>Meaning: <strong>food expense</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p46-q17",
+      "questionHtml": "<p>新しいオフィスの建設にかかる莫大な「費用」を計算する。「費用」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひよう" },
+        { "id": "b", "html": "ついひ" },
+        { "id": "c", "html": "ひゆう" },
+        { "id": "d", "html": "ひようく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>費用（ひよう）と読みます。<span>Meaning: <strong>cost, expense</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p46-q18",
+      "questionHtml": "<p>会社が出張の「旅費」を全額負担してくれるので、安心して移動できる。「旅費」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たびひ" },
+        { "id": "b", "html": "りょひ" },
+        { "id": "c", "html": "りょび" },
+        { "id": "d", "html": "ろひ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>旅費（りょひ）と読みます。<span>Meaning: <strong>travel expenses</strong></span></p>"
+    }
+  ]
+}

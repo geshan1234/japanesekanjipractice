@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 29,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p29-q1",
+      "questionHtml": "<p>{国際|こくさい}ビジネスの拠点となる新しい「空港」が建設された。「空港」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そらみなと" },
+        { "id": "b", "html": "くうこう" },
+        { "id": "c", "html": "こうくう" },
+        { "id": "d", "html": "くうごう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>空港（くうこう）と読みます。<span>Meaning: <strong>airport</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p29-q2",
+      "questionHtml": "<p>大きな貿易船がゆっくりと「港」に入ってきた。「港」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こう" },
+        { "id": "b", "html": "みなと" },
+        { "id": "c", "html": "うみ" },
+        { "id": "d", "html": "はま" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>港（みなと）と読みます。<span>Meaning: <strong>harbor, port</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p29-q3",
+      "questionHtml": "<p>{歴史的|れきしてき}な貿易拠点である横浜「港」を観光する。「港」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "みなと" },
+        { "id": "b", "html": "こう" },
+        { "id": "c", "html": "ごう" },
+        { "id": "d", "html": "まち" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>～港（みなと）と読みます。<span>Meaning: <strong>harbor ~, port ~ (suffix)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p29-q4",
+      "questionHtml": "<p>{故郷|こきょう}を離れ、京都の大学へ「遊学」することにした。「遊学」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆうがく" },
+        { "id": "b", "html": "あそびがく" },
+        { "id": "c", "html": "りょがく" },
+        { "id": "d", "html": "りゅうがく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>遊学（ゆうがく）と読みます。<span>Meaning: <strong>studying abroad, traveling to study</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p29-q5",
+      "questionHtml": "<p>このエリアは波が荒いため、一切の「遊泳」が禁止されている。「遊泳」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆうえい" },
+        { "id": "b", "html": "あそびよぎ" },
+        { "id": "c", "html": "ゆうよう" },
+        { "id": "d", "html": "ゆうすい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>遊泳（ゆうえい）と読みます。<span>Meaning: <strong>swimming, bathing</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p29-q6",
+      "questionHtml": "<p>{首相|しゅしょう}は来週からアジア諸国への「外遊」に出発する。「外遊」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そとあそび" },
+        { "id": "b", "html": "がいゆう" },
+        { "id": "c", "html": "がいりょ" },
+        { "id": "d", "html": "がいりゅう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>外遊（がいゆう）と読みます。<span>Meaning: <strong>foreign travel (especially by officials)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p29-q7",
+      "questionHtml": "<p>{豪華|ごうか}客船でヨーロッパの国々を「周遊」するツアーに参加した。「周遊」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅうゆう" },
+        { "id": "b", "html": "まわりあそび" },
+        { "id": "c", "html": "しゅうりょ" },
+        { "id": "d", "html": "しゅんゆう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>周遊（しゅうゆう）と読みます。<span>Meaning: <strong>circular tour, round trip, excursion</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p29-q8",
+      "questionHtml": "<p>{彼|かれ}の「交遊」関係は非常に広く、様々な分野に友人がいる。「交遊」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうゆう" },
+        { "id": "b", "html": "まじわりあそび" },
+        { "id": "c", "html": "こうゆうく" },
+        { "id": "d", "html": "きょうゆう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>交遊（こうゆう）と読みます。<span>Meaning: <strong>friendship, companionship, fraternity</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p29-q9",
+      "questionHtml": "<p>あの有名な物語は、{中国|ちゅうごく}からインドへの「西遊」記がモデルだ。「西遊」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "にしあそび" },
+        { "id": "b", "html": "せいゆう" },
+        { "id": "c", "html": "さいゆう" },
+        { "id": "d", "html": "さいりょ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>西遊（さいゆう）と読みます。<span>Meaning: <strong>westward trip, trip to the West</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p29-q10",
+      "questionHtml": "<p>{週末|しゅうまつ}に新しいアトラクションができた「遊園地」へ行った。「遊園地」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あそびえんち" },
+        { "id": "b", "html": "ゆうえんち" },
+        { "id": "c", "html": "ゆうおんち" },
+        { "id": "d", "html": "ゆうぞのち" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>遊園地（ゆうえんち）と読みます。<span>Meaning: <strong>amusement park</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p29-q11",
+      "questionHtml": "<p>子供たちが公園で元気に「遊ぶ」姿が見られる。「遊ぶ」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あそぶ" },
+        { "id": "b", "html": "ゆうぶ" },
+        { "id": "c", "html": "はこぶ" },
+        { "id": "d", "html": "まわぶ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>遊ぶ（あそぶ）と読みます。<span>Meaning: <strong>to play</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p29-q12",
+      "questionHtml": "<p>仕事と「遊び」のバランスをうまく保つことが大切だ。「遊び」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あそび" },
+        { "id": "b", "html": "ゆうび" },
+        { "id": "c", "html": "まなび" },
+        { "id": "d", "html": "すさび" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>遊び（あそび）と読みます。<span>Meaning: <strong>play, playing, game</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p29-q13",
+      "questionHtml": "<p>フランス文学を研究するうちに、独自の「美学」を持つようになった。「美学」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "びがく" },
+        { "id": "b", "html": "みがく" },
+        { "id": "c", "html": "うつくしがく" },
+        { "id": "d", "html": "めいがく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>美学（びがく）と読みます。<span>Meaning: <strong>aesthetics</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p29-q14",
+      "questionHtml": "<p>{歴史|れきし}上、国を動かすほどの「美女」として知られる人物がいる。「美女」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "びじょ" },
+        { "id": "b", "html": "みじょ" },
+        { "id": "c", "html": "うつくしおんな" },
+        { "id": "d", "html": "びにょ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>美女（びじょ）と読みます。<span>Meaning: <strong>beautiful woman</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p29-q15",
+      "questionHtml": "<p>{最新|さいしん}の「美容」技術を取り入れたエステサロンがオープンした。「美容」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "びよう" },
+        { "id": "b", "html": "みよう" },
+        { "id": "c", "html": "びしょう" },
+        { "id": "d", "html": "うつくしよう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>美容（びよう）と読みます。<span>Meaning: <strong>beauty, appearance care</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p29-q16",
+      "questionHtml": "<p>お手伝いをしたご「褒美」として、お小遣いをもらった。「褒美」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほうみ" },
+        { "id": "b", "html": "ほうび" },
+        { "id": "c", "html": "ぽうび" },
+        { "id": "d", "html": "きょうび" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>褒美（ほうび）と読みます。<span>Meaning: <strong>reward, prize</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p29-q17",
+      "questionHtml": "<p>神の偉大な業績を「賛美」する歌が教会に響き渡った。「賛美」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さんみ" },
+        { "id": "b", "html": "さんび" },
+        { "id": "c", "html": "ぜんび" },
+        { "id": "d", "html": "さんうつくし" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>賛美（さんび）と読みます。<span>Meaning: <strong>praise, glorification</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p29-q18",
+      "questionHtml": "<p>古い街並みの「美観」を守るため、広告の設置が制限された。「美観」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "びかん" },
+        { "id": "b", "html": "みかん" },
+        { "id": "c", "html": "びがん" },
+        { "id": "d", "html": "うつくしがん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>美観（びかん）と読みます。<span>Meaning: <strong>fine view, beautiful sight</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p29-q19",
+      "questionHtml": "<p>週末に「美術館」へ行って、有名な絵画を鑑賞した。「美術館」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "びじゅつかん" },
+        { "id": "b", "html": "びじゅつがん" },
+        { "id": "c", "html": "みじゅつかん" },
+        { "id": "d", "html": "うつくしじゅつかん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>美術館（びじゅつかん）と読みます。<span>Meaning: <strong>art gallery, art museum</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p29-q20",
+      "questionHtml": "<p>あの人は誰もが認める、文句なしの「美人」だ。「美人」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "びじん" },
+        { "id": "b", "html": "びにん" },
+        { "id": "c", "html": "みじん" },
+        { "id": "d", "html": "うつくしひと" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>美人（びじん）と読みます。<span>Meaning: <strong>beauty, beautiful person</strong></span></p>"
+    }
+  ]
+}

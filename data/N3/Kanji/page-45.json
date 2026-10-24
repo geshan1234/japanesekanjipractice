@@ -1,0 +1,227 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 45,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p45-q1",
+      "questionHtml": "<p>この家電製品には、購入後1年間の修理「保証」がついている。「保証」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほしょう" },
+        { "id": "b", "html": "ほうしょう" },
+        { "id": "c", "html": "ほじょう" },
+        { "id": "d", "html": "ほうじょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>保証（ほしょう）と読みます。<span>Meaning: <strong>guarantee, warranty, assurance</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p45-q2",
+      "questionHtml": "<p>学校の「保健」室へ行って、擦りむいたひざの治療をしてもらった。「保健」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほけん" },
+        { "id": "b", "html": "ほうけん" },
+        { "id": "c", "html": "ほげん" },
+        { "id": "d", "html": "ほごん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>保健（ほけん）と読みます。<span>Meaning: <strong>preservation of health, hygiene, sanitation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p45-q3",
+      "questionHtml": "<p>{将来|しょうらい}に備えて、新しく医療「保険」に加入することを決めた。「保険」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほうけん" },
+        { "id": "b", "html": "ほけん" },
+        { "id": "c", "html": "ほげん" },
+        { "id": "d", "html": "ぽけん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>保険（ほけん）と読みます。<span>Meaning: <strong>insurance, guarantee</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p45-q4",
+      "questionHtml": "<p>絶滅の危機に瀕している野生動物を「保護」するための活動を行う。「保護」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほご" },
+        { "id": "b", "html": "ほうご" },
+        { "id": "c", "html": "ほこう" },
+        { "id": "d", "html": "まもりご" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>保護（ほご）と読みます。<span>Meaning: <strong>protection, safeguard, custody</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p45-q5",
+      "questionHtml": "<p>システムの安全な稼働を維持するため、定期的な「保守」点検が必要だ。「保守」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほしゅ" },
+        { "id": "b", "html": "ほうしゅ" },
+        { "id": "c", "html": "ほしゅう" },
+        { "id": "d", "html": "まもりしゅ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>保守（ほしゅ）と読みます。<span>Meaning: <strong>maintenance, upkeep</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p45-q6",
+      "questionHtml": "<p>この歴史的な建造物は、建てられた当時の姿のまま「保存」されている。「保存」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほぞん" },
+        { "id": "b", "html": "ほうぞん" },
+        { "id": "c", "html": "ほそん" },
+        { "id": "d", "html": "たもつぞん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>保存（ほぞん）と読みます。<span>Meaning: <strong>preservation, conservation, storage</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p45-q7",
+      "questionHtml": "<p>世界大会の出場権を「確保」するため、次の試合は絶対に負けられない。「確保」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かくほ" },
+        { "id": "b", "html": "かくほう" },
+        { "id": "c", "html": "かたほ" },
+        { "id": "d", "html": "がくほ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>確保（かくほ）と読みます。<span>Meaning: <strong>securing, obtaining, ensuring</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p45-q8",
+      "questionHtml": "<p>提出された重要書類は、鍵のかかる金庫の中で厳重に「保管」する。「保管」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほかん" },
+        { "id": "b", "html": "ほうかん" },
+        { "id": "c", "html": "ほくだら" },
+        { "id": "d", "html": "まもりかん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>保管（保管）と読みます。<span>Meaning: <strong>charge, custody, safekeeping, storage</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p45-q9",
+      "questionHtml": "<p>{大手|おおて}の「生保」会社が、新しいライフプランに合わせた商品を発売した。「生保」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "なまほ" },
+        { "id": "b", "html": "せいほ" },
+        { "id": "c", "html": "しょうほ" },
+        { "id": "d", "html": "せいほう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>生保（せいほ）と読みます。<span>Meaning: <strong>life insurance (abbreviation of 生命保険)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p45-q10",
+      "questionHtml": "<p>健康的な体を「保つ」ために、バランスの良い食事と十分な睡眠を心がける。「保つ」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たもつ" },
+        { "id": "b", "html": "まもる" },
+        { "id": "c", "html": "ほつ" },
+        { "id": "d", "html": "おさめる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>保つ（たもつ）と読みます。<span>Meaning: <strong>to keep, to preserve, to maintain (transitive)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p45-q11",
+      "questionHtml": "<p>{現代|げんだい}社会は、パソコンやスマホへの「依存」度がますます高まっている。「依存」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いぞん" },
+        { "id": "b", "html": "いそん" },
+        { "id": "c", "html": "えいぞん" },
+        { "id": "d", "html": "よりぞん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>依存（いぞん）と読みます。<span>Meaning: <strong>dependence, reliance</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p45-q12",
+      "questionHtml": "<p>その提案に対して、メンバーの中に「異存」を唱える者はいなかった。「異存」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いぞん" },
+        { "id": "b", "html": "ことぞん" },
+        { "id": "c", "html": "いそん" },
+        { "id": "d", "html": "いあつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>異存（いぞん）と読みます。<span>Meaning: <strong>objection, differing opinion</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p45-q13",
+      "questionHtml": "<p>過酷な砂漠の環境下において、生物が「生存」するためのメカニズムを研究する。「生存」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいぞん" },
+        { "id": "b", "html": "しょうぞん" },
+        { "id": "c", "html": "いきぞん" },
+        { "id": "d", "html": "せいそん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>生存（生存）と読みます。<span>Meaning: <strong>existence, being, survival</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p45-q14",
+      "questionHtml": "<p>世界に数冊しか「現存」しない、極めて貴重な中世の写本が公開された。「現存」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんそん" },
+        { "id": "b", "html": "げんぞん" },
+        { "id": "c", "html": "あらわれぞん" },
+        { "id": "d", "html": "けんぞん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>現存（げんぞん）と読みます。<span>Meaning: <strong>existing, living, extant</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p45-q15",
+      "questionHtml": "<p>経済の発展と豊かな自然環境の「共存」を目指す、新しい街づくりが始まる。「共存」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きょうそん" },
+        { "id": "b", "html": "ともぞん" },
+        { "id": "c", "html": "きょうぞん" },
+        { "id": "d", "html": "きょうぞう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>共存（きょうぞん）と読みます。<span>Meaning: <strong>coexistence</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p45-q16",
+      "questionHtml": "<p>火災の被害を免れ、奇跡的に「残存」した古い重要資料をデータベース化する。「残存」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ざんぞん" },
+        { "id": "b", "html": "のこりぞん" },
+        { "id": "c", "html": "ざんそん" },
+        { "id": "d", "html": "さんぞん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>残存（ざんぞん）と読みます。<span>Meaning: <strong>survival, remaining, being extant</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p45-q17",
+      "questionHtml": "<p>後半の決勝戦に向けて、チームのエースのスタミナを「温存」することにした。「温存」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おんぞん" },
+        { "id": "b", "html": "ぬくぞん" },
+        { "id": "c", "html": "おんそん" },
+        { "id": "d", "html": "うんぞん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>温存（おんぞん）と読みます。<span>Meaning: <strong>preservation, retainment, keeping (e.g. resources/stamina)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p45-q18",
+      "questionHtml": "<p>これは組織全体の決定ではなく、あくまでも私個人の「一存」によるものです。「一存」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひとぞん" },
+        { "id": "b", "html": "いちぞん" },
+        { "id": "c", "html": "いちそん" },
+        { "id": "d", "html": "いっちょく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>一存（いちぞん）と読みます。<span>Meaning: <strong>one's own discretion, individual decision</strong></span></p>"
+    }
+  ]
+}

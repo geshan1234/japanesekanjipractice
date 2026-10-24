@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 35,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p35-q1",
+      "questionHtml": "<p>{二|ふた}人の{秘密|ひみつ}だったはずの関係が、いつの間にか「公然」の事実となっていた。「公然」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうぜん" },
+        { "id": "b", "html": "くぜん" },
+        { "id": "c", "html": "おおやけぜん" },
+        { "id": "d", "html": "こうねん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>公然（こうぜん）と読みます。<span>Meaning: <strong>open, public, official</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p35-q2",
+      "questionHtml": "<p>私企業であっても、社会的な「公益」を優先して活動する姿勢が求められる。「公益」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうえき" },
+        { "id": "b", "html": "くえき" },
+        { "id": "c", "html": "おおやけえき" },
+        { "id": "d", "html": "ごうえき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>公益（こうえき）と読みます。<span>Meaning: <strong>public interest, public benefit</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p35-q3",
+      "questionHtml": "<p>{休日|きゅうじつ}に、緑の豊かな「公園」で犬の散歩をしながらリフレッシュした。「公園」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうえん" },
+        { "id": "b", "html": "くえん" },
+        { "id": "c", "html": "おおやけぞの" },
+        { "id": "d", "html": "ごうえん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>公園（こうえん）と読みます。<span>Meaning: <strong>park, public park</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p35-q4",
+      "questionHtml": "<p>{許可|きょか}なく「公道」に荷物を放置することは法律で禁止されている。「公道」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くどう" },
+        { "id": "b", "html": "こうどう" },
+        { "id": "c", "html": "おおやけみち" },
+        { "id": "d", "html": "こうみち" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>公道（こうどう）と読みます。<span>Meaning: <strong>public road, highway</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p35-q5",
+      "questionHtml": "<p>{志望|しぼう}大学の「受験」手続きを間違いのないよう慎重に進める。「受験」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "うけけん" },
+        { "id": "b", "html": "じゅけん" },
+        { "id": "c", "html": "しゅけん" },
+        { "id": "d", "html": "じゅけんめ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>受験（じゅけん）と読みます。<span>Meaning: <strong>taking an examination</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p35-q6",
+      "questionHtml": "<p>長年の研究成果が認められ、栄えある国際的な賞を「受賞」した。「受賞」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じゅしょう" },
+        { "id": "b", "html": "じゅしょうく" },
+        { "id": "c", "html": "うけしょう" },
+        { "id": "d", "html": "しゅしょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>受賞（じゅしょう）と読みます。<span>Meaning: <strong>winning a prize, receiving an award</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p35-q7",
+      "questionHtml": "<p>{電波|でんぱ}の状態が悪く、メールの「受信」がスムーズに行われない。「受信」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じゅしん" },
+        { "id": "b", "html": "うけしん" },
+        { "id": "c", "html": "じゅじん" },
+        { "id": "d", "html": "しゅしん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>受信（じゅしん）と読みます。<span>Meaning: <strong>receiving (mail/signal), reception</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p35-q8",
+      "questionHtml": "<p>提出された{離婚|りこん}届は、{不備|ふび}がなかったため正式に「受理」された。「受理」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じゅり" },
+        { "id": "b", "html": "うけり" },
+        { "id": "c", "html": "しゅり" },
+        { "id": "d", "html": "じゅち" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>受理（じゅり）と読みます。<span>Meaning: <strong>acceptance, official receipt</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p35-q9",
+      "questionHtml": "<p>他社からシステムの運用業務を「受託」し、開発プロジェクトを立ち上げた。「受託」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じゅたく" },
+        { "id": "b", "html": "うけたく" },
+        { "id": "c", "html": "しゅたく" },
+        { "id": "d", "html": "じゅだく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>受託（じゅたく）と読みます。<span>Meaning: <strong>being entrusted with, taking charge of</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p35-q10",
+      "questionHtml": "<p>周囲から熱いサポートを「受ける」ことで、困難な状況を打破できた。「受ける」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "うける" },
+        { "id": "b", "html": "うかる" },
+        { "id": "c", "html": "じゅける" },
+        { "id": "d", "html": "さずかる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>受ける（うける）と読みます。<span>Meaning: <strong>to receive, to get</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p35-q11",
+      "questionHtml": "<p>レポートの表紙に、自分の名前が書かれたラベルを「付ける」。「付ける」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "つける" },
+        { "id": "b", "html": "つく" },
+        { "id": "c", "html": "ふける" },
+        { "id": "d", "html": "ぬける" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>付ける（つける）と読みます。<span>Meaning: <strong>to attach, to join (transitive)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p35-q12",
+      "questionHtml": "<p>{来客|らいきゃく}の前に、散らかったリビングの荷物を「片付ける」。「片付ける」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かたづける" },
+        { "id": "b", "html": "へんづける" },
+        { "id": "c", "html": "かたつける" },
+        { "id": "d", "html": "かたつくる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>片付ける（かたづける）と読みます。<span>Meaning: <strong>to tidy up, to put in order</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p35-q13",
+      "questionHtml": "<p>イベントの会場に着いたら、まず「受付」で名刺を出してください。「受付」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "うけつけ" },
+        { "id": "b", "html": "じゅふ" },
+        { "id": "c", "html": "うけづけ" },
+        { "id": "d", "html": "じゅつけ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>受付（うけつけ）と読みます。<span>Meaning: <strong>reception desk, information desk</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p35-q14",
+      "questionHtml": "<p>靴の裏にガムが「付く」と、歩くときにとても不快な気持ちになる。「付く」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "つく" },
+        { "id": "b", "html": "つける" },
+        { "id": "c", "html": "ふく" },
+        { "id": "d", "html": "づく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>付く（つく）と読みます。<span>Meaning: <strong>to be attached, to adhere, to stick (intransitive)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p35-q15",
+      "questionHtml": "<p>最先端の「科学」技術を駆使して、新しいエネルギーのクリーン化を目指す。「科学」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かがく" },
+        { "id": "b", "html": "ばけがく" },
+        { "id": "c", "html": "しながく" },
+        { "id": "d", "html": "きょくがく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>科学（かがく）と読みます。<span>Meaning: <strong>science</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p35-q16",
+      "questionHtml": "<p>{骨折|こっせつ}の治療のため、総合病院の「外科」を受診することにした。「外科」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そとか" },
+        { "id": "b", "html": "げか" },
+        { "id": "c", "html": "がいか" },
+        { "id": "d", "html": "げが" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>外科（げか）と読みます。<span>Meaning: <strong>the surgical department</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p35-q17",
+      "questionHtml": "<p>授業が始まる前に、机の上に新学期の「教科書」を用意しておく。「教科書」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きょうかしょ" },
+        { "id": "b", "html": "おしえかしょ" },
+        { "id": "c", "html": "こうかしょ" },
+        { "id": "d", "html": "きょうがしょ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>教科書（きょうかしょ）と読みます。<span>Meaning: <strong>textbook, coursebook</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p35-q18",
+      "questionHtml": "<p>{風邪|かぜ}をひいて熱が出たので、近くの「内科」クリニックへ行った。「内科」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "うちか" },
+        { "id": "b", "html": "ないか" },
+        { "id": "c", "html": "だいか" },
+        { "id": "d", "html": "ないが" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>内科（ないか）と読みます。<span>Meaning: <strong>the internal medicine department</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p35-q19",
+      "questionHtml": "<p>喉の痛みが激しいため、専門の「耳鼻科」の先生に診てもらう。「耳鼻科」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じびか" },
+        { "id": "b", "html": "みみはなか" },
+        { "id": "c", "html": "じはなか" },
+        { "id": "d", "html": "にびか" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>耳鼻科（じびか）と読みます。<span>Meaning: <strong>otolaryngology, ENT department</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p35-q20",
+      "questionHtml": "<p>{冷気|れいき}に当たったせいで、「鼻」の頭がすっかり赤くなってしまった。「鼻」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はな" },
+        { "id": "b", "html": "び" },
+        { "id": "c", "html": "くち" },
+        { "id": "d", "html": "みみ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>鼻（はな）と読みます。<span>Meaning: <strong>nose</strong></span></p>"
+    }
+  ]
+}

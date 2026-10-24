@@ -1,0 +1,239 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 22,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p22-q1",
+      "questionHtml": "<p>この{国|くに}の{生活|せいかつ}「水準」はとても{高|たか}い。「水準」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "みずじゅん" },
+        { "id": "b", "html": "すいしゅん" },
+        { "id": "c", "html": "すいじゅん" },
+        { "id": "d", "html": "すいじょ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>水準（すいじゅん）と読みます。<span>Meaning: <strong>level, standard</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p22-q2",
+      "questionHtml": "<p>{業務|ぎょうむ}の{負担|ふたん}を「平準」{化|か}する{必要|ひつよう}がある。「平準」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たいじゅん" },
+        { "id": "b", "html": "へいじゅん" },
+        { "id": "c", "html": "ひらじゅん" },
+        { "id": "d", "html": "へいしゅん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>平準（へいじゅん）と読みます。<span>Meaning: <strong>level, equalization</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p22-q3",
+      "questionHtml": "<p>{事実|じじつ}に「準拠」してレポートを{書|か}く。「準拠」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じゅんきょ" },
+        { "id": "b", "html": "じゅんよ" },
+        { "id": "c", "html": "しゅんきょ" },
+        { "id": "d", "html": "じゅんこう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>準拠（じゅんきょ）と読みます。<span>Meaning: <strong>basis, based on, conformance</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p22-q4",
+      "questionHtml": "<p>これが日本の「標準」的な{家庭|かてい}のモデルです。「標準」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひょうしゅん" },
+        { "id": "b", "html": "しるべじゅん" },
+        { "id": "c", "html": "ひょうじゅん" },
+        { "id": "d", "html": "びょうじゅん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>標準（ひょうじゅん）と読みます。<span>Meaning: <strong>standard, level, norm</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p22-q5",
+      "questionHtml": "<p>{明日|あした}の{旅行|りょこう}の「準備」を{終|お}わらせた。「準備」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じゅんび" },
+        { "id": "b", "html": "じゅんめい" },
+        { "id": "c", "html": "しゅんび" },
+        { "id": "d", "html": "じゅんぴ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>準備（じゅんび）と読みます。<span>Meaning: <strong>preparation, setup</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p22-q6",
+      "questionHtml": "<p>このオフィスは最新の「設備」が{整|ととの}っている。「設備」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せつび" },
+        { "id": "b", "html": "せっぴ" },
+        { "id": "c", "html": "せつめい" },
+        { "id": "d", "html": "てつび" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>設備（せつび）と読みます。<span>Meaning: <strong>equipment, facilities, installation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p22-q7",
+      "questionHtml": "<p>{念|ねん}のため「予備」のバッテリーを持っていこう。「予備」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よび" },
+        { "id": "b", "html": "よぴ" },
+        { "id": "c", "html": "あらかじめび" },
+        { "id": "d", "html": "よい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>予備（よび）と読みます。<span>Meaning: <strong>reserve, spare</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p22-q8",
+      "questionHtml": "<p>{車|くるま}の「整備」を{定期的|ていきてき}に行う。「整備」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいび" },
+        { "id": "b", "html": "じょうび" },
+        { "id": "c", "html": "せいぴ" },
+        { "id": "d", "html": "ととのび" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>整備（せいび）と読みます。<span>Meaning: <strong>maintenance, servicing</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p22-q9",
+      "questionHtml": "<p>{夜間|やかん}は「警備」の{人|ひと}が{見回|みまわ}りをしています。「警備」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいひ" },
+        { "id": "b", "html": "けいび" },
+        { "id": "c", "html": "きょうび" },
+        { "id": "d", "html": "けいぴ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>警備（けいび）と読みます。<span>Meaning: <strong>defense, guard, security</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p22-q10",
+      "questionHtml": "<p>登山には{万全|ばんぜん}の「装備」で{臨|のぞ}んでください。「装備」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうび" },
+        { "id": "b", "html": "そうぴ" },
+        { "id": "c", "html": "そうび" },
+        { "id": "d", "html": "よそおいび" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>装備（そうび）と読みます。<span>Meaning: <strong>equipment</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p22-q11",
+      "questionHtml": "<p>あのチームは「守備」がとても{堅|かた}い。「守備」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅび" },
+        { "id": "b", "html": "すび" },
+        { "id": "c", "html": "しゅぴ" },
+        { "id": "d", "html": "まもりび" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>守備（しゅび）と読みます。<span>Meaning: <strong>defense</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p22-q12",
+      "questionHtml": "<p>{災害|さいがい}に「備える」ために{食料|しょくりょう}を{買|か}う。「備える」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そなえる" },
+        { "id": "b", "html": "かまえる" },
+        { "id": "c", "html": "たくわえる" },
+        { "id": "d", "html": "びえる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>備える（そなえる）と読みます。<span>Meaning: <strong>to have ready, to provide for</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p22-q13",
+      "questionHtml": "<p>{将来|しょうらい}、自分の会社を「経営」したい。「経営」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいえい" },
+        { "id": "b", "html": "きょうえい" },
+        { "id": "c", "html": "けいえん" },
+        { "id": "d", "html": "けいねい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>経営（けいえい）と読みます。<span>Meaning: <strong>management, administration, operation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p22-q14",
+      "questionHtml": "<p>イベントの「運営」をボランティアが{手伝|てつだ}う。「運営」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "うんえい" },
+        { "id": "b", "html": "はこびえい" },
+        { "id": "c", "html": "おんえい" },
+        { "id": "d", "html": "えんえい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>運営（うんえい）と読みます。<span>Meaning: <strong>management, administration, operation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p22-q15",
+      "questionHtml": "<p>{選挙|せんきょ}でどちらの「陣営」が{勝|か}つか{注目|ちゅうもく}されている。「陣営」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じんえい" },
+        { "id": "b", "html": "ちんえい" },
+        { "id": "c", "html": "じんえん" },
+        { "id": "d", "html": "ぐんえい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>陣営（じんえい）と読みます。<span>Meaning: <strong>camp, faction</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p22-q16",
+      "questionHtml": "<p>{会場|かいじょう}の「設営」をスタッフ全員で行う。「設営」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せつえい" },
+        { "id": "b", "html": "せつえん" },
+        { "id": "c", "html": "てつえい" },
+        { "id": "d", "html": "せっけい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>設営（せつえい）と読みます。<span>Meaning: <strong>setting up (a structure, camp, etc.)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p22-q17",
+      "questionHtml": "<p>「市営」のバスに乗って{図書館|としょかん}へ行きます。「市営」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いちえい" },
+        { "id": "b", "html": "しえい" },
+        { "id": "c", "html": "しえん" },
+        { "id": "d", "html": "じえい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>市営（しえい）と読みます。<span>Meaning: <strong>municipal management, city-run</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p22-q18",
+      "questionHtml": "<p>この{組織|そしき}は「営利」を{目的|もくてき}としていない。「営利」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "えいり" },
+        { "id": "b", "html": "えいとし" },
+        { "id": "c", "html": "えんり" },
+        { "id": "d", "html": "えいき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>営利（えいり）と読みます。<span>Meaning: <strong>money-making, commercialized</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p22-q19",
+      "questionHtml": "<p>{夏休|なつやす}みに山で「野営」を楽しむ。「野営」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "やえい" },
+        { "id": "b", "html": "のえい" },
+        { "id": "c", "html": "しょえい" },
+        { "id": "d", "html": "やえん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>野営（やえい）と読みます。<span>Meaning: <strong>camping, making camp</strong></span></p>"
+    }
+  ]
+}

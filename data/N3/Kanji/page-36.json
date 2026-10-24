@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 36,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p36-q1",
+      "questionHtml": "<p>デパートの「婦人」服売り場は、いつも多くの買い物客でにぎわっている。「婦人」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふにん" },
+        { "id": "b", "html": "おんなにん" },
+        { "id": "c", "html": "ふじん" },
+        { "id": "d", "html": "つまじん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>婦人（ふじん）と読みます。<span>Meaning: <strong>woman, lady, adult female</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p36-q2",
+      "questionHtml": "<p>{休日|きゅうじつ}に、仲の良い「夫婦」が仲良く仲良く公園を散歩していた。「夫婦」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふうふ" },
+        { "id": "b", "html": "ふにん" },
+        { "id": "c", "html": "つまおっと" },
+        { "id": "d", "html": "ふうぶ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>夫婦（ふうふ）と読みます。<span>Meaning: <strong>married couple, husband and wife</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p36-q3",
+      "questionHtml": "<p>{仕事|しごと}を{辞|や}めてからは、専業「主婦」として家事に専念している。「主婦」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅふ" },
+        { "id": "b", "html": "あるじふ" },
+        { "id": "c", "html": "しゅふく" },
+        { "id": "d", "html": "おもふ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>主婦（しゅふ）と読みます。<span>Meaning: <strong>housewife, homemaker</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p36-q4",
+      "questionHtml": "<p>ベテランの「婦長」が、若い看護師たちにテキパキと指示を出している。「婦長」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふちょう" },
+        { "id": "b", "html": "ふなが" },
+        { "id": "c", "html": "おんなちょう" },
+        { "id": "d", "html": "ぷちょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>婦長（ふちょう）と読みます。<span>Meaning: <strong>head nurse</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p36-q5",
+      "questionHtml": "<p>古典文学の中で、理想とされる「婦徳」についての記述を読んだ。「婦徳」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふとく" },
+        { "id": "b", "html": "ふとっく" },
+        { "id": "c", "html": "ふとくめ" },
+        { "id": "d", "html": "おんなとく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>婦徳（ふとく）と読みます。<span>Meaning: <strong>woman's virtues</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p36-q6",
+      "questionHtml": "<p>この雑誌は、主に都市部に住む「婦女」をターゲットに編集されている。「婦女」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふにょ" },
+        { "id": "b", "html": "ふじょ" },
+        { "id": "c", "html": "おんなおんな" },
+        { "id": "d", "html": "ふめい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>婦女（ふじょ）と読みます。<span>Meaning: <strong>woman, womankind</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p36-q7",
+      "questionHtml": "<p>駅前のパトロールをしていた「婦警」に、交番の場所を尋ねた。「婦警」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふけい" },
+        { "id": "b", "html": "ふきょう" },
+        { "id": "c", "html": "おんなけい" },
+        { "id": "d", "html": "ぷけい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>婦警（ふけい）と読みます。<span>Meaning: <strong>policewoman</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p36-q8",
+      "questionHtml": "<p>{妊娠|にんしん}が分かったので、近くの総合病院の「産婦人科」を予約した。「産婦人科」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さんふにんか" },
+        { "id": "b", "html": "さんふじんか" },
+        { "id": "c", "html": "うぶふじんか" },
+        { "id": "d", "html": "さんふじんが" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>産婦人科（さんふじんか）と読みます。<span>Meaning: <strong>maternity and gynaecology department</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p36-q9",
+      "questionHtml": "<p>{土産|みやげ}物屋の棚に、可愛い和服を着た「人形」が並んでいる。「人形」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひとがた" },
+        { "id": "b", "html": "にんぎょう" },
+        { "id": "c", "html": "にんにょう" },
+        { "id": "d", "html": "じんけい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>人形（にんぎょう）と読みます。<span>Meaning: <strong>doll, puppet, figure</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p36-q10",
+      "questionHtml": "<p>新しいライフスタイルに合わせて、雇用の「形態」も多様化してきた。「形態」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいたい" },
+        { "id": "b", "html": "ぎょうたい" },
+        { "id": "c", "html": "かたちたい" },
+        { "id": "d", "html": "けいだい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>形態（けいたい）と読みます。<span>Meaning: <strong>form, shape, figure, configuration</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p36-q11",
+      "questionHtml": "<p>公式な書類を提出する際は、指定された「形式」を厳守しなければならない。「形式」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいしき" },
+        { "id": "b", "html": "ぎょうしき" },
+        { "id": "c", "html": "かたちしき" },
+        { "id": "d", "html": "けいじき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>形式（けいしき）と読みます。<span>Meaning: <strong>format, form, style, manner</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p36-q12",
+      "questionHtml": "<p>幼少期の読書習慣は、人格の「形成」において重要な役割を果たす。「形成」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぎょうせい" },
+        { "id": "b", "html": "けいせい" },
+        { "id": "c", "html": "かたちせい" },
+        { "id": "d", "html": "けいじょう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>形成（けいせい）と読みます。<span>Meaning: <strong>formation, molding, taking form</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p36-q13",
+      "questionHtml": "<p>この地図を見れば、この山の複雑な「地形」がよく理解できる。「地形」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちけい" },
+        { "id": "b", "html": "ちぎょう" },
+        { "id": "c", "html": "じけい" },
+        { "id": "d", "html": "ちかたち" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>地形（ちけい）と読みます。<span>Meaning: <strong>terrain, geographical features, topography</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p36-q14",
+      "questionHtml": "<p>激しい化学反応を起こした後でも、元の「原形」を留めていた。「原形」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はらけい" },
+        { "id": "b", "html": "げんがたち" },
+        { "id": "c", "html": "げんけい" },
+        { "id": "d", "html": "がんけい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>原形（げんけい）と読みます。<span>Meaning: <strong>original form, base form</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p36-q15",
+      "questionHtml": "<p>子供たちが手をつないで大きな「円形」を作り、歌を歌い始めた。「円形」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "えんけい" },
+        { "id": "b", "html": "まるけい" },
+        { "id": "c", "html": "えんがたち" },
+        { "id": "d", "html": "えんぎょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>円形（えんけい）と読みます。<span>Meaning: <strong>round shape, circle, circular form</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p36-q16",
+      "questionHtml": "<p>この書類は「定形」のサイズなので、通常のポストに投函できます。「定形」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さだめけい" },
+        { "id": "b", "html": "ていけい" },
+        { "id": "c", "html": "じょうけい" },
+        { "id": "d", "html": "ていかたち" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>定形（ていけい）と読みます。<span>Meaning: <strong>fixed form, regular shape, standard size</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p36-q17",
+      "questionHtml": "<p>後半の劇的なゴールによって、試合の「形勢」が一気に逆転した。「形勢」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいせい" },
+        { "id": "b", "html": "ぎょうせい" },
+        { "id": "c", "html": "かたちいき" },
+        { "id": "d", "html": "けいじょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>形勢（けいせい）と読みます。<span>Meaning: <strong>condition, situation, prospects, state of play</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p36-q18",
+      "questionHtml": "<p>{犯人|はんにん}が部屋に立ち入ったと思われる「形跡」がいくつか残されていた。「形跡」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいせき" },
+        { "id": "b", "html": "ぎょうせき" },
+        { "id": "c", "html": "かたちあと" },
+        { "id": "d", "html": "けいあと" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>形跡（けい跡）と読みます。<span>Meaning: <strong>traces, evidence, signs</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p36-q19",
+      "questionHtml": "<p>富士山の圧倒的な美しさをどのように「形容」すべきか、言葉が見つからない。「形容」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいよう" },
+        { "id": "b", "html": "ぎょうよう" },
+        { "id": "c", "html": "かたちよう" },
+        { "id": "d", "html": "けいしょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>形容（形容）と読みます。<span>Meaning: <strong>form, figure, expression/description</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p36-q20",
+      "questionHtml": "<p>{数学|すうがく}の授業で、複雑な「図形」の面積を求める問題を解いた。「図形」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ずけい" },
+        { "id": "b", "html": "とけい" },
+        { "id": "c", "html": "ずがたち" },
+        { "id": "d", "html": "とぎょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>図形（ずけい）と読みます。<span>Meaning: <strong>figure, shape, graphic, diagram</strong></span></p>"
+    }
+  ]
+}

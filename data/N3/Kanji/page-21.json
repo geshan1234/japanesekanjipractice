@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 21,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p21-q1",
+      "questionHtml": "<p>{料理|りょうり}を大きな「皿」に{盛|も}り{付|つ}ける。「皿」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さら" },
+        { "id": "b", "html": "ざら" },
+        { "id": "c", "html": "べい" },
+        { "id": "d", "html": "うつわ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>皿（さら）と読みます。<span>Meaning: <strong>dish</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p21-q2",
+      "questionHtml": "<p>すいませんが、そこに「灰皿」を置いてください。「灰皿」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はいさら" },
+        { "id": "b", "html": "かいざら" },
+        { "id": "c", "html": "はいざら" },
+        { "id": "d", "html": "あくざら" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>灰皿（はいざら）と読みます。<span>Meaning: <strong>ashtray</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p21-q3",
+      "questionHtml": "<p>{手術|しゅじゅつ}の{際|さい}に「輸血」が{必要|ひつよう}になった。「輸血」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆち" },
+        { "id": "b", "html": "ゆけつ" },
+        { "id": "c", "html": "しゅけつ" },
+        { "id": "d", "html": "ゆげつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>輸血（ゆけつ）と読みます。<span>Meaning: <strong>blood transfusion</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p21-q4",
+      "questionHtml": "<p>{病院|びょういん}で「血液」{型|がた}の{検査|けんさ}を受けました。「血液」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けつえき" },
+        { "id": "b", "html": "けついき" },
+        { "id": "c", "html": "ちえき" },
+        { "id": "d", "html": "けつすい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>血液（けつえき）と読みます。<span>Meaning: <strong>blood</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p21-q5",
+      "questionHtml": "<p>{健康|けんこう}のために{毎日|まいにち}「血圧」を{測|はか}る。「血圧」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けつあつ" },
+        { "id": "b", "html": "ちあつ" },
+        { "id": "c", "html": "けつえん" },
+        { "id": "d", "html": "けっさつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>血圧（けつあつ）と読みます。<span>Meaning: <strong>blood pressure</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p21-q6",
+      "questionHtml": "<p>{冷|つめ}たい{水|みず}を{飲|の}むと「血管」が{縮|ちぢ}まる。「血管」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けつかん" },
+        { "id": "b", "html": "ちくだら" },
+        { "id": "c", "html": "けっかん" },
+        { "id": "d", "html": "けつくだ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>血管（けっかん）と読みます。<span>Meaning: <strong>blood vessel, vein</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p21-q7",
+      "questionHtml": "<p>{駅|えき}の{前|まえ}で「献血」への{協力|きょうりょく}を{呼|よ}びかけている。「献血」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けんち" },
+        { "id": "b", "html": "こんけつ" },
+        { "id": "c", "html": "けんけつ" },
+        { "id": "d", "html": "げんけつ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>献血（けんけつ）と読みます。<span>Meaning: <strong>blood donation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p21-q8",
+      "questionHtml": "<p>{転|ころ}んでひざから「血」が出てしまった。「血」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ち" },
+        { "id": "b", "html": "けつ" },
+        { "id": "c", "html": "じ" },
+        { "id": "d", "html": "あか" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>血（ち）と読みます。<span>Meaning: <strong>blood</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p21-q9",
+      "questionHtml": "<p>{怪我|けが}をしてひどく「出血」している。「出血」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "でち" },
+        { "id": "b", "html": "しゅっけつ" },
+        { "id": "c", "html": "しゅつけつ" },
+        { "id": "d", "html": "すいけつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>出血（しゅっけつ）と読みます。<span>Meaning: <strong>bleeding</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p21-q10",
+      "questionHtml": "<p>{大学|だいがく}で{教授|きょうじゅ}の「助手」を{務|つと}める。「助手」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たすけて" },
+        { "id": "b", "html": "じょしゅ" },
+        { "id": "c", "html": "じょて" },
+        { "id": "d", "html": "すけしゅ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>助手（じょしゅ）と読みます。<span>Meaning: <strong>assistant, helper</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p21-q11",
+      "questionHtml": "<p>{被災|ひさい}した{地域|ちいき}への{経済|けいざい}的「援助」を{行|おこな}う。「援助」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "えんじょ" },
+        { "id": "b", "html": "おんじょ" },
+        { "id": "c", "html": "えんすけ" },
+        { "id": "d", "html": "いんじょ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>援助（えんじょ）と読みます。<span>Meaning: <strong>assistance, aid</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p21-q12",
+      "questionHtml": "<p>{先輩|せんぱい}の「助言」のおかげでトラブルを{解決|かいけつ}できた。「助言」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "すけこと" },
+        { "id": "b", "html": "じょげん" },
+        { "id": "c", "html": "じょごん" },
+        { "id": "d", "html": "じょしん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>助言（じょげん）と読みます。<span>Meaning: <strong>advice, suggestion</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p21-q13",
+      "questionHtml": "<p>{山|やま}で{遭難|そうなん}した人を「救助」する。「救助」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きゅうすけ" },
+        { "id": "b", "html": "きょうじょ" },
+        { "id": "c", "html": "きゅうじょ" },
+        { "id": "d", "html": "きゅうじょく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>救助（きゅうじょ）と読みます。<span>Meaning: <strong>relief, aid, rescue</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p21-q14",
+      "questionHtml": "<p>{研究|けんきゅう}を{進|すす}めるための「助成」金を{申請|しんせい}する。「助成」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じょせい" },
+        { "id": "b", "html": "じょじょう" },
+        { "id": "c", "html": "すけせい" },
+        { "id": "d", "html": "じょぜい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>助成（じょせい）と読みます。<span>Meaning: <strong>assisting, aiding (subsidy)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p21-q15",
+      "questionHtml": "<p>{公的|こうてき}な「扶助」によって{生活|せいかつ}が{支|ささ}えられている。「扶助」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほじょ" },
+        { "id": "b", "html": "ふじょ" },
+        { "id": "c", "html": "ふじょく" },
+        { "id": "d", "html": "ぶじょ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>扶助（ふじょ）と読みます. <span>Meaning: <strong>aid, help, support</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p21-q16",
+      "questionHtml": "<p>{高齢者|こうれいしゃ}の{食事|しょくじ}を「介助」する。「介助」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かいじょ" },
+        { "id": "b", "html": "けいじょ" },
+        { "id": "c", "html": "かいすけ" },
+        { "id": "d", "html": "がいじょ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>介助（かいじょ）と読みます。<span>Meaning: <strong>help, assistance, caregiving</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p21-q17",
+      "questionHtml": "<p>{地域|ちいき}の「互助」{組織|そしき}に{参加|さんか}する。「互助」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ごじょ" },
+        { "id": "b", "html": "たがいじょ" },
+        { "id": "c", "html": "こうじょ" },
+        { "id": "d", "html": "ごすけ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>互助（ごじょ）と読みます。<span>Meaning: <strong>mutual aid</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p21-q18",
+      "questionHtml": "<p>{災害|さいがい}の{時|とき}は、まず「自助」の{精神|せいしん}が{大切|たいせつ}だ。「自助」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じじょ" },
+        { "id": "b", "html": "じしゅ" },
+        { "id": "c", "html": "みずからじょ" },
+        { "id": "d", "html": "じすけ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>自助（じじょ）と読みます。<span>Meaning: <strong>self-help</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p21-q19",
+      "questionHtml": "<p>困っている人がいたら「助ける」のは{当然|とうぜん}だ。「助ける」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たすける" },
+        { "id": "b", "html": "すける" },
+        { "id": "c", "html": "じょける" },
+        { "id": "d", "html": "まもる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>助ける（たすける）と読みます。<span>Meaning: <strong>to help, to save</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p21-q20",
+      "questionHtml": "<p>{採用|さいよう}の「基準」をクリアしなければならない。「基準」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "もとじゅん" },
+        { "id": "b", "html": "きじゅん" },
+        { "id": "c", "html": "ぎじゅん" },
+        { "id": "d", "html": "きしゅん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>基準（きじゅん）と読みます。<span>Meaning: <strong>standard, basis, criterion</strong></span></p>"
+    }
+  ]
+}

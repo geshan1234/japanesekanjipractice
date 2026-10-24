@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 23,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p23-q1",
+      "questionHtml": "<p>{会社|かいしゃ}を{辞|や}めて、{実家|じっか}の「自営」の{仕事|しごと}を{継|つ}ぐことにした。「自営」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じえい" },
+        { "id": "b", "html": "じえん" },
+        { "id": "c", "html": "じえき" },
+        { "id": "d", "html": "しえい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>自営（じえい）と読みます。<span>Meaning: <strong>running one's own business</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p23-q2",
+      "questionHtml": "<p>あの{店舗|てんぽ}は24{時間|じかん}「営業」しているので非常に便利だ。「営業」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "えいぎょう" },
+        { "id": "b", "html": "えいごう" },
+        { "id": "c", "html": "えいぎょ" },
+        { "id": "d", "html": "えんぎょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>営業（えいぎょう）と読みます。<span>Meaning: <strong>business, operations, sales</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p23-q3",
+      "questionHtml": "<p>{人間|にんげん}の「営み」が{自然|しぜん}{環境|かんきょう}に{及|およ}ぼす{影響|えいきょう}は{計|はか}り{知|し}れない。「営み」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いとなみ" },
+        { "id": "b", "html": "えいなみ" },
+        { "id": "c", "html": "おこなみ" },
+        { "id": "d", "html": "いとなび" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>営み（いとなみ）と読みます。<span>Meaning: <strong>activity, execution, life occupation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p23-q4",
+      "questionHtml": "<p>{盛大|せいだい}な{拍手|はくしゅ}の{中|なか}、国際会議が「閉会」した。「閉会」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "へいえん" },
+        { "id": "b", "html": "へいかい" },
+        { "id": "c", "html": "はいかい" },
+        { "id": "d", "html": "へいあつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>閉会（へいかい）と読みます。<span>Meaning: <strong>closure (of a ceremony/meeting)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p23-q5",
+      "questionHtml": "<p>{彼|かれ}のあまりの{我儘|わがまま}ぶりに、{周囲|しゅうい}の{大人|おとな}たちも「閉口」している。「閉口」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "へいくち" },
+        { "id": "b", "html": "へいこう" },
+        { "id": "c", "html": "へいぐち" },
+        { "id": "d", "html": "はいこう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>閉口（へいこう）と読みます。<span>Meaning: <strong>to be stumped, to be at a loss</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p23-q6",
+      "questionHtml": "<p>{赤字|あかじ}が{続|つづ}いたため、その老舗デパートは「閉店」に追い込まれた。「閉店」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "へいてん" },
+        { "id": "b", "html": "へいみせ" },
+        { "id": "c", "html": "はいてん" },
+        { "id": "d", "html": "へいちょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>閉店（へいてん）と読みます。<span>Meaning: <strong>closing up shop, store closure</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p23-q7",
+      "questionHtml": "<p>{冬|ふゆ}が{近|ちか}づき、富士山はまもなく「閉山」の{時期|じき}を迎える。「閉山」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "へいざん" },
+        { "id": "b", "html": "へいやま" },
+        { "id": "c", "html": "はいざん" },
+        { "id": "d", "html": "へいさん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>閉山（へいざん）と読みます。<span>Meaning: <strong>ending the climbing season (of a mountain)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p23-q8",
+      "questionHtml": "<p>{少子|しょうし}化のあおりを受け、{母校|ぼこう}が「閉校」することになった。「閉校」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "へいこう" },
+        { "id": "b", "html": "はいこう" },
+        { "id": "c", "html": "へいく" },
+        { "id": "d", "html": "へいこうく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>閉校（へいこう）と読みます。<span>Meaning: <strong>closing a school permanently/for the day</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p23-q9",
+      "questionHtml": "<p>{閉園|へいえん}「時間」の30分前までに{退場|たいじょう}してください。「閉園」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "へいえん" },
+        { "id": "b", "html": "はいえん" },
+        { "id": "c", "html": "へいその" },
+        { "id": "d", "html": "へいおん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>閉園（へいえん）と読みます。<span>Meaning: <strong>closing of a park/garden</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p23-q10",
+      "questionHtml": "<p>{経営|けいえい}{悪化|あっか}により、その工場は完全に「閉鎖」された。「閉鎖」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "へいさ" },
+        { "id": "b", "html": "はいさ" },
+        { "id": "c", "html": "へいさく" },
+        { "id": "d", "html": "へいざ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>閉鎖（へいさ）と読みます。<span>Meaning: <strong>closing, closure, shutdown</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p23-q11",
+      "questionHtml": "<p>ドアの「開閉」時は、指を挟まないようご注意ください。「開閉」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かいへい" },
+        { "id": "b", "html": "かいはい" },
+        { "id": "c", "html": "あけしめ" },
+        { "id": "d", "html": "かいへん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>開閉（かいへい）と読みます。<span>Meaning: <strong>opening and closing</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p23-q12",
+      "questionHtml": "<p>{自動的|じどうてき}にシャッターが「閉まる」システムになっている。「閉まる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しまる" },
+        { "id": "b", "html": "しめる" },
+        { "id": "c", "html": "とまる" },
+        { "id": "d", "html": "へまる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>閉まる（しまる）と読みます。<span>Meaning: <strong>to be closed, to shut (intransitive)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p23-q13",
+      "questionHtml": "<p>{冷房|れいぼう}の{効果|こうか}をあげるため、窓を「閉める」よう{指示|しじ}された。「閉める」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しめる" },
+        { "id": "b", "html": "しまる" },
+        { "id": "c", "html": "める" },
+        { "id": "d", "html": "おさめる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>閉める（しめる）と読みます。<span>Meaning: <strong>to close, to shut (transitive)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p23-q14",
+      "questionHtml": "<p>{観光|かんこう}ボランティアが、古い{街並|まちなみ}を「案内」してくれた。「案内」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あんない" },
+        { "id": "b", "html": "あんねい" },
+        { "id": "c", "html": "おんない" },
+        { "id": "d", "html": "はんない" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>案内（あんない）と読みます。<span>Meaning: <strong>guidance, showing around</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p23-q15",
+      "questionHtml": "<p>{新規|しんき}プロジェクトに関する具体的な「提案」をまとめる。「提案」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ていあん" },
+        { "id": "b", "html": "だいあん" },
+        { "id": "c", "html": "ちょうあん" },
+        { "id": "d", "html": "ていおん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>提案（ていあん）と読みます。<span>Meaning: <strong>proposal, suggestion</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p23-q16",
+      "questionHtml": "<p>試験終了の合図とともに、記述式の「答案」が回収された。「答案」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とうあん" },
+        { "id": "b", "html": "こたえあん" },
+        { "id": "c", "html": "どうあん" },
+        { "id": "d", "html": "とうおん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>答案（とうあん）と読みます。<span>Meaning: <strong>examination paper, answer sheet</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p23-q17",
+      "questionHtml": "<p>難しいと思われた交渉だったが、「案外」スムーズに{妥結|だけつ}した。「案外」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あんがい" },
+        { "id": "b", "html": "あんそと" },
+        { "id": "c", "html": "はんがい" },
+        { "id": "d", "html": "えんがい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>案外（あん外）と読みます。<span>Meaning: <strong>unexpectedly, surprisingly</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p23-q18",
+      "questionHtml": "<p>{企画|きかく}部が中心となり、次世代エンジンの開発計画を「立案」する。「立案」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りつあん" },
+        { "id": "b", "html": "たつあん" },
+        { "id": "c", "html": "りつおん" },
+        { "id": "d", "html": "りゅうあん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>立案（りつあん）と読みます。<span>Meaning: <strong>planning, devising a plan</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p23-q19",
+      "questionHtml": "<p>この画期的なリサイクルシステムは、{若手|わかて}研究者の「発案」によるものだ。「発案」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はつあん" },
+        { "id": "b", "html": "ほつあん" },
+        { "id": "c", "html": "はったん" },
+        { "id": "d", "html": "はつおん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>発案（はつあん）と読みます。<span>Meaning: <strong>suggestion, proposal, idea</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p23-q20",
+      "questionHtml": "<p>誰も思いつかなかった「名案」によって、チームの窮地を脱した。「名案」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "めいあん" },
+        { "id": "b", "html": "なあん" },
+        { "id": "c", "html": "みょうあん" },
+        { "id": "d", "html": "めいおん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>名案（めいあん）と読みます。<span>Meaning: <strong>good idea, bright idea</strong></span></p>"
+    }
+  ]
+}

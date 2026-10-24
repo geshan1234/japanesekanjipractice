@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 18,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p18-q1",
+      "questionHtml": "<p>{彼女|かのじょ}は{有名|ゆうめい}な「女優」です。「女優」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おんなゆう" },
+        { "id": "b", "html": "じょうゆう" },
+        { "id": "c", "html": "じょゆう" },
+        { "id": "d", "html": "にょゆう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>女優（じょゆう）と読みます。<span>Meaning: <strong>actress; female actor</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p18-q2",
+      "questionHtml": "<p>「男優」{賞|しょう}を{受|う}けました。「男優」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "だんゆう" },
+        { "id": "b", "html": "なんゆう" },
+        { "id": "c", "html": "おとこゆう" },
+        { "id": "d", "html": "だんう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>男優（だんゆう）と読みます。<span>Meaning: <strong>(male) actor</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p18-q3",
+      "questionHtml": "<p>{彼|かれ}は{日本|にほん}を{代表|だいひょう}する「名優」です。「名優」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "なゆう" },
+        { "id": "b", "html": "みょうゆう" },
+        { "id": "c", "html": "めいう" },
+        { "id": "d", "html": "めいゆう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>名優（めいゆう）と読みます。<span>Meaning: <strong>great actor; famous actor; star</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p18-q4",
+      "questionHtml": "<p>{電車|でんしゃ}の「優先席」を{譲|ゆず}ります。「優先席」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆうせんぜき" },
+        { "id": "b", "html": "ゆうせんせき" },
+        { "id": "c", "html": "ゆうぜんせき" },
+        { "id": "d", "html": "ゆせんせき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>優先席（ゆうせんせき）と読みます。<span>Meaning: <strong>priority seat</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p18-q5",
+      "questionHtml": "<p>{彼女|かのじょ}は「優しい」{人|ひと}です。「優しい」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆうしい" },
+        { "id": "b", "html": "すぐしい" },
+        { "id": "c", "html": "やさしい" },
+        { "id": "d", "html": "やしい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>優しい（やさしい）と読みます。<span>Meaning: <strong>tender; kind; gentle; graceful</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p18-q6",
+      "questionHtml": "<p>{彼|かれ}は{才能|さいのう}が「優れる」。「優れる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "すぐれる" },
+        { "id": "b", "html": "ゆうれる" },
+        { "id": "c", "html": "やされる" },
+        { "id": "d", "html": "まされる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>優れる（すぐれる）と読みます。<span>Meaning: <strong>to surpass, to outstrip, to excel</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p18-q7",
+      "questionHtml": "<p>{飛行機|ひこうき}の「座席」を{予約|よやく}しました。「座席」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ざしき" },
+        { "id": "b", "html": "すわりせき" },
+        { "id": "c", "html": "ざぜき" },
+        { "id": "d", "html": "ざせき" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>座席（ざせき）と読みます。<span>Meaning: <strong>seat</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p18-q8",
+      "questionHtml": "<p>{畳|たたみ}の{上|うえ}で「正座」します。「正座」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうざ" },
+        { "id": "b", "html": "せいざ" },
+        { "id": "c", "html": "せいぞ" },
+        { "id": "d", "html": "せいすわり" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>正座（せいざ）と読みます。<span>Meaning: <strong>seiza; kneeling with the tops of the feet flat on the floor, and sitting on the soles</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p18-q9",
+      "questionHtml": "<p>{椅子|いす}に「座る」。「座る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ざる" },
+        { "id": "b", "html": "ずわる" },
+        { "id": "c", "html": "すわる" },
+        { "id": "d", "html": "おわる" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>座る（すわる）と読みます。<span>Meaning: <strong>to sit; to squat</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p18-q10",
+      "questionHtml": "<p>{会議|かいぎ}を「中座」しました。「中座」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちゅうざ" },
+        { "id": "b", "html": "なかざ" },
+        { "id": "c", "html": "ちゅうぞ" },
+        { "id": "d", "html": "ちゅざ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>中座（ちゅうざ）と読みます。<span>Meaning: <strong>leaving one's seat (before an event is over)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p18-q11",
+      "questionHtml": "<p>{銀行|ぎんこう}の「口座」を{開|ひら}きます。「口座」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうぞう" },
+        { "id": "b", "html": "くちざ" },
+        { "id": "c", "html": "こうさ" },
+        { "id": "d", "html": "こうざ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>口座（こうざ）と読みます。<span>Meaning: <strong>account (e.g. bank)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p18-q12",
+      "questionHtml": "<p>{大学|だいがく}の「講座」に{参加|さんか}します。「講座」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうさ" },
+        { "id": "b", "html": "こうざ" },
+        { "id": "c", "html": "こうぞ" },
+        { "id": "d", "html": "かんざ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>講座（こうざ）と読みます。<span>Meaning: <strong>course (e.g. of lectures)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p18-q13",
+      "questionHtml": "<p>{冬|ふゆ}は「便座」が{冷|つめ}たいです。「便座」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "びんざ" },
+        { "id": "b", "html": "べんぞ" },
+        { "id": "c", "html": "べんざ" },
+        { "id": "d", "html": "べんさ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>便座（べんざ）と読みます。<span>Meaning: <strong>toilet seat</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p18-q14",
+      "questionHtml": "<p>「降車口」は{前|まえ}です。「降車口」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうしゃぐち" },
+        { "id": "b", "html": "こうしゃこう" },
+        { "id": "c", "html": "ふりしゃぐち" },
+        { "id": "d", "html": "こうしゃくち" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>降車口（こうしゃぐち）と読みます。<span>Meaning: <strong>exit</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p18-q15",
+      "questionHtml": "<p>{次|つぎ}の{駅|えき}で「降りる」。「降りる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふりる" },
+        { "id": "b", "html": "くだりる" },
+        { "id": "c", "html": "おちる" },
+        { "id": "d", "html": "おりる" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>降りる（おりる）と読みます。<span>Meaning: <strong>get off, to go down</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p18-q16",
+      "questionHtml": "<p>{明日|あした}「以降」は{暇|ひま}です。「以降」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いごう" },
+        { "id": "b", "html": "いこう" },
+        { "id": "c", "html": "いふり" },
+        { "id": "d", "html": "いこ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>以降（いこう）と読みます。<span>Meaning: <strong>on and after; as from; hereafter; thereafter; since</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p18-q17",
+      "questionHtml": "<p>{上|うえ}から{命令|めいれい}が「降る」。「降る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふる" },
+        { "id": "b", "html": "おりる" },
+        { "id": "c", "html": "くだる" },
+        { "id": "d", "html": "おちる" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>降る（くだる）と読みます。<span>Meaning: <strong>to be handed down (of an order, judgment, etc.)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p18-q18",
+      "questionHtml": "<p>{十八歳|じゅうはっさい}「未満」は{入|はい}れません。「未満」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "みまん" },
+        { "id": "b", "html": "みみつ" },
+        { "id": "c", "html": "びまん" },
+        { "id": "d", "html": "まだまん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>未満（みまん）と読みます。<span>Meaning: <strong>less than; under; below</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p18-q19",
+      "questionHtml": "<p>「未知」の{世界|せかい}に{挑戦|ちょうせん}します。「未知」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "みじ" },
+        { "id": "b", "html": "まだち" },
+        { "id": "c", "html": "みしる" },
+        { "id": "d", "html": "みち" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>未知（みち）と読みます。<span>Meaning: <strong>not yet known; unknown; strange</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p18-q20",
+      "questionHtml": "<p>{彼|かれ}は「未婚」です。「未婚」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "みこ" },
+        { "id": "b", "html": "みこん" },
+        { "id": "c", "html": "みごん" },
+        { "id": "d", "html": "びこん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>未婚（みこん）と読みます。<span>Meaning: <strong>unmarried; not yet married</strong></span></p>"
+    }
+  ]
+}

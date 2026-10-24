@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 41,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p41-q1",
+      "questionHtml": "<p>{会社|かいしゃ}の「組織」を{抜本的|ばっぽんてき}に{改革|かいかく}する計画が持ち上がった。「組織」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くみしき" },
+        { "id": "b", "html": "そしき" },
+        { "id": "c", "html": "ぞしき" },
+        { "id": "d", "html": "そしょく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>組織（そしき）と読みます。<span>Meaning: <strong>organization, structure</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p41-q2",
+      "questionHtml": "<p>{業務|ぎょうむ}の{効率|こうりつ}化を{図|はか}るため、研究開発部門を「改組」した。「改組」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かいそ" },
+        { "id": "b", "html": "あらためそ" },
+        { "id": "c", "html": "かいぐみ" },
+        { "id": "d", "html": "がいそ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>改組（かいそ）と読みます。<span>Meaning: <strong>reorganization, reshuffle</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p41-q3",
+      "questionHtml": "<p>総理大臣に選出された{彼|かれ}は、直ちに「組閣」に着手した。「組閣」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そかく" },
+        { "id": "b", "html": "くみかく" },
+        { "id": "c", "html": "ぞかく" },
+        { "id": "d", "html": "そがく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>組閣（そかく）と読みます。<span>Meaning: <strong>formation of a cabinet</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p41-q4",
+      "questionHtml": "<p>{待遇|たいぐう}の改善を求め、経営陣と「労組」が交渉を続けている。「労組」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ろうくみ" },
+        { "id": "b", "html": "ろうそ" },
+        { "id": "c", "html": "ろうぞ" },
+        { "id": "d", "html": "ろうしょく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>労組（ろうそ）と読みます。<span>Meaning: <strong>labor union, trade union</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p41-q5",
+      "questionHtml": "<p>新学期になり、私は最も活気のあるA「組」に配属された。「組」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くみ" },
+        { "id": "b", "html": "そ" },
+        { "id": "c", "html": "ぐみ" },
+        { "id": "d", "html": "くめん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>～組（くみ）と読みます。<span>Meaning: <strong>class, team, group (suffix)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p41-q6",
+      "questionHtml": "<p>共通の目標を達成するため、他社の開発チームと手を「組む」。「組む」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くむ" },
+        { "id": "b", "html": "そむ" },
+        { "id": "c", "html": "おるむ" },
+        { "id": "d", "html": "つむ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>組む（くむ）と読みます。<span>Meaning: <strong>to partner up, to co-operate, to cross (legs/arms)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p41-q7",
+      "questionHtml": "<p>毎週楽しみにしているテレビの「番組」がまもなく始まる。「番組」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ばんぐみ" },
+        { "id": "b", "html": "つがいぐみ" },
+        { "id": "c", "html": "ばんそ" },
+        { "id": "d", "html": "はんぐみ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>番組（ばんぐみ）と読みます。<span>Meaning: <strong>program (TV/radio), schedule</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p41-q8",
+      "questionHtml": "<p>説明書を読みながら、通販で買った棚のパーツを「組み立てる」。「組み立てる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くみたてる" },
+        { "id": "b", "html": "そたてる" },
+        { "id": "c", "html": "くみだてる" },
+        { "id": "d", "html": "あらたてる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>組み立てる（くみたてる）と読みます。<span>Meaning: <strong>to assemble, to set up, to construct</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p41-q9",
+      "questionHtml": "<p>地域の商店街が「組合」を結成し、共同でセールを開催した。「組合」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そごう" },
+        { "id": "b", "html": "くみあい" },
+        { "id": "c", "html": "くみごう" },
+        { "id": "d", "html": "くみわく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>組合（くみあい）と読みます。<span>Meaning: <strong>association, union, guild</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p41-q10",
+      "questionHtml": "<p>お互いの信頼を守るために、交わした「約束」は必ず守る。「約束」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "やくそく" },
+        { "id": "b", "html": "たいそく" },
+        { "id": "c", "html": "やくたば" },
+        { "id": "d", "html": "たいたば" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>約束（やくそく）と読みます。<span>Meaning: <strong>promise, agreement, arrangement</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p41-q11",
+      "questionHtml": "<p>倉庫に保管されていた古い書類を「一束」にまとめて処分した。「一束」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひとたば" },
+        { "id": "b", "html": "いっそく" },
+        { "id": "c", "html": "いつたば" },
+        { "id": "d", "html": "いっちょく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>一束（いっそく）と読みます。<span>Meaning: <strong>a bundle, a hundred (count)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p41-q12",
+      "questionHtml": "<p>重要参考人として、警察が身柄を一時的に「拘束」した。「拘束」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうそく" },
+        { "id": "b", "html": "くそく" },
+        { "id": "c", "html": "こうたば" },
+        { "id": "d", "html": "きょうそく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>拘束（こうそく）と読みます。<span>Meaning: <strong>restriction, restraint, binding, constraint</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p41-q13",
+      "questionHtml": "<p>ルールに縛られすぎると、精神的な「束縛」を感じてしまう。「束縛」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そくばく" },
+        { "id": "b", "html": "たばばく" },
+        { "id": "c", "html": "そくばくめ" },
+        { "id": "d", "html": "ちょくばく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>束縛（そくばく）と読みます。<span>Meaning: <strong>restraint, restriction, shackles</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p41-q14",
+      "questionHtml": "<p>困難な状況下で、チームのメンバー全員が「結束」して危機を乗り越えた。「結束」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けっそく" },
+        { "id": "b", "html": "むすびたば" },
+        { "id": "c", "html": "けつたば" },
+        { "id": "d", "html": "けいそく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>結束（けっそく）と読みます。<span>Meaning: <strong>union, unity, solidarity</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p41-q15",
+      "questionHtml": "<p>夜間の無許可デモの参加者を、治安維持のために「検束」した。「検束」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けんそく" },
+        { "id": "b", "html": "しらべたば" },
+        { "id": "c", "html": "げんそく" },
+        { "id": "d", "html": "けんちょく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>検束（検束）と読みます。<span>Meaning: <strong>arrest, custody, detention</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p41-q16",
+      "questionHtml": "<p>発表会の終了後、ステージの主役に美しい「花束」が贈られた。「花束」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はなたば" },
+        { "id": "b", "html": "かそく" },
+        { "id": "c", "html": "はなそく" },
+        { "id": "d", "html": "かたば" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>花束（はなたば）と読みます。<span>Meaning: <strong>bunch of flowers, bouquet</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p41-q17",
+      "questionHtml": "<p>買ってきたネギを「束」にして冷蔵庫の中に立てて保管する。「束」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たば" },
+        { "id": "b", "html": "そく" },
+        { "id": "c", "html": "つか" },
+        { "id": "d", "html": "わ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>束（たば）と読みます。<span>Meaning: <strong>bundle, bunch, sheaf</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p41-q18",
+      "questionHtml": "<p>チャイムが鳴り、本日の「授業」が静かにスタートした。「授業」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じゅぎょう" },
+        { "id": "b", "html": "さずけぎょう" },
+        { "id": "c", "html": "しゅぎょう" },
+        { "id": "d", "html": "じゅごう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>授業（じゅぎょう）と読みます。<span>Meaning: <strong>lesson, class work, instruction</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p41-q19",
+      "questionHtml": "<p>大学の「教授」が、最先端の言語学に関する特別講義を行った。「教授」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きょうじゅ" },
+        { "id": "b", "html": "おしえじゅ" },
+        { "id": "c", "html": "きょうしゅ" },
+        { "id": "d", "html": "きょうず" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>教授（きょうじゅ）と読みます。<span>Meaning: <strong>professor</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p41-q20",
+      "questionHtml": "<p>新システムへの移行期は、トラブルの起きやすい「過渡」期と言える。「過渡」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かとう" },
+        { "id": "b", "html": "かど" },
+        { "id": "c", "html": "すぎわたり" },
+        { "id": "d", "html": "かと" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>過渡（かと）と読みます。<span>Meaning: <strong>crossing, transition, transitional phase</strong></span></p>"
+    }
+  ]
+}

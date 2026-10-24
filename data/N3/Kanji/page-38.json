@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 38,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p38-q1",
+      "questionHtml": "<p>胃腸の調子が悪く、食べたものがうまく「消化」されない。「消化」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうか" },
+        { "id": "b", "html": "じょうか" },
+        { "id": "c", "html": "しょうが" },
+        { "id": "d", "html": "けすか" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>消化（しょうか）と読みます。<span>Meaning: <strong>digestion (of food)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p38-q2",
+      "questionHtml": "<p>{休日|きゅうじつ}に軽い運動をすることで、日頃のストレスを「解消」する。「解消」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かいしょう" },
+        { "id": "b", "html": "げしょう" },
+        { "id": "c", "html": "かいじょう" },
+        { "id": "d", "html": "けししょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>解消（解消）と読みます。<span>Meaning: <strong>cancellation, resolution, reduction (of stress)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p38-q3",
+      "questionHtml": "<p>{感染|かんせん}症を予防するため、傷口をアルコールで「消毒」する。「消毒」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうどく" },
+        { "id": "b", "html": "じょうどく" },
+        { "id": "c", "html": "しょうとく" },
+        { "id": "d", "html": "けすどく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>消毒（しょうどく）と読みます。<span>Meaning: <strong>disinfection, sterilization</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p38-q4",
+      "questionHtml": "<p>地域の「消防」団が、乾燥した時期に火の用心を呼びかけている。「消防」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうぼう" },
+        { "id": "b", "html": "じょうぼう" },
+        { "id": "c", "html": "しょうほう" },
+        { "id": "d", "html": "けすぼう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>消防（しょうぼう）と読みます。<span>Meaning: <strong>fire fighting</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p38-q5",
+      "questionHtml": "<p>黒板に書かれた古い文字をクリーナーできれいに「消す」。「消す」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けす" },
+        { "id": "b", "html": "きす" },
+        { "id": "c", "html": "しょうす" },
+        { "id": "d", "html": "おとす" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>消す（けす）と読みます。<span>Meaning: <strong>to erase, to delete, to turn off (transitive)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p38-q6",
+      "questionHtml": "<p>パソコンの画面が突然「消える」トラブルが発生し、データが失われた。「消える」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きえる" },
+        { "id": "b", "html": "けえる" },
+        { "id": "c", "html": "きえる" },
+        { "id": "d", "html": "なえる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>消える（きえると読みます。<span>Meaning: <strong>to go out, to vanish, to disappear (intransitive)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p38-q7",
+      "questionHtml": "<p>テストの前に、筆箱の中に使いやすい「消しゴム」があるか確認する。「消しゴム」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けしごむ" },
+        { "id": "b", "html": "けしごむ" },
+        { "id": "c", "html": "きしごむ" },
+        { "id": "d", "html": "しょうしごむ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>消しゴム（けしゴム）と読みます。<span>Meaning: <strong>eraser</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p38-q8",
+      "questionHtml": "<p>インフルエンザの「予防」のために、外出後は必ずうがいをする。「予防」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よぼう" },
+        { "id": "b", "html": "よほう" },
+        { "id": "c", "html": "いぼう" },
+        { "id": "d", "html": "あらかじめぼう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>予防（よぼう）と読みます。<span>Meaning: <strong>prevention, precaution</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p38-q9",
+      "questionHtml": "<p>{事故|じこ}の再発を「防止」するための新しい安全対策を導入した。「防止」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぼうし" },
+        { "id": "b", "html": "ほうし" },
+        { "id": "c", "html": "ぼうじ" },
+        { "id": "d", "html": "ふせぎし" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>防止（ぼうし）と読みます。<span>Meaning: <strong>prevention, check</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p38-q10",
+      "questionHtml": "<p>{木造|もくぞう}建築が集まるエリアなので、徹底的な「防火」対策が必要だ。「防火」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぼうか" },
+        { "id": "b", "html": "ほうか" },
+        { "id": "c", "html": "ぼうが" },
+        { "id": "d", "html": "ふせぎか" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>防火（ぼうか）と読みます。<span>Meaning: <strong>fire prevention, fireproofing</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p38-q11",
+      "questionHtml": "<p>台風による川の氾濫を防ぐため、高い「堤防」を急ピッチで建設する。「堤防」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ていぼう" },
+        { "id": "b", "html": "だいぼう" },
+        { "id": "c", "html": "たいぼう" },
+        { "id": "d", "html": "ていほう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>堤防（ていぼう）と読みます。<span>Meaning: <strong>bank, embankment, levee</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p38-q12",
+      "questionHtml": "<p>他国からの不当なサイバー攻撃に対し、自社のシステムを「防衛」する。「防衛」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぼうえい" },
+        { "id": "b", "html": "ほうえい" },
+        { "id": "c", "html": "ぼうえん" },
+        { "id": "d", "html": "ふせぎえい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>防衛（ぼうえい）と読みます。<span>Meaning: <strong>defense, protection</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p38-q13",
+      "questionHtml": "<p>{国家|こっか}の安全を維持するため、新しい「国防」計画が可決された。「国防」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こくほう" },
+        { "id": "b", "html": "こくぼう" },
+        { "id": "c", "html": "くにぼう" },
+        { "id": "d", "html": "こっぽう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>国防（こくぼう）と読みます。<span>Meaning: <strong>national defense</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p38-q14",
+      "questionHtml": "<p>相手チームの激しい攻撃を完璧な「防御」で防ぎきった。「防御」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぼうぎょ" },
+        { "id": "b", "html": "ほうぎょ" },
+        { "id": "c", "html": "ぼうぎょう" },
+        { "id": "d", "html": "ふせぎぎょ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>防御（ぼうぎょ）と読みます。<span>Meaning: <strong>defense, safeguard, protection</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p38-q15",
+      "questionHtml": "<p>{害虫|がいちゅう}の侵入を「防ぐ」ために、窓にネットを取り付ける。「防ぐ」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふせぐ" },
+        { "id": "b", "html": "ふさぐ" },
+        { "id": "c", "html": "ぼうぐ" },
+        { "id": "d", "html": "まもる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>防ぐ（ふせぐ）と読みます。<span>Meaning: <strong>to defend against, to protect against</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p38-q16",
+      "questionHtml": "<p>怪我人が出たという通報を受け、現場に「救急車」が急行した。「救急車」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きゅうきゅうしゃ" },
+        { "id": "b", "html": "きょうきょうしゃ" },
+        { "id": "c", "html": "すくうきゅうしゃ" },
+        { "id": "d", "html": "きゅうきゅうじゃ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>救急車（きゅうきゅうしゃ）と読みます。<span>Meaning: <strong>ambulance</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p38-q17",
+      "questionHtml": "<p>経済的な危機から中小企業を「救う」ための救済策が打ち出された。「救う」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "すくう" },
+        { "id": "b", "html": "きゅうう" },
+        { "id": "c", "html": "たすく" },
+        { "id": "d", "html": "おぎなう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>救う（すくう）と読みます。<span>Meaning: <strong>to rescue, to help out of, to save</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p38-q18",
+      "questionHtml": "<p>パトロール中の「警官」に、落とした財布の届出を行った。「警官」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいかん" },
+        { "id": "b", "html": "きょうかん" },
+        { "id": "c", "html": "けいがん" },
+        { "id": "d", "html": "けいにん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>警官（けいかん）と読みます。<span>Meaning: <strong>police officer, policeman</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p38-q19",
+      "questionHtml": "<p>VIPが訪問するイベント会場の「警備」体制を大幅に強化する。「警備」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいび" },
+        { "id": "b", "html": "きょうび" },
+        { "id": "c", "html": "けいぴ" },
+        { "id": "d", "html": "けいひ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>警備（けいび）と読みます。<span>Meaning: <strong>defense, guard, policing, security</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p38-q20",
+      "questionHtml": "<p>大型の台風が接近しているため、沿岸地域に大雨「警報」が出された。「警報」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいぼう" },
+        { "id": "b", "html": "けいほう" },
+        { "id": "c", "html": "きょうほう" },
+        { "id": "d", "html": "けいぽう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>警報（けいほう）と読みます。<span>Meaning: <strong>alarm, warning</strong></span></p>"
+    }
+  ]
+}

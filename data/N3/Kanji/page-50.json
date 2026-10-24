@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 50,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p50-q1",
+      "questionHtml": "<p>{財政|ざいせい}の危機を{立て直|たてなお}すため、来年度からの「増税」案が承認された。「増税」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そうぜい" },
+        { "id": "b", "html": "ぞうぜい" },
+        { "id": "c", "html": "ふえぜい" },
+        { "id": "d", "html": "ぞうちぜ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>増税（ぞうぜい）と読みます。<span>Meaning: <strong>tax increase</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p50-q2",
+      "questionHtml": "<p>この商品は期間限定で、お値段そのままで20％「増量」しています。「増量」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぞうりょう" },
+        { "id": "b", "html": "そうりょう" },
+        { "id": "c", "html": "ふえりょう" },
+        { "id": "d", "html": "ぞうばか" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>増量（ぞうりょう）と読みます。<span>Meaning: <strong>increased volume or quantity</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p50-q3",
+      "questionHtml": "<p>{都市|とし}部への人口集中により、電車の利用者が年々「増える」。「増える」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふえる" },
+        { "id": "b", "html": "ふやす" },
+        { "id": "c", "html": "ぞえる" },
+        { "id": "d", "html": "える" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>増える（ふえる）と読みます。<span>Meaning: <strong>to increase, to multiply (intransitive)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p50-q4",
+      "questionHtml": "<p>将来に備えて貯蓄を「増やす」ために、毎月の固定費を見直す。「増やす」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふやす" },
+        { "id": "b", "html": "ふえる" },
+        { "id": "c", "html": "ぞうやす" },
+        { "id": "d", "html": "たす" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>増やす（ふやす）と読みます。<span>Meaning: <strong>to increase, to add to (transitive)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p50-q5",
+      "questionHtml": "<p>日本を訪れる外国人観光客が急激に「増加」している。「増加」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぞうか" },
+        { "id": "b", "html": "そうか" },
+        { "id": "c", "html": "ふえか" },
+        { "id": "d", "html": "ぞうく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>増加（ぞうか）と読みます。<span>Meaning: <strong>increase, rise, growth</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p50-q6",
+      "questionHtml": "<p>スープの味を見ながら、塩とコショウの分量を「加減」する。「加減」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かげん" },
+        { "id": "b", "html": "かくげん" },
+        { "id": "c", "html": "がげん" },
+        { "id": "d", "html": "くわへる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>加減（かげん）と読みます。<span>Meaning: <strong>degree, extent, adjustment, balance</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p50-q7",
+      "questionHtml": "<p>{少子|しょうし}化のあおりを受け、地方の小学校の児童数が「減少」している。「減少」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんしょう" },
+        { "id": "b", "html": "かんしょう" },
+        { "id": "c", "html": "へるしょう" },
+        { "id": "d", "html": "けんしょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>減少（減少）と読みます。<span>Meaning: <strong>decrease, reduction, decline</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p50-q8",
+      "questionHtml": "<p>ボクシングの試合前の軽量に向けて、過酷な「減量」に挑む。「減量」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "へるりょう" },
+        { "id": "b", "html": "げんりょう" },
+        { "id": "c", "html": "かんりょう" },
+        { "id": "d", "html": "けんりょう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>減量（げんりょう）と読みます。<span>Meaning: <strong>loss in weight, weight reduction</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p50-q9",
+      "questionHtml": "<p>経営状況を改善するため、来期の広告予算を大幅に「削減」した。「削減」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さくげん" },
+        { "id": "b", "html": "けずげん" },
+        { "id": "c", "html": "さくかん" },
+        { "id": "d", "html": "さくけん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>削減（さくげん）と読みます。<span>Meaning: <strong>cut, reduction, curtailment</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p50-q10",
+      "questionHtml": "<p>{景気|けいき}を刺激するため、政府は所得税の「減税」措置を打ち出した。「減税」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "へるぜい" },
+        { "id": "b", "html": "げんぜい" },
+        { "id": "c", "html": "かんぜい" },
+        { "id": "d", "html": "けんぜい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>減税（げんぜい）と読みます。<span>Meaning: <strong>tax reduction</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p50-q11",
+      "questionHtml": "<p>強力なライバルが登場したことで、我が社のシェアが「半減」してしまった。「半減」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はんげん" },
+        { "id": "b", "html": "はんかん" },
+        { "id": "c", "html": "はんへる" },
+        { "id": "d", "html": "はんけん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>半減（はんげん）と読みます。<span>Meaning: <strong>reduction by half, halving</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p50-q12",
+      "questionHtml": "<p>夏の暑さと疲れのせいで、最近すっかり食欲が「減退」している。「減退」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんたい" },
+        { "id": "b", "html": "かんたい" },
+        { "id": "c", "html": "げんだん" },
+        { "id": "d", "html": "へるたい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>減退（げんたい）と読みます。<span>Meaning: <strong>decline, decrease, loss (e.g., appetite)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p50-q13",
+      "questionHtml": "<p>ダムの貯水量が徐々に「減る」と、周辺地域への給水制限が始まる。「減る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "へる" },
+        { "id": "b", "html": "へらす" },
+        { "id": "c", "html": "げんる" },
+        { "id": "d", "html": "きる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>減る（へる）と読みます。<span>Meaning: <strong>to decrease, to diminish (intransitive)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p50-q14",
+      "questionHtml": "<p>体重を「減らす」ために、甘いお菓子を控えて毎日ウォーキングをする。「減らす」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "へらす" },
+        { "id": "b", "html": "へる" },
+        { "id": "c", "html": "げんらす" },
+        { "id": "d", "html": "おとす" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>減らす（へらす）と読みます。<span>Meaning: <strong>to decrease, to shorten (transitive)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p50-q15",
+      "questionHtml": "<p>新しいバイパス道路を建設する前に、土地の「測量」を細かく行う。「測量」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そくりょう" },
+        { "id": "b", "html": "はかりりょう" },
+        { "id": "c", "html": "そくばか" },
+        { "id": "d", "html": "ぞくりょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>測量（そくりょう）と読みます。<span>Meaning: <strong>measurement, surveying</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p50-q16",
+      "questionHtml": "<p>調味料の「分量」を間違えてしまい、料理が辛くなりすぎた。「分量」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぶんりょう" },
+        { "id": "b", "html": "わきりょう" },
+        { "id": "c", "html": "ぶんろう" },
+        { "id": "d", "html": "ぷんりょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>分量（分量）と読みます。<span>Meaning: <strong>amount, quantity</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p50-q17",
+      "questionHtml": "<p>この新しいハードディスクは、データの記憶「容量」が非常に大きい。「容量」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ようりょう" },
+        { "id": "b", "html": "いれりょう" },
+        { "id": "c", "html": "ゆうりょう" },
+        { "id": "d", "html": "ようろう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>容量（ようりょう）と読みます。<span>Meaning: <strong>capacity, volume</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p50-q18",
+      "questionHtml": "<p>注文が「大量」に届いたため、工場は休日もフル稼働で製造を続けた。「大量」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たいりょう" },
+        { "id": "b", "html": "おおえりょう" },
+        { "id": "c", "html": "だいりょう" },
+        { "id": "d", "html": "だいばか" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>大量（たいりょう）と読みます。<span>Meaning: <strong>large quantity, massive quantity</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p50-q19",
+      "questionHtml": "<p>テレビの「音量」が大きすぎて、隣の部屋まで音が筒抜けになっている。「音量」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おんりょう" },
+        { "id": "b", "html": "おとりょう" },
+        { "id": "c", "html": "いんりょう" },
+        { "id": "d", "html": "おんろう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>音量（おんりょう）と読みます。<span>Meaning: <strong>volume (sound)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p50-q20",
+      "questionHtml": "<p>お菓子の材料の重さをスケールで正確に「計量」する。「計量」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいりょう" },
+        { "id": "b", "html": "はかりりょう" },
+        { "id": "c", "html": "けいろう" },
+        { "id": "d", "html": "げいりょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>計量（計量）と読みます。<span>Meaning: <strong>measuring, weighing</strong></span></p>"
+    }
+  ]
+}

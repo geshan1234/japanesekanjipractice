@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 31,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p31-q1",
+      "questionHtml": "<p>京都の歴史的な「寺社」を巡り、伝統建築の素晴らしさを実感した。「寺社」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "てらやしろ" },
+        { "id": "b", "html": "じしゃ" },
+        { "id": "c", "html": "じじゃ" },
+        { "id": "d", "html": "てらしゃ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>寺社（じしゃ）と読みます。<span>Meaning: <strong>temples and shrines</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p31-q2",
+      "questionHtml": "<p>世界遺産に登録されている金閣「寺」を訪れ、その美しさに圧倒された。「寺」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "てら" },
+        { "id": "b", "html": "じ" },
+        { "id": "c", "html": "し" },
+        { "id": "d", "html": "にん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>～寺（じ）と読みます。<span>Meaning: <strong>~ Temple (suffix used for specific temple names)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p31-q3",
+      "questionHtml": "<p>{祖父|そふ}は{毎朝|まいあさ}近くの「お寺」へ散歩に出かけるのを日課にしている。「お寺」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おじ" },
+        { "id": "b", "html": "おてら" },
+        { "id": "c", "html": "みてら" },
+        { "id": "d", "html": "おてい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>お寺（おてら）と読みます。<span>Meaning: <strong>Buddhist temple</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p31-q4",
+      "questionHtml": "<p>プロジェクトにおいて、自分が果たすべき「役割」を明確に意識する。「役割」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "やくわり" },
+        { "id": "b", "html": "えきわり" },
+        { "id": "c", "html": "やくかつ" },
+        { "id": "d", "html": "えきかつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>役割（やくわり）と読みます。<span>Meaning: <strong>part, role, duties</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p31-q5",
+      "questionHtml": "<p>{証明書|しょうめいしょ}を発行してもらうため、平日の午前中に「役所」へ向かった。「役所」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "えきしょ" },
+        { "id": "b", "html": "やくところ" },
+        { "id": "c", "html": "えきどころ" },
+        { "id": "d", "html": "やくしょ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>役所（やくしょ）と読みます. <span>Meaning: <strong>government office, public office</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p31-q6",
+      "questionHtml": "<p>{厳格|げんかく}な「役人」が{書類|しょるい}の不備を厳しくチェックしている。「役人」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "やくじん" },
+        { "id": "b", "html": "やくにん" },
+        { "id": "c", "html": "えきにん" },
+        { "id": "d", "html": "やくひと" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>役人（やくねん）と読みます。<span>Meaning: <strong>government official</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p31-q7",
+      "questionHtml": "<p>あの舞台に登場した「役者」たちの演技は、観客の心を深く揺さぶった。「役者」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "やくしゃ" },
+        { "id": "b", "html": "えきしゃ" },
+        { "id": "c", "html": "やくもの" },
+        { "id": "d", "html": "えきもの" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>役者（やくしゃ）と読みます。<span>Meaning: <strong>actor, actress</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p31-q8",
+      "questionHtml": "<p>先輩から引き継いだ重要な「役目」を無事に果たすことができた。「役目」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "えきめ" },
+        { "id": "b", "html": "やくめ" },
+        { "id": "c", "html": "やくもく" },
+        { "id": "d", "html": "えきもく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>役目（やくめ）と読みます。<span>Meaning: <strong>duty, role, function</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p31-q9",
+      "questionHtml": "<p>社内で重要な「役職」に就いたため、責任の重さを改めて感じている。「役職」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "やくしょく" },
+        { "id": "b", "html": "えきしょく" },
+        { "id": "c", "html": "やくしき" },
+        { "id": "d", "html": "えきしき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>役職（やくしょく）と読みます。<span>Meaning: <strong>post, official position</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p31-q10",
+      "questionHtml": "<p>来期の事業計画を承認するため、会社の「役員」たちが会議室に集まった。「役員」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "えきいん" },
+        { "id": "b", "html": "やくいん" },
+        { "id": "c", "html": "やくかず" },
+        { "id": "d", "html": "えきかず" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>役員（やくいん）と読みます。<span>Meaning: <strong>director, executive, board member</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p31-q11",
+      "questionHtml": "<p>{地域|ちいき}のイベントについて相談するため、町の「役場」を訪ねた。「役場」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "やくば" },
+        { "id": "b", "html": "えきば" },
+        { "id": "c", "html": "やくじょう" },
+        { "id": "d", "html": "えきじょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>役場（やくば）と読みます。<span>Meaning: <strong>town hall, village office</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p31-q12",
+      "questionHtml": "<p>映画の「主役」に抜擢された新人女優が、記者会見で抱負を語った。「主役」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おもえき" },
+        { "id": "b", "html": "しゅえき" },
+        { "id": "c", "html": "しゅやく" },
+        { "id": "d", "html": "おもやく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>主役（しゅやく）と読みます。<span>Meaning: <strong>leading part, leading actor/actress</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p31-q13",
+      "questionHtml": "<p>テレビドラマで素晴らしい演技を見せた「子役」が、ネットで話題になっている。「子役」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こやく" },
+        { "id": "b", "html": "こえき" },
+        { "id": "c", "html": "ねえき" },
+        { "id": "d", "html": "じやく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>子役（こやく）と読みます。<span>Meaning: <strong>child actor, child actress</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p31-q14",
+      "questionHtml": "<p>引っ越しの手続きをするために、「市役所」の窓口へ出向いた。「市役所」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いちやくしょ" },
+        { "id": "b", "html": "しえきしょ" },
+        { "id": "c", "html": "しやくしょ" },
+        { "id": "d", "html": "じやくしょ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>市役所（しやくしょ）と読みます。<span>Meaning: <strong>city hall</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p31-q15",
+      "questionHtml": "<p>この辞書は、日本語の高度な語彙を学ぶのにとても「役に立つ」。「役に立つ」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "やくにたつ" },
+        { "id": "b", "html": "えきにたつ" },
+        { "id": "c", "html": "やくにだつ" },
+        { "id": "d", "html": "えきにだつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>役に立つ（やくにたつ）と読みます。<span>Meaning: <strong>to be useful, to be helpful</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p31-q16",
+      "questionHtml": "<p>インターネットの普及により、伝統的な「郵便」の利用者が減少している。「郵便」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆうびん" },
+        { "id": "b", "html": "ゆうべん" },
+        { "id": "c", "html": "ゆうおん" },
+        { "id": "d", "html": "ゆびん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>郵便（ゆうびん）と読みます。<span>Meaning: <strong>mail service, postal service</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p31-q17",
+      "questionHtml": "<p>記入済みの{申込書|もうしこみしょ}を事務局へ「郵送」してください。「郵送」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆうそう" },
+        { "id": "b", "html": "ゆそう" },
+        { "id": "c", "html": "ゆうしょう" },
+        { "id": "d", "html": "ゆうおくり" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>郵送（ゆうそう）と読みます。<span>Meaning: <strong>mailing, posting</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p31-q18",
+      "questionHtml": "<p>政府による新たな「郵政」改革 of 法案が国会で審議されている。「郵政」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆうせい" },
+        { "id": "b", "html": "ゆうじょう" },
+        { "id": "c", "html": "ゆせい" },
+        { "id": "d", "html": "ゆうぜい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>郵政（ゆうせい）と読みます。<span>Meaning: <strong>postal system, postal administration</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p31-q19",
+      "questionHtml": "<p>局員が大量の手紙が詰め込まれた「郵袋」をトラックに積み込んだ。「郵袋」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆうふくろ" },
+        { "id": "b", "html": "ゆうたい" },
+        { "id": "c", "html": "ゆたい" },
+        { "id": "d", "html": "ゆうだい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>郵袋（ゆうたい）と読みます。<span>Meaning: <strong>mailbag</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p31-q20",
+      "questionHtml": "<p>病院で処方箋をもらい、近くの「薬局」で薬を受け取った。「薬局」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くすりきょく" },
+        { "id": "b", "html": "やつきょく" },
+        { "id": "c", "html": "やっくく" },
+        { "id": "d", "html": "やくきょく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>薬局（やっきょく）と読みます。<span>Meaning: <strong>pharmacy, drugstore</strong></span></p>"
+    }
+  ]
+}
