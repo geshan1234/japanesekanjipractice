@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 68,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p68-q1",
+      "questionHtml": "<p>{弟|おとうと}は{今日|きょう}で{十八|じゅうはっ}「歳」になり、{来年|らいねん}から{大学|だいがく}に{通|かよ}う{予定|よてい}です。「歳」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ざい" },
+        { "id": "b", "html": "さい" },
+        { "id": "c", "html": "せい" },
+        { "id": "d", "html": "とし" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>歳（さい）と読みます。<span>Meaning: <strong>years old (age counter)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p68-q2",
+      "questionHtml": "<p>{妹|いもうと}は{来月|らいげつ}「二十歳」になるので、{家族|かぞく}でお{祝|いわ}いをする{予定|よてい}です。「二十歳」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "にじゅうさい" },
+        { "id": "b", "html": "にじっさい" },
+        { "id": "c", "html": "はたつ" },
+        { "id": "d", "html": "はたち" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>二十歳（はたち）と読みます。<span>Meaning: <strong>20 years old</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p68-q3",
+      "questionHtml": "<p>{私|わたし}の{友達|ともだち}は{明|あか}るい「性格」で、{初|はじ}めて{会|あ}う{人|ひと}ともすぐに{仲良|なかよ}くなれます。「性格」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいかく" },
+        { "id": "b", "html": "せいがく" },
+        { "id": "c", "html": "しょうかく" },
+        { "id": "d", "html": "せいきゃく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>性格（せいかく）と読みます。<span>Meaning: <strong>character; personality</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p68-q4",
+      "questionHtml": "<p>この{会社|かいしゃ}では、{多|おお}くの「女性」が{管理職|かんりしょく}として{活躍|かつやく}しています。「女性」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "にょせい" },
+        { "id": "b", "html": "じょしょう" },
+        { "id": "c", "html": "じょせい" },
+        { "id": "d", "html": "じょうせい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>女性（じょせい）と読みます。<span>Meaning: <strong>woman; female</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p68-q5",
+      "questionHtml": "<p>このアンケートでは、{年齢|ねんれい}や「性別」について{答|こた}えるかどうかを{自由|じゆう}に{選|えら}べます。「性別」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいへつ" },
+        { "id": "b", "html": "せいべつ" },
+        { "id": "c", "html": "しょうべつ" },
+        { "id": "d", "html": "せいびつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>性別（せいべつ）と読みます。<span>Meaning: <strong>sex; gender; classification by sex or gender</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p68-q6",
+      "questionHtml": "<p>この{病院|びょういん}では、「男性」も{女性|じょせい}も{同|おな}じように{健康診断|けんこうしんだん}を{受|う}けることができます。「男性」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "なんせい" },
+        { "id": "b", "html": "だんしょう" },
+        { "id": "c", "html": "だんぜい" },
+        { "id": "d", "html": "だんせい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>男性（だんせい）と読みます。<span>Meaning: <strong>man; male</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p68-q7",
+      "questionHtml": "<p>{来週|らいしゅう}は{三日間|みっかかん}の「連休」があるので、{家族|かぞく}と{温泉|おんせん}に{行|い}くつもりです。「連休」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "れんきゅう" },
+        { "id": "b", "html": "れんぎゅう" },
+        { "id": "c", "html": "れんやすみ" },
+        { "id": "d", "html": "れんきょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>連休（れんきゅう）と読みます。<span>Meaning: <strong>consecutive holidays; continuous holidays</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p68-q8",
+      "questionHtml": "<p>このレストランは「子供連れ」の{家族|かぞく}にも{人気|にんき}があり、{小|ちい}さな{子|こ}ども{用|よう}のいすも{用意|ようい}されています。「子供連れ」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こどもつれ" },
+        { "id": "b", "html": "こどもれん" },
+        { "id": "c", "html": "こどもづれ" },
+        { "id": "d", "html": "こどもずれ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>子供連れ（こどもづれ）と読みます。<span>Meaning: <strong>accompanied by children; taking children along</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p68-q9",
+      "questionHtml": "<p>{週末|しゅうまつ}は{弟|おとうと}を{動物園|どうぶつえん}に「連れて行く」と{約束|やくそく}したので、{朝|あさ}から{準備|じゅんび}しています。「連れて行く」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "つれていく" },
+        { "id": "b", "html": "つれてゆく" },
+        { "id": "c", "html": "つれってゆく" },
+        { "id": "d", "html": "つられてゆく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>連れて行く（つれてゆく）と読みます。<span>Meaning: <strong>to take someone along; to take someone to a place</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p68-q10",
+      "questionHtml": "<p>{友達|ともだち}が{自分|じぶん}の{子供|こども}を{私|わたし}の{家|いえ}に「連れて来る」ことになったので、お{菓子|かし}を{用意|ようい}しました。「連れて来る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "つれてきる" },
+        { "id": "b", "html": "つられてくる" },
+        { "id": "c", "html": "つれてこる" },
+        { "id": "d", "html": "つれてくる" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>連れて来る（つれてくる）と読みます。<span>Meaning: <strong>to bring someone along</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p68-q11",
+      "questionHtml": "<p>{会議|かいぎ}の{時間|じかん}が{変更|へんこう}になったら、できるだけ{早|はや}く「連絡」してください。「連絡」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "れんらく" },
+        { "id": "b", "html": "れんがく" },
+        { "id": "c", "html": "れんろく" },
+        { "id": "d", "html": "れんらっく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>連絡（れんらく）と読みます。<span>Meaning: <strong>contact; communication; getting in touch</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p68-q12",
+      "questionHtml": "<p>{古|ふる}い{電気製品|でんきせいひん}のコードが「短絡」すると、{火事|かじ}の{原因|げんいん}になることがあります。「短絡」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たんがく" },
+        { "id": "b", "html": "たんろく" },
+        { "id": "c", "html": "たんらく" },
+        { "id": "d", "html": "だんらく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>短絡（たんらく）と読みます。<span>Meaning: <strong>short circuit; electrical short</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p68-q13",
+      "questionHtml": "<p>{東洋医学|とうよういがく}では、「経絡」という{体|からだ}の{中|なか}の{流|なが}れを{表|あらわ}す{考|かんが}え{方|かた}があります。「経絡」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいがく" },
+        { "id": "b", "html": "けいらく" },
+        { "id": "c", "html": "きょうらく" },
+        { "id": "d", "html": "けいろく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>経絡（けいらく）と読みます。<span>Meaning: <strong>meridian; channel (in traditional East Asian medicine)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p68-q14",
+      "questionHtml": "<p>{馬|うま}を{安全|あんぜん}に{引|ひ}いて{歩|ある}くために、{係|かかり}の{人|ひと}は「頭絡」を{正|ただ}しく{付|つ}けました。「頭絡」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とうらく" },
+        { "id": "b", "html": "ずらく" },
+        { "id": "c", "html": "とうがく" },
+        { "id": "d", "html": "とうろく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>頭絡（とうらく）と読みます。<span>Meaning: <strong>bridle; halter (for a horse)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p68-q15",
+      "questionHtml": "<p>{研究|けんきゅう}では、{二|ふた}つの{事柄|ことがら}の{関係|かんけい}を{調|しら}べるとき、「交絡」に{注意|ちゅうい}する{必要|ひつよう}があります。「交絡」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうがく" },
+        { "id": "b", "html": "こらく" },
+        { "id": "c", "html": "こうろく" },
+        { "id": "d", "html": "こうらく" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>交絡（こうらく）と読みます。<span>Meaning: <strong>interrelationship; confounding (in statistics)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p68-q16",
+      "questionHtml": "<p>{引|ひ}っ{越|こ}しをしたので、{市役所|しやくしょ}に{住所|じゅうしょ}{変更|へんこう}の「届」を{出|だ}しました。「届」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とどく" },
+        { "id": "b", "html": "とどけ" },
+        { "id": "c", "html": "とどき" },
+        { "id": "d", "html": "とどか" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>届（とどけ）と読みます。<span>Meaning: <strong>report; notification; registration</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p68-q17",
+      "questionHtml": "<p>{海外|かいがい}から{送|おく}った{荷物|にもつ}が、{明日|あした}には{家|いえ}に「届く」{予定|よてい}です。「届く」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とどける" },
+        { "id": "b", "html": "ととく" },
+        { "id": "c", "html": "とどく" },
+        { "id": "d", "html": "とどき" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>届く（とどく）と読みます。<span>Meaning: <strong>to arrive; to reach; to be delivered; to carry (of sound)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p68-q18",
+      "questionHtml": "<p>{友達|ともだち}の{誕生日|たんじょうび}に{間|ま}に{合|あ}うように、プレゼントを{家|いえ}まで「届ける」ことにしました。「届ける」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とどける" },
+        { "id": "b", "html": "とどく" },
+        { "id": "c", "html": "ととける" },
+        { "id": "d", "html": "とどかる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>届ける（とどける）と読みます。<span>Meaning: <strong>to deliver; to forward; to send</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p68-q19",
+      "questionHtml": "<p>ご{注文|ちゅうもん}いただいた{商品|しょうひん}の「お届け」は、{来週|らいしゅう}の{月曜日|げつようび}を{予定|よてい}しております。「お届け」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おとどき" },
+        { "id": "b", "html": "おとどく" },
+        { "id": "c", "html": "おととけ" },
+        { "id": "d", "html": "おとどけ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>お届け（おとどけ）と読みます。<span>Meaning: <strong>delivery of a package or goods</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p68-q20",
+      "questionHtml": "<p>{住所|じゅうしょ}が{変|か}わった{場合|ばあい}は、{決|き}められた{期間|きかん}の{中|なか}で「届け出」をする{必要|ひつよう}があります。「届け出」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とどけだし" },
+        { "id": "b", "html": "とどきで" },
+        { "id": "c", "html": "とどけで" },
+        { "id": "d", "html": "とどけいで" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>届け出（とどけで）と読みます。<span>Meaning: <strong>report; notification; official filing</strong></span></p>"
+    }
+  ]
+}

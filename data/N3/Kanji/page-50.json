@@ -1,3 +1,4 @@
+
 {
   "metadata": {
     "level": "N3",
@@ -9,243 +10,243 @@
   "questions": [
     {
       "id": "N3-Kanji-p50-q1",
-      "questionHtml": "<p>{財政|ざいせい}の危機を{立て直|たてなお}すため、来年度からの「増税」案が承認された。「増税」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{政府|せいふ}が「増税」を{発表|はっぴょう}したため、{多|おお}くの{人|ひと}が{生活費|せいかつひ}への{影響|えいきょう}を{心配|しんぱい}しています。「増税」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "そうぜい" },
+        { "id": "a", "html": "ぞうせい" },
         { "id": "b", "html": "ぞうぜい" },
-        { "id": "c", "html": "ふえぜい" },
-        { "id": "d", "html": "ぞうちぜ" }
+        { "id": "c", "html": "そうぜい" },
+        { "id": "d", "html": "ぞうさい" }
       ],
       "correctAnswer": "b",
       "explanationHtml": "<p>増税（ぞうぜい）と読みます。<span>Meaning: <strong>tax increase</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p50-q2",
-      "questionHtml": "<p>この商品は期間限定で、お値段そのままで20％「増量」しています。「増量」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>このお{菓子|かし}は{期間限定|きかんげんてい}で「増量」されており、いつもより{多|おお}く{入|はい}っています。「増量」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ぞうりょう" },
-        { "id": "b", "html": "そうりょう" },
-        { "id": "c", "html": "ふえりょう" },
-        { "id": "d", "html": "ぞうばか" }
+        { "id": "a", "html": "そうりょう" },
+        { "id": "b", "html": "ぞうりょ" },
+        { "id": "c", "html": "ぞうりょう" },
+        { "id": "d", "html": "ぞうりゅう" }
       ],
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "explanationHtml": "<p>増量（ぞうりょう）と読みます。<span>Meaning: <strong>increased volume or quantity</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p50-q3",
-      "questionHtml": "<p>{都市|とし}部への人口集中により、電車の利用者が年々「増える」。「増える」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{最近|さいきん}、この{町|まち}では{外国人|がいこくじん}の{観光客|かんこうきゃく}が「増える」{傾向|けいこう}にあります。「増える」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ふえる" },
-        { "id": "b", "html": "ふやす" },
-        { "id": "c", "html": "ぞえる" },
-        { "id": "d", "html": "える" }
+        { "id": "a", "html": "ふやえる" },
+        { "id": "b", "html": "ぞうえる" },
+        { "id": "c", "html": "ふえる" },
+        { "id": "d", "html": "ふやす" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>増える（ふえる）と読みます。<span>Meaning: <strong>to increase, to multiply (intransitive)</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>増える（ふえる）と読みます。<span>Meaning: <strong>to increase; to multiply</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p50-q4",
-      "questionHtml": "<p>将来に備えて貯蓄を「増やす」ために、毎月の固定費を見直す。「増やす」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{会社|かいしゃ}は{売上|うりあげ}を「増やす」ために、{新|あたら}しい{商品|しょうひん}の{開発|かいはつ}を{始|はじ}めました。「増やす」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ふやす" },
-        { "id": "b", "html": "ふえる" },
-        { "id": "c", "html": "ぞうやす" },
-        { "id": "d", "html": "たす" }
+        { "id": "a", "html": "ふえる" },
+        { "id": "b", "html": "ぞうやす" },
+        { "id": "c", "html": "ふやし" },
+        { "id": "d", "html": "ふやす" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>増やす（ふやす）と読みます。<span>Meaning: <strong>to increase, to add to (transitive)</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>増やす（ふやす）と読みます。<span>Meaning: <strong>to increase; to add to; to augment</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p50-q5",
-      "questionHtml": "<p>日本を訪れる外国人観光客が急激に「増加」している。「増加」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{都市部|としぶ}では{人口|じんこう}の「増加」によって、{住宅|じゅうたく}の{不足|ふそく}が{問題|もんだい}になっています。「増加」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "ぞうか" },
         { "id": "b", "html": "そうか" },
-        { "id": "c", "html": "ふえか" },
-        { "id": "d", "html": "ぞうく" }
+        { "id": "c", "html": "ぞうが" },
+        { "id": "d", "html": "ぞうけ" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>増加（ぞうか）と読みます。<span>Meaning: <strong>increase, rise, growth</strong></span></p>"
+      "explanationHtml": "<p>増加（ぞうか）と読みます。<span>Meaning: <strong>increase; rise; growth; addition; increment</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p50-q6",
-      "questionHtml": "<p>スープの味を見ながら、塩とコショウの分量を「加減」する。「加減」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>このスープは{少|すこ}し{塩辛|しおから}いので、{水|みず}を{加|くわ}えて{味|あじ}の「加減」を{調整|ちょうせい}しましょう。「加減」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "かげん" },
-        { "id": "b", "html": "かくげん" },
+        { "id": "a", "html": "かけん" },
+        { "id": "b", "html": "かげん" },
         { "id": "c", "html": "がげん" },
-        { "id": "d", "html": "くわへる" }
+        { "id": "d", "html": "かへん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>加減（かげん）と読みます。<span>Meaning: <strong>degree, extent, adjustment, balance</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>加減（かげん）と読みます。<span>Meaning: <strong>degree; extent; amount; balance; state; condition</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p50-q7",
-      "questionHtml": "<p>{少子|しょうし}化のあおりを受け、地方の小学校の児童数が「減少」している。「減少」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{出生数|しゅっしょうすう}の「減少」が{続|つづ}いており、{将来|しょうらい}の{人口|じんこう}について{議論|ぎろん}されています。「減少」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "げんしょう" },
-        { "id": "b", "html": "かんしょう" },
-        { "id": "c", "html": "へるしょう" },
-        { "id": "d", "html": "けんしょう" }
+        { "id": "a", "html": "げんじょう" },
+        { "id": "b", "html": "けんしょう" },
+        { "id": "c", "html": "げんしょう" },
+        { "id": "d", "html": "げんそう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>減少（減少）と読みます。<span>Meaning: <strong>decrease, reduction, decline</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>減少（げんしょう）と読みます。<span>Meaning: <strong>decrease; reduction; decline</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p50-q8",
-      "questionHtml": "<p>ボクシングの試合前の軽量に向けて、過酷な「減量」に挑む。「減量」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{試合|しあい}に{出場|しゅつじょう}するため、ボクシングの{選手|せんしゅ}は{計画的|けいかくてき}に「減量」を{進|すす}めています。「減量」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "へるりょう" },
-        { "id": "b", "html": "げんりょう" },
-        { "id": "c", "html": "かんりょう" },
-        { "id": "d", "html": "けんりょう" }
+        { "id": "a", "html": "げんりょ" },
+        { "id": "b", "html": "けんりょう" },
+        { "id": "c", "html": "げんりゅう" },
+        { "id": "d", "html": "げんりょう" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>減量（げんりょう）と読みます。<span>Meaning: <strong>loss in weight, weight reduction</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>減量（げんりょう）と読みます。<span>Meaning: <strong>loss in weight (especially body weight); weight reduction</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p50-q9",
-      "questionHtml": "<p>経営状況を改善するため、来期の広告予算を大幅に「削減」した。「削減」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{会社|かいしゃ}は{経営|けいえい}を{改善|かいぜん}するために、{無駄|むだ}な{経費|けいひ}の「削減」を{進|すす}めています。「削減」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "さくげん" },
-        { "id": "b", "html": "けずげん" },
-        { "id": "c", "html": "さくかん" },
-        { "id": "d", "html": "さくけん" }
+        { "id": "b", "html": "さっけん" },
+        { "id": "c", "html": "さくけん" },
+        { "id": "d", "html": "さくがん" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>削減（さくげん）と読みます。<span>Meaning: <strong>cut, reduction, curtailment</strong></span></p>"
+      "explanationHtml": "<p>削減（さくげん）と読みます。<span>Meaning: <strong>cut; reduction; curtailment</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p50-q10",
-      "questionHtml": "<p>{景気|けいき}を刺激するため、政府は所得税の「減税」措置を打ち出した。「減税」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{政府|せいふ}は{国民|こくみん}の{負担|ふたん}を{軽|かる}くするために、「減税」を{検討|けんとう}しています。「減税」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "へるぜい" },
+        { "id": "a", "html": "けんぜい" },
         { "id": "b", "html": "げんぜい" },
-        { "id": "c", "html": "かんぜい" },
-        { "id": "d", "html": "けんぜい" }
+        { "id": "c", "html": "げんせい" },
+        { "id": "d", "html": "げんさい" }
       ],
       "correctAnswer": "b",
       "explanationHtml": "<p>減税（げんぜい）と読みます。<span>Meaning: <strong>tax reduction</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p50-q11",
-      "questionHtml": "<p>強力なライバルが登場したことで、我が社のシェアが「半減」してしまった。「半減」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{新|あたら}しい{設備|せつび}を{導入|どうにゅう}した{結果|けっか}、{工場|こうじょう}の{電力消費|でんりょくしょうひ}が「半減」しました。「半減」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "はんげん" },
-        { "id": "b", "html": "はんかん" },
-        { "id": "c", "html": "はんへる" },
-        { "id": "d", "html": "はんけん" }
+        { "id": "a", "html": "はんけん" },
+        { "id": "b", "html": "ばんげん" },
+        { "id": "c", "html": "はんげん" },
+        { "id": "d", "html": "はんがん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>半減（はんげん）と読みます。<span>Meaning: <strong>reduction by half, halving</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>半減（はんげん）と読みます。<span>Meaning: <strong>reduction by half; halving</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p50-q12",
-      "questionHtml": "<p>夏の暑さと疲れのせいで、最近すっかり食欲が「減退」している。「減退」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{長時間|ちょうじかん}{働|はたら}き{続|つづ}けたため、{彼|かれ}は{集中力|しゅうちゅうりょく}の「減退」を{感|かん}じていました。「減退」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "げんたい" },
-        { "id": "b", "html": "かんたい" },
-        { "id": "c", "html": "げんだん" },
-        { "id": "d", "html": "へるたい" }
+        { "id": "a", "html": "げんだい" },
+        { "id": "b", "html": "けんたい" },
+        { "id": "c", "html": "げんたい" },
+        { "id": "d", "html": "げんてい" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>減退（げんたい）と読みます。<span>Meaning: <strong>decline, decrease, loss (e.g., appetite)</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>減退（げんたい）と読みます。<span>Meaning: <strong>decline; ebb; failure; decay; decrease; loss</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p50-q13",
-      "questionHtml": "<p>ダムの貯水量が徐々に「減る」と、周辺地域への給水制限が始まる。「減る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{最近|さいきん}、この{町|まち}では{子供|こども}の{数|かず}が「減る」{一方|いっぽう}で、{高齢者|こうれいしゃ}が{増|ふ}えています。「減る」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "へる" },
-        { "id": "b", "html": "へらす" },
-        { "id": "c", "html": "げんる" },
-        { "id": "d", "html": "きる" }
+        { "id": "b", "html": "げる" },
+        { "id": "c", "html": "へらす" },
+        { "id": "d", "html": "ける" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>減る（へる）と読みます。<span>Meaning: <strong>to decrease, to diminish (intransitive)</strong></span></p>"
+      "explanationHtml": "<p>減る（へる）と読みます。<span>Meaning: <strong>to decrease (in size or number); to diminish; to abate</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p50-q14",
-      "questionHtml": "<p>体重を「減らす」ために、甘いお菓子を控えて毎日ウォーキングをする。「減らす」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{毎月|まいつき}の{出費|しゅっぴ}を「減らす」ために、{外食|がいしょく}する{回数|かいすう}を{少|すく}なくしました。「減らす」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "へらす" },
-        { "id": "b", "html": "へる" },
-        { "id": "c", "html": "げんらす" },
-        { "id": "d", "html": "おとす" }
+        { "id": "a", "html": "へる" },
+        { "id": "b", "html": "へらす" },
+        { "id": "c", "html": "げらす" },
+        { "id": "d", "html": "へらせる" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>減らす（へらす）と読みます。<span>Meaning: <strong>to decrease, to shorten (transitive)</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>減らす（へらす）と読みます。<span>Meaning: <strong>to abate; to decrease; to diminish; to shorten</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p50-q15",
-      "questionHtml": "<p>新しいバイパス道路を建設する前に、土地の「測量」を細かく行う。「測量」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{新|あたら}しい{道路|どうろ}を{建設|けんせつ}する{前|まえ}に、{専門家|せんもんか}が{土地|とち}の「測量」を{行|おこな}いました。「測量」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "そくりょう" },
-        { "id": "b", "html": "はかりりょう" },
-        { "id": "c", "html": "そくばか" },
-        { "id": "d", "html": "ぞくりょう" }
+        { "id": "a", "html": "そくりょ" },
+        { "id": "b", "html": "そっりょう" },
+        { "id": "c", "html": "そくりょう" },
+        { "id": "d", "html": "そくりゅう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>測量（そくりょう）と読みます。<span>Meaning: <strong>measurement, surveying</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>測量（そくりょう）と読みます。<span>Meaning: <strong>measurement; surveying</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p50-q16",
-      "questionHtml": "<p>調味料の「分量」を間違えてしまい、料理が辛くなりすぎた。「分量」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>ケーキを{作|つく}るときは、{材料|ざいりょう}の「分量」を{正確|せいかく}に{量|はか}ることが{大切|たいせつ}です。「分量」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ぶんりょう" },
-        { "id": "b", "html": "わきりょう" },
-        { "id": "c", "html": "ぶんろう" },
-        { "id": "d", "html": "ぷんりょう" }
+        { "id": "a", "html": "ふんりょう" },
+        { "id": "b", "html": "ぶんりょ" },
+        { "id": "c", "html": "ぶんりゅう" },
+        { "id": "d", "html": "ぶんりょう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>分量（分量）と読みます。<span>Meaning: <strong>amount, quantity</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>分量（ぶんりょう）と読みます。<span>Meaning: <strong>amount; quantity</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p50-q17",
-      "questionHtml": "<p>この新しいハードディスクは、データの記憶「容量」が非常に大きい。「容量」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>このスマートフォンは{写真|しゃしん}や{動画|どうが}をたくさん{保存|ほぞん}できるように、{大|おお}きな「容量」を{持|も}っています。「容量」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "ようりょう" },
-        { "id": "b", "html": "いれりょう" },
-        { "id": "c", "html": "ゆうりょう" },
-        { "id": "d", "html": "ようろう" }
+        { "id": "b", "html": "ようりょ" },
+        { "id": "c", "html": "ようりゅう" },
+        { "id": "d", "html": "よんりょう" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>容量（ようりょう）と読みます。<span>Meaning: <strong>capacity, volume</strong></span></p>"
+      "explanationHtml": "<p>容量（ようりょう）と読みます。<span>Meaning: <strong>capacity; volume</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p50-q18",
-      "questionHtml": "<p>注文が「大量」に届いたため、工場は休日もフル稼働で製造を続けた。「大量」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{大雨|おおあめ}の{影響|えいきょう}で、{川|かわ}には「大量」の{水|みず}が{流|なが}れ{込|こ}みました。「大量」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "たいりょう" },
-        { "id": "b", "html": "おおえりょう" },
-        { "id": "c", "html": "だいりょう" },
-        { "id": "d", "html": "だいばか" }
+        { "id": "a", "html": "だいりょう" },
+        { "id": "b", "html": "たいりょう" },
+        { "id": "c", "html": "たいりょ" },
+        { "id": "d", "html": "たいりゅう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>大量（たいりょう）と読みます。<span>Meaning: <strong>large quantity, massive quantity</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>大量（たいりょう）と読みます。<span>Meaning: <strong>large quantity; massive quantity</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p50-q19",
-      "questionHtml": "<p>テレビの「音量」が大きすぎて、隣の部屋まで音が筒抜けになっている。「音量」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{夜|よる}は{近所|きんじょ}の{人|ひと}に{迷惑|めいわく}をかけないように、テレビの「音量」を{下|さ}げてください。「音量」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "おんりょう" },
+        { "id": "a", "html": "おんりょ" },
         { "id": "b", "html": "おとりょう" },
-        { "id": "c", "html": "いんりょう" },
-        { "id": "d", "html": "おんろう" }
+        { "id": "c", "html": "おんりょう" },
+        { "id": "d", "html": "おんりゅう" }
       ],
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "explanationHtml": "<p>音量（おんりょう）と読みます。<span>Meaning: <strong>volume (sound)</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p50-q20",
-      "questionHtml": "<p>お菓子の材料の重さをスケールで正確に「計量」する。「計量」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{料理|りょうり}を{始|はじ}める{前|まえ}に、{必要|ひつよう}な{材料|ざいりょう}を「計量」して{準備|じゅんび}しておきましょう。「計量」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "けいりょう" },
-        { "id": "b", "html": "はかりりょう" },
-        { "id": "c", "html": "けいろう" },
-        { "id": "d", "html": "げいりょう" }
+        { "id": "a", "html": "けいりょ" },
+        { "id": "b", "html": "けりょう" },
+        { "id": "c", "html": "けいりゅう" },
+        { "id": "d", "html": "けいりょう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>計量（計量）と読みます。<span>Meaning: <strong>measuring, weighing</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>計量（けいりょう）と読みます。<span>Meaning: <strong>measuring; weighing</strong></span></p>"
     }
   ]
 }

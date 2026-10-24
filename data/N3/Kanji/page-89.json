@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 89,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p89-q1",
+      "questionHtml": "<p>{長時間|ちょうじかん}の{仕事|しごと}による「疲労」がたまっていたので、{週末|しゅうまつ}は{家|いえ}でゆっくり{休|やす}みました。「疲労」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひろう" },
+        { "id": "b", "html": "ひろ" },
+        { "id": "c", "html": "ひろお" },
+        { "id": "d", "html": "ひろく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>疲労（ひろう）と読みます。<span>Meaning: <strong>fatigue; weariness; exhaustion; tiredness</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p89-q2",
+      "questionHtml": "<p>{長|なが}い{戦争|せんそう}によって{国|くに}の{経済|けいざい}は「疲弊」し、{人々|ひとびと}の{生活|せいかつ}も{苦|くる}しくなりました。「疲弊」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひへい" },
+        { "id": "b", "html": "ひはい" },
+        { "id": "c", "html": "ひべい" },
+        { "id": "d", "html": "ひばい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>疲弊（ひはい）と読みます。<span>Meaning: <strong>exhaustion; depletion; impoverishment</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p89-q3",
+      "questionHtml": "<p>{温|あたた}かいお{風呂|ふろ}に{入|はい}ると、{一日|いちにち}の「疲れ」が{取|と}れる{気|き}がします。「疲れ」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "つかり" },
+        { "id": "b", "html": "ひれ" },
+        { "id": "c", "html": "つかれ" },
+        { "id": "d", "html": "つがれ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>疲れ（つかれ）と読みます。<span>Meaning: <strong>tiredness; fatigue; weariness</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p89-q4",
+      "questionHtml": "<p>{毎日|まいにち}{遅|おそ}くまで{働|はたら}くと「疲れる」ので、{十分|じゅうぶん}な{休憩|きゅうけい}が{必要|ひつよう}です。「疲れる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "つがれる" },
+        { "id": "b", "html": "つかる" },
+        { "id": "c", "html": "ひれる" },
+        { "id": "d", "html": "つかれる" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>疲れる（つかれる）と読みます。<span>Meaning: <strong>to get tired; to become exhausted; to tire</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p89-q5",
+      "questionHtml": "<p>{階段|かいだん}を{急|いそ}いで{上|のぼ}ったので、「息」が{苦|くる}しくなりました。「息」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いき" },
+        { "id": "b", "html": "そく" },
+        { "id": "c", "html": "いぎ" },
+        { "id": "d", "html": "おき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>息（いき）と読みます。<span>Meaning: <strong>breath; breathing</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p89-q6",
+      "questionHtml": "<p>{田中|たなか}さんの「息子」は、{今年|ことし}{大学|だいがく}に{入学|にゅうがく}したそうです。「息子」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いきこ" },
+        { "id": "b", "html": "むすこ" },
+        { "id": "c", "html": "そくこ" },
+        { "id": "d", "html": "むすご" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>息子（むすこ）と読みます。<span>Meaning: <strong>son</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p89-q7",
+      "questionHtml": "<p>{久|ひさ}しぶりに{走|はし}ったので、すぐに「息切れ」してしまいました。「息切れ」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いききれ" },
+        { "id": "b", "html": "そくぎれ" },
+        { "id": "c", "html": "いきぎれ" },
+        { "id": "d", "html": "いぎぎれ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>息切れ（いきぎれ）と読みます。<span>Meaning: <strong>shortness of breath; breathlessness</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p89-q8",
+      "questionHtml": "<p>{緊張|きんちょう}したときは、ゆっくり「呼吸」をすると{気持|きも}ちが{落|お}ち{着|つ}きます。「呼吸」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こきょう" },
+        { "id": "b", "html": "こぎゅう" },
+        { "id": "c", "html": "よきゅう" },
+        { "id": "d", "html": "こきゅう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>呼吸（こきゅう）と読みます。<span>Meaning: <strong>breathing; respiration</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p89-q9",
+      "questionHtml": "<p>{困|こま}ったときは、{遠慮|えんりょ}せずに{先生|せんせい}を「呼ぶ」ようにしてください。「呼ぶ」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よぶ" },
+        { "id": "b", "html": "こぶ" },
+        { "id": "c", "html": "よぷ" },
+        { "id": "d", "html": "よむ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>呼ぶ（よぶ）と読みます。<span>Meaning: <strong>to call; to call out to; to summon; to invite</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p89-q10",
+      "questionHtml": "<p>この{花|はな}には{正式|せいしき}な{名前|なまえ}のほかに、{地域|ちいき}で{使|つか}われる「呼び名」があります。「呼び名」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よびめい" },
+        { "id": "b", "html": "よびな" },
+        { "id": "c", "html": "こびな" },
+        { "id": "d", "html": "よみな" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>呼び名（よびな）と読みます。<span>Meaning: <strong>common name; popular name; name by which someone or something is called</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p89-q11",
+      "questionHtml": "<p>{遠|とお}くから{友達|ともだち}の「呼び声」が{聞|き}こえたので、{振|ふ}り{返|かえ}りました。「呼び声」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よびこえ" },
+        { "id": "b", "html": "よみごえ" },
+        { "id": "c", "html": "よびごえ" },
+        { "id": "d", "html": "こびごえ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>呼び声（よびごえ）と読みます。<span>Meaning: <strong>calling voice; call; hail; shout</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p89-q12",
+      "questionHtml": "<p>このチーズケーキは「濃厚」な{味|あじ}が{特徴|とくちょう}で、とても{人気|にんき}があります。「濃厚」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "のうこう" },
+        { "id": "b", "html": "のうごう" },
+        { "id": "c", "html": "こいこう" },
+        { "id": "d", "html": "のこう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>濃厚（のうこう）と読みます。<span>Meaning: <strong>rich; thick; strong; intense (flavor, color, smell, etc.)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p89-q13",
+      "questionHtml": "<p>{祖父|そふ}は「温厚」な{性格|せいかく}で、{誰|だれ}にでも{優|やさ}しく{接|せっ}します。「温厚」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おんごう" },
+        { "id": "b", "html": "おんこう" },
+        { "id": "c", "html": "あつこう" },
+        { "id": "d", "html": "うんこう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>温厚（おんこう）と読みます。<span>Meaning: <strong>gentle; mild-mannered; good-natured</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p89-q14",
+      "questionHtml": "<p>{政府|せいふ}は{国民|こくみん}の「厚生」を{向上|こうじょう}させるために、{新|あたら}しい{制度|せいど}を{導入|どうにゅう}しました。「厚生」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうしょう" },
+        { "id": "b", "html": "こうぜい" },
+        { "id": "c", "html": "あつせい" },
+        { "id": "d", "html": "こうせい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>厚生（こうせい）と読みます。<span>Meaning: <strong>welfare; public welfare; social well-being</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p89-q15",
+      "questionHtml": "<p>この{古|ふる}い{建物|たてもの}は「重厚」な{雰囲気|ふんいき}があり、{多|おお}くの{観光客|かんこうきゃく}が{訪|おとず}れます。「重厚」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じゅうこう" },
+        { "id": "b", "html": "じゅうごう" },
+        { "id": "c", "html": "ちょうこう" },
+        { "id": "d", "html": "おもあつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>重厚（じゅうこう）と読みます。<span>Meaning: <strong>solid; dignified; stately; profound; imposing</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p89-q16",
+      "questionHtml": "<p>{冬|ふゆ}は{寒|さむ}いので、「厚い」コートを{着|き}て{出|で}かけます。「厚い」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おもい" },
+        { "id": "b", "html": "あつい" },
+        { "id": "c", "html": "こうい" },
+        { "id": "d", "html": "あっい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>厚い（あつい）と読みます。<span>Meaning: <strong>thick; substantial; deep; warm-hearted</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p89-q17",
+      "questionHtml": "<p>この{本|ほん}は「厚さ」が{五|ご}センチもあるので、{持|も}ち{歩|ある}くのが{大変|たいへん}です。「厚さ」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうさ" },
+        { "id": "b", "html": "あっさ" },
+        { "id": "c", "html": "あつさ" },
+        { "id": "d", "html": "おもさ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>厚さ（あつさ）と読みます。<span>Meaning: <strong>thickness</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p89-q18",
+      "questionHtml": "<p>{映画|えいが}の{悲|かな}しい{場面|ばめん}を{見|み}て、{思|おも}わず「泣く」{人|ひと}もいました。「泣く」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "なく" },
+        { "id": "b", "html": "なぐ" },
+        { "id": "c", "html": "きゅうく" },
+        { "id": "d", "html": "なき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>泣く（なく）と読みます。<span>Meaning: <strong>to cry; to weep</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p89-q19",
+      "questionHtml": "<p>{暗|くら}い{道|みち}で{突然|とつぜん}「悲鳴」が{聞|き}こえたので、{驚|おどろ}いて{立|た}ち{止|ど}まりました。「悲鳴」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひみょう" },
+        { "id": "b", "html": "ひめい" },
+        { "id": "c", "html": "びめい" },
+        { "id": "d", "html": "かなめい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>悲鳴（ひめい）と読みます。<span>Meaning: <strong>scream; shriek; cry of fear or pain</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p89-q20",
+      "questionHtml": "<p>{激|はげ}しい{雨|あめ}とともに{大|おお}きな「雷鳴」が{響|ひび}き、{子供|こども}たちは{怖|こわ}がっていました。「雷鳴」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "らいみょう" },
+        { "id": "b", "html": "かみなりめい" },
+        { "id": "c", "html": "らいめ" },
+        { "id": "d", "html": "らいめい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>雷鳴（らいめい）と読みます。<span>Meaning: <strong>thunder; thunderclap; crash of thunder</strong></span></p>"
+    }
+  ]
+}

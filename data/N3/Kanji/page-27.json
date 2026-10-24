@@ -1,3 +1,4 @@
+
 {
   "metadata": {
     "level": "N3",
@@ -9,151 +10,151 @@
   "questions": [
     {
       "id": "N3-Kanji-p27-q1",
-      "questionHtml": "<p>{労使|ろうし}間で{条件|じょうけん}について「協議」を{重|かさ}ねる{必要|ひつよう}がある。「協議」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{新|あたら}しい{計画|けいかく}について、{会社|かいしゃ}の{代表者|だいひょうしゃ}たちが「協議」を{行|おこな}いました。「協議」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "きょうぎ" },
-        { "id": "b", "html": "ぎょうぎ" },
-        { "id": "c", "html": "きょうし" },
-        { "id": "d", "html": "けいぎ" }
+        { "id": "b", "html": "きょうき" },
+        { "id": "c", "html": "ぎょうぎ" },
+        { "id": "d", "html": "きょぎ" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>協議（きょうぎ）と読みます。<span>Meaning: <strong>conference, consultation, discussion</strong></span></p>"
+      "explanationHtml": "<p>協議（きょうぎ）と読みます。<span>Meaning: <strong>conference; consultation; discussion; negotiation</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p27-q2",
-      "questionHtml": "<p>国際社会における各国の「協調」が{今|いま}こそ{求|もと}められている。「協調」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{国|くに}と{国|くに}が「協調」して{環境問題|かんきょうもんだい}に{取|と}り{組|く}むことが{大切|たいせつ}です。「協調」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "きょうちょう" },
+        { "id": "a", "html": "きょうじょう" },
         { "id": "b", "html": "ぎょうちょう" },
-        { "id": "c", "html": "きょうじゅん" },
-        { "id": "d", "html": "けいちょう" }
+        { "id": "c", "html": "きょうちょう" },
+        { "id": "d", "html": "きょちょう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>協調（きょうちょう）と読みます。<span>Meaning: <strong>cooperation, conciliation, harmony</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>協調（きょうちょう）と読みます。<span>Meaning: <strong>cooperation; conciliation; harmony; coordination</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p27-q3",
-      "questionHtml": "<p>近所の「生協」で{新鮮|しんせん}な有機野菜を{定期的|ていきてき}に購入している。「生協」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{母|はは}は{毎週|まいしゅう}「生協」で{食料品|しょくりょうひん}を{注文|ちゅうもん}し、{自宅|じたく}まで{届|とど}けてもらっています。「生協」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "なまきょう" },
+        { "id": "a", "html": "せいぎょう" },
         { "id": "b", "html": "せいきょう" },
-        { "id": "c", "html": "せいぎょう" },
-        { "id": "d", "html": "しょうきょう" }
+        { "id": "c", "html": "しょうきょう" },
+        { "id": "d", "html": "なまきょう" }
       ],
       "correctAnswer": "b",
-      "explanationHtml": "<p>生協（せいきょう）と読みます。<span>Meaning: <strong>co-op, consumers' cooperative</strong></span></p>"
+      "explanationHtml": "<p>生協（せいきょう）と読みます。<span>Meaning: <strong>co-op; consumers' cooperative</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p27-q4",
-      "questionHtml": "<p>{地元|じもと}の「農協」が{主催|しゅさい}する収穫祭に参加した。「農協」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{祖父|そふ}は{農家|のうか}なので、「農協」を{通|とお}して{野菜|やさい}を{出荷|しゅっか}しています。「農協」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "のうぎょう" },
-        { "id": "b", "html": "みのうきょう" },
-        { "id": "c", "html": "のうきょう" },
-        { "id": "d", "html": "のうかい" }
+        { "id": "b", "html": "のきょう" },
+        { "id": "c", "html": "のうきょ" },
+        { "id": "d", "html": "のうきょう" }
       ],
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "explanationHtml": "<p>農協（のうきょう）と読みます。<span>Meaning: <strong>agricultural cooperative</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p27-q5",
-      "questionHtml": "<p>{近隣|きんりん}住民との「協和」を{保|たも}つためのルールを{策定|さくてい}する。「協和」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{異|こと}なる{文化|ぶんか}を{持|も}つ{人々|ひとびと}が「協和」して{暮|く}らせる{社会|しゃかい}を{目指|めざ}しています。「協和」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "きょうわ" },
         { "id": "b", "html": "ぎょうわ" },
         { "id": "c", "html": "きょうか" },
-        { "id": "d", "html": "けいわ" }
+        { "id": "d", "html": "きょわ" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>協和（きょうわ）と読みます。<span>Meaning: <strong>concord, harmony, concert</strong></span></p>"
+      "explanationHtml": "<p>協和（きょうわ）と読みます。<span>Meaning: <strong>concord; harmony; concert</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p27-q6",
-      "questionHtml": "<p>品質にこだわるあまり、開発チームは一切の「妥協」を{許|ゆる}さなかった。「妥協」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{意見|いけん}が{対立|たいりつ}していましたが、お{互|たが}いに「妥協」することで{問題|もんだい}を{解決|かいけつ}しました。「妥協」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "だきょう" },
-        { "id": "b", "html": "たきょう" },
+        { "id": "a", "html": "たぎょう" },
+        { "id": "b", "html": "だきょう" },
         { "id": "c", "html": "だぎょう" },
-        { "id": "d", "html": "ざきょう" }
+        { "id": "d", "html": "たきょ" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>妥協（だきょう）と読みます。<span>Meaning: <strong>compromise, giving in</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>妥協（だきょう）と読みます。<span>Meaning: <strong>compromise; giving in</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p27-q7",
-      "questionHtml": "<p>{法律|ほうりつ}の改正を求めるために、国会へ「請願」を行った。「請願」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{住民|じゅうみん}たちは{新|あたら}しい{公園|こうえん}を{作|つく}ってほしいという「請願」を{市役所|しやくしょ}に{提出|ていしゅつ}しました。「請願」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "せいがん" },
-        { "id": "b", "html": "しんがん" },
-        { "id": "c", "html": "じょうがん" },
+        { "id": "a", "html": "しょうがん" },
+        { "id": "b", "html": "せいかん" },
+        { "id": "c", "html": "せいがん" },
         { "id": "d", "html": "せいねん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>請願（せいがん）と読みます。<span>Meaning: <strong>petition</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>請願（せいがん）と読みます。<span>Meaning: <strong>petition; formal request</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p27-q8",
-      "questionHtml": "<p>あの大学への「志願」者が、今年は{過去|かこ}最高を記録した。「志願」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{兄|あに}は{海外|かいがい}で{働|はたら}くことを{希望|きぼう}し、{国際的|こくさいてき}なボランティア{活動|かつどう}に「志願」しました。「志願」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "しがん" },
-        { "id": "b", "html": "こころがん" },
+        { "id": "b", "html": "しねん" },
         { "id": "c", "html": "じがん" },
-        { "id": "d", "html": "しねん" }
+        { "id": "d", "html": "しげん" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>志願（しがん）と読みます。<span>Meaning: <strong>aspiration, volunteering, application</strong></span></p>"
+      "explanationHtml": "<p>志願（しがん）と読みます。<span>Meaning: <strong>aspiration; volunteering; desire; application</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p27-q9",
-      "questionHtml": "<p>留学して{視野|しや}を広げたいという強い「願望」を抱いている。「願望」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{彼|かれ}には{将来|しょうらい}{自分|じぶん}の{会社|かいしゃ}を{持|も}ちたいという{強|つよ}い「願望」があります。「願望」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "がんぼう" },
-        { "id": "b", "html": "がんもう" },
-        { "id": "c", "html": "ねんぼう" },
-        { "id": "d", "html": "けんぼう" }
+        { "id": "a", "html": "がんぽう" },
+        { "id": "b", "html": "げんぼう" },
+        { "id": "c", "html": "がんもう" },
+        { "id": "d", "html": "がんぼう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>願望（がんぼう）と読みます。<span>Meaning: <strong>desire, wish, aspiration</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>願望（がんぼう）と読みます。<span>Meaning: <strong>desire; wish; aspiration</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p27-q10",
-      "questionHtml": "<p>{数年|すうねん}にわたる努力の末、ついに「念願」のマイホームを手に入れた。「念願」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{長年|ながねん}の「念願」だった{日本旅行|にほんりょこう}が、ついに{実現|じつげん}しました。「念願」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ねんがん" },
-        { "id": "b", "html": "ねんねがい" },
-        { "id": "c", "html": "ねんがんく" },
-        { "id": "d", "html": "てんがん" }
+        { "id": "a", "html": "ねんかん" },
+        { "id": "b", "html": "ねんがん" },
+        { "id": "c", "html": "ねんげん" },
+        { "id": "d", "html": "ねがん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>念願（ねんがん）と読みます。<span>Meaning: <strong>one's heart's desire, dearest wish</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>念願（ねんがん）と読みます。<span>Meaning: <strong>one's heart's desire; one's dearest wish</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p27-q11",
-      "questionHtml": "<p>世界大会での金メダル獲得は、チーム全体の「悲願」であった。「悲願」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{選手|せんしゅ}たちは{長年|ながねん}の「悲願」である{全国大会|ぜんこくたいかい}での{優勝|ゆうしょう}を{果|は}たしました。「悲願」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ひがん" },
+        { "id": "a", "html": "ひかん" },
         { "id": "b", "html": "びがん" },
-        { "id": "c", "html": "かながん" },
-        { "id": "d", "html": "ひねん" }
+        { "id": "c", "html": "ひがん" },
+        { "id": "d", "html": "ひげん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>悲願（ひがん）と読みます。<span>Meaning: <strong>one's dearest wish, long-cherished ambition</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>悲願（ひがん）と読みます。<span>Meaning: <strong>one's dearest wish; long-cherished desire</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p27-q12",
-      "questionHtml": "<p>{特許|とっきょ}の「出願」手続きをオンラインで行う。「出願」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{大学|だいがく}への「出願」は{来月|らいげつ}から{始|はじ}まるので、{必要|ひつよう}な{書類|しょるい}を{準備|じゅんび}しています。「出願」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "でがん" },
-        { "id": "b", "html": "しゅつがん" },
-        { "id": "c", "html": "すいがん" },
-        { "id": "d", "html": "しゅつねん" }
+        { "id": "a", "html": "しゅつがん" },
+        { "id": "b", "html": "しゅっかん" },
+        { "id": "c", "html": "でがん" },
+        { "id": "d", "html": "しゅつげん" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>出願（しゅつがん）と読みます。<span>Meaning: <strong>application (official/academic)</strong></span></p>"
+      "correctAnswer": "a",
+      "explanationHtml": "<p>出願（しゅつがん）と読みます。<span>Meaning: <strong>application; filing an application</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p27-q13",
-      "questionHtml": "<p>訴状を提出した「願人」の氏名と住所を確認する。「願人」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{古|ふる}い{記録|きろく}には、{寺|てら}に{願|ねが}いを{申|もう}し{出|で}た「願人」の{名前|なまえ}が{残|のこ}されています。「願人」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "がんじん" },
         { "id": "b", "html": "がんにん" },
@@ -161,91 +162,91 @@
         { "id": "d", "html": "がんひと" }
       ],
       "correctAnswer": "b",
-      "explanationHtml": "<p>願人（がんにん）と読みます。<span>Meaning: <strong>petitioner</strong></span></p>"
+      "explanationHtml": "<p>願人（がんにん）と読みます。<span>Meaning: <strong>petitioner; person making a request or prayer</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p27-q14",
-      "questionHtml": "<p>寺の修復にあたり、「願主」として寄付金を募った。「願主」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>この{仏像|ぶつぞう}は、{昔|むかし}の「願主」が{家族|かぞく}の{健康|けんこう}を{祈|いの}って{寄付|きふ}したものです。「願主」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "がんしゅ" },
-        { "id": "b", "html": "がんす" },
-        { "id": "c", "html": "ねがいぬし" },
-        { "id": "d", "html": "がんじゅ" }
+        { "id": "a", "html": "がんぬし" },
+        { "id": "b", "html": "がんじゅ" },
+        { "id": "c", "html": "がんしゅ" },
+        { "id": "d", "html": "ねがいぬし" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>願主（がんしゅ）と読みます。<span>Meaning: <strong>temple petitioner, chief promoter</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>願主（がんしゅ）と読みます。<span>Meaning: <strong>temple petitioner; person who commissions a religious offering</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p27-q15",
-      "questionHtml": "<p>世界の{平和|へいわ}を心から「願う」人々が広場に集まった。「願う」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{母|はは}は{毎日|まいにち}、{家族|かぞく}が{健康|けんこう}で{幸|しあわ}せに{暮|く}らせることを「願う」と{言|い}っています。「願う」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ねがう" },
-        { "id": "b", "html": "うかがう" },
-        { "id": "c", "html": "いのう" },
-        { "id": "d", "html": "がんう" }
+        { "id": "a", "html": "がんう" },
+        { "id": "b", "html": "ねかう" },
+        { "id": "c", "html": "ねがえる" },
+        { "id": "d", "html": "ねがう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>願う（ねがう）と読みます。<span>Meaning: <strong>to desire, to wish, to hope</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>願う（ねがう）と読みます。<span>Meaning: <strong>to desire; to wish; to hope</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p27-q16",
-      "questionHtml": "<p>京都の歴史的な建造物を巡る「観光」ツアーに申し込んだ。「観光」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{夏休|なつやす}みに{京都|きょうと}へ「観光」に{行|い}き、{有名|ゆうめい}な{寺|てら}や{神社|じんじゃ}を{訪|おとず}れました。「観光」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "みひかり" },
-        { "id": "b", "html": "かんこう" },
-        { "id": "c", "html": "がんこう" },
-        { "id": "d", "html": "かんごう" }
+        { "id": "a", "html": "かんこう" },
+        { "id": "b", "html": "かんごう" },
+        { "id": "c", "html": "けんこう" },
+        { "id": "d", "html": "かんひかり" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>観光（かんこう）と読みます。<span>Meaning: <strong>sightseeing, tourism</strong></span></p>"
+      "correctAnswer": "a",
+      "explanationHtml": "<p>観光（かんこう）と読みます。<span>Meaning: <strong>sightseeing; tourism</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p27-q17",
-      "questionHtml": "<p>{気象庁|きしょうちょう}が最新のレーダーを用いて雨雲の「観測」を行う。「観測」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{研究者|けんきゅうしゃ}たちは{毎日|まいにち}{気温|きおん}や{雨量|うりょう}の「観測」を{続|つづ}けています。「観測」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "かんそく" },
-        { "id": "b", "html": "みそく" },
-        { "id": "c", "html": "がんそく" },
-        { "id": "d", "html": "かんぞく" }
+        { "id": "a", "html": "かんぞく" },
+        { "id": "b", "html": "かんそく" },
+        { "id": "c", "html": "けんそく" },
+        { "id": "d", "html": "かんさく" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>観測（かんそく）と読みます。<span>Meaning: <strong>observation, survey, measurement</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>観測（かんそく）と読みます。<span>Meaning: <strong>observation; survey; measurement</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p27-q18",
-      "questionHtml": "<p>論理的な思考だけでなく、時には「直感」に従うことも重要だ。「直感」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{初|はじ}めて{会|あ}ったとき、{彼|かれ}は{信頼|しんらい}できる{人|ひと}だと「直感」しました。「直感」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ちょっかん" },
+        { "id": "a", "html": "ちょくかん" },
         { "id": "b", "html": "じきかん" },
-        { "id": "c", "html": "ちょくかん" },
-        { "id": "d", "html": "ちょっかつ" }
+        { "id": "c", "html": "ちょっかん" },
+        { "id": "d", "html": "ちょっがん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>直感（ちょっかん）と読みます。<span>Meaning: <strong>intuition, instinct, hunch</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>直感（ちょっかん）と読みます。<span>Meaning: <strong>intuition; instinct; insight; hunch; immediacy</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p27-q19",
-      "questionHtml": "<p>{顕微鏡|けんびきょう}を使って植物の細胞の構造を「観察」する。「観察」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{理科|りか}の{授業|じゅぎょう}で{植物|しょくぶつ}の{成長|せいちょう}を「観察」し、{毎日|まいにち}ノートに{記録|きろく}しました。「観察」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "かんさつ" },
-        { "id": "b", "html": "みさつ" },
-        { "id": "c", "html": "がんさつ" },
-        { "id": "d", "html": "かんさつめ" }
+        { "id": "b", "html": "かんざつ" },
+        { "id": "c", "html": "けんさつ" },
+        { "id": "d", "html": "かんせつ" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>観察（かんさつ）と読みます。<span>Meaning: <strong>observation, survey, watching</strong></span></p>"
+      "explanationHtml": "<p>観察（かんさつ）と読みます。<span>Meaning: <strong>observation; survey; watching</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p27-q20",
-      "questionHtml": "<p>多角的な「観点」から問題を分析し、解決策を見出す。「観点」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>この{問題|もんだい}については、{経済|けいざい}だけでなく{環境|かんきょう}の「観点」からも{考|かんが}える{必要|ひつよう}があります。「観点」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "かんてん" },
-        { "id": "b", "html": "みてん" },
-        { "id": "c", "html": "がんてん" },
-        { "id": "d", "html": "かんみせ" }
+        { "id": "a", "html": "けんてん" },
+        { "id": "b", "html": "かんでん" },
+        { "id": "c", "html": "かんてい" },
+        { "id": "d", "html": "かんてん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>観点（かんてん）と読みます。<span>Meaning: <strong>point of view, perspective</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>観点（かんてん）と読みます。<span>Meaning: <strong>point of view; perspective; standpoint</strong></span></p>"
     }
   ]
 }

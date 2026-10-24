@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 64,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p64-q1",
+      "questionHtml": "<p>{日本|にほん}では、{毎日|まいにち}のように「米」を{主食|しゅしょく}として{食|た}べています。「米」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ごめ" },
+        { "id": "b", "html": "ぺい" },
+        { "id": "c", "html": "こめ" },
+        { "id": "d", "html": "まい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>米（こめ）と読みます。<span>Meaning: <strong>rice</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p64-q2",
+      "questionHtml": "<p>{彼|かれ}は{大学|だいがく}を{卒業|そつぎょう}した{後|あと}、「米国」に{留学|りゅうがく}しました。「米国」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "べいこく" },
+        { "id": "b", "html": "まいこく" },
+        { "id": "c", "html": "こめくに" },
+        { "id": "d", "html": "べいごく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>米国（べいこく）と読みます。<span>Meaning: <strong>America; USA</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p64-q3",
+      "questionHtml": "<p>{日本|にほん}の{文化|ぶんか}は、「欧米」でも{高|たか}く{評価|ひょうか}されています。「欧米」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おうまい" },
+        { "id": "b", "html": "おうべ" },
+        { "id": "c", "html": "ようべい" },
+        { "id": "d", "html": "おうべい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>欧米（おうべい）と読みます。<span>Meaning: <strong>Europe and America; the West</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p64-q4",
+      "questionHtml": "<p>「米日」{首脳|しゅのう}{会談|かいだん}が{来週|らいしゅう}{行|おこな}われる{予定|よてい}です。「米日」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "べいじつ" },
+        { "id": "b", "html": "べいにち" },
+        { "id": "c", "html": "まいにち" },
+        { "id": "d", "html": "こめひ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>米日（べいにち）と読みます。<span>Meaning: <strong>USA - Japan</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p64-q5",
+      "questionHtml": "<p>{妻|つま}と「高級」なレストランで{食事|しょくじ}をしました。「高級」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうきゅう" },
+        { "id": "b", "html": "こうぎゅう" },
+        { "id": "c", "html": "こうきゅ" },
+        { "id": "d", "html": "たかきゅう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>高級（こうきゅう）と読みます。<span>Meaning: <strong>high class; high grade</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p64-q6",
+      "questionHtml": "<p>{日本語|にほんご}の「上級」クラスに{進|すす}むために、{試験|しけん}を{受|う}けます。「上級」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "うえきゅう" },
+        { "id": "b", "html": "じょきゅう" },
+        { "id": "c", "html": "じょうきゅう" },
+        { "id": "d", "html": "しょうきゅう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>上級（じょうきゅう）と読みます。<span>Meaning: <strong>advanced level; high grade; senior</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p64-q7",
+      "questionHtml": "<p>{彼女|かのじょ}は{英語|えいご}の「中級」{講座|こうざ}に{通|かよ}っています。「中級」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "なかきゅう" },
+        { "id": "b", "html": "ちゅうきゅう" },
+        { "id": "c", "html": "じゅうきゅう" },
+        { "id": "d", "html": "ちゅうぎゅう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>中級（ちゅうきゅう）と読みます。<span>Meaning: <strong>intermediate level</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p64-q8",
+      "questionHtml": "<p>{会議|かいぎ}が{終|お}わっても、まだ{仕事|しごと}が「残る」ことがあります。「残る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "のこす" },
+        { "id": "b", "html": "のこえる" },
+        { "id": "c", "html": "のかる" },
+        { "id": "d", "html": "のこる" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>残る（のこる）と読みます。<span>Meaning: <strong>to remain; to be left</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p64-q9",
+      "questionHtml": "<p>{子供|こども}のために、{家|いえ}と{少|すこ}しのお{金|かね}を「残す」つもりです。「残す」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "のこす" },
+        { "id": "b", "html": "のこる" },
+        { "id": "c", "html": "のこそう" },
+        { "id": "d", "html": "のぞす" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>残す（のこす）と読みます。<span>Meaning: <strong>to leave (behind, over); to bequeath; to save; to reserve</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p64-q10",
+      "questionHtml": "<p>{楽|たの}しみにしていた{試合|しあい}が{中止|ちゅうし}になって、とても「残念」です。「残念」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ざんねい" },
+        { "id": "b", "html": "さんねん" },
+        { "id": "c", "html": "ざんねん" },
+        { "id": "d", "html": "ざんえん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>残念（ざんねん）と読みます。<span>Meaning: <strong>deplorable; bad luck; regret; disappointment</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p64-q11",
+      "questionHtml": "<p>{今月|こんげつ}は{忙|いそが}しくて、{毎日|まいにち}のように「残業」が{続|つづ}いています。「残業」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さんぎょう" },
+        { "id": "b", "html": "ざんぎょう" },
+        { "id": "c", "html": "ざんごう" },
+        { "id": "d", "html": "ざんなり" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>残業（ざんぎょう）と読みます。<span>Meaning: <strong>overtime (work)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p64-q12",
+      "questionHtml": "<p>{博物館|はくぶつかん}には、{昔|むかし}の{城|しろ}の「模型」が{展示|てんじ}されています。「模型」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "もがた" },
+        { "id": "b", "html": "もけ" },
+        { "id": "c", "html": "ぼけい" },
+        { "id": "d", "html": "もけい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>模型（もけい）と読みます。<span>Meaning: <strong>model; dummy; maquette</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p64-q13",
+      "questionHtml": "<p>{彼|かれ}の{行動|こうどう}は、{大企業|だいきぎょう}の{社員|しゃいん}の「典型」と{言|い}えます。「典型」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "てんけい" },
+        { "id": "b", "html": "てんがた" },
+        { "id": "c", "html": "でんけい" },
+        { "id": "d", "html": "てんぎょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>典型（てんけい）と読みます。<span>Meaning: <strong>type; pattern; model; epitome; exemplar; archetype; perfect example</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p64-q14",
+      "questionHtml": "<p>{犯罪|はんざい}の「類型」を{分析|ぶんせき}して、{対策|たいさく}を{考|かんが}えます。「類型」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "るいがた" },
+        { "id": "b", "html": "るいぎょう" },
+        { "id": "c", "html": "るいけい" },
+        { "id": "d", "html": "りゅうけい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>類型（るいけい）と読みます。<span>Meaning: <strong>type; pattern; shape; genre; breed</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p64-q15",
+      "questionHtml": "<p>{客|きゃく}への{返事|へんじ}は、「定型」{文|ぶん}を{使|つか}うと{早|はや}く{書|か}けます。「定型」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じょうけい" },
+        { "id": "b", "html": "ていけい" },
+        { "id": "c", "html": "ていがた" },
+        { "id": "d", "html": "ていぎょう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>定型（ていけい）と読みます。<span>Meaning: <strong>fixed form; regular shape</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p64-q16",
+      "questionHtml": "<p>「大型」の{台風|たいふう}が{接近|せっきん}しているため、{注意|ちゅうい}が{必要|ひつよう}です。「大型」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "だいがた" },
+        { "id": "b", "html": "おおけい" },
+        { "id": "c", "html": "たいけい" },
+        { "id": "d", "html": "おおがた" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>大型（おおがた）と読みます。<span>Meaning: <strong>large; large scale; big</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p64-q17",
+      "questionHtml": "<p>{持|も}ち{運|はこ}びやすい「小型」のカメラを{買|か}いました。「小型」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こがた" },
+        { "id": "b", "html": "しょうがた" },
+        { "id": "c", "html": "おがた" },
+        { "id": "d", "html": "こけい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>小型（こがた）と読みます。<span>Meaning: <strong>small size; tiny</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p64-q18",
+      "questionHtml": "<p>{来月|らいげつ}、{有名|ゆうめい}な{会社|かいしゃ}から「新型」のスマートフォンが{発売|はつばい}されます。「新型」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あらたがた" },
+        { "id": "b", "html": "しんけい" },
+        { "id": "c", "html": "しんがた" },
+        { "id": "d", "html": "にいがた" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>新型（しんがた）と読みます。<span>Meaning: <strong>new type; new style; new model; new strain (e.g. infectious disease)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p64-q19",
+      "questionHtml": "<p>{収入|しゅうにゅう}が{増|ふ}えると、{払|はら}う「税金」の{額|がく}も{増|ふ}えます。「税金」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいきん" },
+        { "id": "b", "html": "ぜいぎん" },
+        { "id": "c", "html": "ぜいかね" },
+        { "id": "d", "html": "ぜいきん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>税金（ぜいきん）と読みます。<span>Meaning: <strong>tax; duty</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p64-q20",
+      "questionHtml": "<p>{輸入|ゆにゅう}される{商品|しょうひん}には、「関税」がかけられることがあります。「関税」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かんぜい" },
+        { "id": "b", "html": "かんせい" },
+        { "id": "c", "html": "げんぜい" },
+        { "id": "d", "html": "かんさい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>関税（かんぜい）と読みます。<span>Meaning: <strong>tariff (import tax); duty; customs</strong></span></p>"
+    }
+  ]
+}

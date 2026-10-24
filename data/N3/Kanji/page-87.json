@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 87,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p87-q1",
+      "questionHtml": "<p>{医者|いしゃ}は{患者|かんじゃ}の{病気|びょうき}を「治す」ために、{新|あたら}しい{薬|くすり}を{使|つか}いました。「治す」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "なおる" },
+        { "id": "b", "html": "ちす" },
+        { "id": "c", "html": "なおす" },
+        { "id": "d", "html": "おさす" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>治す（なおす）と読みます。<span>Meaning: <strong>to cure; to heal; to treat an illness</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p87-q2",
+      "questionHtml": "<p>{兄|あに}は{大学|だいがく}で「政治」を{勉強|べんきょう}していて、{将来|しょうらい}は{公務員|こうむいん}になりたいそうです。「政治」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいじ" },
+        { "id": "b", "html": "せいち" },
+        { "id": "c", "html": "しょうじ" },
+        { "id": "d", "html": "せいし" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>政治（せいじ）と読みます。<span>Meaning: <strong>politics; government; political affairs</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p87-q3",
+      "questionHtml": "<p>{交通事故|こうつうじこ}でけがをした{友達|ともだち}は、{病院|びょういん}で「治療」を{受|う}けています。「治療」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じりょう" },
+        { "id": "b", "html": "ちりょ" },
+        { "id": "c", "html": "ちろう" },
+        { "id": "d", "html": "ちりょう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>治療（ちりょう）と読みます。<span>Meaning: <strong>medical treatment; therapy; cure</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p87-q4",
+      "questionHtml": "<p>{工場|こうじょう}から{出|で}る{排水|はいすい}によって、{近|ちか}くの{川|かわ}で「汚染」が{進|すす}んでいます。「汚染」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おぜん" },
+        { "id": "b", "html": "おせん" },
+        { "id": "c", "html": "よごせん" },
+        { "id": "d", "html": "おせい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>汚染（おせん）と読みます。<span>Meaning: <strong>pollution; contamination</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p87-q5",
+      "questionHtml": "<p>この{公園|こうえん}はごみがたくさん{落|お}ちていて「汚い」ので、みんなで{掃除|そうじ}することにしました。「汚い」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よごい" },
+        { "id": "b", "html": "きだない" },
+        { "id": "c", "html": "きたない" },
+        { "id": "d", "html": "おない" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>汚い（きたない）と読みます。<span>Meaning: <strong>dirty; filthy; unclean</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p87-q6",
+      "questionHtml": "<p>{雨|あめ}の{日|ひ}に{外|そと}を{歩|ある}くと、{靴|くつ}が「汚れる」ことがあります。「汚れる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よごれる" },
+        { "id": "b", "html": "よこれる" },
+        { "id": "c", "html": "けがれる" },
+        { "id": "d", "html": "きたれる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>汚れる（よごれる）と読みます。<span>Meaning: <strong>to get dirty; to become stained or soiled</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p87-q7",
+      "questionHtml": "<p>{人気|にんき}のあるラーメン{店|てん}では、{昼|ひる}になると{多|おお}くの{人|ひと}が「並ぶ」そうです。「並ぶ」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ならべる" },
+        { "id": "b", "html": "ならぶ" },
+        { "id": "c", "html": "なろぶ" },
+        { "id": "d", "html": "へいぶ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>並ぶ（ならぶ）と読みます。<span>Meaning: <strong>to line up; to stand in a line; to be arranged side by side</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p87-q8",
+      "questionHtml": "<p>{先生|せんせい}は{生徒|せいと}たちに、{机|つくえ}をきれいに「並べる」ように{指示|しじ}しました。「並べる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ならぶ" },
+        { "id": "b", "html": "なべる" },
+        { "id": "c", "html": "へいべる" },
+        { "id": "d", "html": "ならべる" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>並べる（ならべる）と読みます。<span>Meaning: <strong>to arrange; to line up; to place things in a row</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p87-q9",
+      "questionHtml": "<p>{子供|こども}の「歯並び」が{気|き}になったので、{歯医者|はいしゃ}に{相談|そうだん}しました。「歯並び」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はならび" },
+        { "id": "b", "html": "はならべ" },
+        { "id": "c", "html": "しならび" },
+        { "id": "d", "html": "はなび" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>歯並び（はならび）と読みます。<span>Meaning: <strong>alignment of teeth; arrangement of teeth; dentition</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p87-q10",
+      "questionHtml": "<p>{兄|あに}は{都会|とかい}で{働|はたら}いていますが、「他方」、{弟|おとうと}は{田舎|いなか}で{農業|のうぎょう}をしています。「他方」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たぼう" },
+        { "id": "b", "html": "たほう" },
+        { "id": "c", "html": "ほかほう" },
+        { "id": "d", "html": "たかた" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>他方（たほう）と読みます。<span>Meaning: <strong>on the other hand; the other side; the other one</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p87-q11",
+      "questionHtml": "<p>{私|わたし}たちの{会社|かいしゃ}は、{新|あたら}しい{製品|せいひん}を{開発|かいはつ}するために「他社」と{協力|きょうりょく}しています。「他社」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たじゃ" },
+        { "id": "b", "html": "ほかしゃ" },
+        { "id": "c", "html": "たしゃ" },
+        { "id": "d", "html": "たしょ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>他社（たしゃ）と読みます。<span>Meaning: <strong>another company; other companies</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p87-q12",
+      "questionHtml": "<p>{日本|にほん}の{文化|ぶんか}を「他国」の{人|ひと}たちに{紹介|しょうかい}するイベントが{開|ひら}かれました。「他国」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たこく" },
+        { "id": "b", "html": "たごく" },
+        { "id": "c", "html": "ほかくに" },
+        { "id": "d", "html": "たくに" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>他国（たこく）と読みます。<span>Meaning: <strong>another country; foreign country; other nations</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p87-q13",
+      "questionHtml": "<p>{自分|じぶん}の{意見|いけん}だけでなく、「他者」の{考|かんが}えも{尊重|そんちょう}することが{大切|たいせつ}です。「他者」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たじゃ" },
+        { "id": "b", "html": "ほかもの" },
+        { "id": "c", "html": "たしょ" },
+        { "id": "d", "html": "たしゃ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>他者（たしゃ）と読みます。<span>Meaning: <strong>another person; others; other people</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p87-q14",
+      "questionHtml": "<p>{長年|ながねん}{地域|ちいき}のために{活動|かつどう}してきた{先生|せんせい}が、{昨年|さくねん}「他界」されました。「他界」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たがい" },
+        { "id": "b", "html": "たかい" },
+        { "id": "c", "html": "ほかかい" },
+        { "id": "d", "html": "たけい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>他界（たかい）と読みます。<span>Meaning: <strong>passing away; death; the next world</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p87-q15",
+      "questionHtml": "<p>{異|こと}なる{意見|いけん}を{認|みと}めない「排他」{的|てき}な{態度|たいど}は、{人間関係|にんげんかんけい}を{悪|わる}くすることがあります。「排他」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はいた" },
+        { "id": "b", "html": "はいだ" },
+        { "id": "c", "html": "はいたい" },
+        { "id": "d", "html": "はいしゃ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>排他（はいた）と読みます。<span>Meaning: <strong>exclusion; rejection of outsiders; exclusiveness</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p87-q16",
+      "questionHtml": "<p>{会議|かいぎ}では、{予算|よさん}や{人員|じんいん}の{問題|もんだい}に{加|くわ}え、「諸他」の{事情|じじょう}についても{話|はな}し{合|あ}いました。「諸他」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょだ" },
+        { "id": "b", "html": "しょうた" },
+        { "id": "c", "html": "しょた" },
+        { "id": "d", "html": "もろた" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>諸他（しょた）と読みます。<span>Meaning: <strong>various others; miscellaneous other matters</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p87-q17",
+      "questionHtml": "<p>この{店|みせ}には{欲|ほ}しい{色|いろ}がなかったので、「他の」{店|みせ}を{探|さが}すことにしました。「他の」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たの／ほかの" },
+        { "id": "b", "html": "たの／ほがの" },
+        { "id": "c", "html": "ほたの／たの" },
+        { "id": "d", "html": "だの／ほかの" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>他の（たの／ほかの）と読みます。<span>Meaning: <strong>other; another; the rest</strong></span> In everyday conversation, ほかの is the usual reading.</p>"
+    },
+    {
+      "id": "N3-Kanji-p87-q18",
+      "questionHtml": "<p>{旅行|りょこう}には{服|ふく}や{薬|くすり}を{持|も}っていきますが、「その他」に{必要|ひつよう}なものがあれば{教|おし}えてください。「その他」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そのだ／そのほか" },
+        { "id": "b", "html": "そのた／そのほが" },
+        { "id": "c", "html": "そのた／そのほか" },
+        { "id": "d", "html": "そのしゃ／そのた" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>その他（そのた／そのほか）と読みます。<span>Meaning: <strong>others; the rest; miscellaneous; in addition; and so forth</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p87-q19",
+      "questionHtml": "<p>{弟|おとうと}は{去年|きょねん}より「身長」が{五|ご}センチも{伸|の}びました。「身長」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんじょう" },
+        { "id": "b", "html": "みちょう" },
+        { "id": "c", "html": "しんちょ" },
+        { "id": "d", "html": "しんちょう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>身長（しんちょう）と読みます。<span>Meaning: <strong>height; body height; stature</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p87-q20",
+      "questionHtml": "<p>{兄|あに}はまだ「独身」で、{今|いま}は{一人|ひとり}で{生活|せいかつ}しています。「独身」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "どくじん" },
+        { "id": "b", "html": "どくしん" },
+        { "id": "c", "html": "とくしん" },
+        { "id": "d", "html": "どっしん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>独身（どくしん）と読みます。<span>Meaning: <strong>single; unmarried; bachelorhood; single status</strong></span></p>"
+    }
+  ]
+}

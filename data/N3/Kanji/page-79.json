@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 79,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p79-q1",
+      "questionHtml": "<p>{先生|せんせい}は{難|むずか}しい{問題|もんだい}について、「簡明」な{言葉|ことば}で{説明|せつめい}してくれました。「簡明」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かんみょう" },
+        { "id": "b", "html": "かんめい" },
+        { "id": "c", "html": "けんめい" },
+        { "id": "d", "html": "かんめ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>簡明（かんめい）と読みます。<span>Meaning: <strong>concise; simple and clear; terse</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p79-q2",
+      "questionHtml": "<p>{博物館|はくぶつかん}には、{昔|むかし}の{有名|ゆうめい}な{作家|さっか}が{友人|ゆうじん}に{送|おく}った「書簡」が{展示|てんじ}されています。「書簡」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょけん" },
+        { "id": "b", "html": "しょがん" },
+        { "id": "c", "html": "しょうかん" },
+        { "id": "d", "html": "しょかん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>書簡（しょかん）と読みます。<span>Meaning: <strong>letter; note; epistle; correspondence</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p79-q3",
+      "questionHtml": "<p>{大学|だいがく}を{卒業|そつぎょう}するためには、{決|き}められた{数|かず}の「単位」を{取|と}る{必要|ひつよう}があります。「単位」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たんい" },
+        { "id": "b", "html": "たんえ" },
+        { "id": "c", "html": "だんい" },
+        { "id": "d", "html": "たんくらい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>単位（たんい）と読みます。<span>Meaning: <strong>unit; denomination; academic credit</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p79-q4",
+      "questionHtml": "<p>{日本語|にほんご}を{上達|じょうたつ}させるために、{毎日|まいにち}{新|あたら}しい「単語」を{十個|じゅっこ}ずつ{覚|おぼ}えています。「単語」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "だんご" },
+        { "id": "b", "html": "たんこ" },
+        { "id": "c", "html": "たんご" },
+        { "id": "d", "html": "たんぎょ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>単語（たんご）と読みます。<span>Meaning: <strong>word; vocabulary item</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p79-q5",
+      "questionHtml": "<p>{彼|かれ}は「単に」{結果|けっか}を{知|し}りたいだけで、{誰|だれ}かを{責|せ}めるつもりはありません。「単に」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "だんに" },
+        { "id": "b", "html": "たんに" },
+        { "id": "c", "html": "たに" },
+        { "id": "d", "html": "たんね" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>単に（たんに）と読みます。<span>Meaning: <strong>simply; merely; only; solely</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p79-q6",
+      "questionHtml": "<p>これは「単なる」{噂|うわさ}ではなく、{実際|じっさい}に{起|お}きた{出来事|できごと}です。「単なる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たんなる" },
+        { "id": "b", "html": "たんある" },
+        { "id": "c", "html": "だんなる" },
+        { "id": "d", "html": "たんねる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>単なる（たんなる）と読みます。<span>Meaning: <strong>mere; simple; sheer; nothing more than</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p79-q7",
+      "questionHtml": "<p>{材料|ざいりょう}の{値段|ねだん}が{上|あ}がったため、{製品|せいひん}の「単価」も{高|たか}くなりました。「単価」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たんが" },
+        { "id": "b", "html": "だんか" },
+        { "id": "c", "html": "たんけ" },
+        { "id": "d", "html": "たんか" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>単価（たんか）と読みます。<span>Meaning: <strong>unit price; unit cost</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p79-q8",
+      "questionHtml": "<p>{怒|いか}りや{悲|かな}しみなどの「感情」を{上手|じょうず}に{伝|つた}えることは、{人間関係|にんげんかんけい}において{大切|たいせつ}です。「感情」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かんしょう" },
+        { "id": "b", "html": "がんじょう" },
+        { "id": "c", "html": "かんじょう" },
+        { "id": "d", "html": "かんじょ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>感情（かんじょう）と読みます。<span>Meaning: <strong>emotion; feeling; sentiment</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p79-q9",
+      "questionHtml": "<p>{長|なが}い{間|あいだ}{寒|さむ}い{場所|ばしょ}にいたので、{指先|ゆびさき}の「感覚」がなくなってきました。「感覚」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かんがく" },
+        { "id": "b", "html": "かんかく" },
+        { "id": "c", "html": "がんかく" },
+        { "id": "d", "html": "かんきゃく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>感覚（かんかく）と読みます。<span>Meaning: <strong>sense; sensation; feeling; intuition</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p79-q10",
+      "questionHtml": "<p>{映画|えいが}を{見|み}たあとで、{友達|ともだち}とお{互|たが}いの「感想」を{話|はな}し{合|あ}いました。「感想」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かんそう" },
+        { "id": "b", "html": "かんぞう" },
+        { "id": "c", "html": "がんそう" },
+        { "id": "d", "html": "かんしょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>感想（かんそう）と読みます。<span>Meaning: <strong>impressions; thoughts; feelings; reactions</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p79-q11",
+      "questionHtml": "<p>{環境|かんきょう}を{守|まも}るために{車|くるま}の{使用|しよう}を{減|へ}らすべきだという{意見|いけん}に、{私|わたし}も「同感」です。「同感」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とうかん" },
+        { "id": "b", "html": "どうがん" },
+        { "id": "c", "html": "どうかん" },
+        { "id": "d", "html": "どうけん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>同感（どうかん）と読みます。<span>Meaning: <strong>same opinion; agreement; shared feeling; sympathy</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p79-q12",
+      "questionHtml": "<p>{病院|びょういん}では、ウイルスの「感染」を{防|ふせ}ぐために、{手|て}を{洗|あら}うことが{勧|すす}められています。「感染」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かんぜん" },
+        { "id": "b", "html": "かんせ" },
+        { "id": "c", "html": "がんせん" },
+        { "id": "d", "html": "かんせん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>感染（かんせん）と読みます。<span>Meaning: <strong>infection; contagion; becoming infected</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p79-q13",
+      "questionHtml": "<p>{困|こま}っていたときに{助|たす}けてくれた{友達|ともだち}に、{心|こころ}から「感謝」しています。「感謝」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かんじゃ" },
+        { "id": "b", "html": "かんしゃ" },
+        { "id": "c", "html": "かんさ" },
+        { "id": "d", "html": "がんしゃ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>感謝（かんしゃ）と読みます。<span>Meaning: <strong>thanks; gratitude; appreciation; thankfulness</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p79-q14",
+      "questionHtml": "<p>このカフェは{静|しず}かで{落|お}ち{着|つ}いた「感じ」がするので、よく{勉強|べんきょう}しに{来|き}ます。「感じ」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かんじ" },
+        { "id": "b", "html": "かんし" },
+        { "id": "c", "html": "かんぢ" },
+        { "id": "d", "html": "かじ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>感じ（かんじ）と読みます。<span>Meaning: <strong>feeling; sense; impression</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p79-q15",
+      "questionHtml": "<p>{選手|せんしゅ}たちが{最後|さいご}まで{諦|あきら}めずに{戦|たたか}う{姿|すがた}を{見|み}て、とても「感動」しました。「感動」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かんとう" },
+        { "id": "b", "html": "かんど" },
+        { "id": "c", "html": "かんどう" },
+        { "id": "d", "html": "がんどう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>感動（かんどう）と読みます。<span>Meaning: <strong>being deeply moved; strong emotion; emotional impression</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p79-q16",
+      "questionHtml": "<p>{将来|しょうらい}は{自然|しぜん}に{囲|かこ}まれた{静|しず}かな{場所|ばしょ}で{暮|く}らすことが、{私|わたし}の「理想」です。「理想」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りしょう" },
+        { "id": "b", "html": "りぞう" },
+        { "id": "c", "html": "りそうう" },
+        { "id": "d", "html": "りそう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>理想（りそう）と読みます。<span>Meaning: <strong>ideal; ideals; ideal state</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p79-q17",
+      "questionHtml": "<p>{十年後|じゅうねんご}の{自分|じぶん}がどんな{生活|せいかつ}をしているのか、「想像」してみました。「想像」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そうぞう" },
+        { "id": "b", "html": "そうそう" },
+        { "id": "c", "html": "しょうぞう" },
+        { "id": "d", "html": "そぞう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>想像（そうぞう）と読みます。<span>Meaning: <strong>imagination; imagining; supposition; conjecture</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p79-q18",
+      "questionHtml": "<p>{旅行|りょこう}から{帰|かえ}ったあと、{訪|おとず}れた{場所|ばしょ}についての「感想」をブログに{書|か}きました。「感想」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かんしょう" },
+        { "id": "b", "html": "かんそう" },
+        { "id": "c", "html": "かんぞう" },
+        { "id": "d", "html": "がんそう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>感想（かんそう）と読みます。<span>Meaning: <strong>impressions; thoughts; feelings; reactions</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p79-q19",
+      "questionHtml": "<p>{天気予報|てんきよほう}では{雨|あめ}が{降|ふ}ると「予想」されていましたが、{実際|じっさい}には{晴|は}れました。「予想」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よしょう" },
+        { "id": "b", "html": "ようそう" },
+        { "id": "c", "html": "よそう" },
+        { "id": "d", "html": "よぞう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>予想（よそう）と読みます。<span>Meaning: <strong>expectation; prediction; forecast; anticipation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p79-q20",
+      "questionHtml": "<p>この{音楽|おんがく}を{聞|き}くと、{子供|こども}のころに{遊|あそ}んだ{公園|こうえん}を「連想」します。「連想」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "れんしょう" },
+        { "id": "b", "html": "れんぞう" },
+        { "id": "c", "html": "れそう" },
+        { "id": "d", "html": "れんそう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>連想（れんそう）と読みます。<span>Meaning: <strong>association of ideas; being reminded of something; mental association</strong></span></p>"
+    }
+  ]
+}

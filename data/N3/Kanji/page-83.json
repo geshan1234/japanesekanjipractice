@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 83,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p83-q1",
+      "questionHtml": "<p>{旅行|りょこう}のために、{駅|えき}の{近|ちか}くのホテルで「宿泊」することにしました。「宿泊」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅくばく" },
+        { "id": "b", "html": "じゅくはく" },
+        { "id": "c", "html": "しゅくはく" },
+        { "id": "d", "html": "しゅくはっく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>宿泊（しゅくはく）と読みます。<span>Meaning: <strong>lodging; accommodation; staying overnight</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p83-q2",
+      "questionHtml": "<p>{彼|かれ}は{自分|じぶん}が{医者|いしゃ}になることを「宿命」だと{信|しん}じています。「宿命」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅくめい" },
+        { "id": "b", "html": "しゅくみょう" },
+        { "id": "c", "html": "じゅくめい" },
+        { "id": "d", "html": "しゅくめ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>宿命（しゅくめい）と読みます。<span>Meaning: <strong>fate; destiny; predestination</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p83-q3",
+      "questionHtml": "<p>{京都|きょうと}を{旅行|りょこう}したとき、{地元|じもと}の{家族|かぞく}が{経営|けいえい}する「民宿」に{泊|と}まりました。「民宿」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "みんじゅく" },
+        { "id": "b", "html": "みんしょく" },
+        { "id": "c", "html": "たみやど" },
+        { "id": "d", "html": "みんしゅく" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>民宿（みんしゅく）と読みます。<span>Meaning: <strong>guesthouse; family-run inn; traditional lodging</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p83-q4",
+      "questionHtml": "<p>{山|やま}の{近|ちか}くにある{小|ちい}さな「宿」で、{一晩|ひとばん}ゆっくり{休|やす}みました。「宿」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅく" },
+        { "id": "b", "html": "やど" },
+        { "id": "c", "html": "じゅく" },
+        { "id": "d", "html": "やと" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>宿（やど）と読みます。<span>Meaning: <strong>lodging; inn; hotel; accommodation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p83-q5",
+      "questionHtml": "<p>{昔|むかし}ながらの「宿屋」に{泊|と}まって、{日本|にほん}の{伝統的|でんとうてき}な{料理|りょうり}を{楽|たの}しみました。「宿屋」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "やどや" },
+        { "id": "b", "html": "やとや" },
+        { "id": "c", "html": "しゅくや" },
+        { "id": "d", "html": "やどおく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>宿屋（やどや）と読みます。<span>Meaning: <strong>inn; lodging house</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p83-q6",
+      "questionHtml": "<p>{旅館|りょかん}に{着|つ}くと、{受付|うけつけ}で「宿帳」に{名前|なまえ}と{住所|じゅうしょ}を{書|か}くように{言|い}われました。「宿帳」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "やどじょう" },
+        { "id": "b", "html": "しゅくちょう" },
+        { "id": "c", "html": "やどちょう" },
+        { "id": "d", "html": "やどちょ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>宿帳（やどちょう）と読みます。<span>Meaning: <strong>hotel register; guest register</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p83-q7",
+      "questionHtml": "<p>「昨日」は{雨|あめ}が{降|ふ}っていたので、{一日中|いちにちじゅう}{家|いえ}で{過|す}ごしました。「昨日」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きょう／さくじつ" },
+        { "id": "b", "html": "きのう／さくじつ" },
+        { "id": "c", "html": "きのう／さくにち" },
+        { "id": "d", "html": "さくや／きのう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>昨日（きのう／さくじつ）と読みます。<span>Meaning: <strong>yesterday</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p83-q8",
+      "questionHtml": "<p>「昨年」は{海外|かいがい}へ{旅行|りょこう}しましたが、{今年|ことし}は{国内|こくない}を{旅行|りょこう}する{予定|よてい}です。「昨年」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さくなん" },
+        { "id": "b", "html": "さっねん" },
+        { "id": "c", "html": "さくにん" },
+        { "id": "d", "html": "さくねん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>昨年（さくねん）と読みます。<span>Meaning: <strong>last year; the previous year</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p83-q9",
+      "questionHtml": "<p>「昨夜」は{遅|おそ}くまで{仕事|しごと}をしていたので、{今朝|けさ}は{少|すこ}し{眠|ねむ}いです。「昨夜」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さくや" },
+        { "id": "b", "html": "さくよ" },
+        { "id": "c", "html": "さっや" },
+        { "id": "d", "html": "さくよる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>昨夜（さくや）と読みます。<span>Meaning: <strong>last night</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p83-q10",
+      "questionHtml": "<p>{先生|せんせい}は{出席|しゅっせき}を{確認|かくにん}するとき、「{田中|たなか}君」と{生徒|せいと}の{名前|なまえ}を{呼|よ}びました。「君」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きみ" },
+        { "id": "b", "html": "ぐん" },
+        { "id": "c", "html": "くん" },
+        { "id": "d", "html": "きん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>君（くん）と読みます。<span>Meaning: <strong>-kun; familiar honorific suffix often used for boys, juniors, or colleagues</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p83-q11",
+      "questionHtml": "<p>{昔|むかし}の{中国|ちゅうごく}では、{知識|ちしき}と{道徳|どうとく}を{備|そな}えた{立派|りっぱ}な{人物|じんぶつ}を「君子」と{呼|よ}びました。「君子」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きみこ" },
+        { "id": "b", "html": "くんじ" },
+        { "id": "c", "html": "きんし" },
+        { "id": "d", "html": "くんし" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>君子（くんし）と読みます。<span>Meaning: <strong>person of virtue; wise person; true gentleman</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p83-q12",
+      "questionHtml": "<p>{校長先生|こうちょうせんせい}は{卒業式|そつぎょうしき}で、「諸君の{未来|みらい}に{期待|きたい}しています」と{話|はな}しました。「諸君」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょくん" },
+        { "id": "b", "html": "しょうくん" },
+        { "id": "c", "html": "しょぐん" },
+        { "id": "d", "html": "もろきみ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>諸君（しょくん）と読みます。<span>Meaning: <strong>you all; ladies and gentlemen; you people</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p83-q13",
+      "questionHtml": "<p>{手紙|てがみ}の{中|なか}で、{彼女|かのじょ}の「夫君」が{元気|げんき}にしているかどうか{尋|たず}ねました。「夫君」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふぐん" },
+        { "id": "b", "html": "ふくん" },
+        { "id": "c", "html": "おっとくん" },
+        { "id": "d", "html": "ふきみ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>夫君（ふくん）と読みます。<span>Meaning: <strong>another person's husband; someone's husband (respectful or literary)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p83-q14",
+      "questionHtml": "<p>{昔|むかし}の{王国|おうこく}では、「君主」が{国|くに}を{治|おさ}めていました。「君主」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きみぬし" },
+        { "id": "b", "html": "くんじゅ" },
+        { "id": "c", "html": "くんしゅ" },
+        { "id": "d", "html": "ぐんしゅ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>君主（くんしゅ）と読みます。<span>Meaning: <strong>ruler; monarch; sovereign</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p83-q15",
+      "questionHtml": "<p>{友達|ともだち}は「君ならきっとできるよ」と{言|い}って、{私|わたし}を{励|はげ}ましてくれました。「君」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きみ" },
+        { "id": "b", "html": "くん" },
+        { "id": "c", "html": "きん" },
+        { "id": "d", "html": "ぐん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>君（きみ）と読みます。<span>Meaning: <strong>you; familiar form of address; buddy; pal (depending on context)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p83-q16",
+      "questionHtml": "<p>{旅行|りょこう}の{前|まえ}に、{荷物|にもつ}が{落|お}ちないようにロープでしっかり「結ぶ」ことにしました。「結ぶ」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "むずぶ" },
+        { "id": "b", "html": "けつぶ" },
+        { "id": "c", "html": "むすぷ" },
+        { "id": "d", "html": "むすぶ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>結ぶ（むすぶ）と読みます。<span>Meaning: <strong>to tie; to bind; to link; to connect</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p83-q17",
+      "questionHtml": "<p>{兄|あに}は{来年|らいねん}、{大学時代|だいがくじだい}から{付|つ}き{合|あ}っている{人|ひと}と「結婚」する{予定|よてい}です。「結婚」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けつこん" },
+        { "id": "b", "html": "けっこん" },
+        { "id": "c", "html": "けっごん" },
+        { "id": "d", "html": "けっこう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>結婚（けっこん）と読みます。<span>Meaning: <strong>marriage; getting married</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p83-q18",
+      "questionHtml": "<p>{長|なが}い{会議|かいぎ}の{結果|けっか}、{新|あたら}しい{計画|けいかく}を{始|はじ}めるという「結論」に{達|たっ}しました。「結論」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けっろん" },
+        { "id": "b", "html": "けつろん" },
+        { "id": "c", "html": "けっろんう" },
+        { "id": "d", "html": "けちろん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>結論（けつろん）と読みます。<span>Meaning: <strong>conclusion; final decision</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p83-q19",
+      "questionHtml": "<p>{何度|なんど}も{話|はな}し{合|あ}いましたが、「結局」{最初|さいしょ}の{計画|けいかく}を{選|えら}びました。「結局」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けっきょく" },
+        { "id": "b", "html": "けつきょく" },
+        { "id": "c", "html": "けっきょう" },
+        { "id": "d", "html": "けっこく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>結局（けっきょく）と読みます。<span>Meaning: <strong>after all; eventually; in the end</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p83-q20",
+      "questionHtml": "<p>{店員|てんいん}に{袋|ふくろ}が{必要|ひつよう}か{聞|き}かれましたが、「結構です」と{答|こた}えました。「結構」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けつこう" },
+        { "id": "b", "html": "けっごう" },
+        { "id": "c", "html": "けっこう" },
+        { "id": "d", "html": "けっこ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>結構（けっこう）と読みます。<span>Meaning: <strong>fine; sufficient; quite; no thank you (depending on context)</strong></span></p>"
+    }
+  ]
+}

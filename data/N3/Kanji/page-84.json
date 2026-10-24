@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 84,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p84-q1",
+      "questionHtml": "<p>{兄|あに}は{来年|らいねん}、{大学時代|だいがくじだい}から{付|つ}き{合|あ}っている{女性|じょせい}と「結婚」する{予定|よてい}です。「結婚」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けつこん" },
+        { "id": "b", "html": "けっこん" },
+        { "id": "c", "html": "けっごん" },
+        { "id": "d", "html": "けっこう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>結婚（けっこん）と読みます。<span>Meaning: <strong>marriage; getting married</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p84-q2",
+      "questionHtml": "<p>{二人|ふたり}は{何度|なんど}も{話|はな}し{合|あ}いましたが、{最終的|さいしゅうてき}に「離婚」することを{決|き}めました。「離婚」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りごん" },
+        { "id": "b", "html": "れこん" },
+        { "id": "c", "html": "りこう" },
+        { "id": "d", "html": "りこん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>離婚（りこん）と読みます。<span>Meaning: <strong>divorce; dissolution of a marriage</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p84-q3",
+      "questionHtml": "<p>{彼|かれ}は{長年|ながねん}{付|つ}き{合|あ}っていた{恋人|こいびと}と「婚約」し、{来年|らいねん}{式|しき}を{挙|あ}げるそうです。「婚約」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こんやく" },
+        { "id": "b", "html": "こんよく" },
+        { "id": "c", "html": "ごんやく" },
+        { "id": "d", "html": "こんじゃく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>婚約（こんやく）と読みます。<span>Meaning: <strong>engagement; betrothal; promise to marry</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p84-q4",
+      "questionHtml": "<p>この{調査|ちょうさ}では、「未婚」の{人|ひと}と{結婚|けっこん}している{人|ひと}の{生活|せいかつ}について{比較|ひかく}しました。「未婚」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "びこん" },
+        { "id": "b", "html": "みごん" },
+        { "id": "c", "html": "みこん" },
+        { "id": "d", "html": "まこん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>未婚（みこん）と読みます。<span>Meaning: <strong>unmarried; never married; not yet married</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p84-q5",
+      "questionHtml": "<p>「新婚」の{二人|ふたり}は、{駅|えき}の{近|ちか}くにある{新|あたら}しいマンションで{生活|せいかつ}を{始|はじ}めました。「新婚」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんこん" },
+        { "id": "b", "html": "しんごん" },
+        { "id": "c", "html": "じんこん" },
+        { "id": "d", "html": "しんこう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>新婚（しんこん）と読みます。<span>Meaning: <strong>newly married; newlywed</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p84-q6",
+      "questionHtml": "<p>このアンケートでは、{参加者|さんかしゃ}が「既婚」か{未婚|みこん}かを{答|こた}える{必要|ひつよう}があります。「既婚」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぎこん" },
+        { "id": "b", "html": "きごん" },
+        { "id": "c", "html": "きこう" },
+        { "id": "d", "html": "きこん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>既婚（きこん）と読みます。<span>Meaning: <strong>married; already married</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p84-q7",
+      "questionHtml": "<p>{父|ちち}は{母|はは}と{離婚|りこん}したあと、{数年後|すうねんご}に「再婚」しました。「再婚」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ざいこん" },
+        { "id": "b", "html": "さいこん" },
+        { "id": "c", "html": "さいごん" },
+        { "id": "d", "html": "さいこう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>再婚（さいこん）と読みます。<span>Meaning: <strong>remarriage; marrying again; second marriage</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p84-q8",
+      "questionHtml": "<p>{最近|さいきん}は{仕事|しごと}や{生活|せいかつ}を{優先|ゆうせん}する{人|ひと}が{増|ふ}え、「晩婚」になる{場合|ばあい}もあります。「晩婚」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ばんごん" },
+        { "id": "b", "html": "はんこん" },
+        { "id": "c", "html": "ばんこん" },
+        { "id": "d", "html": "ばんこう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>晩婚（ばんこん）と読みます。<span>Meaning: <strong>late marriage; marrying at a relatively older age</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p84-q9",
+      "questionHtml": "<p>{二人|ふたり}の「婚礼」は、{家族|かぞく}や{親|した}しい{友人|ゆうじん}だけを{招|まね}いて{行|おこな}われました。「婚礼」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こんれい" },
+        { "id": "b", "html": "こんらい" },
+        { "id": "c", "html": "ごんれい" },
+        { "id": "d", "html": "こんれ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>婚礼（こんれい）と読みます。<span>Meaning: <strong>wedding; marriage ceremony; wedding celebration</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p84-q10",
+      "questionHtml": "<p>この{地域|ちいき}では、{昔|むかし}は「早婚」が{一般的|いっぱんてき}でしたが、{現在|げんざい}は{結婚|けっこん}する{年齢|ねんれい}が{上|あ}がっています。「早婚」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はやこん" },
+        { "id": "b", "html": "そうごん" },
+        { "id": "c", "html": "さっこん" },
+        { "id": "d", "html": "そうこん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>早婚（そうこん）と読みます。<span>Meaning: <strong>early marriage; marrying young</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p84-q11",
+      "questionHtml": "<p>{来週|らいしゅう}の{月曜日|げつようび}は「祝日」なので、{学校|がっこう}も{会社|かいしゃ}も{休|やす}みです。「祝日」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅくにち" },
+        { "id": "b", "html": "しゅくじつ" },
+        { "id": "c", "html": "じゅくじつ" },
+        { "id": "d", "html": "しゅっじつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>祝日（しゅくじつ）と読みます。<span>Meaning: <strong>national holiday; public holiday</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p84-q12",
+      "questionHtml": "<p>{友達|ともだち}の{大学合格|だいがくごうかく}の「お祝い」に、みんなでケーキを{買|か}いました。「お祝い」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おしゅくい" },
+        { "id": "b", "html": "おいあい" },
+        { "id": "c", "html": "おいわい" },
+        { "id": "d", "html": "おいわれ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>お祝い（おいわい）と読みます。<span>Meaning: <strong>congratulations; celebration; congratulatory gift</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p84-q13",
+      "questionHtml": "<p>{家族|かぞく}みんなで{祖母|そぼ}の{八十歳|はちじゅっさい}の{誕生日|たんじょうび}を「祝う」ことにしました。「祝う」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いわう" },
+        { "id": "b", "html": "いおう" },
+        { "id": "c", "html": "しゅくう" },
+        { "id": "d", "html": "いわえる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>祝う（いわう）と読みます。<span>Meaning: <strong>to celebrate; to congratulate; to observe a special occasion</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p84-q14",
+      "questionHtml": "<p>{数学|すうがく}の{授業|じゅぎょう}で、{先生|せんせい}は{黒板|こくばん}に「曲線」を{描|えが}いて{説明|せつめい}しました。「曲線」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きょくぜん" },
+        { "id": "b", "html": "きょくせん" },
+        { "id": "c", "html": "きょうせん" },
+        { "id": "d", "html": "まがせん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>曲線（きょくせん）と読みます。<span>Meaning: <strong>curve; curved line</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p84-q15",
+      "questionHtml": "<p>この「曲」は{子供|こども}のころによく{聞|き}いていたので、{今|いま}でも{歌|うた}うことができます。「曲」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "まが" },
+        { "id": "b", "html": "きょう" },
+        { "id": "c", "html": "こく" },
+        { "id": "d", "html": "きょく" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>曲（きょく）と読みます。<span>Meaning: <strong>song; tune; musical composition; piece of music</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p84-q16",
+      "questionHtml": "<p>{次|つぎ}の{交差点|こうさてん}を{右|みぎ}に「曲がる」と、{駅|えき}が{見|み}えてきます。「曲がる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "まがる" },
+        { "id": "b", "html": "まげる" },
+        { "id": "c", "html": "きょがる" },
+        { "id": "d", "html": "まかる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>曲がる（まがる）と読みます。<span>Meaning: <strong>to bend; to curve; to turn; to wind</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p84-q17",
+      "questionHtml": "<p>この{金属|きんぞく}の{棒|ぼう}は{硬|かた}いので、{手|て}で「曲げる」ことはできません。「曲げる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "まがる" },
+        { "id": "b", "html": "まける" },
+        { "id": "c", "html": "まげる" },
+        { "id": "d", "html": "きょげる" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>曲げる（まげる）と読みます。<span>Meaning: <strong>to bend; to curve; to twist; to crook</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p84-q18",
+      "questionHtml": "<p>{洞窟|どうくつ}の「最奥」には、{何百年|なんびゃくねん}も{前|まえ}に{描|えが}かれた{壁画|へきが}が{残|のこ}っていました。「最奥」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さいおく" },
+        { "id": "b", "html": "さいおう" },
+        { "id": "c", "html": "さいよう" },
+        { "id": "d", "html": "さいあく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>最奥（さいおう）と読みます。<span>Meaning: <strong>deep inside; innermost place; deepest part</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p84-q19",
+      "questionHtml": "<p>{研究者|けんきゅうしゃ}は{長年|ながねん}にわたり、{古代|こだい}の{宗教|しゅうきょう}の「深奥」を{探|さぐ}り{続|つづ}けています。「深奥」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんおく" },
+        { "id": "b", "html": "ふかおう" },
+        { "id": "c", "html": "しんよう" },
+        { "id": "d", "html": "しんおう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>深奥（しんおう）と読みます。<span>Meaning: <strong>deep mysteries; profound depths; esoteric doctrines</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p84-q20",
+      "questionHtml": "<p>{小説|しょうせつ}では、{主人公|しゅじんこう}の{心|こころ}の「内奥」にある{複雑|ふくざつ}な{感情|かんじょう}が{描|えが}かれています。「内奥」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ないおう" },
+        { "id": "b", "html": "ないおく" },
+        { "id": "c", "html": "うちおう" },
+        { "id": "d", "html": "ないよう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>内奥（ないおう）と読みます。<span>Meaning: <strong>inner part; innermost depths; inner recesses</strong></span></p>"
+    }
+  ]
+}

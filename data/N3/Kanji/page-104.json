@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 104,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p104-q1",
+      "questionHtml": "<p>{大切|たいせつ}にしていたお{皿|さら}の{端|はし}が「欠ける」と、{使|つか}うときに{危険|きけん}なので{注意|ちゅうい}が{必要|ひつよう}です。「欠ける」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けける" },
+        { "id": "b", "html": "かげる" },
+        { "id": "c", "html": "かける" },
+        { "id": "d", "html": "けつける" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>欠ける（かける）と読みます。<span>Meaning: <strong>to be chipped; to be damaged; to be broken; to be missing a part</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p104-q2",
+      "questionHtml": "<p>{誰|だれ}にでも{長所|ちょうしょ}と「欠点」があるので、{自分|じぶん}の{弱|よわ}いところを{理解|りかい}することが{大切|たいせつ}です。「欠点」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けってん" },
+        { "id": "b", "html": "けつてん" },
+        { "id": "c", "html": "かけてん" },
+        { "id": "d", "html": "けっでん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>欠点（けってん）と読みます。<span>Meaning: <strong>fault; defect; flaw; weak point; weakness</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p104-q3",
+      "questionHtml": "<p>{昨日|きのう}は{熱|ねつ}があったので、{学校|がっこう}を「欠席」して{家|いえ}で{休|やす}みました。「欠席」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けつせき" },
+        { "id": "b", "html": "けっせき" },
+        { "id": "c", "html": "けっぜき" },
+        { "id": "d", "html": "かけせき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>欠席（けっせき）と読みます。<span>Meaning: <strong>absence; non-attendance</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p104-q4",
+      "questionHtml": "<p>{兄|あに}は{大学|だいがく}で{情報工学|じょうほうこうがく}を「専攻」しており、{将来|しょうらい}はエンジニアになりたいそうです。「専攻」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せんごう" },
+        { "id": "b", "html": "ぜんこう" },
+        { "id": "c", "html": "せんく" },
+        { "id": "d", "html": "せんこう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>専攻（せんこう）と読みます。<span>Meaning: <strong>major subject; special study; academic specialization</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p104-q5",
+      "questionHtml": "<p>この{駐車場|ちゅうしゃじょう}は{住民|じゅうみん}「専用」なので、{外部|がいぶ}の{人|ひと}は{利用|りよう}できません。「専用」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せんよう" },
+        { "id": "b", "html": "せんゆう" },
+        { "id": "c", "html": "ぜんよう" },
+        { "id": "d", "html": "せんよ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>専用（せんよう）と読みます。<span>Meaning: <strong>exclusive use; private use; personal use</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p104-q6",
+      "questionHtml": "<p>{私|わたし}の「専門」はコンピューター{科学|かがく}で、{特|とく}にAIの{研究|けんきゅう}に{興味|きょうみ}があります。「専門」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せんぼん" },
+        { "id": "b", "html": "ぜんもん" },
+        { "id": "c", "html": "せんもん" },
+        { "id": "d", "html": "せんかん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>専門（せんもん）と読みます。<span>Meaning: <strong>specialty; subject of study; area of expertise; specialization</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p104-q7",
+      "questionHtml": "<p>{父|ちち}は{会社|かいしゃ}の「専務」として、{経営|けいえい}に{関|かん}する{重要|じゅうよう}な{仕事|しごと}を{担当|たんとう}しています。「専務」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せんぶ" },
+        { "id": "b", "html": "せんむ" },
+        { "id": "c", "html": "ぜんむ" },
+        { "id": "d", "html": "せんも" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>専務（せんむ）と読みます。<span>Meaning: <strong>special duty; being in sole charge of a duty; executive managing director</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p104-q8",
+      "questionHtml": "<p>この{歌手|かしゅ}には「専属」のマネージャーがいて、{仕事|しごと}の{予定|よてい}を{管理|かんり}しています。「専属」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せんそく" },
+        { "id": "b", "html": "ぜんぞく" },
+        { "id": "c", "html": "せんしょく" },
+        { "id": "d", "html": "せんぞく" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>専属（せんぞく）と読みます。<span>Meaning: <strong>exclusive; attached to; specialist; assigned exclusively</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p104-q9",
+      "questionHtml": "<p>{弟|おとうと}は{中学校|ちゅうがっこう}を{卒業|そつぎょう}した{後|あと}、「高専」に{進学|しんがく}して{機械工学|きかいこうがく}を{学|まな}んでいます。「高専」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうせん" },
+        { "id": "b", "html": "こうぜん" },
+        { "id": "c", "html": "たかせん" },
+        { "id": "d", "html": "こうせい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>高専（こうせん）と読みます。<span>Meaning: <strong>technical college; college of technology</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p104-q10",
+      "questionHtml": "<p>{環境問題|かんきょうもんだい}について{詳|くわ}しく{知|し}りたいので、「専門家」に{意見|いけん}を{聞|き}きました。「専門家」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せんもんや" },
+        { "id": "b", "html": "ぜんもんか" },
+        { "id": "c", "html": "せんぼんか" },
+        { "id": "d", "html": "せんもんか" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>専門家（せんもんか）と読みます。<span>Meaning: <strong>specialist; expert; professional; authority</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p104-q11",
+      "questionHtml": "<p>{病院|びょういん}は、{事故|じこ}で{運|はこ}ばれた{男性|だんせい}の「死亡」を{確認|かくにん}しました。「死亡」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しもう" },
+        { "id": "b", "html": "しぼう" },
+        { "id": "c", "html": "じぼう" },
+        { "id": "d", "html": "しぼ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>死亡（しぼう）と読みます。<span>Meaning: <strong>death; dying; mortality</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p104-q12",
+      "questionHtml": "<p>{警察|けいさつ}は{事件|じけん}の{後|あと}に「逃亡」した{容疑者|ようぎしゃ}の{行方|ゆくえ}を{捜|さが}しています。「逃亡」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とうぼう" },
+        { "id": "b", "html": "とうもう" },
+        { "id": "c", "html": "どうぼう" },
+        { "id": "d", "html": "にげぼう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>逃亡（とうぼう）と読みます。<span>Meaning: <strong>escape; flight; running away; fleeing</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p104-q13",
+      "questionHtml": "<p>{歴史|れきし}の{授業|じゅぎょう}で、{古代|こだい}の{文明|ぶんめい}が「滅亡」した{理由|りゆう}について{学|まな}びました。「滅亡」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "めつもう" },
+        { "id": "b", "html": "めっぼう" },
+        { "id": "c", "html": "めつぼう" },
+        { "id": "d", "html": "めちぼう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>滅亡（めつぼう）と読みます。<span>Meaning: <strong>downfall; ruin; collapse; destruction</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p104-q14",
+      "questionHtml": "<p>{戦争|せんそう}や{政治的|せいじてき}な{理由|りゆう}で、{外国|がいこく}へ「亡命」する{人々|ひとびと}がいます。「亡命」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぼうめい" },
+        { "id": "b", "html": "もうめい" },
+        { "id": "c", "html": "ぼうみょう" },
+        { "id": "d", "html": "ぼうめ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>亡命（ぼうめい）と読みます。<span>Meaning: <strong>fleeing from one's country; seeking asylum; defection; exile</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p104-q15",
+      "questionHtml": "<p>{大|おお}きな{経済危機|けいざいきき}によって、{会社|かいしゃ}の「存亡」が{問|と}われる{事態|じたい}になりました。「存亡」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そんもう" },
+        { "id": "b", "html": "ぞんぼう" },
+        { "id": "c", "html": "そんぼ" },
+        { "id": "d", "html": "そんぼう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>存亡（そんぼう）と読みます。<span>Meaning: <strong>life or death; existence; survival or destruction; destiny</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p104-q16",
+      "questionHtml": "<p>{故郷|こきょう}を{離|はな}れた{詩人|しじん}は、{長年|ながねん}の「流亡」の{生活|せいかつ}を{作品|さくひん}に{書|か}き{残|のこ}しました。「流亡」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りゅうもう" },
+        { "id": "b", "html": "りゅうぼう" },
+        { "id": "c", "html": "るぼう" },
+        { "id": "d", "html": "りょうぼう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>流亡（りゅうぼう）と読みます。<span>Meaning: <strong>wandering; living in exile; drifting from place to place</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p104-q17",
+      "questionHtml": "<p>{父|ちち}は{年末|ねんまつ}になると「多忙」になり、{家族|かぞく}と{過|す}ごす{時間|じかん}が{少|すく}なくなります。「多忙」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たもう" },
+        { "id": "b", "html": "だぼう" },
+        { "id": "c", "html": "たぼう" },
+        { "id": "d", "html": "たぼ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>多忙（たぼう）と読みます。<span>Meaning: <strong>being very busy; busyness</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p104-q18",
+      "questionHtml": "<p>{先生|せんせい}は「忙中」にもかかわらず、{私|わたし}の{相談|そうだん}に{時間|じかん}を{取|と}ってくださいました。「忙中」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぼうちゅう" },
+        { "id": "b", "html": "もうちゅう" },
+        { "id": "c", "html": "ぼうじゅう" },
+        { "id": "d", "html": "いそちゅう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>忙中（ぼうちゅう）と読みます。<span>Meaning: <strong>in the midst of busyness; while busy</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p104-q19",
+      "questionHtml": "<p>{年度末|ねんどまつ}の「煩忙」な{時期|じき}には、{社員|しゃいん}たちが{毎日|まいにち}{遅|おそ}くまで{働|はたら}いています。「煩忙」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ばんぼう" },
+        { "id": "b", "html": "はんもう" },
+        { "id": "c", "html": "はんぼ" },
+        { "id": "d", "html": "はんぼう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>煩忙（はんぼう）と読みます。<span>Meaning: <strong>pressure of business; being busy; hectic activity</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p104-q20",
+      "questionHtml": "<p>{今週|こんしゅう}は{仕事|しごと}がとても「忙しい」ので、{友達|ともだち}と{会|あ}う{時間|じかん}がありません。「忙しい」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せわしい" },
+        { "id": "b", "html": "いそがしい" },
+        { "id": "c", "html": "いそかしい" },
+        { "id": "d", "html": "ぼうしい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>忙しい（いそがしい）と読みます。<span>Meaning: <strong>busy; occupied; hectic</strong></span></p>"
+    }
+  ]
+}

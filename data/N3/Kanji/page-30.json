@@ -1,3 +1,4 @@
+
 {
   "metadata": {
     "level": "N3",
@@ -9,243 +10,243 @@
   "questions": [
     {
       "id": "N3-Kanji-p30-q1",
-      "questionHtml": "<p>山頂から見下ろす「美しい」{景色|けしき}に、しばらく言葉を失った。「美しい」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{春|はる}になると、この{公園|こうえん}には「美しい」{桜|さくら}の{花|はな}がたくさん{咲|さ}きます。「美しい」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "うつくしい" },
-        { "id": "b", "html": "うるわしい" },
-        { "id": "c", "html": "めずらしい" },
-        { "id": "d", "html": "きれいい" }
+        { "id": "b", "html": "うずくしい" },
+        { "id": "c", "html": "うつぐしい" },
+        { "id": "d", "html": "うつかしい" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>美しい（うつくしい）と読みます。<span>Meaning: <strong>beautiful, lovely</strong></span></p>"
+      "explanationHtml": "<p>美しい（うつくしい）と読みます。<span>Meaning: <strong>beautiful; lovely</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p30-q2",
-      "questionHtml": "<p>教授がノーベル賞を受賞したことは、我が国の「学術」界の誇りだ。「学術」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{大学|だいがく}では「学術」の{発展|はってん}を{目指|めざ}して、さまざまな{研究|けんきゅう}が{行|おこな}われています。「学術」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "がくじゅつ" },
-        { "id": "b", "html": "がくじゅつめ" },
+        { "id": "a", "html": "がくしゅつ" },
+        { "id": "b", "html": "がくじゅつ" },
         { "id": "c", "html": "がっじゅつ" },
-        { "id": "d", "html": "まなびじゅつ" }
+        { "id": "d", "html": "がくじゅち" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>学術（がくじゅつ）と読みます。<span>Meaning: <strong>science, learning, academic</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>学術（がくじゅつ）と読みます。<span>Meaning: <strong>science; learning; scholarship</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p30-q3",
-      "questionHtml": "<p>日本の伝統的な「武術」である柔道を学ぶために留学した。「武術」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{彼|かれ}は{子供|こども}のころから「武術」を{習|なら}っており、{今|いま}では{大会|たいかい}にも{出場|しゅつじょう}しています。「武術」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ぶじゅつ" },
-        { "id": "b", "html": "むじゅつ" },
-        { "id": "c", "html": "たけじゅつ" },
-        { "id": "d", "html": "ぶしゅつ" }
+        { "id": "a", "html": "むじゅつ" },
+        { "id": "b", "html": "ぶしゅつ" },
+        { "id": "c", "html": "ぶじゅつ" },
+        { "id": "d", "html": "ぶじゅち" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>武術（ぶじゅつ）と読みます。<span>Meaning: <strong>the martial arts</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>武術（ぶじゅつ）と読みます。<span>Meaning: <strong>martial arts</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p30-q4",
-      "questionHtml": "<p>営業職においては、顧客の心をつかむ「話術」が求められる。「話術」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{営業|えいぎょう}の{仕事|しごと}では、{相手|あいて}の{心|こころ}をつかむ「話術」が{役|やく}に{立|た}ちます。「話術」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "はなしじゅつ" },
-        { "id": "b", "html": "わじゅつ" },
-        { "id": "c", "html": "わじゅっく" },
-        { "id": "d", "html": "わしゅつ" }
+        { "id": "b", "html": "わしゅつ" },
+        { "id": "c", "html": "わじゅち" },
+        { "id": "d", "html": "わじゅつ" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>話術（わじゅつ）と読みます。<span>Meaning: <strong>art of conversation</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>話術（わじゅつ）と読みます。<span>Meaning: <strong>art of conversation; speaking skill</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p30-q5",
-      "questionHtml": "<p>監督の巧みな「戦術」のおかげで、強豪チームに勝利した。「戦術」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{監督|かんとく}は{相手|あいて}チームの{強|つよ}さを{分析|ぶんせき}し、{新|あたら}しい「戦術」を{考|かんが}えました。「戦術」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "せんじゅつ" },
-        { "id": "b", "html": "いくさじゅつ" },
-        { "id": "c", "html": "たたかいじゅつ" },
+        { "id": "b", "html": "せんしゅつ" },
+        { "id": "c", "html": "せんじゅち" },
         { "id": "d", "html": "ぜんじゅつ" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>戦術（せんじゅつ）と読みます。<span>Meaning: <strong>tactics</strong></span></p>"
+      "explanationHtml": "<p>戦術（せんじゅつ）と読みます。<span>Meaning: <strong>tactics; strategy in battle</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p30-q6",
-      "questionHtml": "<p>近代的な「医術」の進歩により、多くの病気が克服されてきた。「医術」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{昔|むかし}の{人々|ひとびと}は、{長|なが}い{時間|じかん}をかけて「医術」を{発展|はってん}させてきました。「医術」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "いじゅつ" },
-        { "id": "b", "html": "いしゅつ" },
-        { "id": "c", "html": "いやすじゅつ" },
-        { "id": "d", "html": "えいじゅつ" }
+        { "id": "a", "html": "いしゅつ" },
+        { "id": "b", "html": "いじゅつ" },
+        { "id": "c", "html": "いじゅち" },
+        { "id": "d", "html": "いやじゅつ" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>医術（いじゅつ）と読みます。<span>Meaning: <strong>medicine, healing art</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>医術（いじゅつ）と読みます。<span>Meaning: <strong>medicine; healing art; medical practice</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p30-q7",
-      "questionHtml": "<p>{外科|げか}の医師による大きな「手術」が無事に成功した。「手術」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{医師|いし}は{患者|かんじゃ}に「手術」の{方法|ほうほう}と{必要|ひつよう}な{準備|じゅんび}について{説明|せつめい}しました。「手術」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "てじゅつ" },
-        { "id": "b", "html": "しゅじゅつ" },
-        { "id": "c", "html": "しゅじゅつめ" },
-        { "id": "d", "html": "じゅじゅつ" }
+        { "id": "b", "html": "しゅしゅつ" },
+        { "id": "c", "html": "しゅじゅつ" },
+        { "id": "d", "html": "しゅじゅち" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>手術（しゅじゅつ）と読みます。<span>Meaning: <strong>surgical operation, procedure</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>手術（しゅじゅつ）と読みます。<span>Meaning: <strong>surgical operation; medical procedure</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p30-q8",
-      "questionHtml": "<p>将来は「美術」の教師になって、子供たちに絵を教えたい。「美術」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{妹|いもうと}は{絵|え}を{描|か}くことが{好|す}きで、{高校|こうこう}では「美術」の{授業|じゅぎょう}を{楽|たの}しみにしています。「美術」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "びじゅつ" },
-        { "id": "b", "html": "みじゅつ" },
-        { "id": "c", "html": "うつくしじゅつ" },
-        { "id": "d", "html": "びしゅつ" }
+        { "id": "a", "html": "みじゅつ" },
+        { "id": "b", "html": "びしゅつ" },
+        { "id": "c", "html": "びじゅち" },
+        { "id": "d", "html": "びじゅつ" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>美術（びじゅつ）と読みます。<span>Meaning: <strong>art, fine arts</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>美術（びじゅつ）と読みます。<span>Meaning: <strong>art; fine arts</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p30-q9",
-      "questionHtml": "<p>この彫刻作品は、20世紀の「芸術」における最高傑作だ。「芸術」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{音楽|おんがく}や{絵画|かいが}などの「芸術」は、{人々|ひとびと}の{生活|せいかつ}を{豊|ゆた}かにします。「芸術」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "げいじゅつ" },
-        { "id": "b", "html": "きじゅつ" },
-        { "id": "c", "html": "えいじゅつ" },
-        { "id": "d", "html": "げいしゅつ" }
+        { "id": "b", "html": "げいしゅつ" },
+        { "id": "c", "html": "けいじゅつ" },
+        { "id": "d", "html": "げじゅつ" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>芸術（げいじゅつ）と読みます。<span>Meaning: <strong>fine art, the arts</strong></span></p>"
+      "explanationHtml": "<p>芸術（げいじゅつ）と読みます。<span>Meaning: <strong>fine art; the arts</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p30-q10",
-      "questionHtml": "<p>{日本|にほん}の自動車メーカーは、高い「技術」力で世界をリードしている。「技術」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{日本|にほん}の{会社|かいしゃ}は、{新|あたら}しい「技術」を{使|つか}って{便利|べんり}な{製品|せいひん}を{開発|かいはつ}しています。「技術」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ぎじゅつ" },
-        { "id": "b", "html": "わざじゅつ" },
+        { "id": "a", "html": "ぎしゅつ" },
+        { "id": "b", "html": "ぎじゅつ" },
         { "id": "c", "html": "きじゅつ" },
-        { "id": "d", "html": "ぎしゅつ" }
+        { "id": "d", "html": "ぎじゅち" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>技術（ぎじゅつ）と読みます。<span>Meaning: <strong>technique, skill</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>技術（ぎじゅつ）と読みます。<span>Meaning: <strong>technique; skill; technology</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p30-q11",
-      "questionHtml": "<p>どんな困難に出会っても、折れない強い「精神」を持つ。「精神」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{困難|こんなん}な{状況|じょうきょう}でも{諦|あきら}めない「精神」が、{彼|かれ}の{成功|せいこう}につながりました。「精神」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "せいしん" },
+        { "id": "a", "html": "せいじん" },
         { "id": "b", "html": "しょうしん" },
-        { "id": "c", "html": "せいじん" },
-        { "id": "d", "html": "こころしん" }
+        { "id": "c", "html": "せいしん" },
+        { "id": "d", "html": "せいじゅん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>精神（せいしん）と読みます。<span>Meaning: <strong>mind, spirit, soul, heart</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>精神（せいしん）と読みます。<span>Meaning: <strong>mind; spirit; soul; heart; ethos</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p30-q12",
-      "questionHtml": "<p>ギリシャ「神話」に登場する神々のエピソードを読んだ。「神話」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{授業|じゅぎょう}でギリシャの「神話」を{学|まな}び、{昔|むかし}の{人々|ひとびと}の{考|かんが}え{方|かた}を{知|し}りました。「神話」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "かみわ" },
         { "id": "b", "html": "じんわ" },
-        { "id": "c", "html": "しんわ" },
-        { "id": "d", "html": "しんが" }
+        { "id": "c", "html": "しんば" },
+        { "id": "d", "html": "しんわ" }
       ],
-      "correctAnswer": "c",
-      "explanationHtml": "<p>神話（しんわ）と読みます。<span>Meaning: <strong>myth, legend</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>神話（しんわ）と読みます。<span>Meaning: <strong>myth; legend; mythology</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p30-q13",
-      "questionHtml": "<p>宇宙の誕生には、未だ多くの「神秘」が隠されている。「神秘」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{深|ふか}い{森|もり}の{中|なか}にある{古|ふる}い{湖|みずうみ}には、{何|なん}とも{言|い}えない「神秘」が{感|かん}じられます。「神秘」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "しんぴ" },
         { "id": "b", "html": "じんぴ" },
-        { "id": "c", "html": "かみひ" },
-        { "id": "d", "html": "しんひ" }
+        { "id": "c", "html": "しんひ" },
+        { "id": "d", "html": "かみひ" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>神秘（しんぴ）と読みます。<span>Meaning: <strong>mystery, mysteriousness</strong></span></p>"
+      "explanationHtml": "<p>神秘（しんぴ）と読みます。<span>Meaning: <strong>mystery; mysteriousness; secret</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p30-q14",
-      "questionHtml": "<p>中世のヨーロッパにおいて、「神学」は最高の学問とされていた。「神学」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{彼|かれ}は{大学|だいがく}で「神学」を{専攻|せんこう}し、{宗教|しゅうきょう}の{歴史|れきし}や{思想|しそう}を{研究|けんきゅう}しています。「神学」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "しんがく" },
-        { "id": "b", "html": "じんがく" },
+        { "id": "a", "html": "じんがく" },
+        { "id": "b", "html": "しんがく" },
         { "id": "c", "html": "かみがく" },
-        { "id": "d", "html": "しんらく" }
+        { "id": "d", "html": "しんかく" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>神学（しんがく）と読みます。<span>Meaning: <strong>theology, divinity</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>神学（しんがく）と読みます。<span>Meaning: <strong>theology; divinity</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p30-q15",
-      "questionHtml": "<p>初詣の際に、神社で「神様」に一年の健康をお祈りした。「神様」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{昔話|むかしばなし}では、「神様」が{村|むら}の{人々|ひとびと}を{助|たす}ける{場面|ばめん}が{描|えが}かれています。「神様」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "しんさま" },
-        { "id": "b", "html": "じんさま" },
+        { "id": "b", "html": "かみざま" },
         { "id": "c", "html": "かみさま" },
-        { "id": "d", "html": "かみがた" }
+        { "id": "d", "html": "じんさま" }
       ],
       "correctAnswer": "c",
-      "explanationHtml": "<p>神様（かみさま）と読みます。<span>Meaning: <strong>god, deity</strong></span></p>"
+      "explanationHtml": "<p>神様（かみさま）と読みます。<span>Meaning: <strong>god; deity</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p30-q16",
-      "questionHtml": "<p>{彼|かれ}は少しの物音でも目が覚めてしまう「神経質」な性格だ。「神経質」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{兄|あに}は{少|すこ}し「神経質」な{性格|せいかく}で、{小|ちい}さな{音|おと}でも{気|き}になってしまいます。「神経質」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "しんけいしつ" },
+        { "id": "a", "html": "しんけいじつ" },
         { "id": "b", "html": "じんけいしつ" },
-        { "id": "c", "html": "しんきしつ" },
-        { "id": "d", "html": "かみけいしつ" }
+        { "id": "c", "html": "しんきょうしつ" },
+        { "id": "d", "html": "しんけいしつ" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>神経質（しんけいしつ）と読みます。<span>Meaning: <strong>too sensitive, nervous</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>神経質（しんけいしつ）と読みます。<span>Meaning: <strong>too sensitive; nervous; highly strung</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p30-q17",
-      "questionHtml": "<p>古代の人々は、巨大な岩や大木を「神」として崇めていた。「神」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{日本|にほん}の{古|ふる}い{伝説|でんせつ}には、{山|やま}や{海|うみ}に{住|す}む「神」が{登場|とうじょう}します。「神」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "かみ" },
         { "id": "b", "html": "しん" },
-        { "id": "c", "html": "じん" },
-        { "id": "d", "html": "たま" }
+        { "id": "c", "html": "かむ" },
+        { "id": "d", "html": "じん" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>神（かみ）と読みます。<span>Meaning: <strong>god, deity, spirit</strong></span></p>"
+      "explanationHtml": "<p>神（かみ）と読みます。<span>Meaning: <strong>god; deity; divinity; spirit; kami</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p30-q18",
-      "questionHtml": "<p>山奥にひっそりと佇む「古寺」を訪れ、のんびりと過ごした。「古寺」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{山|やま}の{中|なか}にある「古寺」を{訪|おとず}れると、{静|しず}かな{雰囲気|ふんいき}に{心|こころ}が{落|お}ち{着|つ}きました。「古寺」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "ふるでら" },
         { "id": "b", "html": "こじ" },
         { "id": "c", "html": "こてら" },
-        { "id": "d", "html": "ふるじ" }
+        { "id": "d", "html": "こうじ" }
       ],
       "correctAnswer": "b",
-      "explanationHtml": "<p>古寺（こじ）と読みます。<span>Meaning: <strong>old temple</strong></span></p>"
+      "explanationHtml": "<p>古寺（こじ）と読みます。<span>Meaning: <strong>old temple; ancient Buddhist temple</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p30-q19",
-      "questionHtml": "<p>神仏習合の歴史を伝える「宮寺」の遺構を詳しく調査する。「宮寺」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{歴史|れきし}の{授業|じゅぎょう}で、{神社|じんじゃ}の{境内|けいだい}に{建|た}てられた「宮寺」について{学|まな}びました。「宮寺」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "みやでら" },
         { "id": "b", "html": "きゅうじ" },
         { "id": "c", "html": "ぐうじ" },
-        { "id": "d", "html": "みやじ" }
+        { "id": "d", "html": "ぐじ" }
       ],
       "correctAnswer": "c",
       "explanationHtml": "<p>宮寺（ぐうじ）と読みます。<span>Meaning: <strong>Buddhist temple within a Shinto shrine</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p30-q20",
-      "questionHtml": "<p>奈良の有名な「寺院」を巡り、歴史ある仏像をたくさん鑑賞した。「寺院」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{京都|きょうと}には{歴史|れきし}のある「寺院」が{多|おお}く、{毎年|まいとし}たくさんの{観光客|かんこうきゃく}が{訪|おとず}れます。「寺院」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "てらいん" },
-        { "id": "b", "html": "じいん" },
-        { "id": "c", "html": "じえん" },
-        { "id": "d", "html": "しいん" }
+        { "id": "a", "html": "じえん" },
+        { "id": "b", "html": "てらいん" },
+        { "id": "c", "html": "しいん" },
+        { "id": "d", "html": "じいん" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>寺院（じいん）と読みます。<span>Meaning: <strong>Buddhist temple</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>寺院（じいん）と読みます。<span>Meaning: <strong>Buddhist temple; religious temple</strong></span></p>"
     }
   ]
 }

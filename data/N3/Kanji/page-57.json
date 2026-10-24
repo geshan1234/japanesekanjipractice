@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 57,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p57-q1",
+      "questionHtml": "<p>{会員|かいいん}に「登録」しました。「登録」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とうろ" },
+        { "id": "b", "html": "とうろく" },
+        { "id": "c", "html": "とろく" },
+        { "id": "d", "html": "どうろく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>登録（とうろく）と読みます。<span>Meaning: <strong>registration; accession; register; entry; record</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p57-q2",
+      "questionHtml": "<p>{夏休|なつやす}みに「登山」に{行|い}きます。「登山」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とざん" },
+        { "id": "b", "html": "とうやま" },
+        { "id": "c", "html": "のぼやま" },
+        { "id": "d", "html": "どざん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>登山（とざん）と読みます。<span>Meaning: <strong>mountain climbing</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p57-q3",
+      "questionHtml": "<p>{高|たか}い{山|やま}に「登る」。「登る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とる" },
+        { "id": "b", "html": "のる" },
+        { "id": "c", "html": "のぼる" },
+        { "id": "d", "html": "のぼす" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>登る（のぼる）と読みます。<span>Meaning: <strong>climb</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p57-q4",
+      "questionHtml": "<p>{会議|かいぎ}を「録音」します。「録音」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ろうおん" },
+        { "id": "b", "html": "ろくいん" },
+        { "id": "c", "html": "ろおん" },
+        { "id": "d", "html": "ろくおん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>録音（ろくおん）と読みます。<span>Meaning: <strong>record (sound)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p57-q5",
+      "questionHtml": "<p>{新|あたら}しい「記録」が{出|で}ました。「記録」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きりょく" },
+        { "id": "b", "html": "きろく" },
+        { "id": "c", "html": "ぎろく" },
+        { "id": "d", "html": "きらく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>記録（きろく）と読みます。<span>Meaning: <strong>record; minutes; document</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p57-q6",
+      "questionHtml": "<p>{番組|ばんぐみ}を「録画」しました。「録画」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ろくが" },
+        { "id": "b", "html": "ろうが" },
+        { "id": "c", "html": "ろくえ" },
+        { "id": "d", "html": "ろくがく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>録画（ろくが）と読みます。<span>Meaning: <strong>(video) recording</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p57-q7",
+      "questionHtml": "<p>「教育」は{大切|たいせつ}です。「教育」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きょうく" },
+        { "id": "b", "html": "きょうやく" },
+        { "id": "c", "html": "きょういく" },
+        { "id": "d", "html": "こういく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>教育（きょういく）と読みます。<span>Meaning: <strong>education; schooling; training; instruction; teaching; upbringing</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p57-q8",
+      "questionHtml": "<p>{今日|きょう}は「体育」の{授業|じゅぎょう}があります。「体育」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たいく" },
+        { "id": "b", "html": "たいやく" },
+        { "id": "c", "html": "ていいく" },
+        { "id": "d", "html": "たいいく" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>体育（たいいく）と読みます。<span>Meaning: <strong>physical education; PE; gym (class)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p57-q9",
+      "questionHtml": "<p>{妹|いもうと}は「保育」{園|えん}で{働|はたら}いています。「保育」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほうい" },
+        { "id": "b", "html": "ほいく" },
+        { "id": "c", "html": "ほうく" },
+        { "id": "d", "html": "ぼいく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>保育（ほいく）と読みます。<span>Meaning: <strong>nurturing; rearing; childcare; day care</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p57-q10",
+      "questionHtml": "<p>{子供|こども}が{元気|げんき}に「育つ」。「育つ」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そだつ" },
+        { "id": "b", "html": "そだる" },
+        { "id": "c", "html": "そだず" },
+        { "id": "d", "html": "いくつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>育つ（そだつ）と読みます。<span>Meaning: <strong>to be raised (e.g. child); to be brought up; to grow (up)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p57-q11",
+      "questionHtml": "<p>{花|はな}を「育てる」。「育てる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そだえる" },
+        { "id": "b", "html": "いくてる" },
+        { "id": "c", "html": "そだてる" },
+        { "id": "d", "html": "そたてる" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>育てる（そだてる）と読みます。<span>Meaning: <strong>to raise; to rear; to bring up</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p57-q12",
+      "questionHtml": "<p>{色|いろ}の「種類」が{多|おお}いです。「種類」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅうるい" },
+        { "id": "b", "html": "しゅい" },
+        { "id": "c", "html": "しるい" },
+        { "id": "d", "html": "しゅるい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>種類（しゅるい）と読みます。<span>Meaning: <strong>variety; kind; type; category</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p57-q13",
+      "questionHtml": "<p>「種々」の{意見|いけん}が{出|で}ました。「種々」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅじゅ" },
+        { "id": "b", "html": "しゅしゅ" },
+        { "id": "c", "html": "しゅうしゅう" },
+        { "id": "d", "html": "たねたね" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>種々（しゅじゅ）と読みます。<span>Meaning: <strong>various; a variety of; all kinds of; many; diverse</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p57-q14",
+      "questionHtml": "<p>{植物|しょくぶつ}の「種子」を{集|あつ}めます。「種子」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅこ" },
+        { "id": "b", "html": "しゅし" },
+        { "id": "c", "html": "しゅうし" },
+        { "id": "d", "html": "たねこ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>種子（しゅし）と読みます。<span>Meaning: <strong>seed; pit</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p57-q15",
+      "questionHtml": "<p>{好|す}きな「種目」を{選|えら}んでください。「種目」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅめ" },
+        { "id": "b", "html": "たねめ" },
+        { "id": "c", "html": "しゅもく" },
+        { "id": "d", "html": "しゅうもく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>種目（しゅもく）と読みます。<span>Meaning: <strong>item; event</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p57-q16",
+      "questionHtml": "<p>{新|あたら}しい「品種」の{米|こめ}です。「品種」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひんしゅう" },
+        { "id": "b", "html": "ひんじゅ" },
+        { "id": "c", "html": "しなだね" },
+        { "id": "d", "html": "ひんしゅ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>品種（ひんしゅ）と読みます。<span>Meaning: <strong>type (of goods); sort</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p57-q17",
+      "questionHtml": "<p>「各種」の{割引|わりびき}があります。「各種」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かくしゅ" },
+        { "id": "b", "html": "かくしゅう" },
+        { "id": "c", "html": "かくじゅ" },
+        { "id": "d", "html": "おのだね" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>各種（かくしゅ）と読みます。<span>Meaning: <strong>every kind; all sorts</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p57-q18",
+      "questionHtml": "<p>{庭|にわ}に「種」を{植|う}えます。「種」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅ" },
+        { "id": "b", "html": "たね" },
+        { "id": "c", "html": "ふね" },
+        { "id": "d", "html": "たえ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>種（たね）と読みます。<span>Meaning: <strong>seed (e.g. of a plant); pip; kind; variety; quality; tone</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p57-q19",
+      "questionHtml": "<p>「菜種」{油|あぶら}で{料理|りょうり}を{作|つく}ります。「菜種」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "なしゅ" },
+        { "id": "b", "html": "さいしゅ" },
+        { "id": "c", "html": "なたね" },
+        { "id": "d", "html": "なだね" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>菜種（なたね）と読みます。<span>Meaning: <strong>rapeseed, coleseed</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p57-q20",
+      "questionHtml": "<p>「書類」を{提出|ていしゅつ}してください。「書類」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょるい" },
+        { "id": "b", "html": "しょうるい" },
+        { "id": "c", "html": "しょりゅう" },
+        { "id": "d", "html": "かきるい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>書類（しょるい）と読みます。<span>Meaning: <strong>documents; official papers</strong></span></p>"
+    }
+  ]
+}

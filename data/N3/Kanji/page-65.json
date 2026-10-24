@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 65,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p65-q1",
+      "questionHtml": "<p>この{店|みせ}では、{外国|がいこく}からの{旅行者|りょこうしゃ}は{条件|じょうけん}を{満|み}たせば「免税」で{買|か}い{物|もの}ができます。「免税」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "めんせい" },
+        { "id": "b", "html": "めんぜい" },
+        { "id": "c", "html": "まんぜい" },
+        { "id": "d", "html": "めいぜい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>免税（めんぜい）と読みます。<span>Meaning: <strong>tax exemption; duty exemption</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p65-q2",
+      "questionHtml": "<p>この{商品|しょうひん}が「課税」の{対象|たいしょう}になるかどうか、{確認|かくにん}する{必要|ひつよう}があります。「課税」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かせい" },
+        { "id": "b", "html": "がぜい" },
+        { "id": "c", "html": "かさい" },
+        { "id": "d", "html": "かぜい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>課税（かぜい）と読みます。<span>Meaning: <strong>taxation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p65-q3",
+      "questionHtml": "<p>{政府|せいふ}は、{来年|らいねん}から{一部|いちぶ}の{商品|しょうひん}の「税率」を{変更|へんこう}する{予定|よてい}です。「税率」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぜいりつ" },
+        { "id": "b", "html": "せいりつ" },
+        { "id": "c", "html": "ぜいそつ" },
+        { "id": "d", "html": "ぜいりち" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>税率（ぜいりつ）と読みます。<span>Meaning: <strong>tax rate; tariff rate</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p65-q4",
+      "questionHtml": "<p>{国民|こくみん}の{生活|せいかつ}を{支|ささ}えるために、「減税」を{求|もと}める{声|こえ}が{増|ふ}えています。「減税」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けんぜい" },
+        { "id": "b", "html": "げんせい" },
+        { "id": "c", "html": "げんぜい" },
+        { "id": "d", "html": "げんさい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>減税（げんぜい）と読みます。<span>Meaning: <strong>tax reduction; tax cut</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p65-q5",
+      "questionHtml": "<p>{彼|かれ}は{会社|かいしゃ}の「税務」を{担当|たんとう}していて、{毎年|まいとし}{必要|ひつよう}な{書類|しょるい}を{準備|じゅんび}しています。「税務」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぜいむ" },
+        { "id": "b", "html": "せいむ" },
+        { "id": "c", "html": "ぜいぶ" },
+        { "id": "d", "html": "ぜいま" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>税務（ぜいむ）と読みます。<span>Meaning: <strong>tax affairs; taxation business</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p65-q6",
+      "questionHtml": "<p>{税金|ぜいきん}について{分|わ}からないことがあったので、「税務署」に{行|い}って{相談|そうだん}しました。「税務署」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいむしょ" },
+        { "id": "b", "html": "ぜいむじょ" },
+        { "id": "c", "html": "ぜいぶしょ" },
+        { "id": "d", "html": "ぜいむしょ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>税務署（ぜいむしょ）と読みます。<span>Meaning: <strong>tax office</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p65-q7",
+      "questionHtml": "<p>{日本|にほん}では、{多|おお}くの{商品|しょうひん}やサービスに「消費税」がかかります。「消費税」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうひせい" },
+        { "id": "b", "html": "しょうひぜい" },
+        { "id": "c", "html": "しょうびぜい" },
+        { "id": "d", "html": "しょうひさい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>消費税（しょうひぜい）と読みます。<span>Meaning: <strong>consumption tax; sales tax; VAT</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p65-q8",
+      "questionHtml": "<p>{朝|あさ}の{電車|でんしゃ}はとても「込む」ので、いつも{少|すこ}し{早|はや}く{家|いえ}を{出|で}ます。「込む」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こめる" },
+        { "id": "b", "html": "くむ" },
+        { "id": "c", "html": "こむ" },
+        { "id": "d", "html": "こんむ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>込む（こむ）と読みます。<span>Meaning: <strong>to be crowded; to be packed</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p65-q9",
+      "questionHtml": "<p>{母|はは}は{私|わたし}の{誕生日|たんじょうび}に、{心|こころ}を「込める」ことが{大切|たいせつ}だと{言|い}いながら、{手紙|てがみ}を{書|か}いてくれました。「込める」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こめる" },
+        { "id": "b", "html": "こむる" },
+        { "id": "c", "html": "こえる" },
+        { "id": "d", "html": "こもる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>込める（こめる）と読みます。<span>Meaning: <strong>to put into; to fill with; to put one's feelings into; to load</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p65-q10",
+      "questionHtml": "<p>{来月|らいげつ}の{日本語|にほんご}{試験|しけん}に「申し込む」ために、{必要|ひつよう}な{情報|じょうほう}を{入力|にゅうりょく}しました。「申し込む」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "もうしこめる" },
+        { "id": "b", "html": "もうしごむ" },
+        { "id": "c", "html": "もうしこみ" },
+        { "id": "d", "html": "もうしこむ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>申し込む（もうしこむ）と読みます。<span>Meaning: <strong>to apply for; to make an application</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p65-q11",
+      "questionHtml": "<p>{人気|にんき}のあるイベントなので、「申し込み」は{今週|こんしゅう}の{金曜日|きんようび}までに{済|す}ませてください。「申し込み」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "もうしこむ" },
+        { "id": "b", "html": "もうしこみ" },
+        { "id": "c", "html": "もうしごみ" },
+        { "id": "d", "html": "もうしこめ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>申し込み（もうしこみ）と読みます。<span>Meaning: <strong>application; entry; request; subscription; offer</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p65-q12",
+      "questionHtml": "<p>{暑|あつ}かったので、{子供|こども}たちは{次々|つぎつぎ}とプールに「飛び込む」ことにしました。「飛び込む」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とびこむ" },
+        { "id": "b", "html": "とびこめる" },
+        { "id": "c", "html": "とびごむ" },
+        { "id": "d", "html": "ひびこむ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>飛び込む（とびこむ）と読みます。<span>Meaning: <strong>to jump in; to leap in; to plunge into; to dive</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p65-q13",
+      "questionHtml": "<p>{家賃|やちん}を{払|はら}うために、{毎月|まいつき}{銀行|ぎんこう}から{大家|おおや}さんの{口座|こうざ}にお{金|かね}を「振り込む」ことにしています。「振り込む」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふりこめる" },
+        { "id": "b", "html": "ふるこむ" },
+        { "id": "c", "html": "ふりこむ" },
+        { "id": "d", "html": "ふりごむ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>振り込む（ふりこむ）と読みます。<span>Meaning: <strong>to transfer money; to make a payment by bank transfer</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p65-q14",
+      "questionHtml": "<p>このレストランのランチは「税込み」で{千円|せんえん}なので、{追加|ついか}の{税金|ぜいきん}を{払|はら}う{必要|ひつよう}はありません。「税込み」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぜいごみ" },
+        { "id": "b", "html": "せいこみ" },
+        { "id": "c", "html": "ぜいこむ" },
+        { "id": "d", "html": "ぜいこみ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>税込み（ぜいこみ）と読みます。<span>Meaning: <strong>tax included; including tax</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p65-q15",
+      "questionHtml": "<p>{最近|さいきん}は「物価」が{上|あ}がっているため、{生活費|せいかつひ}を{節約|せつやく}する{家庭|かてい}が{増|ふ}えています。「物価」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ものか" },
+        { "id": "b", "html": "ぶっか" },
+        { "id": "c", "html": "ぶつか" },
+        { "id": "d", "html": "ぶっけ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>物価（ぶっか）と読みます。<span>Meaning: <strong>commodity prices; general prices; cost of living</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p65-q16",
+      "questionHtml": "<p>このパソコンは{性能|せいのう}が{高|たか}いですが、「価格」も{高|たか}いため、{買|か}うかどうか{迷|まよ}っています。「価格」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かかく" },
+        { "id": "b", "html": "かがく" },
+        { "id": "c", "html": "かきゃく" },
+        { "id": "d", "html": "かくか" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>価格（かかく）と読みます。<span>Meaning: <strong>price; value; cost</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p65-q17",
+      "questionHtml": "<p>この{商品|しょうひん}の「定価」は{五千円|ごせんえん}ですが、セール{期間中|きかんちゅう}は{三千円|さんぜんえん}で{買|か}えます。「定価」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じょうか" },
+        { "id": "b", "html": "ていが" },
+        { "id": "c", "html": "ていか" },
+        { "id": "d", "html": "ていけ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>定価（ていか）と読みます。<span>Meaning: <strong>list price; regular price; established price</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p65-q18",
+      "questionHtml": "<p>{毎日|まいにち}{一生懸命|いっしょうけんめい}{勉強|べんきょう}したおかげで、{日本語|にほんご}の{試験|しけん}に「合格」することができました。「合格」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ごうかく" },
+        { "id": "b", "html": "こうかく" },
+        { "id": "c", "html": "ごうがく" },
+        { "id": "d", "html": "あいかく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>合格（ごうかく）と読みます。<span>Meaning: <strong>passing an examination; success; passing grade</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p65-q19",
+      "questionHtml": "<p>{兄|あに}は{明|あか}るい「性格」で、{初|はじ}めて{会|あ}った{人|ひと}ともすぐに{仲良|なかよ}くなれます。「性格」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいかく" },
+        { "id": "b", "html": "しょうかく" },
+        { "id": "c", "html": "せいがく" },
+        { "id": "d", "html": "せいきゃく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>性格（せいかく）と読みます。<span>Meaning: <strong>character; personality</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p65-q20",
+      "questionHtml": "<p>インターネットで{同|おな}じ{商品|しょうひん}の「価格」を{比較|ひかく}してから、{一番|いちばん}{安|やす}い{店|みせ}で{注文|ちゅうもん}しました。「価格」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かがく" },
+        { "id": "b", "html": "かきゃく" },
+        { "id": "c", "html": "かくか" },
+        { "id": "d", "html": "かかく" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>価格（かかく）と読みます。<span>Meaning: <strong>price; value; cost</strong></span></p>"
+    }
+  ]
+}

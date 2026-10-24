@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 99,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p99-q1",
+      "questionHtml": "<p>このアプリは{操作|そうさ}が「容易」なので、{初|はじ}めて{使|つか}う{人|ひと}でもすぐに{慣|な}れることができます。「容易」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ようえき" },
+        { "id": "b", "html": "ようい" },
+        { "id": "c", "html": "よい" },
+        { "id": "d", "html": "ようやす" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>容易（ようい）と読みます。<span>Meaning: <strong>easy; simple; plain</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p99-q2",
+      "questionHtml": "<p>{試験|しけん}の「難易」は{問題|もんだい}によって{異|こと}なるため、{簡単|かんたん}なものから{解|と}くといいでしょう。「難易」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "なんえき" },
+        { "id": "b", "html": "だんい" },
+        { "id": "c", "html": "なんやく" },
+        { "id": "d", "html": "なんい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>難易（なんい）と読みます。<span>Meaning: <strong>relative difficulty; degree of difficulty</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p99-q3",
+      "questionHtml": "<p>{旅行|りょこう}に{行|い}く{前|まえ}に、スマートフォンで「簡易」な{地図|ちず}を{作成|さくせい}しました。「簡易」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かんい" },
+        { "id": "b", "html": "かんえき" },
+        { "id": "c", "html": "けんい" },
+        { "id": "d", "html": "かんやす" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>簡易（かんい）と読みます。<span>Meaning: <strong>simplicity; easiness; simplified form</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p99-q4",
+      "questionHtml": "<p>この{本|ほん}は{難|むずか}しい{内容|ないよう}を「平易」な{言葉|ことば}で{説明|せつめい}しているので、{初心者|しょしんしゃ}にもおすすめです。「平易」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひらい" },
+        { "id": "b", "html": "へいえき" },
+        { "id": "c", "html": "へいい" },
+        { "id": "d", "html": "へいやす" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>平易（へいい）と読みます。<span>Meaning: <strong>easy; simple; plain; easy to understand</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p99-q5",
+      "questionHtml": "<p>この{問題|もんだい}は「易しい」ので、{小学生|しょうがくせい}でも{答|こた}えることができます。「易しい」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "やさしい" },
+        { "id": "b", "html": "やすしい" },
+        { "id": "c", "html": "いしい" },
+        { "id": "d", "html": "ようしい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>易しい（やさしい）と読みます。<span>Meaning: <strong>easy; plain; simple</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p99-q6",
+      "questionHtml": "<p>この{会社|かいしゃ}は{日本|にほん}で{作|つく}った{自動車|じどうしゃ}を{海外|かいがい}へ「輸出」しています。「輸出」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆで" },
+        { "id": "b", "html": "ゆしゅつ" },
+        { "id": "c", "html": "ゆじゅつ" },
+        { "id": "d", "html": "ゆしゅう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>輸出（ゆしゅつ）と読みます。<span>Meaning: <strong>export; exporting goods</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p99-q7",
+      "questionHtml": "<p>{日本|にほん}は{外国|がいこく}から{石油|せきゆ}や{食料品|しょくりょうひん}などを「輸入」しています。「輸入」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆじゅう" },
+        { "id": "b", "html": "ゆにゅ" },
+        { "id": "c", "html": "ゆにゅう" },
+        { "id": "d", "html": "ゆいり" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>輸入（ゆにゅう）と読みます。<span>Meaning: <strong>import; importing goods</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p99-q8",
+      "questionHtml": "<p>{大雨|おおあめ}の{影響|えいきょう}で、{被災地|ひさいち}への{救援物資|きゅうえんぶっし}の「輸送」が{遅|おく}れています。「輸送」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆそう" },
+        { "id": "b", "html": "ゆぞう" },
+        { "id": "c", "html": "ゆおく" },
+        { "id": "d", "html": "ゆしょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>輸送（ゆそう）と読みます。<span>Meaning: <strong>transportation; transport; shipping; conveyance</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p99-q9",
+      "questionHtml": "<p>この{仕事|しごと}には、{少|すく}なくとも{三年|さんねん}の{経験|けいけん}に「相当」する{能力|のうりょく}が{必要|ひつよう}です。「相当」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうとう" },
+        { "id": "b", "html": "そうどう" },
+        { "id": "c", "html": "あいとう" },
+        { "id": "d", "html": "そうとう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>相当（そうとう）と読みます。<span>Meaning: <strong>corresponding to; equivalent to; considerable; appropriate</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p99-q10",
+      "questionHtml": "<p>{両国|りょうこく}は「相互」の{理解|りかい}を{深|ふか}めるために、{文化交流|ぶんかこうりゅう}を{続|つづ}けています。「相互」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そうご" },
+        { "id": "b", "html": "しょうご" },
+        { "id": "c", "html": "そうこ" },
+        { "id": "d", "html": "あいご" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>相互（そうご）と読みます。<span>Meaning: <strong>mutual; reciprocal; each other</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p99-q11",
+      "questionHtml": "<p>{二人|ふたり}の{説明|せつめい}には「相違」があったため、{先生|せんせい}はもう{一度|いちど}{確認|かくにん}しました。「相違」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そうぎ" },
+        { "id": "b", "html": "そうい" },
+        { "id": "c", "html": "しょうい" },
+        { "id": "d", "html": "あいい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>相違（そうい）と読みます。<span>Meaning: <strong>difference; discrepancy; variation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p99-q12",
+      "questionHtml": "<p>{警察|けいさつ}は{事件|じけん}の「真相」を{明|あき}らかにするために、{詳|くわ}しい{調査|ちょうさ}を{進|すす}めています。「真相」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんしょう" },
+        { "id": "b", "html": "まそう" },
+        { "id": "c", "html": "しんそう" },
+        { "id": "d", "html": "しんぞう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>真相（しんそう）と読みます。<span>Meaning: <strong>truth; real situation; actual facts</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p99-q13",
+      "questionHtml": "<p>{将来|しょうらい}の{仕事|しごと}について{悩|なや}んでいたので、{先生|せんせい}に「相談」しました。「相談」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そうだん" },
+        { "id": "b", "html": "しょうだん" },
+        { "id": "c", "html": "そうたん" },
+        { "id": "d", "html": "そうなん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>相談（そうだん）と読みます。<span>Meaning: <strong>consultation; discussion; seeking advice</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p99-q14",
+      "questionHtml": "<p>{試合|しあい}の「相手」は{去年|きょねん}の{優勝|ゆうしょう}チームなので、{十分|じゅうぶん}に{準備|じゅんび}する{必要|ひつよう}があります。「相手」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そうて" },
+        { "id": "b", "html": "あいしゅ" },
+        { "id": "c", "html": "あいて" },
+        { "id": "d", "html": "そうしゅ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>相手（あいて）と読みます。<span>Meaning: <strong>partner; companion; opponent; the other party</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p99-q15",
+      "questionHtml": "<p>{日本|にほん}の「首相」は{国会|こっかい}で{経済政策|けいざいせいさく}について{説明|せつめい}しました。「首相」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅそう" },
+        { "id": "b", "html": "しゅしょう" },
+        { "id": "c", "html": "くびそう" },
+        { "id": "d", "html": "しゅじょう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>首相（しゅしょう）と読みます。<span>Meaning: <strong>Prime Minister; Chancellor; Premier</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p99-q16",
+      "questionHtml": "<p>{外国|がいこく}の「文化」を{理解|りかい}するために、その{国|くに}の{歴史|れきし}や{生活習慣|せいかつしゅうかん}を{学|まな}んでいます。「文化」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぶんげ" },
+        { "id": "b", "html": "もんか" },
+        { "id": "c", "html": "ぶんが" },
+        { "id": "d", "html": "ぶんか" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>文化（ぶんか）と読みます。<span>Meaning: <strong>culture; civilization</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p99-q17",
+      "questionHtml": "<p>{高校|こうこう}の「化学」の{授業|じゅぎょう}では、{水|みず}や{空気|くうき}の{性質|せいしつ}について{学|まな}びました。「化学」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かがく" },
+        { "id": "b", "html": "ばがく" },
+        { "id": "c", "html": "かまなび" },
+        { "id": "d", "html": "けがく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>化学（かがく）と読みます。<span>Meaning: <strong>chemistry</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p99-q18",
+      "questionHtml": "<p>{姉|あね}は{出|で}かける{前|まえ}に、いつも{鏡|かがみ}の{前|まえ}で「化粧」をしています。「化粧」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かしょう" },
+        { "id": "b", "html": "けじょう" },
+        { "id": "c", "html": "けしょう" },
+        { "id": "d", "html": "かそう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>化粧（けしょう）と読みます。<span>Meaning: <strong>makeup; cosmetics; applying makeup</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p99-q19",
+      "questionHtml": "<p>{新|あたら}しいパソコンを{買|か}う{前|まえ}に、いくつかの{製品|せいひん}の{性能|せいのう}と{価格|かかく}を「比較」しました。「比較」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひこう" },
+        { "id": "b", "html": "ひかく" },
+        { "id": "c", "html": "びかく" },
+        { "id": "d", "html": "ひきょう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>比較（ひかく）と読みます。<span>Meaning: <strong>comparison; comparing</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p99-q20",
+      "questionHtml": "<p>{働|はたら}いた{時間|じかん}に「比例」して、{給料|きゅうりょう}が{増|ふ}える{仕組|しく}みになっています。「比例」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひれい" },
+        { "id": "b", "html": "びれい" },
+        { "id": "c", "html": "ひれつ" },
+        { "id": "d", "html": "ひりょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>比例（ひれい）と読みます。<span>Meaning: <strong>proportion; proportional relationship</strong></span></p>"
+    }
+  ]
+}

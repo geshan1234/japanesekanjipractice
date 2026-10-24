@@ -1,3 +1,4 @@
+
 {
   "metadata": {
     "level": "N3",
@@ -9,43 +10,43 @@
   "questions": [
     {
       "id": "N3-Kanji-p39-q1",
-      "questionHtml": "<p>ベテランの「警部」が、事件の捜査令状を手に現場の指揮を執る。「警部」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{事件|じけん}の{捜査|そうさ}を{担当|たんとう}している「警部」は、{部下|ぶか}たちに{新|あたら}しい{指示|しじ}を{出|だ}しました。「警部」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "けいぶ" },
+        { "id": "a", "html": "けいふ" },
         { "id": "b", "html": "きょうぶ" },
-        { "id": "c", "html": "けいほう" },
-        { "id": "d", "html": "けいぷ" }
+        { "id": "c", "html": "けいべ" },
+        { "id": "d", "html": "けいぶ" }
       ],
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "explanationHtml": "<p>警部（けいぶ）と読みます。<span>Meaning: <strong>police inspector</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p39-q2",
-      "questionHtml": "<p>拍子木の音を響かせながら、「夜警」のスタッフが街の火の用心を呼びかけている。「夜警」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{昔|むかし}の{村|むら}では、「夜警」が{夜中|よなか}に{見回|みまわ}りをして、{住民|じゅうみん}の{安全|あんぜん}を{守|まも}っていました。「夜警」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "よるけい" },
-        { "id": "b", "html": "やけい" },
+        { "id": "a", "html": "やけい" },
+        { "id": "b", "html": "よけい" },
         { "id": "c", "html": "やきょう" },
-        { "id": "d", "html": "よけい" }
+        { "id": "d", "html": "やげい" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>夜警（やけい）と読みます。<span>Meaning: <strong>night watchman, night watch</strong></span></p>"
+      "correctAnswer": "a",
+      "explanationHtml": "<p>夜警（やけい）と読みます。<span>Meaning: <strong>night watchman; night watch</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p39-q3",
-      "questionHtml": "<p>大阪「府警」は、繁華街の治安維持に向けてパトロールを強化した。「府警」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{大阪|おおさか}の「府警」は、{交通事故|こうつうじこ}を{減|へ}らすために{新|あたら}しい{安全対策|あんぜんたいさく}を{発表|はっぴょう}しました。「府警」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ふけい" },
-        { "id": "b", "html": "ふきょう" },
-        { "id": "c", "html": "ふげい" },
-        { "id": "d", "html": "おんなけい" }
+        { "id": "a", "html": "ぶけい" },
+        { "id": "b", "html": "ふけい" },
+        { "id": "c", "html": "ふきょう" },
+        { "id": "d", "html": "ふげい" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>府警（ふけい）と読みます。<span>Meaning: <strong>prefectural police (specifically Osaka or Kyoto)</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>府警（ふけい）と読みます。<span>Meaning: <strong>prefectural police (Osaka or Kyoto)</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p39-q4",
-      "questionHtml": "<p>{各|かく}{自治体|じちたい}が管轄する「市警」のネットワークが、広域捜査をサポートする。「市警」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{古|ふる}い{新聞|しんぶん}には、「市警」が{地域|ちいき}の{治安|ちあん}を{守|まも}るために{活動|かつどう}していたと{書|か}かれています。「市警」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "いちけい" },
         { "id": "b", "html": "しきょう" },
@@ -53,187 +54,199 @@
         { "id": "d", "html": "じけい" }
       ],
       "correctAnswer": "c",
-      "explanationHtml": "<p>市警（しけい）と読みます。<span>Meaning: <strong>city police, municipal police</strong></span></p>"
+      "explanationHtml": "<p>市警（しけい）と読みます。<span>Meaning: <strong>city police; municipal police</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p39-q5",
-      "questionHtml": "<p>迷子の子供を優しく保護している「婦警」の姿が印象的だった。「婦警」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{昔|むかし}の{映画|えいが}に{登場|とうじょう}する「婦警」は、{迷子|まいご}の{子供|こども}を{親切|しんせつ}に{助|たす}けていました。「婦警」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "ふけい" },
-        { "id": "b", "html": "おんなけい" },
+        { "id": "b", "html": "ぶけい" },
         { "id": "c", "html": "ふきょう" },
-        { "id": "d", "html": "ぶけい" }
+        { "id": "d", "html": "ふげい" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>婦警（ふけい）と読みます。<span>Meaning: <strong>policewoman</strong></span></p>"
+      "explanationHtml": "<p>婦警（ふけい）と読みます。<span>Meaning: <strong>policewoman; female police officer</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p39-q6",
-      "questionHtml": "<p>{違法|いほう}駐車を取り締まるために、「警察」が定期的な巡回を行っている。「警察」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{近所|きんじょ}で{盗難事件|とうなんじけん}が{起|お}きたため、「警察」が{現場|げんば}に{来|き}て{調査|ちょうさ}を{始|はじ}めました。「警察」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "けいさつ" },
-        { "id": "b", "html": "きょうさつ" },
-        { "id": "c", "html": "けいさつめ" },
-        { "id": "d", "html": "けいざつ" }
+        { "id": "a", "html": "けいざつ" },
+        { "id": "b", "html": "けいさつ" },
+        { "id": "c", "html": "きょうさつ" },
+        { "id": "d", "html": "けいせつ" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>警察（けいさつ）と読みます。<span>Meaning: <strong>police</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>警察（けいさつ）と読みます。<span>Meaning: <strong>police; police force</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p39-q7",
-      "questionHtml": "<p>スピードの出しすぎは重大な事故につながると、ドライバーに「警告」する。「警告」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{先生|せんせい}は{試験中|しけんちゅう}にスマートフォンを{使|つか}った{学生|がくせい}に「警告」を{与|あた}えました。「警告」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "けいこく" },
-        { "id": "b", "html": "けいごく" },
-        { "id": "c", "html": "きょうこく" },
-        { "id": "d", "html": "けいこくめ" }
+        { "id": "a", "html": "けいごく" },
+        { "id": "b", "html": "けいこっく" },
+        { "id": "c", "html": "けいこく" },
+        { "id": "d", "html": "きょうこく" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>警告（けいこく）と読みます。<span>Meaning: <strong>warning, advice</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>警告（けいこく）と読みます。<span>Meaning: <strong>warning; advice; caution</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p39-q8",
-      "questionHtml": "<p>{体調|たいちょう}に不安があるので、一度専門の医師に「診察」してもらう。「診察」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{熱|ねつ}が{三日間|みっかかん}{続|つづ}いたので、{病院|びょういん}で{医師|いし}の「診察」を{受|う}けました。「診察」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "しんさつ" },
-        { "id": "b", "html": "みるさつ" },
+        { "id": "a", "html": "しんざつ" },
+        { "id": "b", "html": "しんせつ" },
         { "id": "c", "html": "じんさつ" },
-        { "id": "d", "html": "しんざつ" }
+        { "id": "d", "html": "しんさつ" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>診察（診察）と読みます。<span>Meaning: <strong>medical examination</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>診察（しんさつ）と読みます。<span>Meaning: <strong>medical examination; consultation</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p39-q9",
-      "questionHtml": "<p>昆虫の生態を詳しく「観察」し、その結果をノートに記録する。「観察」の{読|よ}み{方|かた}はどれですか？</p>",
-      "options": [
-        { "id": "a", "html": "みさつ" },
-        { "id": "b", "html": "がんさつ" },
-        { "id": "c", "html": "かんさつ" },
-        { "id": "d", "html": "かんざつ" }
-      ],
-      "correctAnswer": "c",
-      "explanationHtml": "<p>観察（かんさつ）と読みます。<span>Meaning: <strong>observation, survey, watching</strong></span></p>"
-    },
-    {
-      "id": "N3-Kanji-p39-q10",
-      "questionHtml": "<p>海外の最新プラントの稼働状況を調べるため、現地を「視察」した。「視察」の{読|よ}み{方|かた}はどれですか？</p>",
-      "options": [
-        { "id": "a", "html": "しさつ" },
-        { "id": "b", "html": "みさつ" },
-        { "id": "c", "html": "じさつ" },
-        { "id": "d", "html": "しざつ" }
-      ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>視察（しさつ）と読みます。<span>Meaning: <strong>inspection, observation</strong></span></p>"
-    },
-    {
-      "id": "N3-Kanji-p39-q11",
-      "questionHtml": "<p>{実験|じっけん}データに基づいて、今後の開発プランについて「考察」を加える。「考察」の{読|よ}み{方|かた}はどれですか？</p>",
-      "options": [
-        { "id": "a", "html": "こうさつ" },
-        { "id": "b", "html": "かんがえさつ" },
-        { "id": "c", "html": "ごうさつ" },
-        { "id": "d", "html": "こうざつ" }
-      ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>考察（こうさつ）と読みます。<span>Meaning: <strong>consideration, investigation, study</strong></span></p>"
-    },
-    {
-      "id": "N3-Kanji-p39-q12",
-      "questionHtml": "<p>重大な事件の真相を明らかにするため、「検察」官が証拠を集めている。「検察」の{読|よ}み{方|かた}はどれですか？</p>",
-      "options": [
-        { "id": "a", "html": "けんさつ" },
-        { "id": "b", "html": "しらべさつ" },
-        { "id": "c", "html": "げんさつ" },
-        { "id": "d", "html": "けんざつ" }
-      ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>検察（けんさつ）と読みます。<span>Meaning: <strong>examination, investigation, prosecution</strong></span></p>"
-    },
-    {
-      "id": "N3-Kanji-p39-q13",
-      "questionHtml": "<p>{彼|かれ}は相手のわずかな表情の変化から心理を読み取る「洞察」力がある。「洞察」の{読|よ}み{方|かた}はどれですか？</p>",
-      "options": [
-        { "id": "a", "html": "どうさつ" },
-        { "id": "b", "html": "とうさつ" },
-        { "id": "c", "html": "ほらさつ" },
-        { "id": "d", "html": "どうざつ" }
-      ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>洞察（どうさつ）と読みます。<span>Meaning: <strong>discernment, insight</strong></span></p>"
-    },
-    {
-      "id": "N3-Kanji-p39-q14",
-      "questionHtml": "<p>{連絡|れんらく}が途絶えた理由について、様々な状況から「推察」する。「推察」の{読|よ}み{方|かた}はどれですか？</p>",
-      "options": [
-        { "id": "a", "html": "おしえさつ" },
-        { "id": "b", "html": "すいさつ" },
-        { "id": "c", "html": "すいざつ" },
-        { "id": "d", "html": "さいさつ" }
-      ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>推察（推察）と読みます。<span>Meaning: <strong>guess, conjecture, surmise</strong></span></p>"
-    },
-    {
-      "id": "N3-Kanji-p39-q15",
-      "questionHtml": "<p>敵陣の配置や防御の薄いポイントを探るため、飛行機で「偵察」を行う。「偵察」の{読|よ}み{方|かた}はどれですか？</p>",
-      "options": [
-        { "id": "a", "html": "ていさつ" },
-        { "id": "b", "html": "ていざつ" },
-        { "id": "c", "html": "たいさつ" },
-        { "id": "d", "html": "てんさつ" }
-      ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>偵察（てい察）と読みます。<span>Meaning: <strong>scouting, reconnaissance</strong></span></p>"
-    },
-    {
-      "id": "N3-Kanji-p39-q16",
-      "questionHtml": "<p>{組織|そしき}内の不正行為を防ぐために、独立した「監察」官が任命された。「監察」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{理科|りか}の{授業|じゅぎょう}では、{植物|しょくぶつ}の{成長|せいちょう}を「観察」して、{毎日|まいにち}{記録|きろく}をつけました。「観察」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "かんさつ" },
         { "id": "b", "html": "かんざつ" },
-        { "id": "c", "html": "らんさつ" },
-        { "id": "d", "html": "げんさつ" }
+        { "id": "c", "html": "がんさつ" },
+        { "id": "d", "html": "かんせつ" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>監察（監察）と読みます。<span>Meaning: <strong>inspection, inspector (official audit)</strong></span></p>"
+      "explanationHtml": "<p>観察（かんさつ）と読みます。<span>Meaning: <strong>observation; survey; watching</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p39-q10",
+      "questionHtml": "<p>{市長|しちょう}は{新|あたら}しく{建設|けんせつ}された{学校|がっこう}を「視察」し、{設備|せつび}の{安全性|あんぜんせい}を{確認|かくにん}しました。「視察」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じさつ" },
+        { "id": "b", "html": "しさつ" },
+        { "id": "c", "html": "しざつ" },
+        { "id": "d", "html": "しせつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>視察（しさつ）と読みます。<span>Meaning: <strong>inspection; observation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p39-q11",
+      "questionHtml": "<p>{研究者|けんきゅうしゃ}は{実験|じっけん}の{結果|けっか}を{詳|くわ}しく「考察」し、{新|あたら}しい{仮説|かせつ}を{立|た}てました。「考察」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうざつ" },
+        { "id": "b", "html": "こうせつ" },
+        { "id": "c", "html": "こうさつ" },
+        { "id": "d", "html": "かんさつ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>考察（こうさつ）と読みます。<span>Meaning: <strong>consideration; inquiry; enquiry; investigation; study</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p39-q12",
+      "questionHtml": "<p>{重大|じゅうだい}な{事件|じけん}について、「検察」は{証拠|しょうこ}を{集|あつ}め、{関係者|かんけいしゃ}から{話|はなし}を{聞|き}きました。「検察」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けんざつ" },
+        { "id": "b", "html": "げんさつ" },
+        { "id": "c", "html": "けんせつ" },
+        { "id": "d", "html": "けんさつ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>検察（けんさつ）と読みます。<span>Meaning: <strong>examination; investigation; prosecution</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p39-q13",
+      "questionHtml": "<p>{彼女|かのじょ}は{人|ひと}の{気持|きも}ちを{理解|りかい}する「洞察」に{優|すぐ}れており、{相談相手|そうだんあいて}として{信頼|しんらい}されています。「洞察」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "どうさつ" },
+        { "id": "b", "html": "とうさつ" },
+        { "id": "c", "html": "どうざつ" },
+        { "id": "d", "html": "どうせつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>洞察（どうさつ）と読みます。<span>Meaning: <strong>discernment; insight</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p39-q14",
+      "questionHtml": "<p>{彼|かれ}が{急|きゅう}に{会議|かいぎ}を{欠席|けっせき}した{理由|りゆう}について、{同僚|どうりょう}たちはさまざまな「推察」をしていました。「推察」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ついさつ" },
+        { "id": "b", "html": "すいさつ" },
+        { "id": "c", "html": "すいざつ" },
+        { "id": "d", "html": "すいせつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>推察（すいさつ）と読みます。<span>Meaning: <strong>guess; conjecture; surmise</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p39-q15",
+      "questionHtml": "<p>{兵士|へいし}たちは{敵|てき}の{動|うご}きを{確認|かくにん}するため、{夜間|やかん}に「偵察」を{行|おこな}いました。「偵察」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ていざつ" },
+        { "id": "b", "html": "じょうさつ" },
+        { "id": "c", "html": "ていさつ" },
+        { "id": "d", "html": "ていせつ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>偵察（ていさつ）と読みます。<span>Meaning: <strong>scouting; reconnaissance</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p39-q16",
+      "questionHtml": "<p>{役所|やくしょ}では、{職員|しょくいん}の{仕事|しごと}が{適切|てきせつ}に{行|おこな}われているか「監察」を{実施|じっし}しました。「監察」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かんざつ" },
+        { "id": "b", "html": "けんさつ" },
+        { "id": "c", "html": "かんせつ" },
+        { "id": "d", "html": "かんさつ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>監察（かんさつ）と読みます。<span>Meaning: <strong>inspection; inspector; supervision</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p39-q17",
-      "questionHtml": "<p>自分の過去の過ちを深く「省察」し、これからの行動を改める。「省察」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{失敗|しっぱい}した{原因|げんいん}を「省察」することで、{自分|じぶん}の{行動|こうどう}を{改善|かいぜん}することができます。「省察」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "せいさつ" },
         { "id": "b", "html": "しょうさつ" },
-        { "id": "c", "html": "かえりみさつ" },
-        { "id": "d", "html": "せいざつ" }
+        { "id": "c", "html": "せいざつ" },
+        { "id": "d", "html": "せいせつ" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>省察（省察）と読みます。<span>Meaning: <strong>reflection, consideration, introspection</strong></span></p>"
+      "explanationHtml": "<p>省察（せいさつ）と読みます。<span>Meaning: <strong>reflection; consideration; self-examination</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p39-q18",
-      "questionHtml": "<p>拾った財布を届けるために、大通り沿いにある「警察署」へ立ち寄った。「警察署」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{財布|さいふ}を{落|お}としてしまったので、「警察」に{届|とど}け{出|で}ることにしました。「警察」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "けいさつしょ" },
-        { "id": "b", "html": "けいさつじょ" },
-        { "id": "c", "html": "きょうさつしょ" },
-        { "id": "d", "html": "けいさつちょう" }
+        { "id": "a", "html": "けいざつ" },
+        { "id": "b", "html": "けいさつ" },
+        { "id": "c", "html": "きょうさつ" },
+        { "id": "d", "html": "けいせつ" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>警察署（けいさつしょ）と読みます。<span>Meaning: <strong>police station</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>警察（けいさつ）と読みます。<span>Meaning: <strong>police</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p39-q19",
-      "questionHtml": "<p>交差点で車同士の「事故」が発生したため、道路が一時的に渋滞している。「事故」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{道|みち}で{財布|さいふ}を{拾|ひろ}ったので、{近|ちか}くの「警察署」に{届|とど}けました。「警察署」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ことこ" },
-        { "id": "b", "html": "じこ" },
-        { "id": "c", "html": "じご" },
-        { "id": "d", "html": "しこ" }
+        { "id": "a", "html": "けいさつじょ" },
+        { "id": "b", "html": "けいざつしょ" },
+        { "id": "c", "html": "けいさつしょ" },
+        { "id": "d", "html": "けいさっしょ" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>事故（じこ）と読みます。<span>Meaning: <strong>accident, incident, trouble</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>警察署（けいさつしょ）と読みます。<span>Meaning: <strong>police station</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p39-q20",
+      "questionHtml": "<p>{雨|あめ}で{道路|どうろ}が{滑|すべ}りやすくなっていたため、{交差点|こうさてん}で{交通|こうつう}「事故」が{起|お}きました。「事故」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じこう" },
+        { "id": "b", "html": "しこ" },
+        { "id": "c", "html": "じご" },
+        { "id": "d", "html": "じこ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>事故（じこ）と読みます。<span>Meaning: <strong>accident; incident; trouble</strong></span></p>"
     }
   ]
 }

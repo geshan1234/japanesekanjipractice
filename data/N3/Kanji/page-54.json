@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 54,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p54-q1",
+      "questionHtml": "<p>{古|ふる}い{建物|たてもの}の「影裏」には、{昼間|ひるま}でも{日|ひ}の{光|ひかり}がほとんど{届|とど}きません。「影裏」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "えいり" },
+        { "id": "b", "html": "かげうら" },
+        { "id": "c", "html": "えいうら" },
+        { "id": "d", "html": "えいら" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>影裏（えいり）と読みます。<span>Meaning: <strong>shade; shadow (rare or literary expression)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p54-q2",
+      "questionHtml": "<p>この{紙|かみ}の「裏」に、{名前|なまえ}と{電話番号|でんわばんごう}を{書|か}いてください。「裏」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "り" },
+        { "id": "b", "html": "うら" },
+        { "id": "c", "html": "おもて" },
+        { "id": "d", "html": "うしろ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>裏（うら）と読みます。<span>Meaning: <strong>bottom; undersurface; opposite side; reverse side; hidden side</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p54-q3",
+      "questionHtml": "<p>{洗濯|せんたく}したシャツが「裏返し」になっていたので、{元|もと}に{戻|もど}してから{干|ほ}しました。「裏返し」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "うらかえし" },
+        { "id": "b", "html": "りがえし" },
+        { "id": "c", "html": "うらがえし" },
+        { "id": "d", "html": "うらがえす" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>裏返し（うらがえし）と読みます。<span>Meaning: <strong>inside out; upside down; reversed</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p54-q4",
+      "questionHtml": "<p>{彼|かれ}の{計画|けいかく}は「裏目」に{出|で}て、かえって{状況|じょうきょう}が{悪|わる}くなってしまいました。「裏目」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "うらもく" },
+        { "id": "b", "html": "りめ" },
+        { "id": "c", "html": "うらま" },
+        { "id": "d", "html": "うらめ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>裏目（うらめ）と読みます。<span>Meaning: <strong>reverse side; opposite result; unexpected negative outcome</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p54-q5",
+      "questionHtml": "<p>{彼女|かのじょ}は{笑顔|えがお}で{話|はな}していましたが、その{言葉|ことば}とは「裏腹」に、{心|こころ}の{中|なか}では{不安|ふあん}を{感|かん}じていました。「裏腹」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "うらはら" },
+        { "id": "b", "html": "うらばら" },
+        { "id": "c", "html": "りふく" },
+        { "id": "d", "html": "うらふく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>裏腹（うらはら）と読みます。<span>Meaning: <strong>opposite; reverse; contrary</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p54-q6",
+      "questionHtml": "<p>この{申込書|もうしこみしょ}の「裏面」にも{重要|じゅうよう}な{説明|せつめい}があるので、{必|かなら}ず{読|よ}んでください。「裏面」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りめん" },
+        { "id": "b", "html": "うらめん" },
+        { "id": "c", "html": "うらおもて" },
+        { "id": "d", "html": "うらまん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>裏面（うらめん）と読みます。<span>Meaning: <strong>back side; reverse; other side</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p54-q7",
+      "questionHtml": "<p>{外国|がいこく}の{軍隊|ぐんたい}がその{地域|ちいき}に{長期間|ちょうきかん}「駐留」することになりました。「駐留」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちゅうりょ" },
+        { "id": "b", "html": "ちゅうる" },
+        { "id": "c", "html": "ちゅうりゅう" },
+        { "id": "d", "html": "じゅうりゅう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>駐留（ちゅうりゅう）と読みます。<span>Meaning: <strong>stationing (e.g. of troops); garrison</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p54-q8",
+      "questionHtml": "<p>{日本|にほん}に{長期間|ちょうきかん}「在留」する{外国人|がいこくじん}は、{必要|ひつよう}な{手続|てつづ}きを{行|おこな}わなければなりません。「在留」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さいりゅう" },
+        { "id": "b", "html": "ざいりょう" },
+        { "id": "c", "html": "ざいりょ" },
+        { "id": "d", "html": "ざいりゅう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>在留（ざいりゅう）と読みます。<span>Meaning: <strong>residing (especially abroad); staying</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p54-q9",
+      "questionHtml": "<p>{大学|だいがく}を{卒業|そつぎょう}したら、{英語|えいご}をもっと{勉強|べんきょう}するために{海外|かいがい}へ「留学」したいです。「留学」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りゅうがく" },
+        { "id": "b", "html": "るがく" },
+        { "id": "c", "html": "りゅうかく" },
+        { "id": "d", "html": "りょうがく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>留学（りゅうがく）と読みます。<span>Meaning: <strong>studying abroad (usually at university level)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p54-q10",
+      "questionHtml": "<p>{両親|りょうしん}が{買|か}い{物|もの}に{出|で}かけたので、{私|わたし}は{弟|おとうと}と{一緒|いっしょ}に「留守番」をしました。「留守番」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "るすはん" },
+        { "id": "b", "html": "るすばん" },
+        { "id": "c", "html": "りゅうしゅばん" },
+        { "id": "d", "html": "るしゅばん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>留守番（るすばん）と読みます。<span>Meaning: <strong>house-watching; staying at home</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p54-q11",
+      "questionHtml": "<p>{新|あたら}しい{計画|けいかく}については、まだ{情報|じょうほう}が{足|た}りないため、{決定|けってい}を「保留」にしました。「保留」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほりょう" },
+        { "id": "b", "html": "ぼりゅう" },
+        { "id": "c", "html": "ほりゅう" },
+        { "id": "d", "html": "ほる" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>保留（ほりゅう）と読みます。<span>Meaning: <strong>reserve; putting on hold; deferment</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p54-q12",
+      "questionHtml": "<p>{大切|たいせつ}な{書類|しょるい}なので、{郵便局|ゆうびんきょく}から「書留」で{送|おく}ることにしました。「書留」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょりゅう" },
+        { "id": "b", "html": "かきどめ" },
+        { "id": "c", "html": "かくとめ" },
+        { "id": "d", "html": "かきとめ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>書留（かきとめ）と読みます。<span>Meaning: <strong>registered mail</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p54-q13",
+      "questionHtml": "<p>{友達|ともだち}の{家|いえ}を{訪|たず}ねましたが、「留守」だったので、{玄関|げんかん}にメモを{残|のこ}しました。「留守」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "るす" },
+        { "id": "b", "html": "りゅうしゅ" },
+        { "id": "c", "html": "るしゅ" },
+        { "id": "d", "html": "りゅうす" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>留守（るす）と読みます。<span>Meaning: <strong>absence; being away from home; house-sitting; house-sitter</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p54-q14",
+      "questionHtml": "<p>{試合|しあい}の{後半|こうはん}では、{相手|あいて}の{攻撃|こうげき}が{激|はげ}しくなり、「守備」が{重要|じゅうよう}になりました。「守備」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅひ" },
+        { "id": "b", "html": "しゅび" },
+        { "id": "c", "html": "すび" },
+        { "id": "d", "html": "しゅべい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>守備（しゅび）と読みます。<span>Meaning: <strong>defense; defence</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p54-q15",
+      "questionHtml": "<p>この{工場|こうじょう}では、{機械|きかい}が{安全|あんぜん}に{動|うご}くように、{定期的|ていきてき}な「保守」を{行|おこな}っています。「保守」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほす" },
+        { "id": "b", "html": "ぼしゅ" },
+        { "id": "c", "html": "ほしゅ" },
+        { "id": "d", "html": "ほまもり" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>保守（ほしゅ）と読みます。<span>Meaning: <strong>maintenance; preservation; conservatism</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p54-q16",
+      "questionHtml": "<p>{夜間|やかん}は{建物|たてもの}の{入口|いりぐち}に「守衛」が{立|た}ち、{不審者|ふしんしゃ}が{入|はい}らないように{見張|みは}っています。「守衛」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅえ" },
+        { "id": "b", "html": "しゅい" },
+        { "id": "c", "html": "すえい" },
+        { "id": "d", "html": "しゅえい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>守衛（しゅえい）と読みます。<span>Meaning: <strong>security guard; doorkeeper</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p54-q17",
+      "questionHtml": "<p>その{刑務所|けいむしょ}では、「看守」が{囚人|しゅうじん}たちの{安全|あんぜん}と{施設|しせつ}の{秩序|ちつじょ}を{守|まも}っています。「看守」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かんしゅ" },
+        { "id": "b", "html": "かんじゅ" },
+        { "id": "c", "html": "かんす" },
+        { "id": "d", "html": "けんしゅ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>看守（かんしゅ）と読みます。<span>Meaning: <strong>prison guard; warder; jailer; gaoler</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p54-q18",
+      "questionHtml": "<p>このチームは「攻守」のバランスがよく、{全国大会|ぜんこくたいかい}でも{高|たか}い{評価|ひょうか}を{受|う}けています。「攻守」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうじゅ" },
+        { "id": "b", "html": "こうしゅ" },
+        { "id": "c", "html": "こうす" },
+        { "id": "d", "html": "こうしゅう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>攻守（こうしゅ）と読みます。<span>Meaning: <strong>offense and defense</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p54-q19",
+      "questionHtml": "<p>{社長|しゃちょう}は{周囲|しゅうい}の{反対|はんたい}にもかかわらず、{自分|じぶん}の{方針|ほうしん}を「固守」しました。「固守」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こじゅ" },
+        { "id": "b", "html": "かたしゅ" },
+        { "id": "c", "html": "こしゅ" },
+        { "id": "d", "html": "こす" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>固守（こしゅ）と読みます。<span>Meaning: <strong>clinging to; firmly maintaining; adhering to</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p54-q20",
+      "questionHtml": "<p>{昔|むかし}の{人々|ひとびと}は、{神様|かみさま}の「守護」を{願|ねが}って、{山|やま}の{上|うえ}に{神社|じんじゃ}を{建|た}てました。「守護」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅこ" },
+        { "id": "b", "html": "すご" },
+        { "id": "c", "html": "しゅこう" },
+        { "id": "d", "html": "しゅご" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>守護（しゅご）と読みます。<span>Meaning: <strong>protection; safeguard</strong></span></p>"
+    }
+  ]
+}

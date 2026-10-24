@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 63,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p63-q1",
+      "questionHtml": "<p>{店|みせ}に{並|なら}んでいる「商品」には、すべて{値札|ねふだ}が{付|つ}いています。「商品」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうびん" },
+        { "id": "b", "html": "しょひん" },
+        { "id": "c", "html": "しょうひん" },
+        { "id": "d", "html": "しょうぴん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>商品（しょうひん）と読みます。<span>Meaning: <strong>commodity, goods</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p63-q2",
+      "questionHtml": "<p>この「商店」{街|がい}は、{昔|むかし}から{地元|じもと}の{人|ひと}に{愛|あい}されてきました。「商店」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうてん" },
+        { "id": "b", "html": "しょうでん" },
+        { "id": "c", "html": "そうてん" },
+        { "id": "d", "html": "しょてん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>商店（しょうてん）と読みます。<span>Meaning: <strong>shop, small store</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p63-q3",
+      "questionHtml": "<p>{彼|かれ}は{親|おや}の{跡|あと}を{継|つ}いで、{小|ちい}さな「商売」を{始|はじ}めました。「商売」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうまい" },
+        { "id": "b", "html": "しょうぼい" },
+        { "id": "c", "html": "そうばい" },
+        { "id": "d", "html": "しょうばい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>商売（しょうばい）と読みます。<span>Meaning: <strong>trade, business, commerce</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p63-q4",
+      "questionHtml": "<p>{祖父|そふ}は{港|みなと}{町|まち}で「商会」を{営|いとな}んでいました。「商会」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうえ" },
+        { "id": "b", "html": "しょうかい" },
+        { "id": "c", "html": "しょうがい" },
+        { "id": "d", "html": "そうかい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>商会（しょうかい）と読みます。<span>Meaning: <strong>firm, company</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p63-q5",
+      "questionHtml": "<p>{江戸時代|えどじだい}、{大阪|おおさか}には{多|おお}くの「商人」が{集|あつ}まっていました。「商人」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうにん" },
+        { "id": "b", "html": "しょうじん" },
+        { "id": "c", "html": "しょにん" },
+        { "id": "d", "html": "そうにん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>商人（しょうにん）と読みます。<span>Meaning: <strong>trader, merchant</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p63-q6",
+      "questionHtml": "<p>{二|ふた}つの{国|くに}は、{長|なが}い{間|あいだ}「通商」{条約|じょうやく}を{結|むす}んでいました。「通商」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とおしょう" },
+        { "id": "b", "html": "つしょう" },
+        { "id": "c", "html": "つうしょう" },
+        { "id": "d", "html": "つうそう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>通商（つうしょう）と読みます。<span>Meaning: <strong>commerce, trade</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p63-q7",
+      "questionHtml": "<p>この{事件|じけん}では、{会社|かいしゃ}が「商法」に{違反|いはん}したかどうかが{問題|もんだい}になっています。「商法」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうぼう" },
+        { "id": "b", "html": "しょうほう" },
+        { "id": "c", "html": "そうほう" },
+        { "id": "d", "html": "しょうぽう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>商法（しょうほう）と読みます。<span>Meaning: <strong>commercial law</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p63-q8",
+      "questionHtml": "<p>{駅|えき}の{周辺|しゅうへん}は、{大型|おおがた}の「商業」{施設|しせつ}が{増|ふ}えています。「商業」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうごう" },
+        { "id": "b", "html": "そうぎょう" },
+        { "id": "c", "html": "しょうげ" },
+        { "id": "d", "html": "しょうぎょう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>商業（しょうぎょう）と読みます。<span>Meaning: <strong>commerce, trade, business</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p63-q9",
+      "questionHtml": "<p>{災害|さいがい}の{被害|ひがい}を{受|う}けた{地域|ちいき}への「支援」が{続|つづ}いています。「支援」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しえん" },
+        { "id": "b", "html": "しいん" },
+        { "id": "c", "html": "ちえん" },
+        { "id": "d", "html": "しけん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>支援（しえん）と読みます。<span>Meaning: <strong>support, aid</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p63-q10",
+      "questionHtml": "<p>この{銀行|ぎんこう}は、{全国|ぜんこく}に「支店」を{持|も}っています。「支店」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しみせ" },
+        { "id": "b", "html": "しじん" },
+        { "id": "c", "html": "してん" },
+        { "id": "d", "html": "ちてん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>支店（してん）と読みます。<span>Meaning: <strong>branch store</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p63-q11",
+      "questionHtml": "<p>{一人|ひとり}の{王|おう}が{国|くに}を「支配」していた{時代|じだい}がありました。「支配」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しばい" },
+        { "id": "b", "html": "しはい" },
+        { "id": "c", "html": "しべ" },
+        { "id": "d", "html": "ちはい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>支配（しはい）と読みます。<span>Meaning: <strong>domination, rule</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p63-q12",
+      "questionHtml": "<p>{新|あたら}しい{政策|せいさく}は、{多|おお}くの{市民|しみん}から「支持」されています。「支持」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じじ" },
+        { "id": "b", "html": "しし" },
+        { "id": "c", "html": "ちじ" },
+        { "id": "d", "html": "しじ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>支持（しじ）と読みます。<span>Meaning: <strong>support, holding up</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p63-q13",
+      "questionHtml": "<p>{会社|かいしゃ}から{通勤|つうきん}{手当|てあて}が「支給」されます。「支給」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しきゅう" },
+        { "id": "b", "html": "しごう" },
+        { "id": "c", "html": "ちきゅう" },
+        { "id": "d", "html": "しぎゅう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>支給（しきゅう）と読みます。<span>Meaning: <strong>provision, supply</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p63-q14",
+      "questionHtml": "<p>{多少|たしょう}の{遅|おく}れは、{全体|ぜんたい}の{計画|けいかく}には「支障」がありません。「支障」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しじょう" },
+        { "id": "b", "html": "ししょ" },
+        { "id": "c", "html": "ししょう" },
+        { "id": "d", "html": "ちしょう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>支障（ししょう）と読みます。<span>Meaning: <strong>obstacle, hindrance</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p63-q15",
+      "questionHtml": "<p>{旅行|りょこう}の「支度」が{終|お}わったら、{早|はや}めに{寝|ね}ましょう。「支度」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しど" },
+        { "id": "b", "html": "したく" },
+        { "id": "c", "html": "しだく" },
+        { "id": "d", "html": "しなど" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>支度（したく）と読みます。<span>Meaning: <strong>preparation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p63-q16",
+      "questionHtml": "<p>{彼|かれ}は{来月|らいげつ}から、{大阪|おおさか}の「支社」に{転勤|てんきん}します。「支社」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しじゃ" },
+        { "id": "b", "html": "ちしゃ" },
+        { "id": "c", "html": "しっしゃ" },
+        { "id": "d", "html": "ししゃ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>支社（ししゃ）と読みます。<span>Meaning: <strong>branch office</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p63-q17",
+      "questionHtml": "<p>{食事|しょくじ}の{代金|だいきん}は、{私|わたし}が「払う」ことにしました。「払う」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はらう" },
+        { "id": "b", "html": "ふらう" },
+        { "id": "c", "html": "はらす" },
+        { "id": "d", "html": "ばらう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>払う（はらう）と読みます。<span>Meaning: <strong>to pay (e.g. money, bill)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p63-q18",
+      "questionHtml": "<p>{請求書|せいきゅうしょ}を{受|う}け{取|と}ったら、{一週間|いっしゅうかん}{以内|いない}に「支払う」{必要|ひつよう}があります。「支払う」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しはらす" },
+        { "id": "b", "html": "しばらう" },
+        { "id": "c", "html": "しはらう" },
+        { "id": "d", "html": "しはらく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>支払う（しはらう）と読みます。<span>Meaning: <strong>to pay</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p63-q19",
+      "questionHtml": "<p>クレジットカードで「支払い」をすると、ポイントが{貯|た}まります。「支払い」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しばらい" },
+        { "id": "b", "html": "しはらい" },
+        { "id": "c", "html": "ししはらい" },
+        { "id": "d", "html": "ちはらい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>支払い（しはらい）と読みます。<span>Meaning: <strong>payment</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p63-q20",
+      "questionHtml": "<p>{税金|ぜいきん}を「過払い」していたことが{分|わ}かり、{返金|へんきん}の{手続|てつづ}きをしました。「過払い」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かはらい" },
+        { "id": "b", "html": "かふらい" },
+        { "id": "c", "html": "すぎばらい" },
+        { "id": "d", "html": "かばらい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>過払い（かばらい）と読みます。<span>Meaning: <strong>overpayment; paying too much</strong></span></p>"
+    }
+  ]
+}

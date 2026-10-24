@@ -1,3 +1,4 @@
+
 {
   "metadata": {
     "level": "N3",
@@ -9,243 +10,243 @@
   "questions": [
     {
       "id": "N3-Kanji-p37-q1",
-      "questionHtml": "<p>{足|あし}の骨に痛みを感じたので、近くの「整形外科」を受診した。「整形外科」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{父|ちち}は{転|ころ}んで{膝|ひざ}を{痛|いた}めたため、{病院|びょういん}の「整形外科」で{診察|しんさつ}を{受|う}けました。「整形外科」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "せいけいげか" },
-        { "id": "b", "html": "せいけいがいか" },
-        { "id": "c", "html": "しょうけいげか" },
-        { "id": "d", "html": "せいぎょうげか" }
+        { "id": "a", "html": "せいけいがいか" },
+        { "id": "b", "html": "せいけいげか" },
+        { "id": "c", "html": "せいぎょうげか" },
+        { "id": "d", "html": "せいけいげが" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>整形外科（せいけいげか）と読みます。<span>Meaning: <strong>orthopedic surgery</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>整形外科（せいけいげか）と読みます。<span>Meaning: <strong>orthopaedic surgery; plastic surgery</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p37-q2",
-      "questionHtml": "<p>クッキーの生地をいろいろな「形」にくり抜いて焼き上げる。「形」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>この{湖|みずうみ}はハートのような「形」をしているので、{観光客|かんこうきゃく}に{人気|にんき}があります。「形」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "かたち" },
-        { "id": "b", "html": "けい" },
-        { "id": "c", "html": "ぎょう" },
-        { "id": "d", "html": "かた" }
+        { "id": "b", "html": "かた" },
+        { "id": "c", "html": "けい" },
+        { "id": "d", "html": "がたち" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>形（かたち）と読みます。<span>Meaning: <strong>shape, form</strong></span></p>"
+      "explanationHtml": "<p>形（かたち）と読みます。<span>Meaning: <strong>shape; form</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p37-q3",
-      "questionHtml": "<p>考古学の調査によって、数千年前の「人骨」が発見された。「人骨」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{遺跡|いせき}の{発掘調査|はっくつちょうさ}で{古|ふる}い「人骨」が{発見|はっけん}され、{研究者|けんきゅうしゃ}たちは{詳|くわ}しく{調|しら}べています。「人骨」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "じんこつ" },
-        { "id": "b", "html": "ひとほね" },
-        { "id": "c", "html": "にんこつ" },
-        { "id": "d", "html": "じんほね" }
+        { "id": "a", "html": "にんこつ" },
+        { "id": "b", "html": "じんぼね" },
+        { "id": "c", "html": "じんこつ" },
+        { "id": "d", "html": "じんごつ" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>人骨（じんこつ）と読みます。<span>Meaning: <strong>human bones</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>人骨（じんこつ）と読みます。<span>Meaning: <strong>human bones; human skeletal remains</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p37-q4",
-      "questionHtml": "<p>{彼|かれ}はがっしりとした「骨格」をしており、スポーツに向いている。「骨格」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{医師|いし}はレントゲン{写真|しゃしん}を{見|み}ながら、{患者|かんじゃ}の「骨格」に{異常|いじょう}がないか{確認|かくにん}しました。「骨格」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ほねかく" },
-        { "id": "b", "html": "こっかく" },
-        { "id": "c", "html": "こつかく" },
-        { "id": "d", "html": "こっこう" }
+        { "id": "a", "html": "こつかく" },
+        { "id": "b", "html": "こっがく" },
+        { "id": "c", "html": "ほねかく" },
+        { "id": "d", "html": "こっかく" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>骨格（こっかく）と読みます。<span>Meaning: <strong>skeleton, skeletal structure, physique</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>骨格（こっかく）と読みます。<span>Meaning: <strong>skeleton; skeletal structure; build; frame; physique</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p37-q5",
-      "questionHtml": "<p>建築現場で、巨大な「鉄骨」をクレーンで吊り上げる作業が行われている。「鉄骨」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{新|あたら}しいビルの{建設現場|けんせつげんば}では、{大|おお}きな「鉄骨」をクレーンで{運|はこ}んでいました。「鉄骨」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "てつこつ" },
         { "id": "b", "html": "てっこつ" },
-        { "id": "c", "html": "くろがねほね" },
-        { "id": "d", "html": "てつほね" }
+        { "id": "c", "html": "てっぼね" },
+        { "id": "d", "html": "てっごつ" }
       ],
       "correctAnswer": "b",
-      "explanationHtml": "<p>鉄骨（てっこつ）と読みます。<span>Meaning: <strong>steel frame, steel beam</strong></span></p>"
+      "explanationHtml": "<p>鉄骨（てっこつ）と読みます。<span>Meaning: <strong>steel frame; steel beam; steel girder</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p37-q6",
-      "questionHtml": "<p>{階段|かいだん}から{転落|てんらく}し、腕を「骨折」する大怪我を負った。「骨折」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{弟|おとうと}はサッカーの{試合中|しあいちゅう}に{足|あし}を「骨折」してしまい、しばらく{運動|うんどう}ができなくなりました。「骨折」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "こっせつ" },
-        { "id": "b", "html": "ほねおれ" },
-        { "id": "c", "html": "こつせつ" },
-        { "id": "d", "html": "こっせつめ" }
+        { "id": "b", "html": "こつせつ" },
+        { "id": "c", "html": "こっぜつ" },
+        { "id": "d", "html": "ほねおり" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>骨折（こっせつ）と読みます。<span>Meaning: <strong>bone fracture</strong></span></p>"
+      "explanationHtml": "<p>骨折（こっせつ）と読みます。<span>Meaning: <strong>bone fracture; broken bone</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p37-q7",
-      "questionHtml": "<p>{魚|さかな}を食べる時は、「骨」を喉に詰まらせないように気をつけてください。「骨」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{魚|さかな}を{食|た}べるときは、{小|ちい}さな「骨」が{喉|のど}に{刺|さ}さらないように{気|き}をつけてください。「骨」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ほね" },
-        { "id": "b", "html": "こつ" },
-        { "id": "c", "html": "かわ" },
-        { "id": "d", "html": "すじ" }
+        { "id": "a", "html": "こつ" },
+        { "id": "b", "html": "ぼね" },
+        { "id": "c", "html": "ほね" },
+        { "id": "d", "html": "ほに" }
       ],
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "explanationHtml": "<p>骨（ほね）と読みます。<span>Meaning: <strong>bone</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p37-q8",
-      "questionHtml": "<p>次の「交差点」を「右折」すると、目的地のビルが見えます。「右折」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{次|つぎ}の{交差点|こうさてん}を「右折」すると、{左側|ひだりがわ}に{大|おお}きな{病院|びょういん}が{見|み}えます。「右折」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "うせつ" },
-        { "id": "b", "html": "みぎせつ" },
-        { "id": "c", "html": "うぜつ" },
-        { "id": "d", "html": "みぎおれ" }
+        { "id": "a", "html": "みぎせつ" },
+        { "id": "b", "html": "うぜつ" },
+        { "id": "c", "html": "ゆうせつ" },
+        { "id": "d", "html": "うせつ" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>右折（うせつ）と読みます。<span>Meaning: <strong>turning to the right, right turn</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>右折（うせつ）と読みます。<span>Meaning: <strong>turning to the right; right turn</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p37-q9",
-      "questionHtml": "<p>ノートの端をきれいに「折る」よう指示された。「折る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{庭|にわ}の{木|き}から{伸|の}びた{細|ほそ}い{枝|えだ}を「折る」と、{中|なか}から{水分|すいぶん}が{出|で}てきました。「折る」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "おる" },
-        { "id": "b", "html": "わる" },
-        { "id": "c", "html": "きる" },
-        { "id": "d", "html": "せつる" }
+        { "id": "b", "html": "おれる" },
+        { "id": "c", "html": "せつる" },
+        { "id": "d", "html": "おりる" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>折る（おる）と読みます。<span>Meaning: <strong>to break, to fold (transitive)</strong></span></p>"
+      "explanationHtml": "<p>折る（おる）と読みます。<span>Meaning: <strong>to break; to fracture; to break off; to snap off</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p37-q10",
-      "questionHtml": "<p>この道路は、日中にトラックの「左折」が禁止されています。「左折」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{駅|えき}へ{行|い}くには、この{道|みち}をまっすぐ{進|すす}んで、{二|ふた}つ{目|め}の{信号|しんごう}を「左折」してください。「左折」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "させつ" },
-        { "id": "b", "html": "ひだりせつ" },
-        { "id": "c", "html": "さぜつ" },
-        { "id": "d", "html": "ひだりおれ" }
+        { "id": "a", "html": "ひだりせつ" },
+        { "id": "b", "html": "させつ" },
+        { "id": "c", "html": "ざせつ" },
+        { "id": "d", "html": "さぜつ" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>左折（させつ）と読みます。<span>Meaning: <strong>turning to the left, left turn</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>左折（させつ）と読みます。<span>Meaning: <strong>turning to the left; left turn</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p37-q11",
-      "questionHtml": "<p>子供の頃、祖母にカラフルな「折り紙」で鶴の折り方を教わった。「折り紙」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{日本|にほん}の「折り紙」は{海外|かいがい}でも{人気|にんき}があり、{鶴|つる}や{花|はな}などを{作|つく}ることができます。「折り紙」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "おりがみ" },
-        { "id": "b", "html": "おれがみ" },
-        { "id": "c", "html": "せつがみ" },
-        { "id": "d", "html": "おりかみ" }
+        { "id": "a", "html": "おれがみ" },
+        { "id": "b", "html": "おりかみ" },
+        { "id": "c", "html": "おりがみ" },
+        { "id": "d", "html": "せつがみ" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>折り紙（おりがみ）と読みます。<span>Meaning: <strong>origami, art of paper folding</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>折り紙（おりがみ）と読みます。<span>Meaning: <strong>origami; art of paper folding</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p37-q12",
-      "questionHtml": "<p>強い風のせいで、庭にある大木の枝が「折れる」音がした。「折れる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{強|つよ}い{風|かぜ}が{吹|ふ}くと、{古|ふる}い{木|き}の{枝|えだ}が「折れる」ことがあるので{危険|きけん}です。「折れる」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "おれる" },
-        { "id": "b", "html": "おる" },
-        { "id": "c", "html": "きれる" },
-        { "id": "d", "html": "せつれる" }
+        { "id": "a", "html": "おられる" },
+        { "id": "b", "html": "おりれる" },
+        { "id": "c", "html": "おるれる" },
+        { "id": "d", "html": "おれる" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>折れる（おれる）と読みます。<span>Meaning: <strong>to break, to be broken, to snap (intransitive)</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>折れる（おれる）と読みます。<span>Meaning: <strong>to break; to be broken; to snap; to fracture; to be folded</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p37-q13",
-      "questionHtml": "<p>トラブルが立て続けに発生し、プロジェクトの進行は「困難」を極めた。「困難」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{新|あたら}しい{技術|ぎじゅつ}を{開発|かいはつ}するには、さまざまな「困難」を{乗|の}り{越|こ}える{必要|ひつよう}があります。「困難」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "こんなん" },
-        { "id": "b", "html": "こんらん" },
-        { "id": "c", "html": "ごんなん" },
-        { "id": "d", "html": "こんがた" }
+        { "id": "b", "html": "こんだん" },
+        { "id": "c", "html": "こなん" },
+        { "id": "d", "html": "こんな" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>困難（困難）と読みます。<span>Meaning: <strong>difficulty, hardship, trouble</strong></span></p>"
+      "explanationHtml": "<p>困難（こんなん）と読みます。<span>Meaning: <strong>difficulty; hardship; trouble; distress</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p37-q14",
-      "questionHtml": "<p>世界の「貧困」問題を解決するために、国連が支援プログラムを実施している。「貧困」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{世界|せかい}には「貧困」が{原因|げんいん}で、{十分|じゅうぶん}な{教育|きょういく}を{受|う}けられない{子供|こども}たちがいます。「貧困」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "びんこん" },
+        { "id": "a", "html": "ひんごん" },
         { "id": "b", "html": "ひんこん" },
-        { "id": "c", "html": "ひんらん" },
-        { "id": "d", "html": "まずしこん" }
+        { "id": "c", "html": "びんこん" },
+        { "id": "d", "html": "ひんかん" }
       ],
       "correctAnswer": "b",
-      "explanationHtml": "<p>貧困（ひんこん）と読みます。<span>Meaning: <strong>poverty, destitution</strong></span></p>"
+      "explanationHtml": "<p>貧困（ひんこん）と読みます。<span>Meaning: <strong>poverty; penury; need; destitution</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p37-q15",
-      "questionHtml": "<p>予想外の質問を突きつけられ、担当者は「困惑」した表情を浮かべた。「困惑」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{突然|とつぜん}の{予定変更|よていへんこう}に{参加者|さんかしゃ}たちは「困惑」し、どうすればよいか{分|わ}からなくなりました。「困惑」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "こんわく" },
-        { "id": "b", "html": "こんこく" },
-        { "id": "c", "html": "ごんわく" },
-        { "id": "d", "html": "こんまど" }
+        { "id": "a", "html": "こんまく" },
+        { "id": "b", "html": "こんわっく" },
+        { "id": "c", "html": "こんわく" },
+        { "id": "d", "html": "こわく" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>困惑（こんわく）と読みます。<span>Meaning: <strong>bewilderment, perplexity, embarrassment</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>困惑（こんわく）と読みます。<span>Meaning: <strong>bewilderment; perplexity; embarrassment</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p37-q16",
-      "questionHtml": "<p>戦乱による「困苦」に耐えながら、人々は懸命に暮らし続けた。「困苦」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{戦争|せんそう}の{時代|じだい}には、{多|おお}くの{人々|ひとびと}が「困苦」に{耐|た}えながら{生活|せいかつ}していました。「困苦」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "こんく" },
-        { "id": "b", "html": "こんぐ" },
-        { "id": "c", "html": "こんにが" },
-        { "id": "d", "html": "ごんく" }
+        { "id": "a", "html": "こんぐ" },
+        { "id": "b", "html": "こく" },
+        { "id": "c", "html": "こんこ" },
+        { "id": "d", "html": "こんく" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>困苦（こんく）と読みます。<span>Meaning: <strong>privation, hardship, distress</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>困苦（こんく）と読みます。<span>Meaning: <strong>privation; hardship; suffering</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p37-q17",
-      "questionHtml": "<p>{度重|たびかさ}なる「困厄」に見舞われながらも、村は復興を遂げた。「困厄」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{古|ふる}い{記録|きろく}には、{大|おお}きな{災害|さいがい}によって「困厄」に{陥|おちい}った{村人|むらびと}たちの{様子|ようす}が{書|か}かれています。「困厄」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "こんやく" },
-        { "id": "b", "html": "こんあく" },
-        { "id": "c", "html": "ごんやく" },
-        { "id": "d", "html": "こんさい" }
+        { "id": "b", "html": "こんえき" },
+        { "id": "c", "html": "こんあく" },
+        { "id": "d", "html": "こやく" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>困厄（こん厄）と読みます。<span>Meaning: <strong>distress, disaster, misfortune</strong></span></p>"
+      "explanationHtml": "<p>困厄（こんやく）と読みます。<span>Meaning: <strong>distress; disaster; hardship</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p37-q18",
-      "questionHtml": "<p>返答に詰まるような無理難題を出され、すっかり「困却」してしまった。「困却」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{担当者|たんとうしゃ}が{急|きゅう}に{休|やす}んだため、{仕事|しごと}の{進|すす}め{方|かた}が{分|わ}からず、{私|わたし}たちは「困却」しました。「困却」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "こんしゃく" },
-        { "id": "b", "html": "こんきゃく" },
-        { "id": "c", "html": "こんきゃくめ" },
-        { "id": "d", "html": "ごんきゃく" }
+        { "id": "a", "html": "こんきゃく" },
+        { "id": "b", "html": "こんしゃく" },
+        { "id": "c", "html": "こんじゃく" },
+        { "id": "d", "html": "こんきょく" }
       ],
       "correctAnswer": "b",
-      "explanationHtml": "<p>困却（こんきゃく）と読みます。<span>Meaning: <strong>perplexity, dilemma, being at a loss</strong></span></p>"
+      "explanationHtml": "<p>困却（こんしゃく）と読みます。<span>Meaning: <strong>perplexity; dilemma; being at a loss</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p37-q19",
-      "questionHtml": "<p>財布を落としてしまい、電車の運賃が払えなくて本当に「困る」。「困る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{電車|でんしゃ}が{止|と}まってしまうと、{会社|かいしゃ}に{遅|おく}れるので「困る」と{思|おも}いました。「困る」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "こまる" },
-        { "id": "b", "html": "こむる" },
-        { "id": "c", "html": "たまわる" },
-        { "id": "d", "html": "こんる" }
+        { "id": "a", "html": "こんる" },
+        { "id": "b", "html": "こもる" },
+        { "id": "c", "html": "こまる" },
+        { "id": "d", "html": "こまれる" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>困る（こまる）と読みます。<span>Meaning: <strong>to be troubled, to be worried, to be at a loss</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>困る（こまる）と読みます。<span>Meaning: <strong>to be troubled; to be worried; to be bothered; to be embarrassed; to be stumped</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p37-q20",
-      "questionHtml": "<p>環境保護のために、家庭でのエネルギー「消費」を抑える取り組みをする。「消費」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{電気|でんき}の「消費」を{減|へ}らすために、{使|つか}っていない{部屋|へや}の{明|あ}かりを{消|け}すようにしています。「消費」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "しょうひ" },
+        { "id": "a", "html": "しょうひん" },
         { "id": "b", "html": "しょうび" },
-        { "id": "c", "html": "そうひ" },
-        { "id": "d", "html": "しょうめい" }
+        { "id": "c", "html": "しょうふ" },
+        { "id": "d", "html": "しょうひ" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>消費（しょうひ）と読みます。<span>Meaning: <strong>consumption, expenditure, spending</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>消費（しょうひ）と読みます。<span>Meaning: <strong>consumption; expenditure; spending</strong></span></p>"
     }
   ]
 }

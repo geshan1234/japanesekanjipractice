@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 96,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p96-q1",
+      "questionHtml": "<p>{問題|もんだい}を{解決|かいけつ}するためには、お{互|たが}いの{意見|いけん}を{尊重|そんちょう}しながら「対話」を{続|つづ}けることが{大切|たいせつ}です。「対話」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "だいわ" },
+        { "id": "b", "html": "たいはな" },
+        { "id": "c", "html": "たいわ" },
+        { "id": "d", "html": "たいば" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>対話（たいわ）と読みます。<span>Meaning: <strong>dialogue; discussion; conversation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p96-q2",
+      "questionHtml": "<p>{予想|よそう}していなかった{問題|もんだい}が{起|お}きても、{落|お}ち{着|つ}いて「対処」することが{重要|じゅうよう}です。「対処」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たいじょ" },
+        { "id": "b", "html": "たいしょ" },
+        { "id": "c", "html": "だいしょ" },
+        { "id": "d", "html": "たいしょう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>対処（たいしょ）と読みます。<span>Meaning: <strong>dealing with; coping with; handling a situation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p96-q3",
+      "questionHtml": "<p>{両|りょう}チームの{選手|せんしゅ}が{試合|しあい}の{前|まえ}に「相対」し、{互|たが}いを{見|み}つめていました。「相対」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そうだい" },
+        { "id": "b", "html": "あいたい" },
+        { "id": "c", "html": "しょうたい" },
+        { "id": "d", "html": "そうたい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>相対（そうたい）と読みます。<span>Meaning: <strong>confrontation; facing; coming face to face</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p96-q4",
+      "questionHtml": "<p>{有名|ゆうめい}な{作家|さっか}と{映画監督|えいがかんとく}の「対談」が{雑誌|ざっし}に{掲載|けいさい}されました。「対談」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たいだん" },
+        { "id": "b", "html": "たいだい" },
+        { "id": "c", "html": "だいだん" },
+        { "id": "d", "html": "たいなん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>対談（たいだん）と読みます。<span>Meaning: <strong>talk; dialogue; conversation; discussion between two people</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p96-q5",
+      "questionHtml": "<p>{新|あたら}しい{会社|かいしゃ}は、{大手企業|おおてきぎょう}に「対抗」するために{独自|どくじ}のサービスを{開発|かいはつ}しました。「対抗」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たいごう" },
+        { "id": "b", "html": "だいこう" },
+        { "id": "c", "html": "たいこう" },
+        { "id": "d", "html": "たいきょう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>対抗（たいこう）と読みます。<span>Meaning: <strong>opposition; antagonism; rivalry; resistance</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p96-q6",
+      "questionHtml": "<p>{会議|かいぎ}では、{年齢|ねんれい}や{役職|やくしょく}に{関係|かんけい}なく、{全員|ぜんいん}が「対等」な{立場|たちば}で{意見|いけん}を{交換|こうかん}しました。「対等」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たいどう" },
+        { "id": "b", "html": "たいとう" },
+        { "id": "c", "html": "だいとう" },
+        { "id": "d", "html": "たいと" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>対等（たいとう）と読みます。<span>Meaning: <strong>equality; equivalence; equal standing</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p96-q7",
+      "questionHtml": "<p>{物|もの}の{価値|かち}は{状況|じょうきょう}によって{変|か}わるため、「相対」{的|てき}に{考|かんが}えることも{必要|ひつよう}です。「相対」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そうたい" },
+        { "id": "b", "html": "しょうたい" },
+        { "id": "c", "html": "あいたい" },
+        { "id": "d", "html": "そうだい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>相対（そうたい）と読みます。<span>Meaning: <strong>relative; relativity; comparison with something else</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p96-q8",
+      "questionHtml": "<p>{今日|きょう}の{練習|れんしゅう}では、{一人|ひとり}の{選手|せんしゅ}が{二人|ふたり}を{相手|あいて}にする「1対2」の{形式|けいしき}で{試合|しあい}をしました。「1対2」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いちだいに" },
+        { "id": "b", "html": "ひとたいふた" },
+        { "id": "c", "html": "いったいに" },
+        { "id": "d", "html": "いちたいに" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>1対2（いちたいに）と読みます。<span>Meaning: <strong>one versus two; 1 vs. 2</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p96-q9",
+      "questionHtml": "<p>{先生|せんせい}は{生徒|せいと}に「対する」{接|せっ}し{方|かた}をいつも{大切|たいせつ}にしています。「対する」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "だいする" },
+        { "id": "b", "html": "たいさる" },
+        { "id": "c", "html": "たいする" },
+        { "id": "d", "html": "たいじる" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>対する（たいする）と読みます。<span>Meaning: <strong>to be directed toward; to be in response to; to be related to; to face</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p96-q10",
+      "questionHtml": "<p>{山|やま}から{冷|つめ}たい{水|みず}が「流れる」{川|かわ}のそばで、{子供|こども}たちが{遊|あそ}んでいました。「流れる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ながす" },
+        { "id": "b", "html": "ながれる" },
+        { "id": "c", "html": "りゅうれる" },
+        { "id": "d", "html": "なかれる" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>流れる（ながれる）と読みます。<span>Meaning: <strong>to flow; to stream; to run; to pass (time)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p96-q11",
+      "questionHtml": "<p>{手|て}を{洗|あら}うときは、{水|みず}を「流す」{時間|じかん}を{短|みじか}くして{節約|せつやく}しましょう。「流す」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ながす" },
+        { "id": "b", "html": "ながれる" },
+        { "id": "c", "html": "りゅうす" },
+        { "id": "d", "html": "なかす" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>流す（ながす）と読みます。<span>Meaning: <strong>to pour; to drain; to let flow; to shed tears or blood</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p96-q12",
+      "questionHtml": "<p>{私|わたし}の{大学|だいがく}では、{外国|がいこく}の{学生|がくせい}との「交流」を{深|ふか}めるために、さまざまなイベントを{開|ひら}いています。「交流」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうるう" },
+        { "id": "b", "html": "ごうりゅう" },
+        { "id": "c", "html": "こうりょう" },
+        { "id": "d", "html": "こうりゅう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>交流（こうりゅう）と読みます。<span>Meaning: <strong>exchange; interaction; interchange; social networking</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p96-q13",
+      "questionHtml": "<p>{重|おも}い{荷物|にもつ}を{長時間|ちょうじかん}{持|も}つと、{腰|こし}に{大|おお}きな「負荷」がかかります。「負荷」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふが" },
+        { "id": "b", "html": "ぶか" },
+        { "id": "c", "html": "ふか" },
+        { "id": "d", "html": "ふに" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>負荷（ふか）と読みます。<span>Meaning: <strong>burden; load; strain</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p96-q14",
+      "questionHtml": "<p>その{会社|かいしゃ}は{多額|たがく}の「負債」を{抱|かか}えており、{経営|けいえい}が{難|むずか}しくなっています。「負債」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふざい" },
+        { "id": "b", "html": "ふさい" },
+        { "id": "c", "html": "ぶさい" },
+        { "id": "d", "html": "ふせい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>負債（ふさい）と読みます。<span>Meaning: <strong>debt; liabilities; financial obligations</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p96-q15",
+      "questionHtml": "<p>{旅行|りょこう}の{費用|ひよう}は{家族|かぞく}みんなで「負担」することにしました。「負担」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふだん" },
+        { "id": "b", "html": "ぶたん" },
+        { "id": "c", "html": "ふたん" },
+        { "id": "d", "html": "ふた" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>負担（ふたん）と読みます。<span>Meaning: <strong>burden; charge; responsibility; financial obligation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p96-q16",
+      "questionHtml": "<p>{二人|ふたり}の{選手|せんしゅ}は{最後|さいご}まで{全力|ぜんりょく}で「勝負」し、{観客|かんきゃく}を{感動|かんどう}させました。「勝負」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうぶ" },
+        { "id": "b", "html": "しょうふ" },
+        { "id": "c", "html": "かちぶ" },
+        { "id": "d", "html": "しょうぼ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>勝負（しょうぶ）と読みます。<span>Meaning: <strong>match; contest; game; victory or defeat</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p96-q17",
+      "questionHtml": "<p>{交通事故|こうつうじこ}で「負傷」した{人|ひと}が、すぐに{病院|びょういん}へ{運|はこ}ばれました。「負傷」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふじょう" },
+        { "id": "b", "html": "ぶしょう" },
+        { "id": "c", "html": "ふしょう" },
+        { "id": "d", "html": "ふそう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>負傷（ふしょう）と読みます。<span>Meaning: <strong>injury; wound; being injured</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p96-q18",
+      "questionHtml": "<p>{今回|こんかい}の{試合|しあい}で「負ける」ことがあっても、{次|つぎ}の{大会|たいかい}に{向|む}けて{練習|れんしゅう}を{続|つづ}けます。「負ける」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふける" },
+        { "id": "b", "html": "まける" },
+        { "id": "c", "html": "まげる" },
+        { "id": "d", "html": "おける" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>負ける（まける）と読みます。<span>Meaning: <strong>to lose; to be defeated; to suffer defeat</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p96-q19",
+      "questionHtml": "<p>{選挙|せんきょ}の{日|ひ}には、{多|おお}くの{市民|しみん}が「投票」に{行|い}きました。「投票」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とうひょう" },
+        { "id": "b", "html": "とうびょう" },
+        { "id": "c", "html": "とひょう" },
+        { "id": "d", "html": "とうぴょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>投票（とうひょう）と読みます。<span>Meaning: <strong>voting; ballot; poll; vote</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p96-q20",
+      "questionHtml": "<p>{父|ちち}は{将来|しょうらい}のために、{少|すこ}しずつ「投資」を{始|はじ}めることにしました。「投資」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とうじ" },
+        { "id": "b", "html": "どうし" },
+        { "id": "c", "html": "とし" },
+        { "id": "d", "html": "とうし" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>投資（とうし）と読みます。<span>Meaning: <strong>investment; investing capital or resources</strong></span></p>"
+    }
+  ]
+}

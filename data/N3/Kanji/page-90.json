@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 90,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p90-q1",
+      "questionHtml": "<p>{負傷|ふしょう}した{選手|せんしゅ}の「苦鳴」が{聞|き}こえ、{周|まわ}りの{人|ひと}たちはすぐに{助|たす}けに{向|む}かいました。「苦鳴」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くみょう" },
+        { "id": "b", "html": "くめい" },
+        { "id": "c", "html": "ぐめい" },
+        { "id": "d", "html": "くなり" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>苦鳴（くめい）と読みます。<span>Meaning: <strong>cries of pain; groans of suffering</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p90-q2",
+      "questionHtml": "<p>{静|しず}かな{部屋|へや}にいても「耳鳴」が{続|つづ}くので、{病院|びょういん}で{相談|そうだん}しました。「耳鳴」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "みみなり" },
+        { "id": "b", "html": "じめ" },
+        { "id": "c", "html": "じみょう" },
+        { "id": "d", "html": "じめい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>耳鳴（じめい）と読みます。<span>Meaning: <strong>tinnitus; ringing in the ears</strong></span> The more common everyday form is 耳鳴り（みみなり）.</p>"
+    },
+    {
+      "id": "N3-Kanji-p90-q3",
+      "questionHtml": "<p>{朝|あさ}{六時|ろくじ}になると、{目覚|めざ}まし{時計|どけい}が「鳴る」ように{設定|せってい}しています。「鳴る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "なる" },
+        { "id": "b", "html": "なく" },
+        { "id": "c", "html": "めいる" },
+        { "id": "d", "html": "ならす" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>鳴る（なる）と読みます。<span>Meaning: <strong>to sound; to ring; to resound; to echo; to rumble</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p90-q4",
+      "questionHtml": "<p>{春|はる}になると、{庭|にわ}の{木|き}で{小鳥|ことり}が「鳴く」{声|こえ}をよく{聞|き}きます。「鳴く」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "なる" },
+        { "id": "b", "html": "めく" },
+        { "id": "c", "html": "なく" },
+        { "id": "d", "html": "なぐ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>鳴く（なく）と読みます。<span>Meaning: <strong>to sing or chirp (birds); to make a sound (animals)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p90-q5",
+      "questionHtml": "<p>{会議|かいぎ}の「初め」に、{部長|ぶちょう}が{今日|きょう}の{予定|よてい}を{説明|せつめい}しました。「初め」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょめ" },
+        { "id": "b", "html": "はじめ" },
+        { "id": "c", "html": "はつめ" },
+        { "id": "d", "html": "はしめ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>初め（はじめ）と読みます。<span>Meaning: <strong>beginning; start; outset; opening</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p90-q6",
+      "questionHtml": "<p>{去年|きょねん}、「初めて」{一人|ひとり}で{海外|かいがい}へ{旅行|りょこう}しました。「初めて」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はつめて" },
+        { "id": "b", "html": "しょめて" },
+        { "id": "c", "html": "はしめて" },
+        { "id": "d", "html": "はじめて" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>初めて（はじめて）と読みます。<span>Meaning: <strong>for the first time</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p90-q7",
+      "questionHtml": "<p>{試験|しけん}の「最初」の{問題|もんだい}は{簡単|かんたん}でしたが、{後半|こうはん}は{難|むずか}しかったです。「最初」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さいしょ" },
+        { "id": "b", "html": "さいはつ" },
+        { "id": "c", "html": "さいしょう" },
+        { "id": "d", "html": "さっしょ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>最初（さいしょ）と読みます。<span>Meaning: <strong>beginning; outset; first; onset</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p90-q8",
+      "questionHtml": "<p>{日本語|にほんご}を{勉強|べんきょう}し{始|はじ}めた{人|ひと}には、この「初級」の{教科書|きょうかしょ}がおすすめです。「初級」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はつきゅう" },
+        { "id": "b", "html": "しょきょう" },
+        { "id": "c", "html": "しょきゅう" },
+        { "id": "d", "html": "しょっきゅう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>初級（しょきゅう）と読みます。<span>Meaning: <strong>elementary level; beginner level</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p90-q9",
+      "questionHtml": "<p>{旅行|りょこう}の「宿泊」{先|さき}は、{駅|えき}から{歩|ある}いて{五分|ごふん}のホテルです。「宿泊」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅくばく" },
+        { "id": "b", "html": "しゅくはく" },
+        { "id": "c", "html": "しゅうはく" },
+        { "id": "d", "html": "やどはく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>宿泊（しゅくはく）と読みます。<span>Meaning: <strong>lodging; accommodation; overnight stay</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p90-q10",
+      "questionHtml": "<p>{京都|きょうと}へ{旅行|りょこう}するときは、{駅|えき}の{近|ちか}くのホテルに「泊まる」{予定|よてい}です。「泊まる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とまる" },
+        { "id": "b", "html": "はくまる" },
+        { "id": "c", "html": "とめる" },
+        { "id": "d", "html": "どまる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>泊まる（とまる）と読みます。<span>Meaning: <strong>to stay overnight; to stay at a hotel or other accommodation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p90-q11",
+      "questionHtml": "<p>{終電|しゅうでん}を{逃|のが}した{友達|ともだち}を、{今夜|こんや}は{自分|じぶん}の{家|いえ}に「泊める」ことにしました。「泊める」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とまる" },
+        { "id": "b", "html": "はくめる" },
+        { "id": "c", "html": "どめる" },
+        { "id": "d", "html": "とめる" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>泊める（とめる）と読みます。<span>Meaning: <strong>to accommodate; to give someone a place to stay; to lodge someone</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p90-q12",
+      "questionHtml": "<p>{秋|あき}の{風|かぜ}に{吹|ふ}かれて、「一葉」の{赤|あか}い{葉|は}が{静|しず}かに{地面|じめん}へ{落|お}ちました。「一葉」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いちば" },
+        { "id": "b", "html": "ひとは" },
+        { "id": "c", "html": "いちよう" },
+        { "id": "d", "html": "いちょ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>一葉（いちよう）と読みます。<span>Meaning: <strong>one leaf; one sheet; one page; one photograph</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p90-q13",
+      "questionHtml": "<p>{秋|あき}になると、{京都|きょうと}の{山|やま}では{美|うつく}しい「紅葉」を{楽|たの}しむことができます。「紅葉」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうよう" },
+        { "id": "b", "html": "こうば" },
+        { "id": "c", "html": "べによう" },
+        { "id": "d", "html": "こうよ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>紅葉（こうよう）と読みます。<span>Meaning: <strong>autumn colors; fall foliage; leaves changing color</strong></span> It can also be read もみじ when referring to autumn leaves or maple leaves.</p>"
+    },
+    {
+      "id": "N3-Kanji-p90-q14",
+      "questionHtml": "<p>{庭|にわ}の{木|き}から{大|おお}きな「葉」が{一枚|いちまい}{落|お}ちてきました。「葉」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よう" },
+        { "id": "b", "html": "は" },
+        { "id": "c", "html": "ば" },
+        { "id": "d", "html": "か" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>葉（は）と読みます。<span>Meaning: <strong>leaf</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p90-q15",
+      "questionHtml": "<p>{外国語|がいこくご}を{学|まな}ぶときは、「言葉」の{意味|いみ}だけでなく、{使|つか}い{方|かた}も{覚|おぼ}えることが{大切|たいせつ}です。「言葉」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんば" },
+        { "id": "b", "html": "ことは" },
+        { "id": "c", "html": "ことば" },
+        { "id": "d", "html": "ごんよう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>言葉（ことば）と読みます。<span>Meaning: <strong>word; language; speech; expression; dialect</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p90-q16",
+      "questionHtml": "<p>{旅行先|りょこうさき}から{祖母|そぼ}に「葉書」を{送|おく}ったら、とても{喜|よろこ}んでくれました。「葉書」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はしょ" },
+        { "id": "b", "html": "ようしょ" },
+        { "id": "c", "html": "はかき" },
+        { "id": "d", "html": "はがき" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>葉書（はがき）と読みます。<span>Meaning: <strong>postcard; card; note</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p90-q17",
+      "questionHtml": "<p>{秋|あき}の{公園|こうえん}では、{地面|じめん}にたくさんの「枯葉」が{積|つ}もっていました。「枯葉」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かれは" },
+        { "id": "b", "html": "かれば" },
+        { "id": "c", "html": "こよう" },
+        { "id": "d", "html": "かれよう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>枯葉（かれは）と読みます。<span>Meaning: <strong>dead leaf; dry leaves; withered leaves</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p90-q18",
+      "questionHtml": "<p>{昨日|きのう}の{地震|じしん}について、テレビやインターネットで{詳|くわ}しく「報道」されました。「報道」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほうとう" },
+        { "id": "b", "html": "ほうどう" },
+        { "id": "c", "html": "ぼうどう" },
+        { "id": "d", "html": "ほどう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>報道（ほうどう）と読みます。<span>Meaning: <strong>news reporting; coverage; news; information</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p90-q19",
+      "questionHtml": "<p>{仕事|しごと}が{終|お}わったら、{今日|きょう}の{進|すす}み{具合|ぐあい}を{上司|じょうし}に「報告」してください。「報告」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほうこく" },
+        { "id": "b", "html": "ほうごく" },
+        { "id": "c", "html": "ぼうこく" },
+        { "id": "d", "html": "ほこく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>報告（ほうこく）と読みます。<span>Meaning: <strong>report; notification; information; account of events</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p90-q20",
+      "questionHtml": "<p>{昔|むかし}は、{遠|とお}くにいる{家族|かぞく}へ{急|いそ}ぎの{連絡|れんらく}をするときに「電報」を{使|つか}うことがありました。「電報」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "でんほう" },
+        { "id": "b", "html": "てんぽう" },
+        { "id": "c", "html": "でんぼう" },
+        { "id": "d", "html": "でんぽう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>電報（でんぽう）と読みます。<span>Meaning: <strong>telegram; telegraphic message</strong></span></p>"
+    }
+  ]
+}

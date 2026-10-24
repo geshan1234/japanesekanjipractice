@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 88,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p88-q1",
+      "questionHtml": "<p>{日本|にほん}のレストランで、{新鮮|しんせん}な{魚|さかな}の「刺身」を{食|た}べました。「刺身」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さしみ" },
+        { "id": "b", "html": "さすみ" },
+        { "id": "c", "html": "ししみ" },
+        { "id": "d", "html": "さしめ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>刺身（さしみ）と読みます。<span>Meaning: <strong>sashimi; thinly sliced raw fish or seafood</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p88-q2",
+      "questionHtml": "<p>{昔|むかし}の{社会|しゃかい}では、「身分」によって{仕事|しごと}や{生活|せいかつ}が{大|おお}きく{違|ちが}いました。「身分」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんぶん" },
+        { "id": "b", "html": "みふん" },
+        { "id": "c", "html": "みぶん" },
+        { "id": "d", "html": "しんぷん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>身分（みぶん）と読みます。<span>Meaning: <strong>social position; social status; personal identity</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p88-q3",
+      "questionHtml": "<p>{父|ちち}は{夕食|ゆうしょく}のときに、ときどき「お酒」を{飲|の}みます。「お酒」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おしゅ" },
+        { "id": "b", "html": "おざけ" },
+        { "id": "c", "html": "おさか" },
+        { "id": "d", "html": "おさけ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>お酒（おさけ）と読みます。<span>Meaning: <strong>alcohol; alcoholic drink; sake</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p88-q4",
+      "questionHtml": "<p>{日本|にほん}の{伝統的|でんとうてき}な{飲|の}み{物|もの}である「日本酒」は、{米|こめ}から{作|つく}られます。「日本酒」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "にほんさけ" },
+        { "id": "b", "html": "にほんしゅ" },
+        { "id": "c", "html": "にっぽんざけ" },
+        { "id": "d", "html": "にほんじゅ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>日本酒（にほんしゅ）と読みます。<span>Meaning: <strong>sake; Japanese rice wine</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p88-q5",
+      "questionHtml": "<p>{魚|さかな}を{煮|に}るときに「料理酒」を{少|すこ}し{入|い}れると、{臭|くさ}みを{抑|おさ}えることができます。「料理酒」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りょうりしゅ" },
+        { "id": "b", "html": "りょうりさけ" },
+        { "id": "c", "html": "りょりしゅ" },
+        { "id": "d", "html": "りょうりじゅ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>料理酒（りょうりしゅ）と読みます。<span>Meaning: <strong>cooking sake; sake used for cooking</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p88-q6",
+      "questionHtml": "<p>{駅|えき}の{近|ちか}くにある「酒屋」では、{日本|にほん}や{外国|がいこく}のさまざまな{飲|の}み{物|もの}を{売|う}っています。「酒屋」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さけや" },
+        { "id": "b", "html": "しゅや" },
+        { "id": "c", "html": "さかや" },
+        { "id": "d", "html": "さがや" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>酒屋（さかや）と読みます。<span>Meaning: <strong>liquor store; wine shop; alcoholic beverage shop</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p88-q7",
+      "questionHtml": "<p>{運動|うんどう}したあと、{深|ふか}く「呼吸」をすると{気持|きも}ちが{落|お}ち{着|つ}きます。「呼吸」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こきょう" },
+        { "id": "b", "html": "こきゅう" },
+        { "id": "c", "html": "こぎゅう" },
+        { "id": "d", "html": "よきゅう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>呼吸（こきゅう）と読みます。<span>Meaning: <strong>breathing; respiration</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p88-q8",
+      "questionHtml": "<p>{植物|しょくぶつ}は{根|ね}から{水|みず}や{栄養|えいよう}を「吸収」して{成長|せいちょう}します。「吸収」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きゅうしょう" },
+        { "id": "b", "html": "きゅしゅう" },
+        { "id": "c", "html": "ぎゅうしゅう" },
+        { "id": "d", "html": "きゅうしゅう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>吸収（きゅうしゅう）と読みます。<span>Meaning: <strong>absorption; uptake; assimilation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p88-q9",
+      "questionHtml": "<p>{難|むずか}しい{問題|もんだい}に{答|こた}える{前|まえ}に、「一呼吸」{置|お}いて{考|かんが}えました。「一呼吸」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひとこきゅう" },
+        { "id": "b", "html": "いちこきゅう" },
+        { "id": "c", "html": "ひとこきょう" },
+        { "id": "d", "html": "ひとごきゅう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>一呼吸（ひとこきゅう）と読みます。<span>Meaning: <strong>a short pause; a brief interval; one breath</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p88-q10",
+      "questionHtml": "<p>{医者|いしゃ}は{患者|かんじゃ}に、ゆっくり{鼻|はな}から{空気|くうき}を「吸う」ように{言|い}いました。「吸う」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きゅう" },
+        { "id": "b", "html": "すえる" },
+        { "id": "c", "html": "すう" },
+        { "id": "d", "html": "すく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>吸う（すう）と読みます。<span>Meaning: <strong>to inhale; to breathe in; to suck; to smoke</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p88-q11",
+      "questionHtml": "<p>{暑|あつ}い{日|ひ}が{続|つづ}いているせいか、{最近|さいきん}はあまり「食欲」がありません。「食欲」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょくぼく" },
+        { "id": "b", "html": "しょくよく" },
+        { "id": "c", "html": "しょくやく" },
+        { "id": "d", "html": "たべよく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>食欲（しょくよく）と読みます。<span>Meaning: <strong>appetite; desire to eat</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p88-q12",
+      "questionHtml": "<p>{人間|にんげん}にはさまざまな「欲望」がありますが、すべてを{満|み}たすことはできません。「欲望」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よくもう" },
+        { "id": "b", "html": "よくぼ" },
+        { "id": "c", "html": "よくほう" },
+        { "id": "d", "html": "よくぼう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>欲望（よくぼう）と読みます。<span>Meaning: <strong>desire; craving; appetite; lust</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p88-q13",
+      "questionHtml": "<p>{昔|むかし}の{物語|ものがたり}には、「大欲」のために{大切|たいせつ}なものを{失|うしな}う{人物|じんぶつ}が{登場|とうじょう}します。「大欲」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たいよく" },
+        { "id": "b", "html": "だいよく" },
+        { "id": "c", "html": "たいぼく" },
+        { "id": "d", "html": "おおよく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>大欲（たいよく）と読みます。<span>Meaning: <strong>avarice; great greed; excessive desire</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p88-q14",
+      "questionHtml": "<p>{彼|かれ}は「欲心」に{負|ま}けて、{自分|じぶん}の{利益|りえき}ばかり{考|かんが}えるようになりました。「欲心」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よくじん" },
+        { "id": "b", "html": "よくしん" },
+        { "id": "c", "html": "ほっしん" },
+        { "id": "d", "html": "よっしん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>欲心（よくしん）と読みます。<span>Meaning: <strong>greed; selfish desire; covetousness</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p88-q15",
+      "questionHtml": "<p>{修行|しゅぎょう}を{続|つづ}ける{中|なか}で、{彼|かれ}は{心|こころ}の「欲念」を{抑|おさ}えることの{難|むずか}しさを{知|し}りました。「欲念」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よくれん" },
+        { "id": "b", "html": "よくねん" },
+        { "id": "c", "html": "よっねん" },
+        { "id": "d", "html": "ほくねん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>欲念（よくねん）と読みます。<span>Meaning: <strong>desire; craving; passion; worldly desire</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p88-q16",
+      "questionHtml": "<p>{彼女|かのじょ}は{新|あたら}しい{仕事|しごと}に{対|たい}する「意欲」が{高|たか}く、{毎日|まいにち}{積極的|せっきょくてき}に{学|まな}んでいます。「意欲」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いぼく" },
+        { "id": "b", "html": "いよう" },
+        { "id": "c", "html": "いよく" },
+        { "id": "d", "html": "えよく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>意欲（いよく）と読みます。<span>Meaning: <strong>motivation; willingness; ambition; desire; drive</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p88-q17",
+      "questionHtml": "<p>{誕生日|たんじょうび}には、{前|まえ}から「欲しい」と{思|おも}っていたカメラを{買|か}ってもらいました。「欲しい」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほしい" },
+        { "id": "b", "html": "よくしい" },
+        { "id": "c", "html": "ほし" },
+        { "id": "d", "html": "ぼしい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>欲しい（ほしい）と読みます。<span>Meaning: <strong>wanted; desired; wished for; in need of</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p88-q18",
+      "questionHtml": "<p>{健康|けんこう}を{保|たも}つためには、{毎晩|まいばん}{十分|じゅうぶん}な「睡眠」を{取|と}ることが{大切|たいせつ}です。「睡眠」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "すいめん" },
+        { "id": "b", "html": "すいねん" },
+        { "id": "c", "html": "ずいみん" },
+        { "id": "d", "html": "すいみん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>睡眠（すいみん）と読みます。<span>Meaning: <strong>sleep; sleeping</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p88-q19",
+      "questionHtml": "<p>{昨日|きのう}は{夜遅|よるおそ}くまで{勉強|べんきょう}していたので、{今日|きょう}はとても「眠い」です。「眠い」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ねぶい" },
+        { "id": "b", "html": "ねむい" },
+        { "id": "c", "html": "みんい" },
+        { "id": "d", "html": "ねもい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>眠い（ねむい）と読みます。<span>Meaning: <strong>sleepy; drowsy</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p88-q20",
+      "questionHtml": "<p>{赤|あか}ちゃんは{母親|ははおや}の{腕|うで}の{中|なか}で、{安心|あんしん}したように「眠る」ことができました。「眠る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ねもる" },
+        { "id": "b", "html": "ねぶる" },
+        { "id": "c", "html": "ねむる" },
+        { "id": "d", "html": "みんる" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>眠る（ねむる）と読みます。<span>Meaning: <strong>to sleep; to fall asleep; to be asleep</strong></span></p>"
+    }
+  ]
+}

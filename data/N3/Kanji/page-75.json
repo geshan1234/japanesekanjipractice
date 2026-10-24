@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 75,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p75-q1",
+      "questionHtml": "<p>{夕方|ゆうがた}、{駅|えき}の{近|ちか}くの「街角」で{友達|ともだち}と{偶然|ぐうぜん}{会|あ}いました。「街角」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "がいかく" },
+        { "id": "b", "html": "まちかく" },
+        { "id": "c", "html": "まちがど" },
+        { "id": "d", "html": "まちかど" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>街角（まちかど）と読みます。<span>Meaning: <strong>street corner</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p75-q2",
+      "questionHtml": "<p>{社長|しゃちょう}の「夫人」は、{地域|ちいき}のボランティア{活動|かつどう}に{参加|さんか}しています。「夫人」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふじん" },
+        { "id": "b", "html": "ふにん" },
+        { "id": "c", "html": "ぶじん" },
+        { "id": "d", "html": "ふうじん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>夫人（ふじん）と読みます。<span>Meaning: <strong>wife; madam; Mrs. (respectful reference)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p75-q3",
+      "questionHtml": "<p>あの「夫婦」は{結婚|けっこん}してから{三十年|さんじゅうねん}になりますが、{今|いま}でもとても{仲|なか}がいいです。「夫婦」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふふ" },
+        { "id": "b", "html": "ふうふ" },
+        { "id": "c", "html": "ふうぶ" },
+        { "id": "d", "html": "ふうぷ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>夫婦（ふうふ）と読みます。<span>Meaning: <strong>married couple; spouses; husband and wife</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p75-q4",
+      "questionHtml": "<p>{田中|たなか}「夫妻」は、{週末|しゅうまつ}になると{二人|ふたり}で{近|ちか}くの{公園|こうえん}を{散歩|さんぽ}しています。「夫妻」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふざい" },
+        { "id": "b", "html": "ふせい" },
+        { "id": "c", "html": "ふさい" },
+        { "id": "d", "html": "ふうさい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>夫妻（ふさい）と読みます。<span>Meaning: <strong>married couple; husband and wife</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p75-q5",
+      "questionHtml": "<p>{妻|つま}が{会社|かいしゃ}で{働|はたら}いている{間|あいだ}、{彼|かれ}は「主夫」として{家事|かじ}や{育児|いくじ}を{担当|たんとう}しています。「主夫」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅふ" },
+        { "id": "b", "html": "しゅうふ" },
+        { "id": "c", "html": "ぬしふ" },
+        { "id": "d", "html": "しゅぶ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>主夫（しゅふ）と読みます。<span>Meaning: <strong>househusband; stay-at-home husband or father</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p75-q6",
+      "questionHtml": "<p>{狭|せま}い{部屋|へや}でも、{家具|かぐ}の{置|お}き{方|かた}を「工夫」すれば、{広|ひろ}く{使|つか}うことができます。「工夫」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうふ" },
+        { "id": "b", "html": "くぶう" },
+        { "id": "c", "html": "こうぶ" },
+        { "id": "d", "html": "くふう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>工夫（くふう）と読みます。<span>Meaning: <strong>ingenuity; devising a way; creative effort; contrivance</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p75-q7",
+      "questionHtml": "<p>このかばんはとても「丈夫」なので、{重|おも}い{本|ほん}をたくさん{入|い}れても{壊|こわ}れません。「丈夫」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じょうふ" },
+        { "id": "b", "html": "じょうぶ" },
+        { "id": "c", "html": "しょうぶ" },
+        { "id": "d", "html": "じょぶ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>丈夫（じょうぶ）と読みます。<span>Meaning: <strong>strong; durable; sturdy; healthy</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p75-q8",
+      "questionHtml": "<p>{先生|せんせい}の「夫君」も{大学|だいがく}で{研究|けんきゅう}をされていると{聞|き}きました。「夫君」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふきみ" },
+        { "id": "b", "html": "ふぐん" },
+        { "id": "c", "html": "ふくん" },
+        { "id": "d", "html": "おっとくん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>夫君（ふくん）と読みます。<span>Meaning: <strong>one's husband; another person's husband (formal)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p75-q9",
+      "questionHtml": "<p>{昔|むかし}の{大|おお}きな{船|ふね}では、{多|おお}くの「水夫」が{協力|きょうりょく}して{船|ふね}を{動|うご}かしていました。「水夫」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "すいふ" },
+        { "id": "b", "html": "みずふ" },
+        { "id": "c", "html": "すいぶ" },
+        { "id": "d", "html": "すいぷ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>水夫（すいふ）と読みます。<span>Meaning: <strong>sailor; seaman; crew member</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p75-q10",
+      "questionHtml": "<p>{昔|むかし}の{蒸気船|じょうきせん}では、「火夫」が{石炭|せきたん}を{燃|も}やして{機関|きかん}を{動|うご}かしていました。「火夫」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひふ" },
+        { "id": "b", "html": "かぶ" },
+        { "id": "c", "html": "かお" },
+        { "id": "d", "html": "かふ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>火夫（かふ）と読みます。<span>Meaning: <strong>stoker; worker who tends a furnace or boiler</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p75-q11",
+      "questionHtml": "<p>{私|わたし}の「夫」は{料理|りょうり}が{得意|とくい}で、{週末|しゅうまつ}にはよく{夕食|ゆうしょく}を{作|つく}ってくれます。「夫」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふ" },
+        { "id": "b", "html": "おっと" },
+        { "id": "c", "html": "おと" },
+        { "id": "d", "html": "おっど" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>夫（おっと）と読みます。<span>Meaning: <strong>husband</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p75-q12",
+      "questionHtml": "<p>この{薬|くすり}はとても「苦い」ですが、{健康|けんこう}のために{毎日|まいにち}{飲|の}まなければなりません。「苦い」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くるい" },
+        { "id": "b", "html": "にかい" },
+        { "id": "c", "html": "にがい" },
+        { "id": "d", "html": "くい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>苦い（にがい）と読みます。<span>Meaning: <strong>bitter; having a bitter taste</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p75-q13",
+      "questionHtml": "<p>{高|たか}い{山|やま}に{登|のぼ}ると、{空気|くうき}が{薄|うす}くなって{息|いき}をするのが「苦しい」と{感|かん}じることがあります。「苦しい」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くろしい" },
+        { "id": "b", "html": "にがしい" },
+        { "id": "c", "html": "くるし" },
+        { "id": "d", "html": "くるしい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>苦しい（くるしい）と読みます。<span>Meaning: <strong>painful; difficult; distressing; agonizing</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p75-q14",
+      "questionHtml": "<p>{両親|りょうしん}は{私|わたし}たちを{育|そだ}てるために、{長|なが}い{間|あいだ}たくさんの「苦労」をしてきました。「苦労」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くろう" },
+        { "id": "b", "html": "くろ" },
+        { "id": "c", "html": "くろお" },
+        { "id": "d", "html": "くらう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>苦労（くろう）と読みます。<span>Meaning: <strong>hardship; trouble; difficulty; effort</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p75-q15",
+      "questionHtml": "<p>{私|わたし}は{数学|すうがく}が「苦手」ですが、{毎日|まいにち}{少|すこ}しずつ{勉強|べんきょう}して{克服|こくふく}したいと{思|おも}っています。「苦手」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くて" },
+        { "id": "b", "html": "にがて" },
+        { "id": "c", "html": "にかて" },
+        { "id": "d", "html": "くるて" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>苦手（にがて）と読みます。<span>Meaning: <strong>poor at; not good at; weak in; uncomfortable with</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p75-q16",
+      "questionHtml": "<p>{引|ひ}っ{越|こ}しを{手伝|てつだ}ってくれた{友達|ともだち}に、「お礼」としてお{菓子|かし}を{渡|わた}しました。「お礼」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おらい" },
+        { "id": "b", "html": "おれ" },
+        { "id": "c", "html": "おれい" },
+        { "id": "d", "html": "ごれい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>お礼（おれい）と読みます。<span>Meaning: <strong>thanks; gratitude; expression of appreciation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p75-q17",
+      "questionHtml": "<p>{初|はじ}めて{会|あ}った{人|ひと}に{突然|とつぜん}{失礼|しつれい}な{質問|しつもん}をするのは「無礼」だと{思|おも}います。「無礼」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "むれい" },
+        { "id": "b", "html": "ぶらい" },
+        { "id": "c", "html": "むらい" },
+        { "id": "d", "html": "ぶれい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>無礼（ぶれい）と読みます。<span>Meaning: <strong>rudeness; impoliteness; discourtesy; insolence</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p75-q18",
+      "questionHtml": "<p>{社会人|しゃかいじん}として、{相手|あいて}に{失礼|しつれい}のない「礼儀」を{身|み}につけることは{大切|たいせつ}です。「礼儀」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "れいき" },
+        { "id": "b", "html": "れいぎ" },
+        { "id": "c", "html": "らいぎ" },
+        { "id": "d", "html": "れいご" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>礼儀（れいぎ）と読みます。<span>Meaning: <strong>manners; courtesy; etiquette; politeness</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p75-q19",
+      "questionHtml": "<p>{講演|こうえん}をしてくださった{先生|せんせい}に、{感謝|かんしゃ}の{気持|きも}ちを{込|こ}めて「謝礼」をお{渡|わた}ししました。「謝礼」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゃれい" },
+        { "id": "b", "html": "じゃれい" },
+        { "id": "c", "html": "しゃらい" },
+        { "id": "d", "html": "しゃり" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>謝礼（しゃれい）と読みます。<span>Meaning: <strong>honorarium; reward; remuneration; token of appreciation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p75-q20",
+      "questionHtml": "<p>{会議|かいぎ}の{途中|とちゅう}ですが、{次|つぎ}の{予定|よてい}があるので、ここで「失礼」します。「失礼」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しつらい" },
+        { "id": "b", "html": "しっれい" },
+        { "id": "c", "html": "しつれい" },
+        { "id": "d", "html": "しちれい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>失礼（しつれい）と読みます。<span>Meaning: <strong>discourtesy; impoliteness; rudeness; excuse me</strong></span></p>"
+    }
+  ]
+}

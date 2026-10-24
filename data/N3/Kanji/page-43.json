@@ -1,3 +1,4 @@
+
 {
   "metadata": {
     "level": "N3",
@@ -9,243 +10,243 @@
   "questions": [
     {
       "id": "N3-Kanji-p43-q1",
-      "questionHtml": "<p>成功の「要素」を分析した結果、日頃の徹底した準備が重要だと分かった。「要素」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{成功|せいこう}するためには、{努力|どりょく}や{経験|けいけん}など、さまざまな「要素」が{必要|ひつよう}です。「要素」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "ようそ" },
-        { "id": "b", "html": "かなめそ" },
-        { "id": "c", "html": "ようしょ" },
-        { "id": "d", "html": "こんそ" }
+        { "id": "b", "html": "ようぞ" },
+        { "id": "c", "html": "よそ" },
+        { "id": "d", "html": "ようす" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>要素（ようそ）と読みます。<span>Meaning: <strong>component, factor, element</strong></span></p>"
+      "explanationHtml": "<p>要素（ようそ）と読みます。<span>Meaning: <strong>component; factor</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p43-q2",
-      "questionHtml": "<p>{被災|ひさい}した自治体から、国へ救助活動の「要請」が出された。「要請」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{市|し}は{大雨|おおあめ}による{被害|ひがい}を{防|ふせ}ぐため、{住民|じゅうみん}に{早|はや}めの{避難|ひなん}を「要請」しました。「要請」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ようせい" },
-        { "id": "b", "html": "ようじょう" },
-        { "id": "c", "html": "じゅせい" },
-        { "id": "d", "html": "かなめせい" }
+        { "id": "a", "html": "ようしょう" },
+        { "id": "b", "html": "ようせい" },
+        { "id": "c", "html": "ようぜい" },
+        { "id": "d", "html": "よせい" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>要請（よう請）と読みます。<span>Meaning: <strong>demand, official request</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>要請（ようせい）と読みます。<span>Meaning: <strong>demand; request</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p43-q3",
-      "questionHtml": "<p>新規プロジェクトの立ち上げに伴い、必要な開発「要員」を配置した。「要員」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{大|おお}きなイベントを{安全|あんぜん}に{運営|うんえい}するため、{警備|けいび}の「要員」を{追加|ついか}しました。「要員」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "よういん" },
-        { "id": "b", "html": "ようじん" },
-        { "id": "c", "html": "かなめいん" },
-        { "id": "d", "html": "げんいん" }
+        { "id": "a", "html": "ようえん" },
+        { "id": "b", "html": "よいん" },
+        { "id": "c", "html": "よういん" },
+        { "id": "d", "html": "ようにん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>要員（よういん）と読みます。<span>Meaning: <strong>essential member, personnel, staff required</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>要員（よういん）と読みます。<span>Meaning: <strong>essential member; necessary personnel</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p43-q4",
-      "questionHtml": "<p>{会議|かいぎ}の前に、配布された資料の「概要」だけに目を通しておく。「概要」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{会議|かいぎ}が{始|はじ}まる{前|まえ}に、{担当者|たんとうしゃ}が{新|あたら}しいプロジェクトの「概要」を{説明|せつめい}しました。「概要」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "がいよう" },
-        { "id": "b", "html": "かいよう" },
-        { "id": "c", "html": "がいようく" },
-        { "id": "d", "html": "がいかなめ" }
+        { "id": "a", "html": "かいよう" },
+        { "id": "b", "html": "がいおう" },
+        { "id": "c", "html": "がいよ" },
+        { "id": "d", "html": "がいよう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>概要（がいよう）と読みます。<span>Meaning: <strong>outline, summary, overview</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>概要（がいよう）と読みます。<span>Meaning: <strong>outline; summary</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p43-q5",
-      "questionHtml": "<p>目的地へ到着するまでの「所要」時間は、およそ2時間です。「所要」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{東京|とうきょう}から{大阪|おおさか}までの{新幹線|しんかんせん}の「所要」{時間|じかん}は、{列車|れっしゃ}の{種類|しゅるい}によって{異|こと}なります。「所要」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "しょよう" },
-        { "id": "b", "html": "ところよう" },
-        { "id": "c", "html": "じょよう" },
-        { "id": "d", "html": "しょかなめ" }
+        { "id": "b", "html": "しょおう" },
+        { "id": "c", "html": "ところよう" },
+        { "id": "d", "html": "しよう" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>所要（しょよう）と読みます。<span>Meaning: <strong>required, needed</strong></span></p>"
+      "explanationHtml": "<p>所要（しょよう）と読みます。<span>Meaning: <strong>required; needed</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p43-q6",
-      "questionHtml": "<p>手続きをスムーズに進めるため、「必要」な書類をあらかじめ用意する。「必要」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{海外|かいがい}へ{旅行|りょこう}するときは、パスポートが「必要」なので、{出発前|しゅっぱつまえ}に{確認|かくにん}してください。「必要」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ひつよう" },
-        { "id": "b", "html": "ひつようく" },
-        { "id": "c", "html": "かなめよう" },
-        { "id": "d", "html": "ひつじょう" }
+        { "id": "a", "html": "ひちよう" },
+        { "id": "b", "html": "ひつよう" },
+        { "id": "c", "html": "ひっよう" },
+        { "id": "d", "html": "ひつおう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>必要（ひつよう）と読みます。<span>Meaning: <strong>necessary, required</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>必要（ひつよう）と読みます。<span>Meaning: <strong>necessary; required</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p43-q7",
-      "questionHtml": "<p>海外旅行に行くなら、パスポートがどうしても「要る」。「要る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>この{書類|しょるい}を{提出|ていしゅつ}するには、{身分証明書|みぶんしょうめいしょ}が「要る」と{言|い}われました。「要る」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "いる" },
-        { "id": "b", "html": "ある" },
-        { "id": "c", "html": "える" },
-        { "id": "d", "html": "ようる" }
+        { "id": "a", "html": "ようる" },
+        { "id": "b", "html": "かなめる" },
+        { "id": "c", "html": "いる" },
+        { "id": "d", "html": "える" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>要る（いる）と読みます。<span>Meaning: <strong>to need, to want (intransitive)</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>要る（いる）と読みます。<span>Meaning: <strong>to need; to want</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p43-q8",
-      "questionHtml": "<p>{夏|なつ}の暑い日は、室内の「冷房」を適切に使って過ごしてください。「冷房」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{夏|なつ}はとても{暑|あつ}いので、{事務所|じむしょ}では{朝|あさ}から「冷房」をつけています。「冷房」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "れいぼう" },
-        { "id": "b", "html": "れいほう" },
-        { "id": "c", "html": "つめぼう" },
-        { "id": "d", "html": "ひやぼう" }
+        { "id": "a", "html": "れいほう" },
+        { "id": "b", "html": "れいぼ" },
+        { "id": "c", "html": "りょうぼう" },
+        { "id": "d", "html": "れいぼう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>冷房（れいぼう）と読みます。<span>Meaning: <strong>air conditioning, air cooling</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>冷房（れいぼう）と読みます。<span>Meaning: <strong>air conditioning; air cooling</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p43-q9",
-      "questionHtml": "<p>パニックにならず、どんなトラブルが起きても「冷静」に対処する。「冷静」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{問題|もんだい}が{起|お}きても、「冷静」に{考|かんが}えて{行動|こうどう}することが{大切|たいせつ}です。「冷静」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "れいせい" },
-        { "id": "b", "html": "れいじょう" },
-        { "id": "c", "html": "つめせい" },
-        { "id": "d", "html": "れいぜい" }
+        { "id": "b", "html": "れいしょう" },
+        { "id": "c", "html": "れいぜい" },
+        { "id": "d", "html": "りょうせい" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>冷静（れいせい）と読みます。<span>Meaning: <strong>calmness, composure, serenity</strong></span></p>"
+      "explanationHtml": "<p>冷静（れいせい）と読みます。<span>Meaning: <strong>calmness; composure; coolness; serenity; presence of mind</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p43-q10",
-      "questionHtml": "<p>{彼|かれ}の「冷淡」な態度を見て、チームのメンバーはすっかり落胆した。「冷淡」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{彼|かれ}は{困|こま}っている{人|ひと}に「冷淡」な{態度|たいど}を{取|と}ったため、{周囲|しゅうい}の{人|ひと}たちを{驚|おどろ}かせました。「冷淡」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "れいたん" },
-        { "id": "b", "html": "れいだん" },
-        { "id": "c", "html": "つめたん" },
-        { "id": "d", "html": "ひやたん" }
+        { "id": "a", "html": "れいだん" },
+        { "id": "b", "html": "れいたん" },
+        { "id": "c", "html": "りょうたん" },
+        { "id": "d", "html": "れいあわ" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>冷淡（れいたん）と読みます。<span>Meaning: <strong>cool, indifferent, apathetic</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>冷淡（れいたん）と読みます。<span>Meaning: <strong>cool; indifferent; apathetic; half-hearted</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p43-q11",
-      "questionHtml": "<p>ルールを破った者に対して、リーダーは「冷酷」な決断を下した。「冷酷」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>その{物語|ものがたり}に{登場|とうじょう}する{王|おう}は「冷酷」で、{国民|こくみん}の{苦|くる}しみに{耳|みみ}を{貸|か}しませんでした。「冷酷」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "れいこく" },
-        { "id": "b", "html": "つめこく" },
-        { "id": "c", "html": "れいごく" },
-        { "id": "d", "html": "ひやこく" }
+        { "id": "a", "html": "れいごく" },
+        { "id": "b", "html": "りょうこく" },
+        { "id": "c", "html": "れいこく" },
+        { "id": "d", "html": "れいこつ" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>冷酷（れいこく）と読みます。<span>Meaning: <strong>cruelty, coldheartedness, ruthless</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>冷酷（れいこく）と読みます。<span>Meaning: <strong>cruelty; coldheartedness; relentless; ruthless</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p43-q12",
-      "questionHtml": "<p>熱くなったエンジンを「冷却」するためのシステムを点検する。「冷却」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{工場|こうじょう}では、{熱|ねつ}くなった{機械|きかい}を「冷却」するために{専用|せんよう}の{装置|そうち}を{使|つか}っています。「冷却」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "れいきゃく" },
+        { "id": "a", "html": "れいきょう" },
         { "id": "b", "html": "れいかく" },
-        { "id": "c", "html": "つめきゃく" },
-        { "id": "d", "html": "ひやきゃく" }
+        { "id": "c", "html": "りょうきゃく" },
+        { "id": "d", "html": "れいきゃく" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>冷却（れいきゃく）と読みます。<span>Meaning: <strong>cooling, refrigeration</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>冷却（れいきゃく）と読みます。<span>Meaning: <strong>cooling; refrigeration</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p43-q13",
-      "questionHtml": "<p>スポーツの練習が終わった後、一杯の「冷水」を飲んで生き返った。「冷水」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{暑|あつ}い{日|ひ}に{運動|うんどう}した{後|あと}、「冷水」を{飲|の}んで{体|からだ}を{休|やす}めました。「冷水」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "れいすい" },
-        { "id": "b", "html": "ひやみず" },
-        { "id": "c", "html": "つめみず" },
-        { "id": "d", "html": "れいずい" }
+        { "id": "b", "html": "れいずい" },
+        { "id": "c", "html": "りょうすい" },
+        { "id": "d", "html": "れいみず" }
       ],
       "correctAnswer": "a",
       "explanationHtml": "<p>冷水（れいすい）と読みます。<span>Meaning: <strong>cold water</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p43-q14",
-      "questionHtml": "<p>このバイクのエンジンは、走行中の風を利用した「空冷」式になっている。「空冷」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>このコンピューターは「空冷」{方式|ほうしき}を{採用|さいよう}しており、ファンで{内部|ないぶ}の{熱|ねつ}を{逃|に}がします。「空冷」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "くうれい" },
-        { "id": "b", "html": "そられい" },
-        { "id": "c", "html": "かられい" },
-        { "id": "d", "html": "くうひや" }
+        { "id": "a", "html": "そられい" },
+        { "id": "b", "html": "くうれい" },
+        { "id": "c", "html": "くうりょう" },
+        { "id": "d", "html": "こうれい" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>空冷（空冷）と読みます。<span>Meaning: <strong>air cooling</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>空冷（くうれい）と読みます。<span>Meaning: <strong>air cooling</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p43-q15",
-      "questionHtml": "<p>{長期間|ちょうきかん}保存するために、買ってきた肉をすぐに「冷凍」した。「冷凍」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{買|か}ってきた{魚|さかな}を{長期間|ちょうきかん}{保存|ほぞん}するために、「冷凍」しておきました。「冷凍」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "れいとう" },
-        { "id": "b", "html": "れいどう" },
-        { "id": "c", "html": "つめとう" },
-        { "id": "d", "html": "ひやとう" }
+        { "id": "a", "html": "れいどう" },
+        { "id": "b", "html": "りょうとう" },
+        { "id": "c", "html": "れいとう" },
+        { "id": "d", "html": "れいと" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>冷凍（れいとう）と読みます。<span>Meaning: <strong>freezing, cold storage</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>冷凍（れいとう）と読みます。<span>Meaning: <strong>freezing; cold storage; refrigeration</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p43-q16",
-      "questionHtml": "<p>冷蔵庫から出したばかりの「冷たい」ジュースをグラスに注ぐ。「冷たい」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{冬|ふゆ}の{朝|あさ}、{外|そと}に{置|お}いてあった{自転車|じてんしゃ}のサドルはとても「冷たい」{状態|じょうたい}でした。「冷たい」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "つめたい" },
-        { "id": "b", "html": "ひやたい" },
-        { "id": "c", "html": "ぬるい" },
-        { "id": "d", "html": "れいたい" }
+        { "id": "a", "html": "ひやたい" },
+        { "id": "b", "html": "れいたい" },
+        { "id": "c", "html": "つめだい" },
+        { "id": "d", "html": "つめたい" }
       ],
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "explanationHtml": "<p>冷たい（つめたい）と読みます。<span>Meaning: <strong>cold (to the touch)</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p43-q17",
-      "questionHtml": "<p>{果物|くだもの}を美味しく食べるために、食べる前に氷水でよく「冷やす」。「冷やす」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{暑|あつ}い{日|ひ}には、{飲|の}み{物|もの}を{冷蔵庫|れいぞうこ}で「冷やす」とおいしく{飲|の}めます。「冷やす」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "ひやす" },
-        { "id": "b", "html": "ひえる" },
-        { "id": "c", "html": "つめたす" },
-        { "id": "d", "html": "さます" }
+        { "id": "b", "html": "さやす" },
+        { "id": "c", "html": "れいやす" },
+        { "id": "d", "html": "ひえる" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>冷やす（ひやす）と読みます。<span>Meaning: <strong>to cool, to chill (transitive)</strong></span></p>"
+      "explanationHtml": "<p>冷やす（ひやす）と読みます。<span>Meaning: <strong>to cool (from room temperature); to chill; to refrigerate</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p43-q18",
-      "questionHtml": "<p>夜になると一気に気温が下がり、手足がすっかり「冷える」。「冷える」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{秋|あき}になると、{夜|よる}は{急|きゅう}に「冷える」ことがあるので、{上着|うわぎ}を{持|も}っていきましょう。「冷える」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ひえる" },
-        { "id": "b", "html": "ひやす" },
-        { "id": "c", "html": "さめる" },
-        { "id": "d", "html": "つめたえる" }
+        { "id": "a", "html": "さえる" },
+        { "id": "b", "html": "ひえる" },
+        { "id": "c", "html": "れいえる" },
+        { "id": "d", "html": "ひやえる" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>冷える（ひえる）と読みます。<span>Meaning: <strong>to grow cold, to get chilled (intransitive)</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>冷える（ひえる）と読みます。<span>Meaning: <strong>to grow cold</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p43-q19",
-      "questionHtml": "<p>{時間|じかん}が経って、せっかくのスープがすっかり「冷める」。「冷める」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{温|あたた}かいスープを{作|つく}りましたが、{話|はなし}をしているうちに「冷める」ので、{早|はや}く{食|た}べましょう。「冷める」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "さめる" },
-        { "id": "b", "html": "さます" },
-        { "id": "c", "html": "ひえる" },
-        { "id": "d", "html": "ぬるめる" }
+        { "id": "a", "html": "ひめる" },
+        { "id": "b", "html": "つめる" },
+        { "id": "c", "html": "さめる" },
+        { "id": "d", "html": "れいめる" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>冷める（さめる）と読みます。<span>Meaning: <strong>to become cool, to come down (intransitive)</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>冷める（さめる）と読みます。<span>Meaning: <strong>to become cool; to come down (fever)</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p43-q20",
-      "questionHtml": "<p>熱すぎるお茶は飲みにくいので、少し「冷ます」ことにした。「冷ます」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{熱|あつ}いお{茶|ちゃ}を{子供|こども}に{飲|の}ませる{前|まえ}に、{少|すこ}し「冷ます」ようにしています。「冷ます」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "さます" },
-        { "id": "b", "html": "さめる" },
-        { "id": "c", "html": "ひやす" },
-        { "id": "d", "html": "ぬるます" }
+        { "id": "a", "html": "ひやます" },
+        { "id": "b", "html": "さめます" },
+        { "id": "c", "html": "れいます" },
+        { "id": "d", "html": "さます" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>冷ます（さます）と読みます。<span>Meaning: <strong>to let cool down (transitive)</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>冷ます（さます）と読みます。<span>Meaning: <strong>to cool (e.g. from a high temperature to room temperature); to let cool</strong></span></p>"
     }
   ]
 }

@@ -1,3 +1,4 @@
+
 {
   "metadata": {
     "level": "N3",
@@ -9,243 +10,243 @@
   "questions": [
     {
       "id": "N3-Kanji-p25-q1",
-      "questionHtml": "<p>{週末|しゅうまつ}のホテルを「予約」するため、ウェブサイトにアクセスした。「予約」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{人気|にんき}のレストランなので、{週末|しゅうまつ}に{行|い}く{前|まえ}に「予約」をしておきました。「予約」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "よたい" },
-        { "id": "b", "html": "よやく" },
-        { "id": "c", "html": "めいやく" },
-        { "id": "d", "html": "いやく" }
+        { "id": "a", "html": "よじゃく" },
+        { "id": "b", "html": "ようやく" },
+        { "id": "c", "html": "よやく" },
+        { "id": "d", "html": "よやっく" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>予約（よやく）と読みます。<span>Meaning: <strong>reservation, booking, appointment</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>予約（よやく）と読みます。<span>Meaning: <strong>reservation; appointment; booking; advance order</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p25-q2",
-      "questionHtml": "<p>{一人暮|ひとりぐ}らしを{始|はじ}めてから、{電気代|でんきだい}を「節約」している。「節約」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{電気代|でんきだい}を「節約」するために、{使|つか}っていない{部屋|へや}の{電気|でんき}を{消|け}しています。「節約」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "せつやく" },
-        { "id": "b", "html": "せつぞく" },
-        { "id": "c", "html": "せっちゃく" },
-        { "id": "d", "html": "せつぞめ" }
+        { "id": "b", "html": "せちやく" },
+        { "id": "c", "html": "せつじゃく" },
+        { "id": "d", "html": "せつよく" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>節約（せつやく）と読みます。<span>Meaning: <strong>economising, saving</strong></span></p>"
+      "explanationHtml": "<p>節約（せつやく）と読みます。<span>Meaning: <strong>economising; saving; conservation</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p25-q3",
-      "questionHtml": "<p>{長年|ながねん}付き合った{恋人|こいびと}と、ついに「婚約」することが{決|き}まった。「婚約」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{姉|あね}は{長|なが}い{間|あいだ}{付|つ}き{合|あ}っていた{人|ひと}と「婚約」し、{来年|らいねん}{結婚|けっこん}する{予定|よてい}です。「婚約」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "こんぞく" },
-        { "id": "b", "html": "めんやく" },
-        { "id": "c", "html": "こんやく" },
-        { "id": "d", "html": "けんやく" }
+        { "id": "a", "html": "こんじゃく" },
+        { "id": "b", "html": "こんやく" },
+        { "id": "c", "html": "ごんやく" },
+        { "id": "d", "html": "こんよく" }
       ],
-      "correctAnswer": "c",
-      "explanationHtml": "<p>婚約（こんやく）と読みます。<span>Meaning: <strong>engagement, betrothal</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>婚約（こんやく）と読みます。<span>Meaning: <strong>engagement; betrothal</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p25-q4",
-      "questionHtml": "<p>{条件|じょうけん}の{交渉|こうしょう}がまとまり、無事に契約が「成約」に至った。「成約」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{何度|なんど}も{話|はな}し{合|あ}いを{重|かさ}ねた{結果|けっか}、{新|あたら}しい{取引|とりひき}が「成約」に{至|いた}りました。「成約」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "せいやく" },
-        { "id": "b", "html": "じょうやく" },
-        { "id": "c", "html": "しんやく" },
-        { "id": "d", "html": "せいぞく" }
+        { "id": "a", "html": "じょうやく" },
+        { "id": "b", "html": "せいじゃく" },
+        { "id": "c", "html": "せいやっく" },
+        { "id": "d", "html": "せいやく" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>成約（せいやく）と読みます。<span>Meaning: <strong>conclusion of a contract</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>成約（せいやく）と読みます。<span>Meaning: <strong>conclusion of a contract; successful agreement</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p25-q5",
-      "questionHtml": "<p>この{地域|ちいき}の{人口|じんこう}は「約」30{万人|まんにん}だと言われている。「約」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>この{町|まち}から{東京|とうきょう}までは「約」{二時間|にじかん}かかります。「約」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "つづ" },
-        { "id": "b", "html": "やく" },
-        { "id": "c", "html": "およ" },
-        { "id": "d", "html": "てき" }
+        { "id": "a", "html": "やっ" },
+        { "id": "b", "html": "よく" },
+        { "id": "c", "html": "やく" },
+        { "id": "d", "html": "じゃく" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>約（やく）と読みます。<span>Meaning: <strong>about, approximately</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>約～（やく～）と読みます。<span>Meaning: <strong>about; approximately; around</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p25-q6",
-      "questionHtml": "<p>このエリアは終日「禁煙」となっておりますのでご注意ください。「禁煙」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>このレストランは{店内|てんない}が「禁煙」なので、たばこを{吸|す}うことはできません。「禁煙」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "きんえん" },
-        { "id": "b", "html": "きんけむ" },
-        { "id": "c", "html": "きんあん" },
-        { "id": "d", "html": "きんいん" }
+        { "id": "b", "html": "きんねん" },
+        { "id": "c", "html": "きんけむり" },
+        { "id": "d", "html": "ぎんえん" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>禁煙（きんえん）と読みます。<span>Meaning: <strong>abstaining from smoking, quitting smoking</strong></span></p>"
+      "explanationHtml": "<p>禁煙（きんえん）と読みます。<span>Meaning: <strong>no smoking; abstaining from smoking; quitting smoking</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p25-q7",
-      "questionHtml": "<p>化学実験中、試験管から急に「発煙」が確認された。「発煙」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{工場|こうじょう}の{機械|きかい}から「発煙」が{確認|かくにん}されたため、{作業|さぎょう}を{一時|いちじ}{中止|ちゅうし}しました。「発煙」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "はつえん" },
-        { "id": "b", "html": "ほつえん" },
-        { "id": "c", "html": "ほつけむ" },
-        { "id": "d", "html": "はってん" }
+        { "id": "a", "html": "はちえん" },
+        { "id": "b", "html": "はつえん" },
+        { "id": "c", "html": "はつねん" },
+        { "id": "d", "html": "ほつえん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>発煙（はつえん）と読みます。<span>Meaning: <strong>emitting smoke, fuming</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>発煙（はつえん）と読みます。<span>Meaning: <strong>emitting smoke; fuming; smoke emission</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p25-q8",
-      "questionHtml": "<p>{空気|くうき}を清浄にするために最新の「吸煙」マシンを導入した。「吸煙」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{健康|けんこう}への{悪影響|あくえいきょう}が{心配|しんぱい}されるため、「吸煙」を{控|ひか}えるように{医師|いし}から{勧|すす}められました。「吸煙」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "きゅうけむ" },
-        { "id": "b", "html": "すいえん" },
-        { "id": "c", "html": "きゅうえん" },
-        { "id": "d", "html": "ぎゅうえん" }
+        { "id": "a", "html": "きゅえん" },
+        { "id": "b", "html": "きゅうねん" },
+        { "id": "c", "html": "すいえん" },
+        { "id": "d", "html": "きゅうえん" }
       ],
-      "correctAnswer": "c",
-      "explanationHtml": "<p>吸煙（きゅうえん）と読みます。<span>Meaning: <strong>smoking, absorbing smoke</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>吸煙（きゅうえん）と読みます。<span>Meaning: <strong>smoking; inhaling smoke</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p25-q9",
-      "questionHtml": "<p>{火事|かじ}の現場から黒い「煙」が激しく立ち上っている。「煙」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{火事|かじ}が{起|お}きた{建物|たてもの}から{黒|くろ}い「煙」が{出|で}ていたので、すぐに{消防署|しょうぼうしょ}へ{連絡|れんらく}しました。「煙」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "けむり" },
-        { "id": "b", "html": "けむ" },
+        { "id": "b", "html": "けぶり" },
         { "id": "c", "html": "えん" },
-        { "id": "d", "html": "ひかり" }
+        { "id": "d", "html": "けむら" }
       ],
       "correctAnswer": "a",
       "explanationHtml": "<p>煙（けむり）と読みます。<span>Meaning: <strong>smoke</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p25-q10",
-      "questionHtml": "<p>{彼|かれ}が話したエピソードは、「本当」のストーリーだった。「本当」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{友達|ともだち}から{聞|き}いた{話|はなし}が「本当」かどうか、{先生|せんせい}に{確認|かくにん}しました。「本当」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ほんとう" },
-        { "id": "b", "html": "もととう" },
-        { "id": "c", "html": "ほんどう" },
-        { "id": "d", "html": "ほんあたる" }
+        { "id": "a", "html": "ほんどう" },
+        { "id": "b", "html": "ほんとう" },
+        { "id": "c", "html": "もととう" },
+        { "id": "d", "html": "ほんと" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>本当（ほんとう）と読みます。<span>Meaning: <strong>truth, reality, fact</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>本当（ほんとう）と読みます。<span>Meaning: <strong>truth; reality; actuality; fact</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p25-q11",
-      "questionHtml": "<p>買った宝くじが「当たる」のではないかとワクワクしている。「当たる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{野球|やきゅう}の{練習中|れんしゅうちゅう}に、{飛|と}んできたボールが{頭|あたま}に「当たる」と{危険|きけん}です。「当たる」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "あたる" },
-        { "id": "b", "html": "あてる" },
-        { "id": "c", "html": "とうたる" },
-        { "id": "d", "html": "はまる" }
+        { "id": "a", "html": "あてる" },
+        { "id": "b", "html": "とうたる" },
+        { "id": "c", "html": "あたる" },
+        { "id": "d", "html": "あだる" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>当たる（あたる）と読みます。<span>Meaning: <strong>to be hit, to strike, to win (a prize)</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>当たる（あたる）と読みます。<span>Meaning: <strong>to be hit; to strike; to hit a target; to be correct</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p25-q12",
-      "questionHtml": "<p>「当」{ホテル|ほてる}では、全室でWi-Fiがご利用いただけます。「当」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>「当」{社|しゃ}では、{環境|かんきょう}にやさしい{商品|しょうひん}の{開発|かいはつ}に{力|ちから}を{入|い}れています。「当」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "とう" },
-        { "id": "b", "html": "あたり" },
-        { "id": "c", "html": "この" },
-        { "id": "d", "html": "どう" }
+        { "id": "a", "html": "あて" },
+        { "id": "b", "html": "どう" },
+        { "id": "c", "html": "あた" },
+        { "id": "d", "html": "とう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>当～（とう～）と読みます。<span>Meaning: <strong>this~ (prefix referencing the institution itself)</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>当～（とう～）と読みます。<span>Meaning: <strong>this; the present; the said (as a prefix)</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p25-q13",
-      "questionHtml": "<p>{努力|どりょく}したのだから、良い結果が出るのは「当たり前」だ。「当たり前」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{試験|しけん}の{前|まえ}にしっかり{勉強|べんきょう}するのは「当たり前」だと{先生|せんせい}に{言|い}われました。「当たり前」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "とうりぜん" },
-        { "id": "b", "html": "あたりまえ" },
-        { "id": "c", "html": "あてりまえ" },
-        { "id": "d", "html": "とうぜん" }
+        { "id": "a", "html": "あたりまえ" },
+        { "id": "b", "html": "あたるまえ" },
+        { "id": "c", "html": "とうたりまえ" },
+        { "id": "d", "html": "あたりぜん" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>当たり前（あたりまえ）と読みます。<span>Meaning: <strong>obvious, natural, right</strong></span></p>"
+      "correctAnswer": "a",
+      "explanationHtml": "<p>当たり前（あたりまえ）と読みます。<span>Meaning: <strong>obvious; natural; reasonable; matter of course</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p25-q14",
-      "questionHtml": "<p>{昼休|ひるやす}みに公園で手作りの「弁当」を食べた。「弁当」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{母|はは}が{作|つく}ってくれた「弁当」を{持|も}って、{公園|こうえん}で{昼|ひる}ご{飯|はん}を{食|た}べました。「弁当」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "べんとう" },
-        { "id": "b", "html": "はんとう" },
-        { "id": "c", "html": "めんとう" },
-        { "id": "d", "html": "べんどう" }
+        { "id": "a", "html": "べんどう" },
+        { "id": "b", "html": "べんとう" },
+        { "id": "c", "html": "へんとう" },
+        { "id": "d", "html": "べんと" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>弁当（べんとう）と読みます。<span>Meaning: <strong>bento, Japanese box lunch</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>弁当（べんとう）と読みます。<span>Meaning: <strong>bento; Japanese box lunch; packed meal</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p25-q15",
-      "questionHtml": "<p>{工事|こうじ}現場の「安全」を確保するために柵を設置する。「安全」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{子供|こども}たちが「安全」に{遊|あそ}べるように、{公園|こうえん}の{遊具|ゆうぐ}を{定期的|ていきてき}に{点検|てんけん}しています。「安全」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "あんぜん" },
-        { "id": "b", "html": "あんせん" },
-        { "id": "c", "html": "ぜんあん" },
-        { "id": "d", "html": "やすぜん" }
+        { "id": "a", "html": "あんせん" },
+        { "id": "b", "html": "やすぜん" },
+        { "id": "c", "html": "あんぜん" },
+        { "id": "d", "html": "あんせい" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>安全（あんぜん）と読みます。<span>Meaning: <strong>safe, safety</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>安全（あんぜん）と読みます。<span>Meaning: <strong>safe; safety; security</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p25-q16",
-      "questionHtml": "<p>ここにある資料を「全部」コピーしておいてください。「全部」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{昨日|きのう}{買|か}ったケーキを{家族|かぞく}で{分|わ}けて、「全部」{食|た}べてしまいました。「全部」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ぜんぶ" },
-        { "id": "b", "html": "まるとく" },
-        { "id": "c", "html": "せんぶ" },
-        { "id": "d", "html": "ぜんほう" }
+        { "id": "a", "html": "ぜんふ" },
+        { "id": "b", "html": "せんぶ" },
+        { "id": "c", "html": "ぜんぷ" },
+        { "id": "d", "html": "ぜんぶ" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>全部（ぜんぶ）と読みます。<span>Meaning: <strong>all, the whole, entirely</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>全部（ぜんぶ）と読みます。<span>Meaning: <strong>all; the whole; everything</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p25-q17",
-      "questionHtml": "<p>{大人気|だいにんき}のコンサートのため、チケットは「全席」完売した。「全席」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{人気|にんき}のコンサートは「全席」が{売|う}り{切|き}れになり、{追加|ついか}のチケットも{買|か}えませんでした。「全席」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "ぜんせき" },
-        { "id": "b", "html": "ぜんじゃく" },
+        { "id": "b", "html": "ぜんぜき" },
         { "id": "c", "html": "せんせき" },
-        { "id": "d", "html": "まるせき" }
+        { "id": "d", "html": "ぜんしき" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>全席（ぜんせき）と読みます。<span>Meaning: <strong>all seats, all tickets</strong></span></p>"
+      "explanationHtml": "<p>全席（ぜんせき）と読みます。<span>Meaning: <strong>all seats; every seat</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p25-q18",
-      "questionHtml": "<p>{英語|えいご}のニュースを聞いたが、「全然」聞き取れなかった。「全然」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{昨日|きのう}は{疲|つか}れていたのに、「全然」{眠|ねむ}れなかったので、{今日|きょう}は{少|すこ}し{眠|ねむ}いです。「全然」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "せんぜん" },
-        { "id": "b", "html": "ぜんねん" },
-        { "id": "c", "html": "ぜんぜん" },
-        { "id": "d", "html": "ぜんしか" }
+        { "id": "a", "html": "ぜんせん" },
+        { "id": "b", "html": "ぜんぜん" },
+        { "id": "c", "html": "せんぜん" },
+        { "id": "d", "html": "ぜんねん" }
       ],
-      "correctAnswer": "c",
-      "explanationHtml": "<p>全然（ぜんぜん）と読みます。<span>Meaning: <strong>not at all (used with a negative verb), completely</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>全然（ぜんぜん）と読みます。<span>Meaning: <strong>wholly; entirely; completely; not at all (with a negative verb)</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p25-q19",
-      "questionHtml": "<p>スタジアムを埋め尽くした多くの「観客」から歓声があがった。「観客」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{試合|しあい}が{終|お}わると、{多|おお}くの「観客」が{選手|せんしゅ}たちに{大|おお}きな{拍手|はくしゅ}を{送|おく}りました。「観客」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "かんかく" },
-        { "id": "b", "html": "かんきゃく" },
-        { "id": "c", "html": "みきゃく" },
-        { "id": "d", "html": "がんきゃく" }
+        { "id": "b", "html": "かんぎゃく" },
+        { "id": "c", "html": "かんきゃく" },
+        { "id": "d", "html": "けんきゃく" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>観客（かんきゃく）と読みます。<span>Meaning: <strong>audience, spectator, spectators</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>観客（かんきゃく）と読みます。<span>Meaning: <strong>audience; spectator; spectators</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p25-q20",
-      "questionHtml": "<p>この大型定期船は、多くの「旅客」を乗せて運航している。「旅客」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{空港|くうこう}では、{海外|かいがい}から{到着|とうちゃく}した「旅客」が{入国審査|にゅうこくしんさ}のために{列|れつ}を{作|つく}っていました。「旅客」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "りょかく" },
-        { "id": "b", "html": "りょきゃく" },
-        { "id": "c", "html": "たびきゃく" },
-        { "id": "d", "html": "ろかく" }
+        { "id": "a", "html": "りょきゃく" },
+        { "id": "b", "html": "りょうかく" },
+        { "id": "c", "html": "りょがく" },
+        { "id": "d", "html": "りょかく" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>旅客（りょかく）と読みます。<span>Meaning: <strong>passenger</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>旅客（りょかく）と読みます。<span>Meaning: <strong>passenger; traveler</strong></span></p>"
     }
   ]
 }

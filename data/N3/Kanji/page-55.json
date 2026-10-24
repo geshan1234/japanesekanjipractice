@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 55,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p55-q1",
+      "questionHtml": "<p>{私|わたし}たちは{自然|しぜん}の{環境|かんきょう}を「守る」ために、ごみを{減|へ}らす{努力|どりょく}をしています。「守る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "まもる" },
+        { "id": "b", "html": "もまる" },
+        { "id": "c", "html": "しゅる" },
+        { "id": "d", "html": "まぼる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>守る（まもる）と読みます。<span>Meaning: <strong>to protect; to guard; to defend</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p55-q2",
+      "questionHtml": "<p>{友達|ともだち}の{家|いえ}に{行|い}きましたが、「留守」だったので、{後|あと}で{電話|でんわ}することにしました。「留守」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りゅうす" },
+        { "id": "b", "html": "るす" },
+        { "id": "c", "html": "るしゅ" },
+        { "id": "d", "html": "りゅうしゅ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>留守（るす）と読みます。<span>Meaning: <strong>absence; being away from home</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p55-q3",
+      "questionHtml": "<p>このコーヒーは{味|あじ}が「濃い」ので、{少|すこ}し{牛乳|ぎゅうにゅう}を{入|い}れて{飲|の}みます。「濃い」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "のい" },
+        { "id": "b", "html": "こいい" },
+        { "id": "c", "html": "こい" },
+        { "id": "d", "html": "こうい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>濃い（こい）と読みます。<span>Meaning: <strong>deep (colour); dark; strong; concentrated</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p55-q4",
+      "questionHtml": "<p>{研究者|けんきゅうしゃ}は、{水|みず}に{含|ふく}まれる{塩分|えんぶん}の「濃度」を{測定|そくてい}しました。「濃度」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "のうと" },
+        { "id": "b", "html": "こうど" },
+        { "id": "c", "html": "のど" },
+        { "id": "d", "html": "のうど" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>濃度（のうど）と読みます。<span>Meaning: <strong>concentration; thickness; density</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p55-q5",
+      "questionHtml": "<p>このシャツは{生地|きじ}が「薄い」ので、{寒|さむ}い{日|ひ}には{上着|うわぎ}を{着|き}たほうがいいです。「薄い」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "うすい" },
+        { "id": "b", "html": "うずい" },
+        { "id": "c", "html": "はくい" },
+        { "id": "d", "html": "うしい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>薄い（うすい）と読みます。<span>Meaning: <strong>thin; pale; watery; dilute; sparse</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p55-q6",
+      "questionHtml": "<p>{夕方|ゆうがた}、{私|わたし}たちは「薄暗い」{森|もり}の{中|なか}を{歩|ある}いて{帰|かえ}りました。「薄暗い」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "うすくらい" },
+        { "id": "b", "html": "うすぐらい" },
+        { "id": "c", "html": "はくぐらい" },
+        { "id": "d", "html": "うずぐらい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>薄暗い（うすぐらい）と読みます。<span>Meaning: <strong>dim; gloomy</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p55-q7",
+      "questionHtml": "<p>この{本|ほん}の{最後|さいご}の「部分」が{特|とく}に{面白|おもしろ}かったので、もう{一度|いちど}{読|よ}みたいです。「部分」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふぶん" },
+        { "id": "b", "html": "ぶふん" },
+        { "id": "c", "html": "ぶぶん" },
+        { "id": "d", "html": "ぶぷん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>部分（ぶぶん）と読みます。<span>Meaning: <strong>portion; section; part</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p55-q8",
+      "questionHtml": "<p>{新|あたら}しいプロジェクトについて、{明日|あした}の{会議|かいぎ}で「部長」に{報告|ほうこく}する{予定|よてい}です。「部長」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぶじょう" },
+        { "id": "b", "html": "へちょう" },
+        { "id": "c", "html": "ぶなが" },
+        { "id": "d", "html": "ぶちょう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>部長（ぶちょう）と読みます。<span>Meaning: <strong>head; chief; director of a section or department</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p55-q9",
+      "questionHtml": "<p>{週末|しゅうまつ}は{自分|じぶん}の「部屋」を{掃除|そうじ}して、{古|ふる}い{本|ほん}を{整理|せいり}しました。「部屋」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "へや" },
+        { "id": "b", "html": "ぶや" },
+        { "id": "c", "html": "へおく" },
+        { "id": "d", "html": "べや" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>部屋（へや）と読みます。<span>Meaning: <strong>room; chamber</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p55-q10",
+      "questionHtml": "<p>{兄|あに}は{大学|だいがく}の{文学|ぶんがく}「学部」で、{日本|にほん}の{歴史|れきし}や{文化|ぶんか}を{勉強|べんきょう}しています。「学部」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "がくふ" },
+        { "id": "b", "html": "がくぶ" },
+        { "id": "c", "html": "がっぷ" },
+        { "id": "d", "html": "がくべ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>学部（がくぶ）と読みます。<span>Meaning: <strong>faculty; department of a university</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p55-q11",
+      "questionHtml": "<p>この{町|まち}では、{最近|さいきん}{子供|こども}の「数」が{少|すく}なくなっているそうです。「数」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "すう" },
+        { "id": "b", "html": "かす" },
+        { "id": "c", "html": "かず" },
+        { "id": "d", "html": "す" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>数（かず）と読みます。<span>Meaning: <strong>number; count</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p55-q12",
+      "questionHtml": "<p>この{書類|しょるい}には、{金額|きんがく}を{漢字|かんじ}ではなく「数字」で{書|か}いてください。「数字」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "すうし" },
+        { "id": "b", "html": "かずじ" },
+        { "id": "c", "html": "すじ" },
+        { "id": "d", "html": "すうじ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>数字（すうじ）と読みます。<span>Meaning: <strong>numeric character; numeral; digit</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p55-q13",
+      "questionHtml": "<p>{先生|せんせい}は{教室|きょうしつ}にいる{生徒|せいと}を「数える」ように{頼|たの}みました。「数える」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かぞえる" },
+        { "id": "b", "html": "かずえる" },
+        { "id": "c", "html": "すうえる" },
+        { "id": "d", "html": "かぞる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>数える（かぞえる）と読みます。<span>Meaning: <strong>to count; to enumerate</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p55-q14",
+      "questionHtml": "<p>{弟|おとうと}は「数学」が{得意|とくい}で、{難|むずか}しい{問題|もんだい}もすぐに{解|と}くことができます。「数学」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "すがく" },
+        { "id": "b", "html": "すうがく" },
+        { "id": "c", "html": "すうかく" },
+        { "id": "d", "html": "かずがく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>数学（すうがく）と読みます。<span>Meaning: <strong>mathematics</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p55-q15",
+      "questionHtml": "<p>{昨日|きのう}、{駅|えき}の{近|ちか}くで{大|おお}きな「事件」が{起|お}きたとニュースで{聞|き}きました。「事件」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じげん" },
+        { "id": "b", "html": "しけん" },
+        { "id": "c", "html": "じけん" },
+        { "id": "d", "html": "じこん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>事件（じけん）と読みます。<span>Meaning: <strong>incident; case; event</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p55-q16",
+      "questionHtml": "<p>{仕事|しごと}のメールを{送|おく}るときは、「件名」を{分|わ}かりやすく{書|か}くことが{大切|たいせつ}です。「件名」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けんみょう" },
+        { "id": "b", "html": "けめい" },
+        { "id": "c", "html": "げんめい" },
+        { "id": "d", "html": "けんめい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>件名（けんめい）と読みます。<span>Meaning: <strong>subject; title; name (of an event or matter)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p55-q17",
+      "questionHtml": "<p>{受付|うけつけ}の{人|ひと}に「用件」を{伝|つた}えると、{担当者|たんとうしゃ}を{呼|よ}んでくれました。「用件」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ようけん" },
+        { "id": "b", "html": "ようげん" },
+        { "id": "c", "html": "ようこん" },
+        { "id": "d", "html": "もちけん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>用件（ようけん）と読みます。<span>Meaning: <strong>business; matter to be dealt with; purpose of a visit or communication</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p55-q18",
+      "questionHtml": "<p>{海外旅行|かいがいりょこう}の{前|まえ}に、「再入国」の{手続|てつづ}きが{必要|ひつよう}かどうか{確認|かくにん}しました。「再入国」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さいにゅうごく" },
+        { "id": "b", "html": "さいにゅうこく" },
+        { "id": "c", "html": "ざいにゅうこく" },
+        { "id": "d", "html": "さいいりこく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>再入国（さいにゅうこく）と読みます。<span>Meaning: <strong>re-entry into a country</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p55-q19",
+      "questionHtml": "<p>{電話|でんわ}がつながらなかったので、「再ダイヤル」してもう{一度|いちど}かけてみました。「再ダイヤル」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ざいダイヤル" },
+        { "id": "b", "html": "さいダイアル" },
+        { "id": "c", "html": "さいダイヤル" },
+        { "id": "d", "html": "ふたたびダイヤル" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>再ダイヤル（さいダイヤル）と読みます。<span>Meaning: <strong>redial; calling a number again</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p55-q20",
+      "questionHtml": "<p>「再来週」の{金曜日|きんようび}に{会社|かいしゃ}の{面接|めんせつ}があるので、{今|いま}から{準備|じゅんび}しています。「再来週」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さらいしゅう" },
+        { "id": "b", "html": "さいらいしゅ" },
+        { "id": "c", "html": "ざいらいしゅう" },
+        { "id": "d", "html": "さいらいしゅう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>再来週（さらいしゅう）と読むのが一般的です。<span>Meaning: <strong>week after next</strong></span></p>"
+    }
+  ]
+}

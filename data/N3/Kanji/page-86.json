@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 86,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p86-q1",
+      "questionHtml": "<p>{彼|かれ}は{音楽|おんがく}に「情熱」を{持|も}っていて、{毎日|まいにち}{何時間|なんじかん}もギターを{練習|れんしゅう}しています。「情熱」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じょうれつ" },
+        { "id": "b", "html": "じょねつ" },
+        { "id": "c", "html": "しょうねつ" },
+        { "id": "d", "html": "じょうねつ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>情熱（じょうねつ）と読みます。<span>Meaning: <strong>passion; enthusiasm; zeal</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p86-q2",
+      "questionHtml": "<p>{面接|めんせつ}では、この{会社|かいしゃ}で{働|はたら}きたいという「熱意」を{伝|つた}えることが{大切|たいせつ}です。「熱意」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ねつい" },
+        { "id": "b", "html": "ねちい" },
+        { "id": "c", "html": "ねつぎ" },
+        { "id": "d", "html": "あつい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>熱意（ねつい）と読みます。<span>Meaning: <strong>zeal; enthusiasm; ardor; eagerness</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p86-q3",
+      "questionHtml": "<p>カップラーメンに「熱湯」を{注|そそ}いで、{三分|さんぷん}{待|ま}ってください。「熱湯」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ねつとう" },
+        { "id": "b", "html": "ねっとう" },
+        { "id": "c", "html": "ねっどう" },
+        { "id": "d", "html": "あつゆ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>熱湯（ねっとう）と読みます。<span>Meaning: <strong>boiling water; very hot water</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p86-q4",
+      "questionHtml": "<p>{人気|にんき}のある{歌手|かしゅ}が{登場|とうじょう}すると、{観客|かんきゃく}から「熱烈」な{拍手|はくしゅ}が{送|おく}られました。「熱烈」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ねっれつ" },
+        { "id": "b", "html": "ねつれち" },
+        { "id": "c", "html": "ねつれつ" },
+        { "id": "d", "html": "ねつねつ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>熱烈（ねつれつ）と読みます。<span>Meaning: <strong>ardent; passionate; enthusiastic; fervent</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p86-q5",
+      "questionHtml": "<p>{子供|こども}が「高熱」を{出|だ}したので、{両親|りょうしん}はすぐに{病院|びょういん}へ{連|つ}れて{行|い}きました。「高熱」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうねつ" },
+        { "id": "b", "html": "たかねつ" },
+        { "id": "c", "html": "こうれつ" },
+        { "id": "d", "html": "こうねち" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>高熱（こうねつ）と読みます。<span>Meaning: <strong>high fever; high temperature</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p86-q6",
+      "questionHtml": "<p>{夏|なつ}の{体育館|たいいくかん}は、{試合|しあい}を{応援|おうえん}する{人|ひと}たちの「熱気」でいっぱいでした。「熱気」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ねつき" },
+        { "id": "b", "html": "ねっぎ" },
+        { "id": "c", "html": "あつき" },
+        { "id": "d", "html": "ねっき" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>熱気（ねっき）と読みます。<span>Meaning: <strong>heat; hot air; excitement; enthusiasm</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p86-q7",
+      "questionHtml": "<p>{彼女|かのじょ}は{日本語|にほんご}の{勉強|べんきょう}にとても「熱心」で、{毎日|まいにち}{新|あたら}しい{単語|たんご}を{覚|おぼ}えています。「熱心」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ねつしん" },
+        { "id": "b", "html": "ねっしん" },
+        { "id": "c", "html": "ねっじん" },
+        { "id": "d", "html": "あつしん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>熱心（ねっしん）と読みます。<span>Meaning: <strong>enthusiastic; eager; devoted; earnest</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p86-q8",
+      "questionHtml": "<p>{弟|おとうと}はゲームに「熱中」していて、{母|はは}が{呼|よ}んでも{気|き}づきませんでした。「熱中」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ねつちゅう" },
+        { "id": "b", "html": "ねっじゅう" },
+        { "id": "c", "html": "ねっちゅう" },
+        { "id": "d", "html": "ねっちょう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>熱中（ねっちゅう）と読みます。<span>Meaning: <strong>absorption; enthusiasm; being deeply engrossed in something</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p86-q9",
+      "questionHtml": "<p>このスープはまだ「熱い」ので、{少|すこ}し{冷|さ}ましてから{飲|の}んでください。「熱い」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ねつい" },
+        { "id": "b", "html": "あっい" },
+        { "id": "c", "html": "あたたかい" },
+        { "id": "d", "html": "あつい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>熱い（あつい）と読みます。<span>Meaning: <strong>hot to the touch; hot (food, drinks, objects); passionate</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p86-q10",
+      "questionHtml": "<p>{庭|にわ}の{花|はな}の{近|ちか}くに、{小|ちい}さな「虫」がたくさん{集|あつ}まっていました。「虫」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "むし" },
+        { "id": "b", "html": "ちゅう" },
+        { "id": "c", "html": "むち" },
+        { "id": "d", "html": "むす" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>虫（むし）と読みます。<span>Meaning: <strong>insect; bug; worm; small creature</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p86-q11",
+      "questionHtml": "<p>{甘|あま}いものを{食|た}べたあとに{歯|は}を{磨|みが}かないと、「虫歯」になることがあります。「虫歯」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "むしは" },
+        { "id": "b", "html": "ちゅうば" },
+        { "id": "c", "html": "むしば" },
+        { "id": "d", "html": "むじば" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>虫歯（むしば）と読みます。<span>Meaning: <strong>cavity; tooth decay; decayed tooth</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p86-q12",
+      "questionHtml": "<p>{歯|は}の{健康|けんこう}を{守|まも}るために、{半年|はんとし}に{一度|いちど}は「歯科」で{検査|けんさ}を{受|う}けています。「歯科」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はか" },
+        { "id": "b", "html": "しか" },
+        { "id": "c", "html": "じか" },
+        { "id": "d", "html": "しが" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>歯科（しか）と読みます。<span>Meaning: <strong>dentistry; dental department; dental clinic</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p86-q13",
+      "questionHtml": "<p>{昨夜|さくや}から「歯痛」が{続|つづ}いているので、{今日|きょう}は{歯医者|はいしゃ}に{行|い}く{予定|よてい}です。「歯痛」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しつう" },
+        { "id": "b", "html": "はつう" },
+        { "id": "c", "html": "じつう" },
+        { "id": "d", "html": "しとう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>歯痛（しつう）と読みます。<span>Meaning: <strong>toothache; dental pain</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p86-q14",
+      "questionHtml": "<p>{親知|おやし}らずが{痛|いた}くなったので、{歯科医院|しかいいん}で「抜歯」をしてもらいました。「抜歯」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ばつし" },
+        { "id": "b", "html": "ぬきば" },
+        { "id": "c", "html": "ばっし" },
+        { "id": "d", "html": "ばっじ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>抜歯（ばっし）と読みます。<span>Meaning: <strong>tooth extraction; removal of a tooth</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p86-q15",
+      "questionHtml": "<p>{毎日|まいにち}{歯|は}を{磨|みが}いていても、「歯石」がたまることがあるそうです。「歯石」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はいし" },
+        { "id": "b", "html": "しせき" },
+        { "id": "c", "html": "しぜき" },
+        { "id": "d", "html": "はせき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>歯石（しせき）と読みます。<span>Meaning: <strong>dental tartar; dental calculus</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p86-q16",
+      "questionHtml": "<p>{子供|こども}の「乳歯」が{抜|ぬ}けて、{新|あたら}しい{永久歯|えいきゅうし}が{生|は}えてきました。「乳歯」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "にゅうば" },
+        { "id": "b", "html": "にゅうじ" },
+        { "id": "c", "html": "ちちは" },
+        { "id": "d", "html": "にゅうし" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>乳歯（にゅうし）と読みます。<span>Meaning: <strong>baby tooth; milk tooth; primary tooth</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p86-q17",
+      "questionHtml": "<p>{健康|けんこう}な「歯」を{保|たも}つためには、{毎日|まいにち}{丁寧|ていねい}に{磨|みが}くことが{大切|たいせつ}です。「歯」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "し" },
+        { "id": "b", "html": "ば" },
+        { "id": "c", "html": "は" },
+        { "id": "d", "html": "ひ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>歯（は）と読みます。<span>Meaning: <strong>tooth; teeth</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p86-q18",
+      "questionHtml": "<p>{歯|は}が{痛|いた}くなったので、{近所|きんじょ}の「歯医者」に{予約|よやく}を{入|い}れました。「歯医者」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はいしゃ" },
+        { "id": "b", "html": "しいしゃ" },
+        { "id": "c", "html": "はいじゃ" },
+        { "id": "d", "html": "はいや" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>歯医者（はいしゃ）と読みます。<span>Meaning: <strong>dentist; dental practitioner</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p86-q19",
+      "questionHtml": "<p>{歯|は}を{磨|みが}いたときに「歯茎」から{血|ち}が{出|で}たので、{歯医者|はいしゃ}に{相談|そうだん}しました。「歯茎」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はくき" },
+        { "id": "b", "html": "はぐき" },
+        { "id": "c", "html": "しけい" },
+        { "id": "d", "html": "はぐけ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>歯茎（はぐき）と読みます。<span>Meaning: <strong>gums; gingiva</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p86-q20",
+      "questionHtml": "<p>{風邪|かぜ}が「治る」まで、{無理|むり}をせずに{家|いえ}で{休|やす}んでください。「治る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "なおす" },
+        { "id": "b", "html": "おさまる" },
+        { "id": "c", "html": "ちる" },
+        { "id": "d", "html": "なおる" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>治る（なおる）と読みます。<span>Meaning: <strong>to recover; to get well; to be cured; to heal</strong></span></p>"
+    }
+  ]
+}

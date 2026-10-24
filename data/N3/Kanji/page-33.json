@@ -1,3 +1,4 @@
+
 {
   "metadata": {
     "level": "N3",
@@ -9,231 +10,243 @@
   "questions": [
     {
       "id": "N3-Kanji-p33-q1",
-      "questionHtml": "<p>海外の取引先とオンラインで打ち合わせをする際は、日本との「時差」に注意する。「時差」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{日本|にほん}と{イギリス|イギリス}には「時差」があるので、{電話|でんわ}をかける{時間|じかん}に{注意|ちゅうい}しています。「時差」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ときさ" },
+        { "id": "a", "html": "じしゃ" },
         { "id": "b", "html": "じさ" },
-        { "id": "c", "html": "じしゃ" },
-        { "id": "d", "html": "じさく" }
+        { "id": "c", "html": "しさ" },
+        { "id": "d", "html": "じざ" }
       ],
       "correctAnswer": "b",
       "explanationHtml": "<p>時差（じさ）と読みます。<span>Meaning: <strong>time difference</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p33-q2",
-      "questionHtml": "<p>高度な計算を何度も繰り返したが、どうしてもわずかな「誤差」が生じてしまう。「誤差」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{測定|そくてい}した{結果|けっか}には{少|すこ}し「誤差」があるため、もう{一度|いちど}{確認|かくにん}する{必要|ひつよう}があります。「誤差」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "あやまちさ" },
-        { "id": "b", "html": "ごさ" },
-        { "id": "c", "html": "ごしゃ" },
-        { "id": "d", "html": "こうさ" }
+        { "id": "a", "html": "ごしゃ" },
+        { "id": "b", "html": "こさ" },
+        { "id": "c", "html": "ござ" },
+        { "id": "d", "html": "ごさ" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>誤差（ごさ）と読みます。<span>Meaning: <strong>measurement error, calculation error</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>誤差（ごさ）と読みます。<span>Meaning: <strong>measurement error; calculation error</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p33-q3",
-      "questionHtml": "<p>激しい攻防が続いた試合は、わずか1「点差」で劇的な結末を迎えた。「点差」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{試合|しあい}の{終了|しゅうりょう}まであと{五分|ごふん}ですが、{両|りょう}チームの「点差」はわずか{二点|にてん}です。「点差」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "てんさ" },
         { "id": "b", "html": "てんしゃ" },
-        { "id": "c", "html": "ともしさ" },
-        { "id": "d", "html": "てんさく" }
+        { "id": "c", "html": "でんさ" },
+        { "id": "d", "html": "てんざ" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>点差（てんさ）と読みます。<span>Meaning: <strong>point spread, point difference</strong></span></p>"
+      "explanationHtml": "<p>点差（てんさ）と読みます。<span>Meaning: <strong>point spread; point difference</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p33-q4",
-      "questionHtml": "<p>{性別|せいべつ}や国籍による不当な「差別」をなくすため、新たなガイドラインが制定された。「差別」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{国籍|こくせき}や{性別|せいべつ}による「差別」をなくすために、{社会全体|しゃかいぜんたい}で{努力|どりょく}することが{大切|たいせつ}です。「差別」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "さべつ" },
-        { "id": "b", "html": "さわき" },
-        { "id": "c", "html": "しゃべつ" },
-        { "id": "d", "html": "さいべつ" }
+        { "id": "a", "html": "しゃべつ" },
+        { "id": "b", "html": "さへつ" },
+        { "id": "c", "html": "さべつ" },
+        { "id": "d", "html": "ざべつ" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>差別（さべつ）と読みます。<span>Meaning: <strong>discrimination, distinction, differentiation</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>差別（さべつ）と読みます。<span>Meaning: <strong>distinction; differentiation; discrimination</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p33-q5",
-      "questionHtml": "<p>二つの大きな主要道路が「交差」する地点では、深刻な渋滞が起きやすい。「交差」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{二|ふた}つの{道路|どうろ}が「交差」する{場所|ばしょ}には、{大|おお}きな{信号機|しんごうき}が{設置|せっち}されています。「交差」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "こうさ" },
-        { "id": "b", "html": "まじわりさ" },
-        { "id": "c", "html": "きょうさ" },
-        { "id": "d", "html": "こうしゃ" }
+        { "id": "b", "html": "こうしゃ" },
+        { "id": "c", "html": "ごうさ" },
+        { "id": "d", "html": "こさ" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>交差（こうさ）と読みます。<span>Meaning: <strong>crossing, intersection</strong></span></p>"
+      "explanationHtml": "<p>交差（こうさ）と読みます。<span>Meaning: <strong>crossing; intersection</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p33-q6",
-      "questionHtml": "<p>{都市|とし}と地方における経済的な「格差」の拡大が、社会的な問題となっている。「格差」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{都市|とし}と{地方|ちほう}の{経済的|けいざいてき}な「格差」を{小|ちい}さくするために、{政府|せいふ}が{新|あたら}しい{政策|せいさく}を{発表|はっぴょう}しました。「格差」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "かくさ" },
-        { "id": "b", "html": "こうさ" },
-        { "id": "c", "html": "きゃくさ" },
-        { "id": "d", "html": "かくしゃ" }
+        { "id": "a", "html": "かくしゃ" },
+        { "id": "b", "html": "かくさ" },
+        { "id": "c", "html": "がくさ" },
+        { "id": "d", "html": "かっさ" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>格差（かくさ）と読みます。<span>Meaning: <strong>qualitative difference, disparity, gap</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>格差（かくさ）と読みます。<span>Meaning: <strong>qualitative difference; disparity; gap</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p33-q7",
-      "questionHtml": "<p>二つの製品のスペックを比較したが、機能面において大きな「差異」は見られない。「差異」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{二|ふた}つの{研究結果|けんきゅうけっか}には{小|ちい}さな「差異」が{見|み}られますが、{全体的|ぜんたいてき}な{傾向|けいこう}は{同|おな}じです。「差異」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "さい" },
-        { "id": "b", "html": "さこと" },
+        { "id": "b", "html": "さち" },
         { "id": "c", "html": "しゃい" },
-        { "id": "d", "html": "さいさ" }
+        { "id": "d", "html": "ざい" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>差異（差異）と読みます。<span>Meaning: <strong>difference, disparity, gap</strong></span></p>"
+      "explanationHtml": "<p>差異（さい）と読みます。<span>Meaning: <strong>difference; disparity; gap</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p33-q8",
-      "questionHtml": "<p>小さな努力の積み重ねが、将来的に大きな「差」となって現れる。「差」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{兄|あに}と{私|わたし}の{身長|しんちょう}には{十|じゅっ}センチの「差」があります。「差」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "さ" },
-        { "id": "b", "html": "しゃ" },
-        { "id": "c", "html": "ちがい" },
-        { "id": "d", "html": "さく" }
+        { "id": "a", "html": "しゃ" },
+        { "id": "b", "html": "ざ" },
+        { "id": "c", "html": "し" },
+        { "id": "d", "html": "さ" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>差（差）と読みます。<span>Meaning: <strong>difference</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>差（さ）と読みます。<span>Meaning: <strong>difference; gap</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p33-q9",
-      "questionHtml": "<p>{受付|うけつけ}の窓口に、必要事項を記入した書類を「差し出す」。「差し出す」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{受付|うけつけ}の{人|ひと}に{書類|しょるい}を「差し出す」と、すぐに{内容|ないよう}を{確認|かくにん}してくれました。「差し出す」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "さしだす" },
-        { "id": "b", "html": "さしでる" },
-        { "id": "c", "html": "さしだすめ" },
-        { "id": "d", "html": "さすだす" }
+        { "id": "a", "html": "さしです" },
+        { "id": "b", "html": "さしだす" },
+        { "id": "c", "html": "さしどす" },
+        { "id": "d", "html": "しゃしだす" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>差し出す（さしだす）と読みます。<span>Meaning: <strong>to send, to submit, to hand in</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>差し出す（さしだす）と読みます。<span>Meaning: <strong>to send; to present; to hand over</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p33-q10",
-      "questionHtml": "<p>封筒の裏面に「差出人」の住所と氏名を正確に記載してください。「差出人」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{届|とど}いた{手紙|てがみ}の「差出人」を{確認|かくにん}すると、{高校時代|こうこうじだい}の{友人|ゆうじん}の{名前|なまえ}が{書|か}いてありました。「差出人」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "さしだしにん" },
-        { "id": "b", "html": "さしだひと" },
-        { "id": "c", "html": "さしだじん" },
-        { "id": "d", "html": "さしでにん" }
+        { "id": "a", "html": "さしでにん" },
+        { "id": "b", "html": "さしだしじん" },
+        { "id": "c", "html": "さしだしにん" },
+        { "id": "d", "html": "さしでひと" }
       ],
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "explanationHtml": "<p>差出人（さしだしにん）と読みます。<span>Meaning: <strong>sender</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p33-q11",
-      "questionHtml": "<p>記述式試験の「点数」が発表され、自分の実力を改めて確認した。「点数」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{今回|こんかい}の{数学|すうがく}の{試験|しけん}では、{前回|ぜんかい}よりも{高|たか}い「点数」を{取|と}ることができました。「点数」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "てんすう" },
         { "id": "b", "html": "てんずう" },
-        { "id": "c", "html": "てんかず" },
-        { "id": "d", "html": "ともしすう" }
+        { "id": "c", "html": "でんすう" },
+        { "id": "d", "html": "てんかず" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>点数（てんすう）と読みます。<span>Meaning: <strong>marks, points, score, grade</strong></span></p>"
+      "explanationHtml": "<p>点数（てんすう）と読みます。<span>Meaning: <strong>marks; points; score; grade; runs in baseball</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p33-q12",
-      "questionHtml": "<p>{安全|あんぜん}を確保するため、エレベーターの定期「点検」が実施されている。「点検」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{事故|じこ}を{防|ふせ}ぐために、{作業|さぎょう}を{始|はじ}める{前|まえ}に{機械|きかい}の「点検」を{行|おこな}います。「点検」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "てんけん" },
-        { "id": "b", "html": "てんげん" },
-        { "id": "c", "html": "ともしけん" },
-        { "id": "d", "html": "てんしらべ" }
+        { "id": "a", "html": "てんげん" },
+        { "id": "b", "html": "てんけん" },
+        { "id": "c", "html": "でんけん" },
+        { "id": "d", "html": "てんこん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>点検（てんけん）と読みます。<span>Meaning: <strong>inspection, examination, checking</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>点検（てんけん）と読みます。<span>Meaning: <strong>inspection; examination; checking</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p33-q13",
-      "questionHtml": "<p>{研究|けんきゅう}に打ち込み、ついにその分野の「頂点」に立つことができた。「頂点」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{試合|しあい}の{後半|こうはん}で「点差」が{広|ひろ}がり、{相手|あいて}チームに{追|お}いつくのが{難|むずか}しくなりました。「点差」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "いただきてん" },
-        { "id": "b", "html": "ちょうてん" },
-        { "id": "c", "html": "じょうてん" },
-        { "id": "d", "html": "ちょうてんく" }
+        { "id": "a", "html": "でんさ" },
+        { "id": "b", "html": "てんざ" },
+        { "id": "c", "html": "てんしゃ" },
+        { "id": "d", "html": "てんさ" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>頂点（ちょうてん）と読みます。<span>Meaning: <strong>top, summit, vertex</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>点差（てんさ）と読みます。<span>Meaning: <strong>point spread; point difference</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p33-q14",
-      "questionHtml": "<p>{後半|こうはん}に素晴らしいシュートを決め、見事な「得点」を挙げた。「得点」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{長|なが}い{時間|じかん}をかけて{山|やま}の「頂点」に{到着|とうちゃく}し、{美|うつく}しい{景色|けしき}を{楽|たの}しみました。「頂点」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "とくてん" },
-        { "id": "b", "html": "えくてん" },
-        { "id": "c", "html": "うくてん" },
-        { "id": "d", "html": "とくともし" }
+        { "id": "a", "html": "ちょうでん" },
+        { "id": "b", "html": "ちょうてん" },
+        { "id": "c", "html": "じょうてん" },
+        { "id": "d", "html": "ちょてん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>得点（とくてん）と読みます。<span>Meaning: <strong>scoring, score, points made, goals</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>頂点（ちょうてん）と読みます。<span>Meaning: <strong>top; summit; peak</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p33-q15",
-      "questionHtml": "<p>このシステムは非常に便利だが、セキュリティ面に「欠点」がある。「欠点」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{彼|かれ}は{最後|さいご}の{試合|しあい}で{三|さん}ゴールを{決|き}め、チームの「得点」に{大|おお}きく{貢献|こうけん}しました。「得点」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "けってん" },
-        { "id": "b", "html": "けつてん" },
-        { "id": "c", "html": "かくてん" },
-        { "id": "d", "html": "けつどもし" }
+        { "id": "a", "html": "とくてん" },
+        { "id": "b", "html": "どくてん" },
+        { "id": "c", "html": "とってん" },
+        { "id": "d", "html": "とくでん" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>欠点（けってん）と読みます。<span>Meaning: <strong>fault, defect, flaw, weak point</strong></span></p>"
+      "explanationHtml": "<p>得点（とくてん）と読みます。<span>Meaning: <strong>scoring; score; points made; marks obtained; goals; runs</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p33-q16",
-      "questionHtml": "<p>時間が限られているので、スピーチの「要点」だけを簡潔に述べる。「要点」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{自分|じぶん}の「欠点」を{理解|りかい}し、{少|すこ}しずつ{改善|かいぜん}することが{成長|せいちょう}につながります。「欠点」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ようてん" },
-        { "id": "b", "html": "かなめてん" },
-        { "id": "c", "html": "いようてん" },
-        { "id": "d", "html": "ようともし" }
+        { "id": "a", "html": "けつてん" },
+        { "id": "b", "html": "けっでん" },
+        { "id": "c", "html": "けってん" },
+        { "id": "d", "html": "かってん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>要点（ようてん）と読みます。<span>Meaning: <strong>gist, main point</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>欠点（けってん）と読みます。<span>Meaning: <strong>fault; defect; flaw; weak point; weakness</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p33-q17",
-      "questionHtml": "<p>寝ずにテスト勉強を頑張ったおかげで、本番で「満点」を取れた。「満点」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{先生|せんせい}は{長|なが}い{説明|せつめい}の「要点」を{黒板|こくばん}に{書|か}いて、{学生|がくせい}たちに{伝|つた}えました。「要点」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "まんてん" },
-        { "id": "b", "html": "みちてん" },
-        { "id": "c", "html": "ばんてん" },
-        { "id": "d", "html": "まんともし" }
+        { "id": "a", "html": "ようでん" },
+        { "id": "b", "html": "よてん" },
+        { "id": "c", "html": "ようてい" },
+        { "id": "d", "html": "ようてん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>満点（まんてん）と読みます。<span>Meaning: <strong>perfect score, full marks</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>要点（ようてん）と読みます。<span>Meaning: <strong>gist; main point; essential point</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p33-q18",
-      "questionHtml": "<p>{交渉|こうしょう}を有利に進めるため、相手チームの「弱点」を分析する。「弱点」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{妹|いもうと}は{今回|こんかい}の{英語|えいご}の{試験|しけん}で「満点」を{取|と}り、{家族|かぞく}みんなに{褒|ほ}められました。「満点」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "よわてん" },
-        { "id": "b", "html": "じゃくてん" },
-        { "id": "c", "html": "にゃくてん" },
-        { "id": "d", "html": "じゃくともし" }
+        { "id": "a", "html": "まんでん" },
+        { "id": "b", "html": "まんてん" },
+        { "id": "c", "html": "みってん" },
+        { "id": "d", "html": "まんてい" }
       ],
       "correctAnswer": "b",
-      "explanationHtml": "<p>弱点（じゃくてん）と読みます。<span>Meaning: <strong>weak point, weakness, shortcoming</strong></span></p>"
+      "explanationHtml": "<p>満点（まんてん）と読みます。<span>Meaning: <strong>perfect score; full marks</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p33-q19",
-      "questionHtml": "<p>{今年|ことし}の開発計画では、AI技術の活用に「重点」を置いている。「重点」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{彼|かれ}は{自分|じぶん}の「弱点」を{克服|こくふく}するために、{毎日|まいにち}{苦手|にがて}な{科目|かもく}を{勉強|べんきょう}しています。「弱点」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "じゅうてん" },
-        { "id": "b", "html": "ちょうてん" },
-        { "id": "c", "html": "おもてん" },
-        { "id": "d", "html": "じゅうともし" }
+        { "id": "a", "html": "じゃくてん" },
+        { "id": "b", "html": "じゃくでん" },
+        { "id": "c", "html": "よわてん" },
+        { "id": "d", "html": "じゃってん" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>重点（じゅうてん）と読みます。<span>Meaning: <strong>important point, emphasis</strong></span></p>"
+      "explanationHtml": "<p>弱点（じゃくてん）と読みます。<span>Meaning: <strong>weak point; weakness; shortcoming</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p33-q20",
+      "questionHtml": "<p>{今年|ことし}の{会社|かいしゃ}の{計画|けいかく}では、{新商品|しんしょうひん}の{開発|かいはつ}に「重点」を{置|お}くことになりました。「重点」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じゅてん" },
+        { "id": "b", "html": "じゅうでん" },
+        { "id": "c", "html": "じゅうてん" },
+        { "id": "d", "html": "ちょうてん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>重点（じゅうてん）と読みます。<span>Meaning: <strong>important point; emphasis; priority</strong></span></p>"
     }
   ]
 }

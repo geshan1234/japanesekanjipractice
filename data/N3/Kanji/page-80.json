@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 80,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p80-q1",
+      "questionHtml": "<p>{子供|こども}のころ、{空|そら}を{飛|と}べたらどんなに{楽|たの}しいだろうと「空想」していました。「空想」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くうしょう" },
+        { "id": "b", "html": "こうそう" },
+        { "id": "c", "html": "くうぞう" },
+        { "id": "d", "html": "くうそう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>空想（くうそう）と読みます。<span>Meaning: <strong>daydream; fantasy; imagination; vision</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p80-q2",
+      "questionHtml": "<p>{大学|だいがく}では、さまざまな{国|くに}の「思想」や{文化|ぶんか}について{学|まな}ぶことができます。「思想」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しそう" },
+        { "id": "b", "html": "しぞう" },
+        { "id": "c", "html": "ししょう" },
+        { "id": "d", "html": "じそう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>思想（しそう）と読みます。<span>Meaning: <strong>thought; idea; ideology; philosophy</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p80-q3",
+      "questionHtml": "<p>この{商品|しょうひん}のデザインは、{自然|しぜん}の{形|かたち}から「発想」を{得|え}たそうです。「発想」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はつそう" },
+        { "id": "b", "html": "はっそう" },
+        { "id": "c", "html": "はっしょう" },
+        { "id": "d", "html": "はっぞう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>発想（はっそう）と読みます。<span>Meaning: <strong>idea; conception; way of thinking; inspiration</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p80-q4",
+      "questionHtml": "<p>{新|あたら}しい{図書館|としょかん}の「構想」が{発表|はっぴょう}され、{市民|しみん}から{多|おお}くの{意見|いけん}が{集|あつ}まりました。「構想」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうぞう" },
+        { "id": "b", "html": "こそう" },
+        { "id": "c", "html": "こうそう" },
+        { "id": "d", "html": "こうしょう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>構想（こうそう）と読みます。<span>Meaning: <strong>plan; concept; vision; scheme; conception</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p80-q5",
+      "questionHtml": "<p>{大|おお}きな「試練」を{乗|の}り{越|こ}えたことで、{彼|かれ}は{以前|いぜん}よりも{強|つよ}くなりました。「試練」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しれん" },
+        { "id": "b", "html": "しねん" },
+        { "id": "c", "html": "じれん" },
+        { "id": "d", "html": "しれい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>試練（しれん）と読みます。<span>Meaning: <strong>trial; ordeal; test; tribulation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p80-q6",
+      "questionHtml": "<p>{彼女|かのじょ}は{昔|むかし}の{恋人|こいびと}にまだ「未練」があり、{思|おも}い{出|で}の{写真|しゃしん}を{捨|す}てられません。「未練」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "みねん" },
+        { "id": "b", "html": "びれん" },
+        { "id": "c", "html": "みれい" },
+        { "id": "d", "html": "みれん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>未練（みれん）と読みます。<span>Meaning: <strong>lingering attachment; lingering affection; regret over letting go</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p80-q7",
+      "questionHtml": "<p>{消防士|しょうぼうし}たちは、{緊急時|きんきゅうじ}に{備|そな}えて{毎日|まいにち}{厳|きび}しい「訓練」を{受|う}けています。「訓練」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くんねん" },
+        { "id": "b", "html": "くんれん" },
+        { "id": "c", "html": "ぐんれん" },
+        { "id": "d", "html": "くんれい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>訓練（くんれん）と読みます。<span>Meaning: <strong>training; drill; practice; discipline</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p80-q8",
+      "questionHtml": "<p>このホテルの{内装|ないそう}はとても「洗練」されていて、{落|お}ち{着|つ}いた{雰囲気|ふんいき}があります。「洗練」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せんねん" },
+        { "id": "b", "html": "せいれん" },
+        { "id": "c", "html": "せんれん" },
+        { "id": "d", "html": "せんれい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>洗練（せんれん）と読みます。<span>Meaning: <strong>refinement; polish; sophistication</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p80-q9",
+      "questionHtml": "<p>{長年|ながねん}の{経験|けいけん}を{持|も}つ{彼|かれ}は、「練達」の{技術者|ぎじゅつしゃ}として{高|たか}く{評価|ひょうか}されています。「練達」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "れんたつ" },
+        { "id": "b", "html": "れんだつ" },
+        { "id": "c", "html": "ねんたつ" },
+        { "id": "d", "html": "れんたち" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>練達（れんたつ）と読みます。<span>Meaning: <strong>expertise; skill; mastery; dexterity</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p80-q10",
+      "questionHtml": "<p>「老練」な{交渉人|こうしょうにん}は、{難|むずか}しい{問題|もんだい}にも{冷静|れいせい}に{対応|たいおう}しました。「老練」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ろうねん" },
+        { "id": "b", "html": "ろうれい" },
+        { "id": "c", "html": "ろれん" },
+        { "id": "d", "html": "ろうれん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>老練（ろうれん）と読みます。<span>Meaning: <strong>experienced; veteran; skilled; expert</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p80-q11",
+      "questionHtml": "<p>{昔|むかし}の{学校|がっこう}では、{生徒|せいと}たちが{集団|しゅうだん}で{行動|こうどう}するための「教練」が{行|おこな}われていました。「教練」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きょうねん" },
+        { "id": "b", "html": "きょうれん" },
+        { "id": "c", "html": "きょれん" },
+        { "id": "d", "html": "きょうれい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>教練（きょうれん）と読みます。<span>Meaning: <strong>drill; formal training, especially military-style drill</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p80-q12",
+      "questionHtml": "<p>{来月|らいげつ}のピアノの{発表会|はっぴょうかい}に{向|む}けて、{毎日|まいにち}{二時間|にじかん}「練習」しています。「練習」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "れんじゅう" },
+        { "id": "b", "html": "ねんしゅう" },
+        { "id": "c", "html": "れんしゅう" },
+        { "id": "d", "html": "れんしょう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>練習（れんしゅう）と読みます。<span>Meaning: <strong>practice; practising; rehearsal</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p80-q13",
+      "questionHtml": "<p>「最近」は{仕事|しごと}が{忙|いそが}しくて、{友達|ともだち}と{会|あ}う{時間|じかん}があまりありません。「最近」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さいちか" },
+        { "id": "b", "html": "さいこん" },
+        { "id": "c", "html": "ざいきん" },
+        { "id": "d", "html": "さいきん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>最近（さいきん）と読みます。<span>Meaning: <strong>recently; lately; these days; nowadays</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p80-q14",
+      "questionHtml": "<p>{日本|にほん}で{最|もっと}も{高|たか}い{山|やま}は{富士山|ふじさん}です。「最も」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "もっとも" },
+        { "id": "b", "html": "さいも" },
+        { "id": "c", "html": "もとも" },
+        { "id": "d", "html": "もっども" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>最も（もっとも）と読みます。<span>Meaning: <strong>most; extremely; above all</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p80-q15",
+      "questionHtml": "<p>{旅行|りょこう}の「最後」に、{家族|かぞく}へのお{土産|みやげ}を{買|か}いました。「最後」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さいこう" },
+        { "id": "b", "html": "さいご" },
+        { "id": "c", "html": "ざいご" },
+        { "id": "d", "html": "さいこ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>最後（さいご）と読みます。<span>Meaning: <strong>last; end; conclusion; final</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p80-q16",
+      "questionHtml": "<p>{日本|にほん}に{来|き}た「最初」の{日|ひ}は、{道|みち}が{分|わ}からなくてとても{困|こま}りました。「最初」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さいしょう" },
+        { "id": "b", "html": "さいじょ" },
+        { "id": "c", "html": "さいしょ" },
+        { "id": "d", "html": "ざいしょ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>最初（さいしょ）と読みます。<span>Meaning: <strong>beginning; outset; first; onset</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p80-q17",
+      "questionHtml": "<p>{寒|さむ}い{日|ひ}には、「適当」な{厚|あつ}さの{上着|うわぎ}を{選|えら}ぶことが{大切|たいせつ}です。「適当」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "てきどう" },
+        { "id": "b", "html": "てきと" },
+        { "id": "c", "html": "できとう" },
+        { "id": "d", "html": "てきとう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>適当（てきとう）と読みます。<span>Meaning: <strong>suitable; appropriate; adequate; also careless or arbitrary depending on context</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p80-q18",
+      "questionHtml": "<p>{友達|ともだち}から「素敵」な{誕生日|たんじょうび}プレゼントをもらって、とてもうれしかったです。「素敵」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "すてき" },
+        { "id": "b", "html": "そてき" },
+        { "id": "c", "html": "すでき" },
+        { "id": "d", "html": "すてぎ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>素敵（すてき）と読みます。<span>Meaning: <strong>lovely; wonderful; nice; fantastic; superb</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p80-q19",
+      "questionHtml": "<p>このホテルの{部屋|へや}は{広|ひろ}くて{静|しず}かなので、とても「快適」に{過|す}ごせます。「快適」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かいでき" },
+        { "id": "b", "html": "かいてき" },
+        { "id": "c", "html": "かいてい" },
+        { "id": "d", "html": "がいてき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>快適（かいてき）と読みます。<span>Meaning: <strong>comfortable; pleasant; agreeable</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p80-q20",
+      "questionHtml": "<p>{問題|もんだい}が{発生|はっせい}したときは、{状況|じょうきょう}をよく{確認|かくにん}して「適切」な{対応|たいおう}を{取|と}る{必要|ひつよう}があります。「適切」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "てきぜつ" },
+        { "id": "b", "html": "できせつ" },
+        { "id": "c", "html": "てきせつ" },
+        { "id": "d", "html": "てきさい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>適切（てきせつ）と読みます。<span>Meaning: <strong>appropriate; suitable; proper; relevant; fitting</strong></span></p>"
+    }
+  ]
+}

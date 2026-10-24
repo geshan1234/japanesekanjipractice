@@ -1,3 +1,4 @@
+
 {
   "metadata": {
     "level": "N3",
@@ -9,243 +10,243 @@
   "questions": [
     {
       "id": "N3-Kanji-p26-q1",
-      "questionHtml": "<p>{電車|でんしゃ}のトラブルにより、多くの「乗客」が駅で足止めされた。「乗客」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{電車|でんしゃ}が{急|きゅう}に{止|と}まったため、「乗客」たちは{駅員|えきいん}の{案内|あんない}を{待|ま}っていました。「乗客」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "のりきゃく" },
+        { "id": "a", "html": "じょうきゃく" },
         { "id": "b", "html": "じょうかく" },
-        { "id": "c", "html": "じょうきゃく" },
-        { "id": "d", "html": "のりかく" }
+        { "id": "c", "html": "のりきゃく" },
+        { "id": "d", "html": "しょうきゃく" }
       ],
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "explanationHtml": "<p>乗客（じょうきゃく）と読みます。<span>Meaning: <strong>passenger</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p26-q2",
-      "questionHtml": "<p>午後から大切な「来客」の予定が入っているため、準備を進める。「来客」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{会社|かいしゃ}に「来客」があったので、{受付|うけつけ}の{人|ひと}が{会議室|かいぎしつ}まで{案内|あんない}しました。「来客」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "らいきゃく" },
-        { "id": "b", "html": "らいかく" },
-        { "id": "c", "html": "ききゃく" },
-        { "id": "d", "html": "くらいきゃく" }
+        { "id": "a", "html": "らいかく" },
+        { "id": "b", "html": "らいぎゃく" },
+        { "id": "c", "html": "きゃく" },
+        { "id": "d", "html": "らいきゃく" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>来客（らいきゃく）と読みます。<span>Meaning: <strong>visitor, caller</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>来客（らいきゃく）と読みます。<span>Meaning: <strong>visitor; caller; guest</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p26-q3",
-      "questionHtml": "<p>お茶の席では、「主客」のやり取りにおいて礼儀作法が重視される。「主客」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{正式|せいしき}な{食事会|しょくじかい}では、「主客」が{互|たが}いに{挨拶|あいさつ}を{交|か}わしてから{食事|しょくじ}を{始|はじ}めました。「主客」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "しゅかく" },
-        { "id": "b", "html": "おもきゃく" },
-        { "id": "c", "html": "しゅきゃく" },
-        { "id": "d", "html": "すきゃく" }
+        { "id": "a", "html": "しゅきゃく" },
+        { "id": "b", "html": "しゅかく" },
+        { "id": "c", "html": "ぬしかく" },
+        { "id": "d", "html": "しゅがく" }
       ],
-      "correctAnswer": "c",
-      "explanationHtml": "<p>主客（しゅきゃく）と読みます。<span>Meaning: <strong>host and guest, subject and object</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>主客（しゅかく）と読みます。<span>Meaning: <strong>host and guest</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p26-q4",
-      "questionHtml": "<p>あの店はいつも多くの「客」でにぎわっている。「客」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>このレストランは{料理|りょうり}がおいしいので、{毎日|まいにち}たくさんの「客」が{訪|おとず}れます。「客」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "かく" },
-        { "id": "b", "html": "きゃく" },
-        { "id": "c", "html": "あき" },
-        { "id": "d", "html": "こう" }
+        { "id": "b", "html": "ぎゃく" },
+        { "id": "c", "html": "きゃく" },
+        { "id": "d", "html": "けく" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>客（きゃく）と読みます。<span>Meaning: <strong>guest, visitor, customer</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>客（きゃく）と読みます。<span>Meaning: <strong>guest; visitor; customer</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p26-q5",
-      "questionHtml": "<p>フロントにて「お客様」のご案内を丁寧に行う。「お客様」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{店員|てんいん}は「お客様」に{笑顔|えがお}で{挨拶|あいさつ}し、{商品|しょうひん}の{説明|せつめい}をしました。「お客様」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "おかくさま" },
-        { "id": "b", "html": "おきゃくさま" },
-        { "id": "c", "html": "おきゃくがた" },
-        { "id": "d", "html": "ごきゃくさま" }
+        { "id": "a", "html": "おきゃくさま" },
+        { "id": "b", "html": "おかくさま" },
+        { "id": "c", "html": "おきゃくよう" },
+        { "id": "d", "html": "おきゃくざま" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>お客様（おきゃくさま）と読みます。<span>Meaning: <strong>guest, visitor, customer (polite)</strong></span></p>"
+      "correctAnswer": "a",
+      "explanationHtml": "<p>お客様（おきゃくさま）と読みます。<span>Meaning: <strong>guest; visitor; customer (polite)</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p26-q6",
-      "questionHtml": "<p>{負傷|ふしょう}した{選手|せんしゅ}の「様態」が徐々に安定してきた。「様態」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{医師|いし}は{患者|かんじゃ}の「様態」を{確認|かくにん}し、{必要|ひつよう}な{治療|ちりょう}について{説明|せつめい}しました。「様態」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ようたい" },
-        { "id": "b", "html": "さまたい" },
-        { "id": "c", "html": "ようだい" },
-        { "id": "d", "html": "しょうたい" }
+        { "id": "a", "html": "ようだい" },
+        { "id": "b", "html": "ようたい" },
+        { "id": "c", "html": "さまたい" },
+        { "id": "d", "html": "ようてい" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>様態（ようたい）と読みます。<span>Meaning: <strong>form, situation, condition</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>様態（ようたい）と読みます。<span>Meaning: <strong>form; situation; condition; state</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p26-q7",
-      "questionHtml": "<p>システムエラーが起きてしまい、もはや修正の「仕様」がない。「仕様」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{新|あたら}しいパソコンの「仕様」を{確認|かくにん}してから、{購入|こうにゅう}するかどうか{決|き}めました。「仕様」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "しよう" },
-        { "id": "b", "html": "さまよう" },
-        { "id": "c", "html": "しようく" },
+        { "id": "a", "html": "しゅよう" },
+        { "id": "b", "html": "しおう" },
+        { "id": "c", "html": "しよう" },
         { "id": "d", "html": "じよう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>仕様（しよう）と読みます。<span>Meaning: <strong>way, method, resource, remedy</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>仕様（しよう）と読みます。<span>Meaning: <strong>way; method; means; specifications</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p26-q8",
-      "questionHtml": "<p>近代建築の「様式」を取り入れた美しい建物が完成した。「様式」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>この{書類|しょるい}は{決|き}められた「様式」に{従|したが}って{記入|きにゅう}してください。「様式」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "さましき" },
-        { "id": "b", "html": "ようしき" },
-        { "id": "c", "html": "ようちょく" },
-        { "id": "d", "html": "しょうしき" }
+        { "id": "a", "html": "ようしょく" },
+        { "id": "b", "html": "さましき" },
+        { "id": "c", "html": "ようじき" },
+        { "id": "d", "html": "ようしき" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>様式（ようしき）と読みます。<span>Meaning: <strong>style, form, pattern</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>様式（ようしき）と読みます。<span>Meaning: <strong>style; form; pattern; format</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p26-q9",
-      "questionHtml": "<p>{街|まち}の再開発が進み、駅前の「様相」が一変した。「様相」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{試合|しあい}の{後半|こうはん}になると、{両|りょう}チームの{戦|たたか}いは{激|はげ}しい「様相」を{見|み}せ{始|はじ}めました。「様相」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "ようそう" },
-        { "id": "b", "html": "さまそう" },
-        { "id": "c", "html": "ようしょう" },
-        { "id": "d", "html": "しょうそう" }
+        { "id": "b", "html": "ようしょう" },
+        { "id": "c", "html": "さまそう" },
+        { "id": "d", "html": "ようぞう" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>様相（ようそう）と読みます。<span>Meaning: <strong>aspect, phase, condition</strong></span></p>"
+      "explanationHtml": "<p>様相（ようそう）と読みます。<span>Meaning: <strong>aspect; phase; condition; appearance</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p26-q10",
-      "questionHtml": "<p>このカーテンには、{伝統的|でんとうてき}な和風の「模様」が描かれている。「模様」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{母|はは}が{買|か}ったカーテンには、{美|うつく}しい{花|はな}の「模様」が{描|えが}かれています。「模様」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "もよう" },
-        { "id": "b", "html": "ばくよう" },
-        { "id": "c", "html": "さまよう" },
-        { "id": "d", "html": "ぼよう" }
+        { "id": "a", "html": "もよ" },
+        { "id": "b", "html": "もよう" },
+        { "id": "c", "html": "ぼよう" },
+        { "id": "d", "html": "もよお" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>模様（もよう）と読みます。<span>Meaning: <strong>pattern, figure, design</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>模様（もよう）と読みます。<span>Meaning: <strong>pattern; figure; design</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p26-q11",
-      "questionHtml": "<p>{緊張|きんちょう}しているのか、{彼|かれ}の「様子」がいつもと違う。「様子」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{子供|こども}の「様子」がいつもと{違|ちが}っていたので、{母親|ははおや}は{心配|しんぱい}して{声|こえ}をかけました。「様子」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ようし" },
+        { "id": "a", "html": "ようこ" },
         { "id": "b", "html": "さまこ" },
         { "id": "c", "html": "ようす" },
-        { "id": "d", "html": "しょうす" }
+        { "id": "d", "html": "ようず" }
       ],
       "correctAnswer": "c",
-      "explanationHtml": "<p>様子（ようす）と読みます。<span>Meaning: <strong>state, situation, circumstances</strong></span></p>"
+      "explanationHtml": "<p>様子（ようす）と読みます。<span>Meaning: <strong>state; state of affairs; situation; circumstances</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p26-q12",
-      "questionHtml": "<p>山田「様」に宛てた重要な手紙をお送りいたします。「様」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{手紙|てがみ}の{宛名|あてな}には、{相手|あいて}の{名前|なまえ}の{後|あと}に「様」を{付|つ}けるのが{一般的|いっぱんてき}です。「様」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "さま" },
-        { "id": "b", "html": "よう" },
-        { "id": "c", "html": "かた" },
-        { "id": "d", "html": "どの" }
+        { "id": "a", "html": "よう" },
+        { "id": "b", "html": "ざま" },
+        { "id": "c", "html": "さば" },
+        { "id": "d", "html": "さま" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>～様（さま）と読みます。<span>Meaning: <strong>Mr., Mrs., Ms. (polite suffix)</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>～様（さま）と読みます。<span>Meaning: <strong>Mr.; Mrs.; Miss; Ms.; respectful name suffix</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p26-q13",
-      "questionHtml": "<p>前回の実験と「同様」の結果が得られた。「同様」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>この{問題|もんだい}は{前回|ぜんかい}の{試験|しけん}と「同様」の{方法|ほうほう}で{解|と}くことができます。「同様」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "どうよう" },
-        { "id": "b", "html": "おなよう" },
-        { "id": "c", "html": "どうさま" },
-        { "id": "d", "html": "とうよう" }
+        { "id": "b", "html": "どうさま" },
+        { "id": "c", "html": "とうよう" },
+        { "id": "d", "html": "どうゆう" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>同様（どうよう）と読みます。<span>Meaning: <strong>identical, equal to, same kind</strong></span></p>"
+      "explanationHtml": "<p>同様（どうよう）と読みます。<span>Meaning: <strong>identical; equal to; same kind; similar</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p26-q14",
-      "questionHtml": "<p>{複雑|ふくざつ}なトラブルだったが、話し合いの末に「解決」した。「解決」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{社員|しゃいん}たちは{何度|なんど}も{話|はな}し{合|あ}い、ようやく{大|おお}きな{問題|もんだい}を「解決」することができました。「解決」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "かいけつ" },
-        { "id": "b", "html": "げげつ" },
-        { "id": "c", "html": "かいけつめ" },
-        { "id": "d", "html": "えつけつ" }
+        { "id": "a", "html": "かいげつ" },
+        { "id": "b", "html": "かいけつ" },
+        { "id": "c", "html": "げかつ" },
+        { "id": "d", "html": "かいかつ" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>解決（かいけつ）と読みます。<span>Meaning: <strong>settlement, solution, resolution</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>解決（かいけつ）と読みます。<span>Meaning: <strong>settlement; solution; resolution</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p26-q15",
-      "questionHtml": "<p>{専門的|せんもんてき}な内容なので、専門書を読まないと「理解」が難しい。「理解」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{先生|せんせい}の{説明|せつめい}を{聞|き}いて、{難|むずか}しい{文法|ぶんぽう}を「理解」することができました。「理解」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "りげ" },
-        { "id": "b", "html": "りかい" },
-        { "id": "c", "html": "りわき" },
-        { "id": "d", "html": "りげど" }
+        { "id": "b", "html": "りがい" },
+        { "id": "c", "html": "りかい" },
+        { "id": "d", "html": "りか" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>理解（りかい）と読みます。<span>Meaning: <strong>understanding, comprehension</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>理解（りかい）と読みます。<span>Meaning: <strong>understanding; comprehension</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p26-q16",
-      "questionHtml": "<p>試験の「解答」用紙に必要事項を正確に記入する。「解答」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{試験|しけん}が{終|お}わった{後|あと}、{先生|せんせい}が{問題|もんだい}の「解答」を{配|くば}ってくれました。「解答」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "かいとう" },
+        { "id": "a", "html": "かいどう" },
         { "id": "b", "html": "げとう" },
-        { "id": "c", "html": "かいどう" },
-        { "id": "d", "html": "かいごう" }
+        { "id": "c", "html": "かいど" },
+        { "id": "d", "html": "かいとう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>解答（かいとう）と読みます。<span>Meaning: <strong>answer, solution script</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>解答（かいとう）と読みます。<span>Meaning: <strong>answer; solution to a question</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p26-q17",
-      "questionHtml": "<p>テキストの「解説」ページを読んで文法の使い方を学ぶ。「解説」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>この{参考書|さんこうしょ}には、{文法|ぶんぽう}の{使|つか}い{方|かた}について{詳|くわ}しい「解説」が{書|か}かれています。「解説」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "げせつ" },
-        { "id": "b", "html": "かいせつ" },
-        { "id": "c", "html": "かいぜつ" },
-        { "id": "d", "html": "はいせつ" }
+        { "id": "a", "html": "かいせつ" },
+        { "id": "b", "html": "かいぜつ" },
+        { "id": "c", "html": "げせつ" },
+        { "id": "d", "html": "かいせち" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>解説（かいせつ）と読みます。<span>Meaning: <strong>explanation, commentary</strong></span></p>"
+      "correctAnswer": "a",
+      "explanationHtml": "<p>解説（かいせつ）と読みます。<span>Meaning: <strong>explanation; commentary; interpretation</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p26-q18",
-      "questionHtml": "<p>プロジェクトを成功させるために、メンバーの「協力」を求める。「協力」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{地域|ちいき}の{人々|ひとびと}が「協力」して、{公園|こうえん}の{掃除|そうじ}を{行|おこな}いました。「協力」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "きょうりょく" },
-        { "id": "b", "html": "きょうりき" },
-        { "id": "c", "html": "ぎょうりょく" },
-        { "id": "d", "html": "じょりょく" }
+        { "id": "a", "html": "きょりょく" },
+        { "id": "b", "html": "きょうりょく" },
+        { "id": "c", "html": "きょうりき" },
+        { "id": "d", "html": "ぎょうりょく" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>協力（きょうりょく）と読みます。<span>Meaning: <strong>cooperation, collaboration, support</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>協力（きょうりょく）と読みます。<span>Meaning: <strong>cooperation; collaboration; help; support</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p26-q19",
-      "questionHtml": "<p>{二国|にこく}間で新しい貿易に関する「協定」が結ばれた。「協定」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{二|ふた}つの{国|くに}は{環境保護|かんきょうほご}について{新|あたら}しい「協定」を{結|むす}びました。「協定」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "きょうじょう" },
-        { "id": "b", "html": "きょうてい" },
-        { "id": "c", "html": "ぎょうてい" },
-        { "id": "d", "html": "けいてい" }
+        { "id": "a", "html": "きょうでい" },
+        { "id": "b", "html": "ぎょうてい" },
+        { "id": "c", "html": "きょうてい" },
+        { "id": "d", "html": "きょてい" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>協定（きょうてい）と読みます。<span>Meaning: <strong>arrangement, pact, agreement</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>協定（きょうてい）と読みます。<span>Meaning: <strong>arrangement; pact; agreement</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p26-q20",
-      "questionHtml": "<p>日本サッカー「協会」が主催する大会に参加する。「協会」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{父|ちち}は{地域|ちいき}のスポーツ「協会」に{所属|しょぞく}し、{子供|こども}たちの{活動|かつどう}を{支援|しえん}しています。「協会」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "きょうかい" },
-        { "id": "b", "html": "ぎょうかい" },
-        { "id": "c", "html": "きょうえ" },
-        { "id": "d", "html": "けいかい" }
+        { "id": "a", "html": "きょうがい" },
+        { "id": "b", "html": "きょかい" },
+        { "id": "c", "html": "ぎょうかい" },
+        { "id": "d", "html": "きょうかい" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>協会（きょうかい）と読みます。<span>Meaning: <strong>association, society, organization</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>協会（きょうかい）と読みます。<span>Meaning: <strong>association; society; organization</strong></span></p>"
     }
   ]
 }

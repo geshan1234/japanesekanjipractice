@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 51,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p51-q1",
+      "questionHtml": "<p>この{工場|こうじょう}では、{新|あたら}しい{機械|きかい}を{導入|どうにゅう}して、{電気自動車|でんきじどうしゃ}の「量産」を{始|はじ}めました。「量産」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りょうさん" },
+        { "id": "b", "html": "りょさん" },
+        { "id": "c", "html": "りょうざん" },
+        { "id": "d", "html": "りゅうさん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>量産（りょうさん）と読みます。<span>Meaning: <strong>mass production</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p51-q2",
+      "questionHtml": "<p>{健康|けんこう}のために、{毎日|まいにち}{食|た}べるご{飯|はん}の「量」を{少|すこ}し{減|へ}らすことにしました。「量」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りょ" },
+        { "id": "b", "html": "りょう" },
+        { "id": "c", "html": "りゅう" },
+        { "id": "d", "html": "よう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>量（りょう）と読みます。<span>Meaning: <strong>quantity; amount; volume; portion (of food)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p51-q3",
+      "questionHtml": "<p>このジュースは{値段|ねだん}がそのままで「増量」されたので、とてもお{得|とく}です。「増量」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そうりょう" },
+        { "id": "b", "html": "ぞうりょ" },
+        { "id": "c", "html": "ぞうりょう" },
+        { "id": "d", "html": "ぞうりゅう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>増量（ぞうりょう）と読みます。<span>Meaning: <strong>increased volume or quantity</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p51-q4",
+      "questionHtml": "<p>{注文|ちゅうもん}した{商品|しょうひん}の「数量」が{間違|まちが}っていたので、{店|みせ}に{連絡|れんらく}しました。「数量」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "すうりょ" },
+        { "id": "b", "html": "すりょう" },
+        { "id": "c", "html": "すうりゅう" },
+        { "id": "d", "html": "すうりょう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>数量（すうりょう）と読みます。<span>Meaning: <strong>quantity; volume</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p51-q5",
+      "questionHtml": "<p>この{商品|しょうひん}は{原材料|げんざいりょう}の{不足|ふそく}により、{来月|らいげつ}から「減量」して{販売|はんばい}される{予定|よてい}です。「減量」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんりょう" },
+        { "id": "b", "html": "けんりょう" },
+        { "id": "c", "html": "げんりょ" },
+        { "id": "d", "html": "げんりゅう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>減量（げんりょう）と読みます。<span>Meaning: <strong>loss in quantity; reducing quantity; reducing doses</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p51-q6",
+      "questionHtml": "<p>{暑|あつ}い{夏|なつ}の{日|ひ}には、{飲|の}み{物|もの}に「氷」を{入|い}れると{冷|つめ}たくなります。「氷」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こり" },
+        { "id": "b", "html": "こおり" },
+        { "id": "c", "html": "こうり" },
+        { "id": "d", "html": "ひょうり" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>氷（こおり）と読みます。<span>Meaning: <strong>ice</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p51-q7",
+      "questionHtml": "<p>{友達|ともだち}にメールを{送|おく}りましたが、まだ「返事」が{来|き}ていません。「返事」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "へんし" },
+        { "id": "b", "html": "はんじ" },
+        { "id": "c", "html": "へんじ" },
+        { "id": "d", "html": "へんこと" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>返事（へんじ）と読みます。<span>Meaning: <strong>reply; answer; response</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p51-q8",
+      "questionHtml": "<p>{銀行|ぎんこう}から{借|か}りたお{金|かね}の「返済」を{毎月|まいつき}{少|すこ}しずつ{続|つづ}けています。「返済」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "へんざい" },
+        { "id": "b", "html": "はんさい" },
+        { "id": "c", "html": "へんせい" },
+        { "id": "d", "html": "へんさい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>返済（へんさい）と読みます。<span>Meaning: <strong>repayment; reimbursement; refund; redemption</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p51-q9",
+      "questionHtml": "<p>{記者|きしゃ}からの{質問|しつもん}に{対|たい}して、{社長|しゃちょう}は{落|お}ち{着|つ}いて「返答」しました。「返答」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "へんとう" },
+        { "id": "b", "html": "へんどう" },
+        { "id": "c", "html": "はんとう" },
+        { "id": "d", "html": "へんこたえ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>返答（へんとう）と読みます。<span>Meaning: <strong>reply; answer</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p51-q10",
+      "questionHtml": "<p>{先生|せんせい}から{届|とど}いたメールに、{今日中|きょうじゅう}に「返信」するつもりです。「返信」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "へんじん" },
+        { "id": "b", "html": "へんしん" },
+        { "id": "c", "html": "はんしん" },
+        { "id": "d", "html": "へんせん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>返信（へんしん）と読みます。<span>Meaning: <strong>reply (e.g. email, fax, letter); answer</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p51-q11",
+      "questionHtml": "<p>{購入|こうにゅう}した{商品|しょうひん}に{問題|もんだい}があったため、{店|みせ}に「返金」を{求|もと}めました。「返金」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "へんこん" },
+        { "id": "b", "html": "はんきん" },
+        { "id": "c", "html": "へんきん" },
+        { "id": "d", "html": "へんぎん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>返金（へんきん）と読みます。<span>Meaning: <strong>repayment; refund</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p51-q12",
+      "questionHtml": "<p>{博物館|はくぶつかん}は、{海外|かいがい}に{持|も}ち{出|だ}された{貴重|きちょう}な{文化財|ぶんかざい}の「返還」を{求|もと}めています。「返還」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "へんげん" },
+        { "id": "b", "html": "はんかん" },
+        { "id": "c", "html": "へんがん" },
+        { "id": "d", "html": "へんかん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>返還（へんかん）と読みます。<span>Meaning: <strong>return; restoration</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p51-q13",
+      "questionHtml": "<p>{友達|ともだち}から{借|か}りた{本|ほん}を、{明日|あした}「返す」{約束|やくそく}をしました。「返す」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かえす" },
+        { "id": "b", "html": "かえる" },
+        { "id": "c", "html": "へんす" },
+        { "id": "d", "html": "かやす" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>返す（かえす）と読みます。<span>Meaning: <strong>to return (something); to restore; to put back</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p51-q14",
+      "questionHtml": "<p>{図書館|としょかん}で{借|か}りた{本|ほん}の「返却」{期限|きげん}は、{来週|らいしゅう}の{月曜日|げつようび}です。「返却」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "へんきく" },
+        { "id": "b", "html": "へんきゃく" },
+        { "id": "c", "html": "はんきゃく" },
+        { "id": "d", "html": "へんじゃく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>返却（へんきゃく）と読みます。<span>Meaning: <strong>return of something; repayment</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p51-q15",
+      "questionHtml": "<p>{寒|さむ}い{朝|あさ}には、「お湯」を{沸|わ}かして{温|あたた}かいお{茶|ちゃ}を{飲|の}みます。「お湯」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おとう" },
+        { "id": "b", "html": "おゆう" },
+        { "id": "c", "html": "おゆ" },
+        { "id": "d", "html": "おすい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>お湯（おゆ）と読みます。<span>Meaning: <strong>hot water</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p51-q16",
+      "questionHtml": "<p>{建設会社|けんせつがいしゃ}は、{新|あたら}しいビルを{建|た}てるために{必要|ひつよう}な「資材」を{注文|ちゅうもん}しました。「資材」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しさい" },
+        { "id": "b", "html": "じざい" },
+        { "id": "c", "html": "しざえ" },
+        { "id": "d", "html": "しざい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>資材（しざい）と読みます。<span>Meaning: <strong>(raw) material; construction supplies</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p51-q17",
+      "questionHtml": "<p>{美術|びじゅつ}の{授業|じゅぎょう}で{絵|え}を{描|か}くために、{絵|え}の{具|ぐ}や{筆|ふで}などの「画材」を{用意|ようい}しました。「画材」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "がざい" },
+        { "id": "b", "html": "かざい" },
+        { "id": "c", "html": "がさい" },
+        { "id": "d", "html": "えざい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>画材（がざい）と読みます。<span>Meaning: <strong>subject matter of a painting; art supplies; art materials</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p51-q18",
+      "questionHtml": "<p>このかばんは{環境|かんきょう}にやさしい「素材」で{作|つく}られており、{軽|かる}くて{丈夫|じょうぶ}です。「素材」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そさい" },
+        { "id": "b", "html": "そざい" },
+        { "id": "c", "html": "すざい" },
+        { "id": "d", "html": "もとざい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>素材（そざい）と読みます。<span>Meaning: <strong>ingredient; (raw) material; resource</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p51-q19",
+      "questionHtml": "<p>{撮影|さつえい}のために、カメラや{照明|しょうめい}などの「機材」を{車|くるま}に{積|つ}みました。「機材」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きさい" },
+        { "id": "b", "html": "ぎざい" },
+        { "id": "c", "html": "きざい" },
+        { "id": "d", "html": "きじゃい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>機材（きざい）と読みます。<span>Meaning: <strong>machine parts; machinery; equipment</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p51-q20",
+      "questionHtml": "<p>{父|ちち}は{庭|にわ}に{小|ちい}さな{小屋|こや}を{建|た}てるために、ホームセンターで「木材」を{買|か}いました。「木材」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きざい" },
+        { "id": "b", "html": "ぼくざい" },
+        { "id": "c", "html": "もくさい" },
+        { "id": "d", "html": "もくざい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>木材（もくざい）と読みます。<span>Meaning: <strong>lumber; timber; wood</strong></span></p>"
+    }
+  ]
+}

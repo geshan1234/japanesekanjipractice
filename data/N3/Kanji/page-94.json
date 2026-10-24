@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 94,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p94-q1",
+      "questionHtml": "<p>この{会社|かいしゃ}では、{新|あたら}しいシステムを{開発|かいはつ}するために「技術者」を{募集|ぼしゅう}しています。「技術者」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぎじゅつしゃ" },
+        { "id": "b", "html": "きじゅつしゃ" },
+        { "id": "c", "html": "ぎじゅつじゃ" },
+        { "id": "d", "html": "ぎしゅつしゃ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>技術者（ぎじゅつしゃ）と読みます。<span>Meaning: <strong>engineer; technical expert; technician</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p94-q2",
+      "questionHtml": "<p>「今般」、{会社|かいしゃ}の{方針|ほうしん}が{変更|へんこう}されたため、{社員|しゃいん}に{新|あたら}しい{規則|きそく}が{説明|せつめい}されました。「今般」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こんぱん" },
+        { "id": "b", "html": "こんばん" },
+        { "id": "c", "html": "こんはん" },
+        { "id": "d", "html": "きんばん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>今般（こんばん）と読みます。<span>Meaning: <strong>now; recently; this time; on this occasion</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p94-q3",
+      "questionHtml": "<p>「先般」お{送|おく}りした{資料|しりょう}について、{確認|かくにん}していただけましたでしょうか。「先般」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せんばん" },
+        { "id": "b", "html": "さきはん" },
+        { "id": "c", "html": "せんぱん" },
+        { "id": "d", "html": "せんはん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>先般（せんぱん）と読みます。<span>Meaning: <strong>some time ago; the other day; recently</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p94-q4",
+      "questionHtml": "<p>{会議|かいぎ}では、{新|あたら}しい{計画|けいかく}に{関|かん}する「各般」の{問題|もんだい}について{話|はな}し{合|あ}いました。「各般」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かくばん" },
+        { "id": "b", "html": "かっはん" },
+        { "id": "c", "html": "かくぱん" },
+        { "id": "d", "html": "かくはん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>各般（かくはん）と読みます。<span>Meaning: <strong>all; every; various; of every kind</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p94-q5",
+      "questionHtml": "<p>{彼|かれ}は{新|あたら}しい{事業|じぎょう}を{始|はじ}めるにあたり、「万般」の{準備|じゅんび}を{整|ととの}えました。「万般」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ばんぱん" },
+        { "id": "b", "html": "まんばん" },
+        { "id": "c", "html": "ばんばん" },
+        { "id": "d", "html": "まんぱん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>万般（ばんぱん）と読みます。<span>Meaning: <strong>all things; everything; all matters</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p94-q6",
+      "questionHtml": "<p>{先生|せんせい}は{社会|しゃかい}の「百般」の{問題|もんだい}に{関心|かんしん}を{持|も}ち、{研究|けんきゅう}を{続|つづ}けています。「百般」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひゃくはん" },
+        { "id": "b", "html": "ひゃっぱん" },
+        { "id": "c", "html": "ひゃくばん" },
+        { "id": "d", "html": "ひゃっばん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>百般（ひゃっぱん）と読みます。<span>Meaning: <strong>all; every; all kinds of</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p94-q7",
+      "questionHtml": "<p>この{図書館|としょかん}は{学生|がくせい}だけでなく、「一般」の{人|ひと}も{利用|りよう}できます。「一般」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いちはん" },
+        { "id": "b", "html": "いちばん" },
+        { "id": "c", "html": "いっぱん" },
+        { "id": "d", "html": "いっばん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>一般（いっぱん）と読みます。<span>Meaning: <strong>general; ordinary; average; common</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p94-q8",
+      "questionHtml": "<p>「一般に」、{日本|にほん}では{家|いえ}に{入|はい}るときに{靴|くつ}を{脱|ぬ}ぎます。「一般に」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いちばんに" },
+        { "id": "b", "html": "いっぱんで" },
+        { "id": "c", "html": "いちはんに" },
+        { "id": "d", "html": "いっぱんに" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>一般に（いっぱんに）と読みます。<span>Meaning: <strong>in general; generally; commonly</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p94-q9",
+      "questionHtml": "<p>{姉|あね}は{会社|かいしゃ}で「事務」の{仕事|しごと}をしており、{毎日|まいにち}パソコンを{使|つか}っています。「事務」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じむ" },
+        { "id": "b", "html": "じぶ" },
+        { "id": "c", "html": "しむ" },
+        { "id": "d", "html": "じま" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>事務（じむ）と読みます。<span>Meaning: <strong>office work; administration; clerical work; business affairs</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p94-q10",
+      "questionHtml": "<p>{新|あたら}しい「事務所」は{駅|えき}から{近|ちか}く、{通勤|つうきん}にとても{便利|べんり}です。「事務所」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じむじょ" },
+        { "id": "b", "html": "じむしょ" },
+        { "id": "c", "html": "じぶしょ" },
+        { "id": "d", "html": "じむところ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>事務所（じむしょ）と読みます。<span>Meaning: <strong>office; business office</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p94-q11",
+      "questionHtml": "<p>{兄|あに}は「公務員」として{市役所|しやくしょ}で{働|はたら}いています。「公務員」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうむにん" },
+        { "id": "b", "html": "こうぶいん" },
+        { "id": "c", "html": "こうむいん" },
+        { "id": "d", "html": "こうむえん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>公務員（こうむいん）と読みます。<span>Meaning: <strong>government worker; public servant; civil servant</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p94-q12",
+      "questionHtml": "<p>{税金|ぜいきん}の{申告|しんこく}について{質問|しつもん}があったので、「税務署」に{電話|でんわ}しました。「税務署」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぜいむじょ" },
+        { "id": "b", "html": "せいむしょ" },
+        { "id": "c", "html": "ぜいぶしょ" },
+        { "id": "d", "html": "ぜいむしょ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>税務署（ぜいむしょ）と読みます。<span>Meaning: <strong>tax office</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p94-q13",
+      "questionHtml": "<p>この{学校|がっこう}では、{二年間|にねんかん}の「課程」を{修了|しゅうりょう}すると{資格|しかく}を{取得|しゅとく}できます。「課程」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かてい" },
+        { "id": "b", "html": "かでい" },
+        { "id": "c", "html": "かじょう" },
+        { "id": "d", "html": "かほど" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>課程（かてい）と読みます。<span>Meaning: <strong>course; curriculum; educational program</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p94-q14",
+      "questionHtml": "<p>{旅行|りょこう}の「日程」が{決|き}まったら、ホテルと{飛行機|ひこうき}を{予約|よやく}しましょう。「日程」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "にちてい" },
+        { "id": "b", "html": "にってい" },
+        { "id": "c", "html": "にっでい" },
+        { "id": "d", "html": "ひてい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>日程（にってい）と読みます。<span>Meaning: <strong>schedule; itinerary; program; daily agenda</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p94-q15",
+      "questionHtml": "<p>{先生|せんせい}は{毎日|まいにち}の「課業」を{計画|けいかく}し、{生徒|せいと}たちが{無理|むり}なく{学|まな}べるようにしています。「課業」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かごう" },
+        { "id": "b", "html": "かきょう" },
+        { "id": "c", "html": "かぎょう" },
+        { "id": "d", "html": "かしょう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>課業（かぎょう）と読みます。<span>Meaning: <strong>lesson; schoolwork; assigned study or work</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p94-q16",
+      "questionHtml": "<p>{放課後|ほうかご}には、スポーツや{音楽|おんがく}などの「課外」{活動|かつどう}に{参加|さんか}できます。「課外」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かげ" },
+        { "id": "b", "html": "かそと" },
+        { "id": "c", "html": "かがえ" },
+        { "id": "d", "html": "かがい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>課外（かがい）と読みます。<span>Meaning: <strong>extracurricular; outside the regular curriculum</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p94-q17",
+      "questionHtml": "<p>{企業|きぎょう}は{法律|ほうりつ}に{従|したが}って、{税金|ぜいきん}などの「公課」を{納|おさ}める{必要|ひつよう}があります。「公課」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうか" },
+        { "id": "b", "html": "こうが" },
+        { "id": "c", "html": "こうけ" },
+        { "id": "d", "html": "くうか" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>公課（こうか）と読みます。<span>Meaning: <strong>public imposts; taxes; public charges</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p94-q18",
+      "questionHtml": "<p>{環境問題|かんきょうもんだい}は、{私|わたし}たちが{今後|こんご}{取|と}り{組|く}むべき{重要|じゅうよう}な「課題」です。「課題」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かたい" },
+        { "id": "b", "html": "かだい" },
+        { "id": "c", "html": "かてい" },
+        { "id": "d", "html": "かざい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>課題（かだい）と読みます。<span>Meaning: <strong>task; assignment; issue; subject; challenge</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p94-q19",
+      "questionHtml": "<p>{政府|せいふ}は{新|あたら}しい{商品|しょうひん}への「課税」を{検討|けんとう}しているそうです。「課税」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かせい" },
+        { "id": "b", "html": "かさい" },
+        { "id": "c", "html": "かぜい" },
+        { "id": "d", "html": "かぜ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>課税（かぜい）と読みます。<span>Meaning: <strong>taxation; imposing a tax</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p94-q20",
+      "questionHtml": "<p>{新|あたら}しい「課員」が{配属|はいぞく}されたので、{課長|かちょう}が{仕事|しごと}の{内容|ないよう}を{説明|せつめい}しました。「課員」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かえん" },
+        { "id": "b", "html": "かにん" },
+        { "id": "c", "html": "かぎん" },
+        { "id": "d", "html": "かいん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>課員（かいん）と読みます。<span>Meaning: <strong>section staff; member of a department or section</strong></span></p>"
+    }
+  ]
+}

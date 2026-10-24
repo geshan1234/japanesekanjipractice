@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 85,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p85-q1",
+      "questionHtml": "<p>{田中|たなか}さんの「奥さん」は、{近|ちか}くの{病院|びょういん}で{看護師|かんごし}として{働|はたら}いています。「奥さん」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おうさん" },
+        { "id": "b", "html": "おくざん" },
+        { "id": "c", "html": "おくさん" },
+        { "id": "d", "html": "おきさん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>奥さん（おくさん）と読みます。<span>Meaning: <strong>wife; someone else's wife; married woman; madam</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p85-q2",
+      "questionHtml": "<p>{図書館|としょかん}の「奥」には、{静|しず}かに{勉強|べんきょう}できる{小|ちい}さな{部屋|へや}があります。「奥」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おく" },
+        { "id": "b", "html": "おう" },
+        { "id": "c", "html": "おき" },
+        { "id": "d", "html": "あく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>奥（おく）と読みます。<span>Meaning: <strong>interior; inner part; inside; back of a place</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p85-q3",
+      "questionHtml": "<p>{新|あたら}しい{家|いえ}に{引|ひ}っ{越|こ}したので、{布団|ふとん}や{毛布|もうふ}などの「寝具」を{買|か}いました。「寝具」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ねぐ" },
+        { "id": "b", "html": "しんく" },
+        { "id": "c", "html": "ねんぐ" },
+        { "id": "d", "html": "しんぐ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>寝具（しんぐ）と読みます。<span>Meaning: <strong>bedding; bedclothes; sleeping equipment</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p85-q4",
+      "questionHtml": "<p>{健康|けんこう}のために、{毎晩|まいばん}{十一時|じゅういちじ}までに「就寝」するようにしています。「就寝」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅうじん" },
+        { "id": "b", "html": "しゅうしん" },
+        { "id": "c", "html": "しゅしん" },
+        { "id": "d", "html": "じゅうしん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>就寝（しゅうしん）と読みます。<span>Meaning: <strong>going to bed; retiring for the night</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p85-q5",
+      "questionHtml": "<p>{長距離|ちょうきょり}を{走|はし}る{列車|れっしゃ}には、{乗客|じょうきゃく}が{横|よこ}になって{休|やす}める「寝台」があります。「寝台」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんだい" },
+        { "id": "b", "html": "ねだい" },
+        { "id": "c", "html": "しんたい" },
+        { "id": "d", "html": "しんでい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>寝台（しんだい）と読みます。<span>Meaning: <strong>bed; couch; sleeping berth</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p85-q6",
+      "questionHtml": "<p>{新|あたら}しい{家|いえ}の「寝室」は、{庭|にわ}に{面|めん}していてとても{静|しず}かです。「寝室」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ねしつ" },
+        { "id": "b", "html": "しんじつ" },
+        { "id": "c", "html": "しんしつ" },
+        { "id": "d", "html": "しんしち" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>寝室（しんしつ）と読みます。<span>Meaning: <strong>bedroom; sleeping room</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p85-q7",
+      "questionHtml": "<p>{明日|あした}は{朝|あさ}から{試験|しけん}があるので、{今夜|こんや}は{早|はや}く「寝る」つもりです。「寝る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しる" },
+        { "id": "b", "html": "ねむる" },
+        { "id": "c", "html": "ねれる" },
+        { "id": "d", "html": "ねる" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>寝る（ねる）と読みます。<span>Meaning: <strong>to sleep; to go to bed; to lie down</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p85-q8",
+      "questionHtml": "<p>{今朝|けさ}は「寝坊」してしまい、{朝|あさ}ご{飯|はん}を{食|た}べる{時間|じかん}がありませんでした。「寝坊」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ねほう" },
+        { "id": "b", "html": "ねぼう" },
+        { "id": "c", "html": "しんぼう" },
+        { "id": "d", "html": "ねぼ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>寝坊（ねぼう）と読みます。<span>Meaning: <strong>oversleeping; sleeping in late</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p85-q9",
+      "questionHtml": "<p>{昼|ひる}ご{飯|はん}を{食|た}べたあと、ソファーで{三十分|さんじゅっぷん}ほど「昼寝」をしました。「昼寝」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひるね" },
+        { "id": "b", "html": "ちゅうね" },
+        { "id": "c", "html": "ひるしん" },
+        { "id": "d", "html": "ひるねる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>昼寝（ひるね）と読みます。<span>Meaning: <strong>nap; daytime sleep; siesta</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p85-q10",
+      "questionHtml": "<p>{手術|しゅじゅつ}のあと、{患者|かんじゃ}は{強|つよ}い「苦痛」を{感|かん}じていたため、{医師|いし}に{相談|そうだん}しました。「苦痛」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くづう" },
+        { "id": "b", "html": "くとう" },
+        { "id": "c", "html": "くつう" },
+        { "id": "d", "html": "こつう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>苦痛（くつう）と読みます。<span>Meaning: <strong>pain; suffering; agony; distress</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p85-q11",
+      "questionHtml": "<p>{海外|かいがい}で{生活|せいかつ}して、{言葉|ことば}を{学|まな}ぶことの{大切|たいせつ}さを「痛感」しました。「痛感」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "つうがん" },
+        { "id": "b", "html": "つうかん" },
+        { "id": "c", "html": "いたかん" },
+        { "id": "d", "html": "とうかん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>痛感（つうかん）と読みます。<span>Meaning: <strong>keen realization; feeling something deeply; fully realizing</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p85-q12",
+      "questionHtml": "<p>{事故|じこ}で{家族|かぞく}を{失|うしな}った{人|ひと}たちの「悲痛」な{声|こえ}が、ニュースで{伝|つた}えられました。「悲痛」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひとう" },
+        { "id": "b", "html": "びつう" },
+        { "id": "c", "html": "ひづう" },
+        { "id": "d", "html": "ひつう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>悲痛（ひつう）と読みます。<span>Meaning: <strong>deep sorrow; anguish; heartbreaking grief; pathos</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p85-q13",
+      "questionHtml": "<p>{朝|あさ}から「頭痛」がひどかったので、{学校|がっこう}を{休|やす}んで{家|いえ}で{寝|ね}ていました。「頭痛」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ずつう" },
+        { "id": "b", "html": "とうつう" },
+        { "id": "c", "html": "ずづう" },
+        { "id": "d", "html": "あたまつう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>頭痛（ずつう）と読みます。<span>Meaning: <strong>headache</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p85-q14",
+      "questionHtml": "<p>{先生|せんせい}は{生徒|せいと}たちに、{努力|どりょく}を{続|つづ}けることの{重要性|じゅうようせい}を「痛切」に{訴|うった}えました。「痛切」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "つうぜつ" },
+        { "id": "b", "html": "いたせつ" },
+        { "id": "c", "html": "つうせつ" },
+        { "id": "d", "html": "とうせつ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>痛切（つうせつ）と読みます。<span>Meaning: <strong>keen; acute; heartfelt; deeply felt</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p85-q15",
+      "questionHtml": "<p>{患者|かんじゃ}は{突然|とつぜん}、お{腹|なか}に「劇痛」を{感|かん}じたため、{救急車|きゅうきゅうしゃ}で{病院|びょういん}へ{運|はこ}ばれました。「劇痛」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げきとう" },
+        { "id": "b", "html": "げきつう" },
+        { "id": "c", "html": "げきづう" },
+        { "id": "d", "html": "げつう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>劇痛（げきつう）と読みます。<span>Meaning: <strong>severe pain; intense pain; excruciating pain</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p85-q16",
+      "questionHtml": "<p>{最後|さいご}の{試合|しあい}で{小|ちい}さなミスをして{負|ま}けたことは、{彼|かれ}にとって「痛恨」の{出来事|できごと}でした。「痛恨」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "つうこん" },
+        { "id": "b", "html": "つうごん" },
+        { "id": "c", "html": "いたこん" },
+        { "id": "d", "html": "とうこん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>痛恨（つうこん）と読みます。<span>Meaning: <strong>bitter regret; deep remorse; profound disappointment</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p85-q17",
+      "questionHtml": "<p>{昨日|きのう}のサッカーの{練習|れんしゅう}で{足|あし}を{打|う}ったので、まだ「痛い」です。「痛い」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "つうい" },
+        { "id": "b", "html": "いたみ" },
+        { "id": "c", "html": "いだい" },
+        { "id": "d", "html": "いたい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>痛い（いたい）と読みます。<span>Meaning: <strong>painful; sore; hurting</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p85-q18",
+      "questionHtml": "<p>{薬|くすり}を{飲|の}んだあと、{少|すこ}しずつ{頭|あたま}の「痛み」が{軽|かる}くなりました。「痛み」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "つうみ" },
+        { "id": "b", "html": "いため" },
+        { "id": "c", "html": "いたみ" },
+        { "id": "d", "html": "いだみ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>痛み（いたみ）と読みます。<span>Meaning: <strong>pain; ache; soreness; suffering</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p85-q19",
+      "questionHtml": "<p>{風邪|かぜ}をひいて「熱」が{出|で}たので、{今日|きょう}は{家|いえ}で{休|やす}むことにしました。「熱」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ねち" },
+        { "id": "b", "html": "ねつ" },
+        { "id": "c", "html": "あつ" },
+        { "id": "d", "html": "れつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>熱（ねつ）と読みます。<span>Meaning: <strong>heat; fever; temperature; enthusiasm</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p85-q20",
+      "questionHtml": "<p>この{食品|しょくひん}は、{食|た}べる{前|まえ}に{十分|じゅうぶん}「加熱」してください。「加熱」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かねつ" },
+        { "id": "b", "html": "がねつ" },
+        { "id": "c", "html": "かれつ" },
+        { "id": "d", "html": "かねち" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>加熱（かねつ）と読みます。<span>Meaning: <strong>heating; application of heat</strong></span></p>"
+    }
+  ]
+}

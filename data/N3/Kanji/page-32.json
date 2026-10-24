@@ -1,3 +1,4 @@
+
 {
   "metadata": {
     "level": "N3",
@@ -9,243 +10,243 @@
   "questions": [
     {
       "id": "N3-Kanji-p32-q1",
-      "questionHtml": "<p>{何度も|なんども}{議論|ぎろん}を{重|かさ}ねたが、「結局」{結論|けつろん}は出ないままだった。「結局」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{何時間|なんじかん}も{話|はな}し{合|あ}いましたが、「結局」{答|こた}えを{出|だ}すことができませんでした。「結局」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "けつきょく" },
         { "id": "b", "html": "けっきょく" },
-        { "id": "c", "html": "けいつぼ" },
-        { "id": "d", "html": "けつぼ" }
+        { "id": "c", "html": "けっきょう" },
+        { "id": "d", "html": "けっこく" }
       ],
       "correctAnswer": "b",
-      "explanationHtml": "<p>結局（けっきょく）と読みます。<span>Meaning: <strong>after all, in the end, ultimately</strong></span></p>"
+      "explanationHtml": "<p>結局（けっきょく）と読みます。<span>Meaning: <strong>after all; in the end; ultimately; eventually</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p32-q2",
-      "questionHtml": "<p>{新|あたら}しい経営方針について、{郵便|ゆうびん}局の「局長」に報告を行う。「局長」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{新|あたら}しい「局長」が{就任|しゅうにん}し、{職員|しょくいん}たちに{今後|こんご}の{方針|ほうしん}を{説明|せつめい}しました。「局長」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "きょくちょう" },
-        { "id": "b", "html": "つぼちょう" },
-        { "id": "c", "html": "きょくなが" },
-        { "id": "d", "html": "ちちょう" }
+        { "id": "a", "html": "きょくじょう" },
+        { "id": "b", "html": "きょっちょう" },
+        { "id": "c", "html": "きょくちょ" },
+        { "id": "d", "html": "きょくちょう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>局長（きょくちょう）と読みます。<span>Meaning: <strong>bureau director, office chief</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>局長（きょくちょう）と読みます。<span>Meaning: <strong>bureau director; office chief</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p32-q3",
-      "questionHtml": "<p>{経済|けいざい}は新たな「局面」を迎えており、迅速な対応が迫られている。「局面」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{将棋|しょうぎ}の{試合|しあい}で{難|むずか}しい「局面」を{迎|むか}え、{選手|せんしゅ}は{次|つぎ}の{一手|いって}を{慎重|しんちょう}に{考|かんが}えました。「局面」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "きょくおもて" },
-        { "id": "b", "html": "きょくめん" },
-        { "id": "c", "html": "つぼめん" },
-        { "id": "d", "html": "ちめん" }
+        { "id": "a", "html": "きょくめん" },
+        { "id": "b", "html": "きょくべん" },
+        { "id": "c", "html": "きょくおもて" },
+        { "id": "d", "html": "きょくまん" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>局面（きょくめん）と読みます。<span>Meaning: <strong>state of affairs, phase, state of the game</strong></span></p>"
+      "correctAnswer": "a",
+      "explanationHtml": "<p>局面（きょくめん）と読みます。<span>Meaning: <strong>position in a game of go or shogi; state of the game; situation</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p32-q4",
-      "questionHtml": "<p>窓口にいた「局員」が、非常に丁寧な態度で対応してくれた。「局員」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{郵便局|ゆうびんきょく}の「局員」が、{荷物|にもつ}の{送|おく}り{方|かた}を{丁寧|ていねい}に{説明|せつめい}してくれました。「局員」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "きょくいん" },
-        { "id": "b", "html": "きょくかず" },
-        { "id": "c", "html": "つぼいん" },
-        { "id": "d", "html": "ちいん" }
+        { "id": "a", "html": "きょくえん" },
+        { "id": "b", "html": "きょくにん" },
+        { "id": "c", "html": "きょくいん" },
+        { "id": "d", "html": "きょっいん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>局員（きょくいん）と読みます。<span>Meaning: <strong>clerk, bureau/post-office staff</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>局員（きょくいん）と読みます。<span>Meaning: <strong>clerk; bureau or post-office staff</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p32-q5",
-      "questionHtml": "<p>{電話|でんわ}番号の「局番」を間違えてしまい、別の場所にかかった。「局番」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{昔|むかし}の{電話番号|でんわばんごう}は、「局番」と{加入者番号|かにゅうしゃばんごう}を{組|く}み{合|あ}わせたものでした。「局番」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "きょくばん" },
-        { "id": "b", "html": "きょくつがい" },
-        { "id": "c", "html": "つぼばん" },
-        { "id": "d", "html": "ちばん" }
+        { "id": "a", "html": "きょくはん" },
+        { "id": "b", "html": "きょくばん" },
+        { "id": "c", "html": "きょくぼん" },
+        { "id": "d", "html": "きょばん" }
       ],
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "explanationHtml": "<p>局番（きょくばん）と読みます。<span>Meaning: <strong>telephone exchange number</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p32-q6",
-      "questionHtml": "<p>{患部|かんぶ}の「局部」に麻酔をかけてから小さな手術を始める。「局部」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{医師|いし}は{体|からだ}の「局部」に{痛|いた}みがあるかどうか、{患者|かんじゃ}に{確認|かくにん}しました。「局部」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "きょくへや" },
-        { "id": "b", "html": "きょくぶ" },
-        { "id": "c", "html": "つぼぶ" },
-        { "id": "d", "html": "ちぶ" }
+        { "id": "a", "html": "きょくぶ" },
+        { "id": "b", "html": "きょくふ" },
+        { "id": "c", "html": "きょくべ" },
+        { "id": "d", "html": "きょっぷ" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>局部（きょくぶ）と読みます。<span>Meaning: <strong>part, section, local part</strong></span></p>"
+      "correctAnswer": "a",
+      "explanationHtml": "<p>局部（きょくぶ）と読みます。<span>Meaning: <strong>part; section; localized area</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p32-q7",
-      "questionHtml": "<p>ウイルスの{被害|ひがい}を特定の地域に「局限」する措置をとった。「局限」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{今回|こんかい}の{調査|ちょうさ}は、{対象|たいしょう}を{一部|いちぶ}の{地域|ちいき}に「局限」して{行|おこな}われました。「局限」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "きょくげん" },
-        { "id": "b", "html": "きょくきり" },
-        { "id": "c", "html": "つぼげん" },
-        { "id": "d", "html": "ちげん" }
+        { "id": "a", "html": "きょくかん" },
+        { "id": "b", "html": "きょっげん" },
+        { "id": "c", "html": "きょくけん" },
+        { "id": "d", "html": "きょくげん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>局限（きょくげん）と読みます。<span>Meaning: <strong>limit, localize</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>局限（きょくげん）と読みます。<span>Meaning: <strong>limit; restriction; localization</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p32-q8",
-      "questionHtml": "<p>その山岳地帯では、予測が極めて難しい「局地」的な豪雨が起きやすい。「局地」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{天気予報|てんきよほう}によると、{午後|ごご}は「局地」{的|てき}に{激|はげ}しい{雨|あめ}が{降|ふ}るそうです。「局地」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "きょくち" },
-        { "id": "b", "html": "きょくじ" },
-        { "id": "c", "html": "つぼち" },
-        { "id": "d", "html": "ちち" }
+        { "id": "a", "html": "きょくじ" },
+        { "id": "b", "html": "きょっち" },
+        { "id": "c", "html": "きょくち" },
+        { "id": "d", "html": "きょくじん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>局地（きょくち）と読みます。<span>Meaning: <strong>locality, local area, limited area</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>局地（きょくち）と読みます。<span>Meaning: <strong>locality; local area; limited area</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p32-q9",
-      "questionHtml": "<p>{財政|ざいせい}の危機という「難局」を乗り切るための計画を立てる。「難局」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{会社|かいしゃ}は{大|おお}きな{損失|そんしつ}を{出|だ}し、「難局」を{乗|の}り{越|こ}えるために{新|あたら}しい{計画|けいかく}を{立|た}てました。「難局」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "むずかしきょく" },
-        { "id": "b", "html": "なんつぼ" },
-        { "id": "c", "html": "なんきょく" },
-        { "id": "d", "html": "だんきょく" }
+        { "id": "a", "html": "なんきょく" },
+        { "id": "b", "html": "なんぎょく" },
+        { "id": "c", "html": "なんこく" },
+        { "id": "d", "html": "なんきょう" }
       ],
-      "correctAnswer": "c",
-      "explanationHtml": "<p>難局（なんきょく）と読みます。<span>Meaning: <strong>difficult situation</strong></span></p>"
+      "correctAnswer": "a",
+      "explanationHtml": "<p>難局（なんきょく）と読みます。<span>Meaning: <strong>difficult situation; crisis; predicament</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p32-q10",
-      "questionHtml": "<p>荷物を発送するために、朝一番に「郵便局」へ向かった。「郵便局」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{友達|ともだち}に{荷物|にもつ}を{送|おく}るため、{駅前|えきまえ}の「郵便局」へ{行|い}きました。「郵便局」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ゆうびんきょく" },
-        { "id": "b", "html": "ゆうべんきょく" },
-        { "id": "c", "html": "ゆうびんつぼ" },
+        { "id": "a", "html": "ゆうびんこく" },
+        { "id": "b", "html": "ゆうびんきょく" },
+        { "id": "c", "html": "ゆうべんきょく" },
         { "id": "d", "html": "ゆびんきょく" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>郵便局（ゆうびんきょく）と読みます。<span>Meaning: <strong>post-office</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>郵便局（ゆうびんきょく）と読みます。<span>Meaning: <strong>post office</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p32-q11",
-      "questionHtml": "<p>道が分からなくなったので、近くの「交番」で尋ねることにした。「交番」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{道|みち}に{迷|まよ}ったので、{駅|えき}の{近|ちか}くにある「交番」で{警察官|けいさつかん}に{道|みち}を{聞|き}きました。「交番」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "こうばん" },
-        { "id": "b", "html": "まじわりばん" },
-        { "id": "c", "html": "こうつがい" },
-        { "id": "d", "html": "きょうばん" }
+        { "id": "a", "html": "こうはん" },
+        { "id": "b", "html": "こばん" },
+        { "id": "c", "html": "こうばん" },
+        { "id": "d", "html": "こうぼん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>交番（こうばん）と読みます。<span>Meaning: <strong>police box</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>交番（こうばん）と読みます。<span>Meaning: <strong>police box; neighborhood police station</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p32-q12",
-      "questionHtml": "<p>二人のプレイヤーが「交互」にカードを引くルールになっている。「交互」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{二人|ふたり}の{学生|がくせい}は「交互」に{文章|ぶんしょう}を{読|よ}み、{発音|はつおん}の{練習|れんしゅう}をしました。「交互」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "こうご" },
+        { "id": "a", "html": "こうこ" },
         { "id": "b", "html": "こうごう" },
-        { "id": "c", "html": "まじわりたがい" },
-        { "id": "d", "html": "きょうご" }
+        { "id": "c", "html": "ごうご" },
+        { "id": "d", "html": "こうご" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>交互（こうご）と読みます。<span>Meaning: <strong>mutual, reciprocal, alternately</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>交互（こうご）と読みます。<span>Meaning: <strong>mutual; reciprocal; alternating</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p32-q13",
-      "questionHtml": "<p>大雪の{影響|えいきょう}で、「交通」機関が大幅に乱れている。「交通」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>この{町|まち}は「交通」が{便利|べんり}で、{電車|でんしゃ}やバスを{使|つか}ってどこへでも{行|い}けます。「交通」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "こうつう" },
-        { "id": "b", "html": "まじわりつう" },
-        { "id": "c", "html": "きょうつう" },
-        { "id": "d", "html": "こうづう" }
+        { "id": "b", "html": "こうづう" },
+        { "id": "c", "html": "こつう" },
+        { "id": "d", "html": "こうとう" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>交通（こうつう）と読みます。<span>Meaning: <strong>traffic, transportation</strong></span></p>"
+      "explanationHtml": "<p>交通（こうつう）と読みます。<span>Meaning: <strong>traffic; transportation</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p32-q14",
-      "questionHtml": "<p>{名刺|めいし}の「交換」を行ってから、具体的なビジネスの商談に移った。「交換」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{買|か}った{服|ふく}のサイズが{合|あ}わなかったので、{店|みせ}で{別|べつ}のサイズに「交換」してもらいました。「交換」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "こうかん" },
-        { "id": "b", "html": "まじわりかえ" },
-        { "id": "c", "html": "きょうかん" },
-        { "id": "d", "html": "こうがん" }
+        { "id": "a", "html": "こうがん" },
+        { "id": "b", "html": "こうかん" },
+        { "id": "c", "html": "こかん" },
+        { "id": "d", "html": "こうけん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>交換（こうかん）と読みます。<span>Meaning: <strong>exchange, interchange</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>交換（こうかん）と読みます。<span>Meaning: <strong>exchange; interchange</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p32-q15",
-      "questionHtml": "<p>{歴史|れきし}的な合意が結ばれ、両国間の「国交」が正常化された。「国交」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{二|ふた}つの{国|くに}は{長|なが}い{間|あいだ}{対立|たいりつ}していましたが、{最近|さいきん}「国交」を{回復|かいふく}しました。「国交」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "こくこう" },
-        { "id": "b", "html": "くにまじわり" },
+        { "id": "b", "html": "こっごう" },
         { "id": "c", "html": "こっこう" },
-        { "id": "d", "html": "こっきょう" }
+        { "id": "d", "html": "くにこう" }
       ],
       "correctAnswer": "c",
       "explanationHtml": "<p>国交（こっこう）と読みます。<span>Meaning: <strong>diplomatic relations</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p32-q16",
-      "questionHtml": "<p>{異性|いせい}との健全な「交際」を通じて、自らを成長させる。「交際」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{彼|かれ}は{大学時代|だいがくじだい}からの{友人|ゆうじん}と、{卒業後|そつぎょうご}も{親|した}しい「交際」を{続|つづ}けています。「交際」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "こうさい" },
-        { "id": "b", "html": "まじわりぎわ" },
-        { "id": "c", "html": "きょうさい" },
-        { "id": "d", "html": "こうざい" }
+        { "id": "a", "html": "こうざい" },
+        { "id": "b", "html": "こさい" },
+        { "id": "c", "html": "こうせい" },
+        { "id": "d", "html": "こうさい" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>交際（こうさい）と読みます。<span>Meaning: <strong>association, socializing, dating, friendship</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>交際（こうさい）と読みます。<span>Meaning: <strong>company; friendship; association; social relations</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p32-q17",
-      "questionHtml": "<p>長時間の運転は危険なので、ドライバーを「交代」しながら進んだ。「交代」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{長時間|ちょうじかん}の{運転|うんてん}で{疲|つか}れたので、{途中|とちゅう}で{弟|おとうと}と{運転|うんてん}を「交代」しました。「交代」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "こうたい" },
-        { "id": "b", "html": "まじわりかわり" },
-        { "id": "c", "html": "きょうたい" },
-        { "id": "d", "html": "こうだい" }
+        { "id": "b", "html": "こうだい" },
+        { "id": "c", "html": "こたい" },
+        { "id": "d", "html": "こうよ" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>交代（こうたい）と読みます。<span>Meaning: <strong>alternation, change, shift rotation</strong></span></p>"
+      "explanationHtml": "<p>交代（こうたい）と読みます。<span>Meaning: <strong>alternation; change; relief; taking turns</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p32-q18",
-      "questionHtml": "<p>古代において、この港町は海外諸国との「交易」の拠点として栄えた。「交易」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{昔|むかし}から、この{港町|みなとまち}では{外国|がいこく}との「交易」が{盛|さか}んに{行|おこな}われていました。「交易」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "こうえき" },
-        { "id": "b", "html": "まじわりえき" },
-        { "id": "c", "html": "こうえきめ" },
-        { "id": "d", "html": "きょうえき" }
+        { "id": "a", "html": "こうやく" },
+        { "id": "b", "html": "こうえき" },
+        { "id": "c", "html": "こういき" },
+        { "id": "d", "html": "こえき" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>交易（こうえき）と読みます。<span>Meaning: <strong>trade, commerce</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>交易（こうえき）と読みます。<span>Meaning: <strong>trade; commerce</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p32-q19",
-      "questionHtml": "<p>{粘り強い|ねばりづよい}「交渉」の結果、ようやく契約条件がまとまった。「交渉」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{会社|かいしゃ}は{取引先|とりひきさき}と{商品の価格|しょうひんのかかく}について「交渉」を{続|つづ}けています。「交渉」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "こうしょう" },
-        { "id": "b", "html": "きょうしょう" },
-        { "id": "c", "html": "まじわりわたる" },
-        { "id": "d", "html": "こうじょう" }
+        { "id": "a", "html": "こうじょう" },
+        { "id": "b", "html": "こしょう" },
+        { "id": "c", "html": "こうしょう" },
+        { "id": "d", "html": "こうそう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>交渉（こうしょう）と読みます。<span>Meaning: <strong>negotiations, discussions</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>交渉（こうしょう）と読みます。<span>Meaning: <strong>negotiations; bargaining; discussion</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p32-q20",
-      "questionHtml": "<p>{彼|かれ}は非常に「社交」的な性格で、誰とでもすぐに仲良くなれる。「社交」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{彼女|かのじょ}は「社交」が{得意|とくい}で、{初|はじ}めて{会|あ}った{人|ひと}ともすぐに{仲良|なかよ}くなれます。「社交」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "こうしゃ" },
-        { "id": "b", "html": "しゃこう" },
-        { "id": "c", "html": "まじわりしゃ" },
-        { "id": "d", "html": "きょうしゃこ" }
+        { "id": "a", "html": "しゃごう" },
+        { "id": "b", "html": "じゃこう" },
+        { "id": "c", "html": "しゃこ" },
+        { "id": "d", "html": "しゃこう" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>社交（しゃこう）と読みます。<span>Meaning: <strong>social life, sociability</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>社交（しゃこう）と読みます。<span>Meaning: <strong>social life; social intercourse; socializing</strong></span></p>"
     }
   ]
 }

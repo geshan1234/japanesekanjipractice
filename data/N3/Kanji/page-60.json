@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 60,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p60-q1",
+      "questionHtml": "<p>この{洗顔料|せんがんりょう}は「油分」が{少|すく}ないので、{肌|はだ}がつっぱる{感|かん}じがします。「油分」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆうぶん" },
+        { "id": "b", "html": "ゆぶん" },
+        { "id": "c", "html": "ゆふん" },
+        { "id": "d", "html": "あぶらぶん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>油分（ゆぶん）と読みます。<span>Meaning: <strong>oil content</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p60-q2",
+      "questionHtml": "<p>この{工場|こうじょう}では、{輸入|ゆにゅう}した{原料|げんりょう}を{使|つか}って「製油」を{行|おこな}っています。「製油」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいゆ" },
+        { "id": "b", "html": "せいあぶら" },
+        { "id": "c", "html": "ぜいゆ" },
+        { "id": "d", "html": "せいゆう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>製油（せいゆ）と読みます。<span>Meaning: <strong>oil refining</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p60-q3",
+      "questionHtml": "<p>{魚|さかな}を{焼|や}くときは、「しょう油」を{少|すこ}しかけると{香|かお}りがよくなります。「しょう油」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうあぶら" },
+        { "id": "b", "html": "しょうゆう" },
+        { "id": "c", "html": "しょうゆ" },
+        { "id": "d", "html": "そうゆ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>しょう油（しょうゆ）と読みます。<span>Meaning: <strong>soy sauce; shoyu</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p60-q4",
+      "questionHtml": "<p>{揚|あ}げ{物|もの}をするときは、{鍋|なべ}に「油」を{多|おお}めに{入|い}れます。「油」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆう" },
+        { "id": "b", "html": "あぶ" },
+        { "id": "c", "html": "あぶり" },
+        { "id": "d", "html": "あぶら" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>油（あぶら）と読みます。<span>Meaning: <strong>oil</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p60-q5",
+      "questionHtml": "<p>{美術館|びじゅつかん}には、{有名|ゆうめい}な{画家|がか}が{描|えが}いた「油絵」が{並|なら}んでいます。「油絵」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆえ" },
+        { "id": "b", "html": "あぶらえ" },
+        { "id": "c", "html": "ゆうえ" },
+        { "id": "d", "html": "あぶらかい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>油絵（あぶらえ）と読みます。<span>Meaning: <strong>oil painting</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p60-q6",
+      "questionHtml": "<p>{夜遅|よるおそ}くに「油物」を{食|た}べると、{胃|い}がもたれることがあります。「油物」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あぶらもの" },
+        { "id": "b", "html": "ゆぶつ" },
+        { "id": "c", "html": "あぶらぶつ" },
+        { "id": "d", "html": "ゆもの" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>油物（あぶらもの）と読みます。<span>Meaning: <strong>fried food; frying food</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p60-q7",
+      "questionHtml": "<p>{春|はる}になると、{山|やま}は{鮮|あざ}やかな「緑」に{包|つつ}まれます。「緑」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あお" },
+        { "id": "b", "html": "もえぎ" },
+        { "id": "c", "html": "みどり" },
+        { "id": "d", "html": "りょく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>緑（みどり）と読みます。<span>Meaning: <strong>green</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p60-q8",
+      "questionHtml": "<p>{日本|にほん}では、{食事|しょくじ}の{後|あと}に「緑茶」を{飲|の}む{習慣|しゅうかん}があります。「緑茶」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "みどりちゃ" },
+        { "id": "b", "html": "りょくさ" },
+        { "id": "c", "html": "ろくちゃ" },
+        { "id": "d", "html": "りょくちゃ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>緑茶（りょくちゃ）と読みます。<span>Meaning: <strong>green tea</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p60-q9",
+      "questionHtml": "<p>{彼|かれ}は{朝|あさ}はコーヒーではなく、{必|かなら}ず「紅茶」を{飲|の}みます。「紅茶」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "べにちゃ" },
+        { "id": "b", "html": "こうちゃ" },
+        { "id": "c", "html": "ごうちゃ" },
+        { "id": "d", "html": "こうさ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>紅茶（こうちゃ）と読みます。<span>Meaning: <strong>black tea</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p60-q10",
+      "questionHtml": "<p>{彼女|かのじょ}は{鏡|かがみ}を{見|み}ながら、{新|あたら}しい「口紅」を{塗|ぬ}りました。「口紅」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "くちべに" },
+        { "id": "b", "html": "こうべに" },
+        { "id": "c", "html": "くちぐれ" },
+        { "id": "d", "html": "くちがみ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>口紅（くちべに）と読みます。<span>Meaning: <strong>lipstick</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p60-q11",
+      "questionHtml": "<p>{図書館|としょかん}で{本|ほん}を{三|さん}「冊」{借|か}りました。「冊」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さく" },
+        { "id": "b", "html": "せき" },
+        { "id": "c", "html": "さつ" },
+        { "id": "d", "html": "せつ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>〜冊（〜さつ）と読みます。<span>Meaning: <strong>counter of book</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p60-q12",
+      "questionHtml": "<p>{借|か}りられる「冊数」は、{一人|ひとり}{五冊|ごさつ}までです。「冊数」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さくすう" },
+        { "id": "b", "html": "さつすう" },
+        { "id": "c", "html": "せきすう" },
+        { "id": "d", "html": "さっすう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>冊数（さっすう）と読みます。<span>Meaning: <strong>number of books</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p60-q13",
+      "questionHtml": "<p>{会社|かいしゃ}の{意見|いけん}ではなく、これはあくまで「個人」の{考|かんが}えです。「個人」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こにん" },
+        { "id": "b", "html": "こじん" },
+        { "id": "c", "html": "こうじん" },
+        { "id": "d", "html": "こひと" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>個人（こじん）と読みます。<span>Meaning: <strong>individual; private person; personal; private</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p60-q14",
+      "questionHtml": "<p>{子供|こども}の「個性」を{伸|の}ばす{教育|きょういく}が{求|もと}められています。「個性」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こせい" },
+        { "id": "b", "html": "こうせい" },
+        { "id": "c", "html": "こしょう" },
+        { "id": "d", "html": "こさい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>個性（こせい）と読みます。<span>Meaning: <strong>individuality; personality; quirk; idiosyncrasy</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p60-q15",
+      "questionHtml": "<p>{保護者|ほごしゃ}との「個別」{面談|めんだん}は、{来週|らいしゅう}から{始|はじ}まります。「個別」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうべつ" },
+        { "id": "b", "html": "ことべつ" },
+        { "id": "c", "html": "こべつ" },
+        { "id": "d", "html": "こぐべつ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>個別（こべつ）と読みます。<span>Meaning: <strong>individual; separate; personal; case-by-case</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p60-q16",
+      "questionHtml": "<p>{大切|たいせつ}な{話|はなし}があるので、「個室」のある{店|みせ}を{予約|よやく}しました。「個室」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうしつ" },
+        { "id": "b", "html": "ひとしつ" },
+        { "id": "c", "html": "こしょ" },
+        { "id": "d", "html": "こしつ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>個室（こしつ）と読みます。<span>Meaning: <strong>single (room); room for one; one's own room; private room</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p60-q17",
+      "questionHtml": "<p>{袋|ふくろ}の{中|なか}には、{小|ちい}さなみかんが「数個」{入|はい}っていました。「数個」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "すうこ" },
+        { "id": "b", "html": "かずこ" },
+        { "id": "c", "html": "すうか" },
+        { "id": "d", "html": "すこ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>数個（すうこ）と読みます。<span>Meaning: <strong>several (objects, usu. from two to six)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p60-q18",
+      "questionHtml": "<p>この{二|ふた}つの{問題|もんだい}は「別個」に{考|かんが}える{必要|ひつよう}があります。「別個」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "べつこ" },
+        { "id": "b", "html": "べっこ" },
+        { "id": "c", "html": "べつご" },
+        { "id": "d", "html": "べっか" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>別個（べっこ）と読みます。<span>Meaning: <strong>another; different; separate; discrete</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p60-q19",
+      "questionHtml": "<p>{同|おな}じ{種|しゅ}でも、「個体」によって{大|おお}きさが{違|ちが}います。「個体」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こてい" },
+        { "id": "b", "html": "こうたい" },
+        { "id": "c", "html": "こたい" },
+        { "id": "d", "html": "こだい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>個体（こたい）と読みます。<span>Meaning: <strong>individual; specimen</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p60-q20",
+      "questionHtml": "<p>{卵|たまご}を{五|ご}「個」{買|か}ってきてください。「個」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こ" },
+        { "id": "b", "html": "か" },
+        { "id": "c", "html": "きょ" },
+        { "id": "d", "html": "ご" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>〜個（〜こ）と読みます。<span>Meaning: <strong>counter for articles</strong></span></p>"
+    }
+  ]
+}

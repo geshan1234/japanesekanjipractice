@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 67,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p67-q1",
+      "questionHtml": "<p>{先生|せんせい}は{試験|しけん}の{前|まえ}に、「例題」を{使|つか}って{問題|もんだい}の{解|と}き{方|かた}を{説明|せつめい}しました。「例題」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "れいたい" },
+        { "id": "b", "html": "れいだい" },
+        { "id": "c", "html": "れいたいだい" },
+        { "id": "d", "html": "れいでい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>例題（れいだい）と読みます。<span>Meaning: <strong>example problem; practice exercise</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p67-q2",
+      "questionHtml": "<p>{研究者|けんきゅうしゃ}は{自分|じぶん}の{考|かんが}えを{説明|せつめい}するために、{具体的|ぐたいてき}な「例証」を{示|しめ}しました。「例証」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "れいじょう" },
+        { "id": "b", "html": "れいそう" },
+        { "id": "c", "html": "れいしょう" },
+        { "id": "d", "html": "れいしょ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>例証（れいしょう）と読みます。<span>Meaning: <strong>exemplification; illustration; example</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p67-q3",
+      "questionHtml": "<p>{今年|ことし}の{夏|なつ}は「例年」より{暑|あつ}く、{熱中症|ねっちゅうしょう}になる{人|ひと}が{増|ふ}えています。「例年」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "れいねん" },
+        { "id": "b", "html": "れいとし" },
+        { "id": "c", "html": "れんねん" },
+        { "id": "d", "html": "れいなん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>例年（れいねん）と読みます。<span>Meaning: <strong>usual year; ordinary year; every year</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p67-q4",
+      "questionHtml": "<p>この{会社|かいしゃ}では{土曜日|どようび}と{日曜日|にちようび}は{休|やす}みですが、{忙|いそが}しい{時期|じき}には「例外」もあります。「例外」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "れいかい" },
+        { "id": "b", "html": "れいげ" },
+        { "id": "c", "html": "れいそと" },
+        { "id": "d", "html": "れいがい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>例外（れいがい）と読みます。<span>Meaning: <strong>exception</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p67-q5",
+      "questionHtml": "<p>{仕事|しごと}の{量|りょう}に「比例」して、{必要|ひつよう}な{時間|じかん}も{増|ふ}えていきます。「比例」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひれつ" },
+        { "id": "b", "html": "ひれい" },
+        { "id": "c", "html": "びれい" },
+        { "id": "d", "html": "ひりい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>比例（ひれい）と読みます。<span>Meaning: <strong>proportion; proportional relationship</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p67-q6",
+      "questionHtml": "<p>{先生|せんせい}は{自分|じぶん}の{説明|せつめい}を{分|わ}かりやすくするために、いくつかの「裏例」を{紹介|しょうかい}しました。「裏例」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "うられ" },
+        { "id": "b", "html": "りれい" },
+        { "id": "c", "html": "うられい" },
+        { "id": "d", "html": "うらねい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>裏例（うられい）と読みます。<span>Meaning: <strong>example; illustration (nonstandard vocabulary; verify before use)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p67-q7",
+      "questionHtml": "<p>このような{問題|もんだい}は「前例」がないため、どう{対応|たいおう}すればいいか{分|わ}かりません。「前例」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぜんれい" },
+        { "id": "b", "html": "まえれい" },
+        { "id": "c", "html": "せんれい" },
+        { "id": "d", "html": "ぜんりょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>前例（ぜんれい）と読みます。<span>Meaning: <strong>precedent; previous example</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p67-q8",
+      "questionHtml": "<p>{健康|けんこう}のためには、{毎日|まいにち}{運動|うんどう}することが{大切|たいせつ}です。「例えば」、{散歩|さんぽ}や{水泳|すいえい}などがおすすめです。「例えば」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たとえは" },
+        { "id": "b", "html": "たとえば" },
+        { "id": "c", "html": "れいえば" },
+        { "id": "d", "html": "たとえぱ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>例えば（たとえば）と読みます。<span>Meaning: <strong>for example; for instance</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p67-q9",
+      "questionHtml": "<p>このイベントには、「年齢」に{関係|かんけい}なく、だれでも{参加|さんか}することができます。「年齢」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ねんれ" },
+        { "id": "b", "html": "ねんりょう" },
+        { "id": "c", "html": "ねんれい" },
+        { "id": "d", "html": "ねんねい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>年齢（ねんれい）と読みます。<span>Meaning: <strong>age; years of age</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p67-q10",
+      "questionHtml": "<p>{日本|にほん}では「高齢」の{人|ひと}が{増|ふ}えているため、{介護|かいご}の{仕事|しごと}がますます{重要|じゅうよう}になっています。「高齢」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうれい" },
+        { "id": "b", "html": "こうねい" },
+        { "id": "c", "html": "たかれい" },
+        { "id": "d", "html": "こうりょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>高齢（こうれい）と読みます。<span>Meaning: <strong>advanced age; old age</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p67-q11",
+      "questionHtml": "<p>{祖父|そふ}は「老齢」になっても、{毎朝|まいあさ}{公園|こうえん}を{散歩|さんぽ}して{健康|けんこう}を{保|たも}っています。「老齢」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ろうりょう" },
+        { "id": "b", "html": "ろうれい" },
+        { "id": "c", "html": "ろうねい" },
+        { "id": "d", "html": "おいれい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>老齢（ろうれい）と読みます。<span>Meaning: <strong>old age; advanced age</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p67-q12",
+      "questionHtml": "<p>この{大会|たいかい}には「適齢」の{選手|せんしゅ}だけが{参加|さんか}できるという{決|き}まりがあります。「適齢」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "てきりょう" },
+        { "id": "b", "html": "てきねい" },
+        { "id": "c", "html": "ていれい" },
+        { "id": "d", "html": "てきれい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>適齢（てきれい）と読みます。<span>Meaning: <strong>suitable age; appropriate age</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p67-q13",
+      "questionHtml": "<p>{子供|こども}が「学齢」に{達|たっ}すると、{小学校|しょうがっこう}に{入学|にゅうがく}するための{準備|じゅんび}が{始|はじ}まります。「学齢」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "がくねい" },
+        { "id": "b", "html": "がくりょう" },
+        { "id": "c", "html": "がくれい" },
+        { "id": "d", "html": "がっれい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>学齢（がくれい）と読みます。<span>Meaning: <strong>school age</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p67-q14",
+      "questionHtml": "<p>{政府|せいふ}は{来年度|らいねんど}の「歳入」がどのくらいになるかを{予測|よそく}しています。「歳入」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さいにゅう" },
+        { "id": "b", "html": "さいいり" },
+        { "id": "c", "html": "ざいにゅう" },
+        { "id": "d", "html": "さいりゅう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>歳入（さいにゅう）と読みます。<span>Meaning: <strong>annual government revenue; budget receipts</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p67-q15",
+      "questionHtml": "<p>{長|なが}い「歳月」が{流|なが}れましたが、{子供|こども}のころの{思|おも}い{出|で}は{今|いま}でも{忘|わす}れられません。「歳月」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さいげつ" },
+        { "id": "b", "html": "さいがつ" },
+        { "id": "c", "html": "ざいげつ" },
+        { "id": "d", "html": "さいつき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>歳月（さいげつ）と読みます。<span>Meaning: <strong>time; years; passage of time</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p67-q16",
+      "questionHtml": "<p>{国|くに}の「歳出」が{増|ふ}えたため、{政府|せいふ}は{予算|よさん}の{使|つか}い{方|かた}を{見直|みなお}すことにしました。「歳出」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さいで" },
+        { "id": "b", "html": "さいしゅつ" },
+        { "id": "c", "html": "ざいしゅつ" },
+        { "id": "d", "html": "さいしゅう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>歳出（さいしゅつ）と読みます。<span>Meaning: <strong>annual government expenditure; budget spending</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p67-q17",
+      "questionHtml": "<p>「歳末」になると、{多|おお}くの{店|みせ}でセールが{行|おこな}われ、{買|か}い{物|もの}をする{人|ひと}でにぎわいます。「歳末」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さいまつ" },
+        { "id": "b", "html": "さいみつ" },
+        { "id": "c", "html": "ざいまつ" },
+        { "id": "d", "html": "さいすえ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>歳末（さいまつ）と読みます。<span>Meaning: <strong>year-end; end of the year</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p67-q18",
+      "questionHtml": "<p>{祖父母|そふぼ}と{私|わたし}たちでは「世代」が{違|ちが}うので、{考|かんが}え{方|かた}や{生活|せいかつ}{習慣|しゅうかん}にも{違|ちが}いがあります。「世代」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せたい" },
+        { "id": "b", "html": "せだい" },
+        { "id": "c", "html": "よだい" },
+        { "id": "d", "html": "せいだい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>世代（せだい）と読みます。<span>Meaning: <strong>generation; age group</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p67-q19",
+      "questionHtml": "<p>{日本|にほん}のチームが{優勝|ゆうしょう}した{瞬間|しゅんかん}、{会場|かいじょう}にいた{人|ひと}たちは「万歳」と{叫|さけ}んで{喜|よろこ}びました。「万歳」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "まんざい" },
+        { "id": "b", "html": "ばんさい" },
+        { "id": "c", "html": "ばんざい" },
+        { "id": "d", "html": "まんさい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>万歳（ばんざい）と読みます。<span>Meaning: <strong>banzai; hurrah; hurray; hooray</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p67-q20",
+      "questionHtml": "<p>{日本語|にほんご}の{授業|じゅぎょう}で、{先生|せんせい}に「何歳」ですかと{聞|き}かれたので、{自分|じぶん}の{年齢|ねんれい}を{答|こた}えました。「何歳」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "なにさい" },
+        { "id": "b", "html": "なんざい" },
+        { "id": "c", "html": "なんせい" },
+        { "id": "d", "html": "なんさい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>何歳（なんさい）と読みます。<span>Meaning: <strong>how old; what age</strong></span></p>"
+    }
+  ]
+}

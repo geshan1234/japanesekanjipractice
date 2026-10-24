@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 101,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p101-q1",
+      "questionHtml": "<p>{運動不足|うんどうぶそく}は、{体重|たいじゅう}が{増|ふ}えた「一因」だと{考|かんが}えられています。「一因」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いちにん" },
+        { "id": "b", "html": "いちいん" },
+        { "id": "c", "html": "いっいん" },
+        { "id": "d", "html": "ひといん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>一因（いちいん）と読みます。<span>Meaning: <strong>one cause; one reason; one factor</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p101-q2",
+      "questionHtml": "<p>{監督|かんとく}は{試合|しあい}の「敗因」を{分析|ぶんせき}し、{次|つぎ}の{大会|たいかい}に{向|む}けて{練習方法|れんしゅうほうほう}を{変|か}えました。「敗因」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はいにん" },
+        { "id": "b", "html": "ばいいん" },
+        { "id": "c", "html": "はいいん" },
+        { "id": "d", "html": "はいげん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>敗因（はいいん）と読みます。<span>Meaning: <strong>cause of defeat; reason for losing</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p101-q3",
+      "questionHtml": "<p>{研究者|けんきゅうしゃ}は、{病気|びょうき}になりやすい「素因」があるかどうかを{詳|くわ}しく{調|しら}べています。「素因」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そいん" },
+        { "id": "b", "html": "すいん" },
+        { "id": "c", "html": "そにん" },
+        { "id": "d", "html": "そういん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>素因（そいん）と読みます。<span>Meaning: <strong>basic factor; underlying cause; predisposition</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p101-q4",
+      "questionHtml": "<p>{人生|じんせい}では、{思|おも}いがけない{困難|こんなん}に「際会」することがありますが、あきらめずに{進|すす}むことが{大切|たいせつ}です。「際会」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さいえ" },
+        { "id": "b", "html": "ざいかい" },
+        { "id": "c", "html": "さいがい" },
+        { "id": "d", "html": "さいかい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>際会（さいかい）と読みます。<span>Meaning: <strong>meeting; facing; confronting; encountering</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p101-q5",
+      "questionHtml": "<p>{子供|こども}たちは「際限」なく{質問|しつもん}を{続|つづ}け、{先生|せんせい}は{一|ひと}つずつ{丁寧|ていねい}に{答|こた}えました。「際限」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さいげん" },
+        { "id": "b", "html": "さいけん" },
+        { "id": "c", "html": "ざいげん" },
+        { "id": "d", "html": "さいごん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>際限（さいげん）と読みます。<span>Meaning: <strong>limits; end; bounds</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p101-q6",
+      "questionHtml": "<p>この{大学|だいがく}では、{医学|いがく}と{工学|こうがく}を{組|く}み{合|あ}わせた「学際」{的|てき}な{研究|けんきゅう}が{進|すす}められています。「学際」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "がっさい" },
+        { "id": "b", "html": "がくさい" },
+        { "id": "c", "html": "がくざい" },
+        { "id": "d", "html": "がくかい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>学際（がくさい）と読みます。<span>Meaning: <strong>interdisciplinary; relating to multiple academic fields</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p101-q7",
+      "questionHtml": "<p>{広|ひろ}い{海|うみ}を{眺|なが}めると、「天際」に{夕日|ゆうひ}が{沈|しず}んでいくのが{見|み}えました。「天際」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "てんざい" },
+        { "id": "b", "html": "てんかい" },
+        { "id": "c", "html": "てんさい" },
+        { "id": "d", "html": "あまさい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>天際（てんさい）と読みます。<span>Meaning: <strong>horizon; where the sky meets the earth or sea</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p101-q8",
+      "questionHtml": "<p>{来月|らいげつ}、{東京|とうきょう}で「国際」{会議|かいぎ}が{開|ひら}かれ、{多|おお}くの{国|くに}の{代表|だいひょう}が{参加|さんか}します。「国際」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こくざい" },
+        { "id": "b", "html": "こっさい" },
+        { "id": "c", "html": "くにさい" },
+        { "id": "d", "html": "こくさい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>国際（こくさい）と読みます。<span>Meaning: <strong>international; relations between countries</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p101-q9",
+      "questionHtml": "<p>{彼|かれ}は{仕事|しごと}が{忙|いそが}しくても、{友人|ゆうじん}との「交際」を{大切|たいせつ}にしています。「交際」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうざい" },
+        { "id": "b", "html": "こうさい" },
+        { "id": "c", "html": "こさい" },
+        { "id": "d", "html": "こうせい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>交際（こうさい）と読みます。<span>Meaning: <strong>company; friendship; association; social relationships; acquaintance</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p101-q10",
+      "questionHtml": "<p>{明日|あした}の「会議」では、{新|あたら}しい{商品の|しょうひんの}{販売計画|はんばいけいかく}について{話|はな}し{合|あ}います。「会議」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かいぎ" },
+        { "id": "b", "html": "かいき" },
+        { "id": "c", "html": "えぎ" },
+        { "id": "d", "html": "かいげ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>会議（かいぎ）と読みます。<span>Meaning: <strong>meeting; conference</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p101-q11",
+      "questionHtml": "<p>{今日|きょう}の{会議|かいぎ}では、{環境問題|かんきょうもんだい}が{最初|さいしょ}の「議題」になりました。「議題」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぎたい" },
+        { "id": "b", "html": "きだい" },
+        { "id": "c", "html": "ぎだい" },
+        { "id": "d", "html": "ぎてい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>議題（ぎだい）と読みます。<span>Meaning: <strong>topic of discussion; agenda; subject for debate</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p101-q12",
+      "questionHtml": "<p>{新|あたら}しい{制度|せいど}について{活発|かっぱつ}な「論議」が{行|おこな}われましたが、まだ{結論|けつろん}は{出|で}ていません。「論議」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ろんき" },
+        { "id": "b", "html": "ろんぎ" },
+        { "id": "c", "html": "ろんげ" },
+        { "id": "d", "html": "りんぎ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>論議（ろんぎ）と読みます。<span>Meaning: <strong>discussion; argument; debate</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p101-q13",
+      "questionHtml": "<p>{多|おお}くの「議員」が{国会|こっかい}に{集|あつ}まり、{新|あたら}しい{法律|ほうりつ}について{話|はな}し{合|あ}いました。「議員」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぎえん" },
+        { "id": "b", "html": "きいん" },
+        { "id": "c", "html": "ぎにん" },
+        { "id": "d", "html": "ぎいん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>議員（ぎいん）と読みます。<span>Meaning: <strong>member of parliament; legislator; member of the Diet or congress</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p101-q14",
+      "questionHtml": "<p>{選挙|せんきょ}の{結果|けっか}、その{政党|せいとう}は{前回|ぜんかい}より{多|おお}くの「議席」を{獲得|かくとく}しました。「議席」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぎせき" },
+        { "id": "b", "html": "ぎぜき" },
+        { "id": "c", "html": "きせき" },
+        { "id": "d", "html": "ぎしゃく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>議席（ぎせき）と読みます。<span>Meaning: <strong>parliamentary seat; legislative seat</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p101-q15",
+      "questionHtml": "<p>{政府|せいふ}は{今朝|けさ}の「閣議」で、{新|あたら}しい{経済政策|けいざいせいさく}を{決定|けってい}しました。「閣議」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かくき" },
+        { "id": "b", "html": "がくぎ" },
+        { "id": "c", "html": "かくぎ" },
+        { "id": "d", "html": "かっぎ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>閣議（かくぎ）と読みます。<span>Meaning: <strong>cabinet meeting</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p101-q16",
+      "questionHtml": "<p>{市|し}の「議会」では、{来年度|らいねんど}の{予算|よさん}について{話|はな}し{合|あ}いが{行|おこな}われています。「議会」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きかい" },
+        { "id": "b", "html": "ぎかい" },
+        { "id": "c", "html": "ぎがい" },
+        { "id": "d", "html": "ぎえ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>議会（ぎかい）と読みます。<span>Meaning: <strong>assembly; congress; parliament; legislative council</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p101-q17",
+      "questionHtml": "<p>{学生|がくせい}たちは{環境問題|かんきょうもんだい}について「討議」し、それぞれの{意見|いけん}を{発表|はっぴょう}しました。「討議」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とうき" },
+        { "id": "b", "html": "どうぎ" },
+        { "id": "c", "html": "とうげ" },
+        { "id": "d", "html": "とうぎ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>討議（とうぎ）と読みます。<span>Meaning: <strong>debate; discussion; deliberation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p101-q18",
+      "questionHtml": "<p>{田舎|いなか}での「生活」は{静|しず}かで、{自然|しぜん}に{囲|かこ}まれて{暮|く}らすことができます。「生活」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいかつ" },
+        { "id": "b", "html": "しょうかつ" },
+        { "id": "c", "html": "せいがつ" },
+        { "id": "d", "html": "せいこつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>生活（せいかつ）と読みます。<span>Meaning: <strong>life; living; daily life; livelihood</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p101-q19",
+      "questionHtml": "<p>{長|なが}い{間|あいだ}{活動|かつどう}を{休|やす}んでいたバンドが、{来月|らいげつ}ついに「復活」するそうです。「復活」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふくかつ" },
+        { "id": "b", "html": "ふっかつ" },
+        { "id": "c", "html": "ふっがつ" },
+        { "id": "d", "html": "ふくがつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>復活（ふっかつ）と読みます。<span>Meaning: <strong>revival; comeback; restoration; resurrection</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p101-q20",
+      "questionHtml": "<p>{外国語|がいこくご}を{勉強|べんきょう}するときは、{辞書|じしょ}やアプリを{上手|じょうず}に「活用」することが{大切|たいせつ}です。「活用」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かつよ" },
+        { "id": "b", "html": "がつよう" },
+        { "id": "c", "html": "かつよう" },
+        { "id": "d", "html": "かっよう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>活用（かつよう）と読みます。<span>Meaning: <strong>practical use; application; effective utilization</strong></span></p>"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 61,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p61-q1",
+      "questionHtml": "<p>{注文|ちゅうもん}する「個数」によって、{送料|そうりょう}が{変|か}わります。「個数」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こかず" },
+        { "id": "b", "html": "こうすう" },
+        { "id": "c", "html": "こすう" },
+        { "id": "d", "html": "こずう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>個数（こすう）と読みます。<span>Meaning: <strong>number of articles; quantity</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p61-q2",
+      "questionHtml": "<p>{申込書|もうしこみしょ}に{写真|しゃしん}を「一枚」{貼|は}ってください。「一枚」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いちまい" },
+        { "id": "b", "html": "ひとまい" },
+        { "id": "c", "html": "いちばい" },
+        { "id": "d", "html": "いちびょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>一枚（いちまい）と読みます。<span>Meaning: <strong>one thin flat object; one sheet</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p61-q3",
+      "questionHtml": "<p>{履歴書|りれきしょ}のコピーを「三枚」{用意|ようい}してください。「三枚」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さんばい" },
+        { "id": "b", "html": "みまい" },
+        { "id": "c", "html": "さんびょう" },
+        { "id": "d", "html": "さんまい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>三枚（さんまい）と読みます。<span>Meaning: <strong>three flat objects (sheets of paper, pieces of cloth, etc.)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p61-q4",
+      "questionHtml": "<p>{印刷|いんさつ}する「枚数」が{多|おお}いので、{時間|じかん}がかかります。「枚数」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ばいすう" },
+        { "id": "b", "html": "まいすう" },
+        { "id": "c", "html": "まいかず" },
+        { "id": "d", "html": "びょうすう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>枚数（まいすう）と読みます。<span>Meaning: <strong>the number of flat things</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p61-q5",
+      "questionHtml": "<p>{彼|かれ}は{珍|めずら}しい{切手|きって}を{買|か}うために「大枚」をはたきました。「大枚」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おおまい" },
+        { "id": "b", "html": "だいまい" },
+        { "id": "c", "html": "たいまい" },
+        { "id": "d", "html": "だいばい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>大枚（たいまい）と読みます。<span>Meaning: <strong>large sum (of money)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p61-q6",
+      "questionHtml": "<p>この{田|た}んぼは「千枚」{田|だ}と{呼|よ}ばれる{美|うつく}しい{景色|けしき}で{有名|ゆうめい}です。「千枚」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せんまい" },
+        { "id": "b", "html": "ちまい" },
+        { "id": "c", "html": "せんばい" },
+        { "id": "d", "html": "せんびょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>千枚（せんまい）と読みます。<span>Meaning: <strong>1000 sheets (of paper); many pages</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p61-q7",
+      "questionHtml": "<p>{彼|かれ}の{失敗|しっぱい}は「枚挙」にいとまがないほどです。「枚挙」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ばいきょ" },
+        { "id": "b", "html": "まいきょ" },
+        { "id": "c", "html": "まいあげ" },
+        { "id": "d", "html": "まいこ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>枚挙（まいきょ）と読みます。<span>Meaning: <strong>enumeration</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p61-q8",
+      "questionHtml": "<p>{切符|きっぷ}を{二|に}「枚」{買|か}いました。「枚」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "べい" },
+        { "id": "b", "html": "ばい" },
+        { "id": "c", "html": "びょう" },
+        { "id": "d", "html": "まい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>〜枚（〜まい）と読みます。<span>Meaning: <strong>~ sheet</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p61-q9",
+      "questionHtml": "<p>{新|あたら}しい{商品|しょうひん}の「広告」が{電車|でんしゃ}の{中|なか}に{出|で}ていました。「広告」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひろこく" },
+        { "id": "b", "html": "こうごく" },
+        { "id": "c", "html": "こうこく" },
+        { "id": "d", "html": "こうこう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>広告（こうこく）と読みます。<span>Meaning: <strong>advertisement</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p61-q10",
+      "questionHtml": "<p>{出張|しゅっちょう}の{結果|けっか}を{上司|じょうし}に「報告」しました。「報告」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほうこく" },
+        { "id": "b", "html": "ほうごく" },
+        { "id": "c", "html": "ほうこう" },
+        { "id": "d", "html": "ぼうこく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>報告（ほうこく）と読みます。<span>Meaning: <strong>report; information</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p61-q11",
+      "questionHtml": "<p>{犯人|はんにん}は{警察|けいさつ}に{全|すべ}てを「告白」しました。「告白」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうはく" },
+        { "id": "b", "html": "こくはく" },
+        { "id": "c", "html": "こくびゃく" },
+        { "id": "d", "html": "ごくはく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>告白（こくはく）と読みます。<span>Meaning: <strong>confession (to a crime, wrongdoing, etc.); admission</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p61-q12",
+      "questionHtml": "<p>{内部|ないぶ}の{社員|しゃいん}が{会社|かいしゃ}の{不正|ふせい}を「告発」しました。「告発」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こくはっ" },
+        { "id": "b", "html": "こうはつ" },
+        { "id": "c", "html": "こくはち" },
+        { "id": "d", "html": "こくはつ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>告発（こくはつ）と読みます。<span>Meaning: <strong>indictment; prosecution; complaint</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p61-q13",
+      "questionHtml": "<p>{被害者|ひがいしゃ}は{相手|あいて}を「告訴」することにしました。「告訴」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こくしょ" },
+        { "id": "b", "html": "こくそう" },
+        { "id": "c", "html": "こくそ" },
+        { "id": "d", "html": "ごくそ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>告訴（こくそ）と読みます。<span>Meaning: <strong>accusation; complaint; charge; legal action</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p61-q14",
+      "questionHtml": "<p>{警察|けいさつ}は{住民|じゅうみん}に{大雨|おおあめ}の「警告」を{出|だ}しました。「警告」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいこく" },
+        { "id": "b", "html": "けいごく" },
+        { "id": "c", "html": "きょうこく" },
+        { "id": "d", "html": "けいこう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>警告（けいこく）と読みます。<span>Meaning: <strong>warning; advice</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p61-q15",
+      "questionHtml": "<p>{友達|ともだち}の「忠告」を{聞|き}かなかったことを{後悔|こうかい}しています。「忠告」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちょうこく" },
+        { "id": "b", "html": "ちゅうごく" },
+        { "id": "c", "html": "ちゅこく" },
+        { "id": "d", "html": "ちゅうこく" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>忠告（ちゅうこく）と読みます。<span>Meaning: <strong>advice; warning</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p61-q16",
+      "questionHtml": "<p>このアプリは{使|つか}い{方|かた}が{簡単|かんたん}で、とても「便利」です。「便利」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "びんり" },
+        { "id": "b", "html": "べんり" },
+        { "id": "c", "html": "べんれい" },
+        { "id": "d", "html": "べんじ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>便利（べんり）と読みます。<span>Meaning: <strong>convenient; handy; useful</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p61-q17",
+      "questionHtml": "<p>{図書館|としょかん}を「利用」するときは、{静|しず}かにしてください。「利用」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りゆう" },
+        { "id": "b", "html": "りよ" },
+        { "id": "c", "html": "りよう" },
+        { "id": "d", "html": "れいよう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>利用（りよう）と読みます。<span>Meaning: <strong>use; utilization; utilisation; application</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p61-q18",
+      "questionHtml": "<p>{不注意|ふちゅうい}で{大切|たいせつ}な{皿|さら}を「割る」ところでした。「割る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "わる" },
+        { "id": "b", "html": "かる" },
+        { "id": "c", "html": "ほる" },
+        { "id": "d", "html": "はる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>割る（わる）と読みます。<span>Meaning: <strong>to break; to crack; to smash</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p61-q19",
+      "questionHtml": "<p>{地震|じしん}で、{窓|まど}ガラスが「割れる」{音|おと}が{聞|き}こえました。「割れる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かれる" },
+        { "id": "b", "html": "ほれる" },
+        { "id": "c", "html": "われた" },
+        { "id": "d", "html": "われる" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>割れる（われる）と読みます。<span>Meaning: <strong>to be broken; to be smashed</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p61-q20",
+      "questionHtml": "<p>{外国人|がいこくじん}{観光客|かんこうきゃく}の「割合」は、{年々|ねんねん}{増|ふ}えています。「割合」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "わりごう" },
+        { "id": "b", "html": "わりあい" },
+        { "id": "c", "html": "かつあい" },
+        { "id": "d", "html": "わりはい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>割合（わりあい）と読みます。<span>Meaning: <strong>rate; ratio; percentage; proportion</strong></span></p>"
+    }
+  ]
+}

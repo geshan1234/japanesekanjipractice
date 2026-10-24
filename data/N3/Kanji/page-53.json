@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 53,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p53-q1",
+      "questionHtml": "<p>{突然|とつぜん}の{停電|ていでん}によって、{駅|えき}の{中|なか}は「混乱」し、{多|おお}くの{人|ひと}が{困|こま}っていました。「混乱」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こんらん" },
+        { "id": "b", "html": "こんなん" },
+        { "id": "c", "html": "こんろん" },
+        { "id": "d", "html": "こんらい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>混乱（こんらん）と読みます。<span>Meaning: <strong>disorder; chaos; confusion; mayhem</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p53-q2",
+      "questionHtml": "<p>この{飲|の}み{物|もの}は、{数種類|すうしゅるい}の{果物|くだもの}のジュースを「混合」して{作|つく}られています。「混合」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こんこう" },
+        { "id": "b", "html": "こんごう" },
+        { "id": "c", "html": "まぜあい" },
+        { "id": "d", "html": "こんあい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>混合（こんごう）と読みます。<span>Meaning: <strong>mixing; mixture; meld</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p53-q3",
+      "questionHtml": "<p>この{料理|りょうり}には、{細|こま}かく{切|き}った{野菜|やさい}が「混じる」ことがあります。「混じる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "まぜる" },
+        { "id": "b", "html": "こんじる" },
+        { "id": "c", "html": "まじる" },
+        { "id": "d", "html": "まざる" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>混じる（まじる）と読みます。<span>Meaning: <strong>to be mixed; to be blended with; to be combined</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p53-q4",
+      "questionHtml": "<p>ケーキを{作|つく}るときは、{卵|たまご}と{砂糖|さとう}をよく「混ぜる」ことが{大切|たいせつ}です。「混ぜる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "まじる" },
+        { "id": "b", "html": "まざる" },
+        { "id": "c", "html": "こんぜる" },
+        { "id": "d", "html": "まぜる" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>混ぜる（まぜる）と読みます。<span>Meaning: <strong>to mix; to stir; to blend</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p53-q5",
+      "questionHtml": "<p>{昨夜|さくや}の{火事|かじ}では、{逃|に}げ{遅|おく}れた{住民|じゅうみん}が「焼死」したと{報道|ほうどう}されました。「焼死」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうし" },
+        { "id": "b", "html": "やきし" },
+        { "id": "c", "html": "しょうじ" },
+        { "id": "d", "html": "やけし" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>焼死（しょうし）と読みます。<span>Meaning: <strong>death by fire</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p53-q6",
+      "questionHtml": "<p>{消防隊|しょうぼうたい}が{早|はや}く{到着|とうちゃく}したため、{家|いえ}は「半焼」で{済|す}みました。「半焼」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はんじょう" },
+        { "id": "b", "html": "はんしょう" },
+        { "id": "c", "html": "ばんしょう" },
+        { "id": "d", "html": "はんやき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>半焼（はんしょう）と読みます。<span>Meaning: <strong>partial destruction by fire</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p53-q7",
+      "questionHtml": "<p>{大|おお}きな{火災|かさい}によって、{古|ふる}い{木造|もくぞう}の{建物|たてもの}が「全焼」してしまいました。「全焼」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぜんじょう" },
+        { "id": "b", "html": "ぜんやき" },
+        { "id": "c", "html": "ぜんしょう" },
+        { "id": "d", "html": "せんしょう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>全焼（ぜんしょう）と読みます。<span>Meaning: <strong>total destruction by fire; being burned down</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p53-q8",
+      "questionHtml": "<p>{火事|かじ}で{大切|たいせつ}な{書類|しょるい}が「焼失」したため、{会社|かいしゃ}は{再発行|さいはっこう}の{手続|てつづ}きを{始|はじ}めました。「焼失」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうじつ" },
+        { "id": "b", "html": "やきしつ" },
+        { "id": "c", "html": "しょうじち" },
+        { "id": "d", "html": "しょうしつ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>焼失（しょうしつ）と読みます。<span>Meaning: <strong>destruction by fire; losing in a fire; being burnt down</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p53-q9",
+      "questionHtml": "<p>{強|つよ}い{風|かぜ}の{影響|えいきょう}で{火|ひ}が{隣|となり}の{建物|たてもの}に「延焼」する{危険|きけん}があります。「延焼」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "えんしょう" },
+        { "id": "b", "html": "えんじょう" },
+        { "id": "c", "html": "えんやき" },
+        { "id": "d", "html": "のびしょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>延焼（えんしょう）と読みます。<span>Meaning: <strong>spread of fire</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p53-q10",
+      "questionHtml": "<p>{酸素|さんそ}が{不足|ふそく}すると、{燃料|ねんりょう}が{完全|かんぜん}に「燃焼」しないことがあります。「燃焼」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ねんじょう" },
+        { "id": "b", "html": "ねんしょう" },
+        { "id": "c", "html": "もえしょう" },
+        { "id": "d", "html": "れんしょう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>燃焼（ねんしょう）と読みます。<span>Meaning: <strong>burning; combustion</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p53-q11",
+      "questionHtml": "<p>{週末|しゅうまつ}には{家族|かぞく}と{一緒|いっしょ}に、{庭|にわ}で{魚|さかな}を「焼く」{予定|よてい}です。「焼く」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "やける" },
+        { "id": "b", "html": "しょうく" },
+        { "id": "c", "html": "やく" },
+        { "id": "d", "html": "たく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>焼く（やく）と読みます。<span>Meaning: <strong>to bake; to grill; to roast; to burn</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p53-q12",
+      "questionHtml": "<p>オーブンに{入|い}れたパンが「焼ける」まで、あと{十分|じゅっぷん}ほどかかります。「焼ける」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "やくる" },
+        { "id": "b", "html": "しょうける" },
+        { "id": "c", "html": "やげる" },
+        { "id": "d", "html": "やける" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>焼ける（やける）と読みます。<span>Meaning: <strong>to burn; to be roasted; to be heated; to be sunburnt</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p53-q13",
+      "questionHtml": "<p>この{紙|かみ}の「表」には{名前|なまえ}を{書|か}き、{裏|うら}には{住所|じゅうしょ}を{書|か}いてください。「表」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おもて" },
+        { "id": "b", "html": "ひょう" },
+        { "id": "c", "html": "おもた" },
+        { "id": "d", "html": "あらわ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>表（おもて）と読みます。<span>Meaning: <strong>face; front; visible side of an object</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p53-q14",
+      "questionHtml": "<p>{先生|せんせい}は{来週|らいしゅう}、{試験|しけん}の{結果|けっか}を「発表」すると{言|い}いました。「発表」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はつひょう" },
+        { "id": "b", "html": "はっぴょう" },
+        { "id": "c", "html": "はっひょう" },
+        { "id": "d", "html": "はつびょう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>発表（はっぴょう）と読みます。<span>Meaning: <strong>announcement; publication; presentation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p53-q15",
+      "questionHtml": "<p>この{机|つくえ}の「表面」には{小|ちい}さな{傷|きず}がありますが、{使|つか}うのに{問題|もんだい}はありません。「表面」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひょめん" },
+        { "id": "b", "html": "おもてめん" },
+        { "id": "c", "html": "ひょうめん" },
+        { "id": "d", "html": "ひょうまん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>表面（ひょうめん）と読みます。<span>Meaning: <strong>surface; face</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p53-q16",
+      "questionHtml": "<p>{自分|じぶん}の{気持|きも}ちを{言葉|ことば}で「表現」することは、ときどき{難|むずか}しいものです。「表現」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひょうけん" },
+        { "id": "b", "html": "ひょげん" },
+        { "id": "c", "html": "ひょうげい" },
+        { "id": "d", "html": "ひょうげん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>表現（ひょうげん）と読みます。<span>Meaning: <strong>expression; presentation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p53-q17",
+      "questionHtml": "<p>このマークは{安全|あんぜん}を「表す」ために{使|つか}われています。「表す」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あらわす" },
+        { "id": "b", "html": "あらわれる" },
+        { "id": "c", "html": "ひょうす" },
+        { "id": "d", "html": "あらばす" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>表す（あらわす）と読みます。<span>Meaning: <strong>to represent; to signify; to stand for</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p53-q18",
+      "questionHtml": "<p>{彼女|かのじょ}は{学校|がっこう}の「代表」として、{全国|ぜんこく}のスピーチ{大会|たいかい}に{参加|さんか}しました。「代表」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たいひょう" },
+        { "id": "b", "html": "だいひょう" },
+        { "id": "c", "html": "だいびょう" },
+        { "id": "d", "html": "だいおもて" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>代表（だいひょう）と読みます。<span>Meaning: <strong>representative; representation; delegation; type; example; model</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p53-q19",
+      "questionHtml": "<p>{子供|こども}のころに{見|み}た{美|うつく}しい{景色|けしき}が、{今|いま}でも「脳裏」に{残|のこ}っています。「脳裏」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "のうりん" },
+        { "id": "b", "html": "のううら" },
+        { "id": "c", "html": "のうり" },
+        { "id": "d", "html": "のり" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>脳裏（のうり）と読みます。<span>Meaning: <strong>one's mind; the back of one's mind</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p53-q20",
+      "questionHtml": "<p>{平安時代|へいあんじだい}の「内裏」は、{天皇|てんのう}が{生活|せいかつ}する{場所|ばしょ}として{使|つか}われていました。「内裏」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ないり" },
+        { "id": "b", "html": "うちうら" },
+        { "id": "c", "html": "だいりん" },
+        { "id": "d", "html": "だいり" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>内裏（だいり）と読みます。<span>Meaning: <strong>Imperial palace</strong></span></p>"
+    }
+  ]
+}

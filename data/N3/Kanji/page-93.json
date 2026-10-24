@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 93,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p93-q1",
+      "questionHtml": "<p>{政府|せいふ}は{新|あたら}しい{公共事業|こうきょうじぎょう}の{資金|しきん}を{集|あつ}めるため、「募債」を{行|おこな}うことにしました。「募債」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぼざい" },
+        { "id": "b", "html": "ぼさい" },
+        { "id": "c", "html": "もさい" },
+        { "id": "d", "html": "ぼせい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>募債（ぼさい）と読みます。<span>Meaning: <strong>raising a loan; flotation of a loan; issuing bonds to raise funds</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p93-q2",
+      "questionHtml": "<p>{戦争|せんそう}が{始|はじ}まると、{政府|せいふ}は{兵士|へいし}の「徴募」を{進|すす}めました。「徴募」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちょうぼ" },
+        { "id": "b", "html": "ちょうほ" },
+        { "id": "c", "html": "しょうぼ" },
+        { "id": "d", "html": "ちょぼ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>徴募（ちょうぼ）と読みます。<span>Meaning: <strong>enlistment; recruitment; recruiting personnel</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p93-q3",
+      "questionHtml": "<p>{駅前|えきまえ}のカフェでは、アルバイトの「募集」をしています。「募集」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぼじゅう" },
+        { "id": "b", "html": "もしゅう" },
+        { "id": "c", "html": "ぼしゅ" },
+        { "id": "d", "html": "ぼしゅう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>募集（ぼしゅう）と読みます。<span>Meaning: <strong>recruitment; taking applications; inviting applicants</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p93-q4",
+      "questionHtml": "<p>{新|あたら}しい「職場」では、{同僚|どうりょう}がとても{親切|しんせつ}なので、{安心|あんしん}して{働|はたら}けます。「職場」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょくじょう" },
+        { "id": "b", "html": "しょくぱ" },
+        { "id": "c", "html": "しょくば" },
+        { "id": "d", "html": "しょくは" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>職場（しょくば）と読みます。<span>Meaning: <strong>workplace; place of work; one's post</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p93-q5",
+      "questionHtml": "<p>{兄|あに}は{自分|じぶん}の{経験|けいけん}を{生|い}かすために、「転職」を{考|かんが}えています。「転職」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "てんしょく" },
+        { "id": "b", "html": "でんしょく" },
+        { "id": "c", "html": "てんじょく" },
+        { "id": "d", "html": "てんしき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>転職（てんしょく）と読みます。<span>Meaning: <strong>job change; career change; change of occupation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p93-q6",
+      "questionHtml": "<p>{将来|しょうらい}どんな「職業」に{就|つ}きたいか、{学校|がっこう}で{話|はな}し{合|あ}いました。「職業」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょくごう" },
+        { "id": "b", "html": "しょくぎょう" },
+        { "id": "c", "html": "しょぎょう" },
+        { "id": "d", "html": "しょくきょう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>職業（しょくぎょう）と読みます。<span>Meaning: <strong>occupation; profession; business</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p93-q7",
+      "questionHtml": "<p>{図書館|としょかん}の「職員」に{本|ほん}の{場所|ばしょ}を{聞|き}いたら、{丁寧|ていねい}に{案内|あんない}してくれました。「職員」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょくえん" },
+        { "id": "b", "html": "しょくにん" },
+        { "id": "c", "html": "しょくいん" },
+        { "id": "d", "html": "しょっいん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>職員（しょくいん）と読みます。<span>Meaning: <strong>staff member; personnel; employee</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p93-q8",
+      "questionHtml": "<p>この{箱|はこ}の「容積」を{計算|けいさん}するために、{縦|たて}と{横|よこ}と{高|たか}さを{測|はか}りました。「容積」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ようせつ" },
+        { "id": "b", "html": "ようじゃく" },
+        { "id": "c", "html": "よせき" },
+        { "id": "d", "html": "ようせき" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>容積（ようせき）と読みます。<span>Meaning: <strong>volume; capacity; cubic content</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p93-q9",
+      "questionHtml": "<p>この{冷蔵庫|れいぞうこ}は「容量」が{大|おお}きいので、たくさんの{食品|しょくひん}を{保存|ほぞん}できます。「容量」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ようりょう" },
+        { "id": "b", "html": "ようりょ" },
+        { "id": "c", "html": "ようろう" },
+        { "id": "d", "html": "よたりょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>容量（ようりょう）と読みます。<span>Meaning: <strong>capacity; volume; storage capacity</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p93-q10",
+      "questionHtml": "<p>{会社|かいしゃ}は{社員|しゃいん}が{自宅|じたく}で{働|はたら}くことを「容認」する{方針|ほうしん}を{発表|はっぴょう}しました。「容認」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ようじん" },
+        { "id": "b", "html": "ようにん" },
+        { "id": "c", "html": "よにん" },
+        { "id": "d", "html": "ようみん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>容認（ようにん）と読みます。<span>Meaning: <strong>approval; acceptance; toleration; permission</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p93-q11",
+      "questionHtml": "<p>このアプリは{操作|そうさ}が「容易」なので、{初|はじ}めて{使|つか}う{人|ひと}にもおすすめです。「容易」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ようえき" },
+        { "id": "b", "html": "よい" },
+        { "id": "c", "html": "ようい" },
+        { "id": "d", "html": "ようやす" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>容易（ようい）と読みます。<span>Meaning: <strong>easy; simple; uncomplicated</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p93-q12",
+      "questionHtml": "<p>{契約書|けいやくしょ}にサインする{前|まえ}に、「内容」をよく{確認|かくにん}してください。「内容」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ないよ" },
+        { "id": "b", "html": "だいよう" },
+        { "id": "c", "html": "ないゆう" },
+        { "id": "d", "html": "ないよう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>内容（ないよう）と読みます。<span>Meaning: <strong>contents; substance; details; subject matter</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p93-q13",
+      "questionHtml": "<p>{姉|あね}は「美容」に{関心|かんしん}があり、{肌|はだ}の{手入|てい}れや{健康|けんこう}について{勉強|べんきょう}しています。「美容」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "びよう" },
+        { "id": "b", "html": "みよう" },
+        { "id": "c", "html": "びよ" },
+        { "id": "d", "html": "びょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>美容（びよう）と読みます。<span>Meaning: <strong>beauty; beautification; physical appearance</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p93-q14",
+      "questionHtml": "<p>{母|はは}は{月|つき}に{一度|いちど}「美容院」へ{行|い}って、{髪|かみ}を{切|き}ってもらいます。「美容院」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "びようえん" },
+        { "id": "b", "html": "びよういん" },
+        { "id": "c", "html": "びょういん" },
+        { "id": "d", "html": "みよういん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>美容院（びよういん）と読みます。<span>Meaning: <strong>beauty salon; beauty parlor; hairdressing salon</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p93-q15",
+      "questionHtml": "<p>{彼女|かのじょ}の「演技」はとても{自然|しぜん}で、{映画|えいが}を{見|み}ていた{人|ひと}たちは{感動|かんどう}しました。「演技」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "えんき" },
+        { "id": "b", "html": "えんじ" },
+        { "id": "c", "html": "えんぎ" },
+        { "id": "d", "html": "えいぎ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>演技（えんぎ）と読みます。<span>Meaning: <strong>acting; performance; dramatic interpretation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p93-q16",
+      "questionHtml": "<p>この{作品|さくひん}には、{長年|ながねん}の{経験|けいけん}で{身|み}につけた{職人|しょくにん}の「技巧」が{生|い}かされています。「技巧」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぎこう" },
+        { "id": "b", "html": "きこう" },
+        { "id": "c", "html": "ぎきょう" },
+        { "id": "d", "html": "ぎごう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>技巧（ぎこう）と読みます。<span>Meaning: <strong>technique; craftsmanship; finesse; technical skill</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p93-q17",
+      "questionHtml": "<p>{先生|せんせい}は{絵|え}を{描|か}くときに{使|つか}う、さまざまな「技法」を{生徒|せいと}に{教|おし}えました。「技法」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぎぼう" },
+        { "id": "b", "html": "ぎほう" },
+        { "id": "c", "html": "きほう" },
+        { "id": "d", "html": "ぎぽう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>技法（ぎほう）と読みます。<span>Meaning: <strong>technique; method; artistic technique</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p93-q18",
+      "questionHtml": "<p>{私|わたし}の「特技」はピアノを{弾|ひ}くことで、{子供|こども}のころから{練習|れんしゅう}しています。「特技」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とくき" },
+        { "id": "b", "html": "どくぎ" },
+        { "id": "c", "html": "とっぎ" },
+        { "id": "d", "html": "とくぎ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>特技（とくぎ）と読みます。<span>Meaning: <strong>special skill; particular talent; specialty</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p93-q19",
+      "questionHtml": "<p>{相撲|すもう}は{日本|にほん}の「国技」として{知|し}られ、{多|おお}くの{観光客|かんこうきゃく}にも{人気|にんき}があります。「国技」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こくき" },
+        { "id": "b", "html": "ごくぎ" },
+        { "id": "c", "html": "こくぎ" },
+        { "id": "d", "html": "くにぎ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>国技（こくぎ）と読みます。<span>Meaning: <strong>national sport; traditional national athletic discipline</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p93-q20",
+      "questionHtml": "<p>{新|あたら}しい「技術」の{発展|はってん}によって、{私|わたし}たちの{生活|せいかつ}はますます{便利|べんり}になっています。「技術」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぎじゅつ" },
+        { "id": "b", "html": "きじゅつ" },
+        { "id": "c", "html": "ぎしゅつ" },
+        { "id": "d", "html": "ぎじつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>技術（ぎじゅつ）と読みます。<span>Meaning: <strong>technology; engineering; technical skill; technique</strong></span></p>"
+    }
+  ]
+}

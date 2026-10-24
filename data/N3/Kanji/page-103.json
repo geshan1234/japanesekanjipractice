@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 103,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p103-q1",
+      "questionHtml": "<p>この{会社|かいしゃ}は、{製品|せいひん}の{品質|ひんしつ}を{高|たか}めるために「改良」を{重|かさ}ねています。「改良」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かいよう" },
+        { "id": "b", "html": "かいりょう" },
+        { "id": "c", "html": "がいりょう" },
+        { "id": "d", "html": "かいろう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>改良（かいりょう）と読みます。<span>Meaning: <strong>improvement; reform</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p103-q2",
+      "questionHtml": "<p>{来年|らいねん}から{使|つか}う{教科書|きょうかしょ}は、{内容|ないよう}が「改訂」されて{新|あたら}しくなります。「改訂」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かいてい" },
+        { "id": "b", "html": "かいじょう" },
+        { "id": "c", "html": "かいでい" },
+        { "id": "d", "html": "がいてい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>改訂（かいてい）と読みます。<span>Meaning: <strong>revision of text; alteration; change</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p103-q3",
+      "questionHtml": "<p>{先生|せんせい}に{注意|ちゅうい}されたので、これからは{生活習慣|せいかつしゅうかん}を「改める」ことにしました。「改める」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かいめる" },
+        { "id": "b", "html": "あらたまる" },
+        { "id": "c", "html": "あらためる" },
+        { "id": "d", "html": "あらめる" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>改める（あらためる）と読みます。<span>Meaning: <strong>to change; to alter; to revise; to replace</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p103-q4",
+      "questionHtml": "<p>{駅|えき}の「改札口」で{友達|ともだち}と{待|ま}ち{合|あ}わせる{約束|やくそく}をしました。「改札口」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かいさつこう" },
+        { "id": "b", "html": "かいざつぐち" },
+        { "id": "c", "html": "かいふだぐち" },
+        { "id": "d", "html": "かいさつぐち" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>改札口（かいさつぐち）と読みます。<span>Meaning: <strong>ticket barrier; ticket gate; wicket</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p103-q5",
+      "questionHtml": "<p>{彼|かれ}は{自分|じぶん}の{間違|まちが}いを「否定」しましたが、{後|あと}で{事実|じじつ}を{認|みと}めました。「否定」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひてい" },
+        { "id": "b", "html": "ふてい" },
+        { "id": "c", "html": "ひでい" },
+        { "id": "d", "html": "ひじょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>否定（ひてい）と読みます。<span>Meaning: <strong>negation; denial; repudiation; disavowal</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p103-q6",
+      "questionHtml": "<p>{新|あたら}しい{計画|けいかく}は{会議|かいぎ}で{多数|たすう}の{反対|はんたい}を{受|う}け、「否決」されました。「否決」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひけち" },
+        { "id": "b", "html": "ひけつ" },
+        { "id": "c", "html": "ふけつ" },
+        { "id": "d", "html": "ひげつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>否決（ひけつ）と読みます。<span>Meaning: <strong>rejection; negation; voting down a proposal</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p103-q7",
+      "questionHtml": "<p>{彼女|かのじょ}は{個人情報|こじんじょうほう}を{教|おし}えてほしいという{要求|ようきゅう}を「拒否」しました。「拒否」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きょうひ" },
+        { "id": "b", "html": "きょふ" },
+        { "id": "c", "html": "きょひ" },
+        { "id": "d", "html": "こひ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>拒否（きょひ）と読みます。<span>Meaning: <strong>refusal; rejection; denial; veto</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p103-q8",
+      "questionHtml": "<p>{大|おお}きな{地震|じしん}の{後|あと}、{家族|かぞく}の「安否」を{確認|かくにん}するために{電話|でんわ}をかけました。「安否」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あんひ" },
+        { "id": "b", "html": "やすひ" },
+        { "id": "c", "html": "あんび" },
+        { "id": "d", "html": "あんぴ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>安否（あんぴ）と読みます。<span>Meaning: <strong>safety; welfare; well-being</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p103-q9",
+      "questionHtml": "<p>{新|あたら}しい{制度|せいど}について{住民|じゅうみん}の「賛否」を{調|しら}べるために、アンケートが{行|おこな}われました。「賛否」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さんぴ" },
+        { "id": "b", "html": "さんひ" },
+        { "id": "c", "html": "ざんぴ" },
+        { "id": "d", "html": "さんび" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>賛否（さんぴ）と読みます。<span>Meaning: <strong>yes and no; for and against; approval and disapproval</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p103-q10",
+      "questionHtml": "<p>{大学|だいがく}の{入学試験|にゅうがくしけん}の「合否」は、{来週|らいしゅう}メールで{通知|つうち}されます。「合否」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ごうび" },
+        { "id": "b", "html": "ごうひ" },
+        { "id": "c", "html": "こうひ" },
+        { "id": "d", "html": "ごうぴ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>合否（ごうひ）と読みます。<span>Meaning: <strong>success or failure; pass or fail; examination result</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p103-q11",
+      "questionHtml": "<p>{委員会|いいんかい}は{応募者|おうぼしゃ}の{資格|しかく}や{経験|けいけん}を{確認|かくにん}し、{採用|さいよう}の「適否」を{判断|はんだん}しました。「適否」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "てきひ" },
+        { "id": "b", "html": "てきぴ" },
+        { "id": "c", "html": "てきふ" },
+        { "id": "d", "html": "てっひ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>適否（てきひ）と読みます。<span>Meaning: <strong>propriety; suitability; fitness; aptitude</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p103-q12",
+      "questionHtml": "<p>{提出|ていしゅつ}された{研究計画|けんきゅうけいかく}の「採否」は、{来月|らいげつ}の{会議|かいぎ}で{決定|けってい}されます。「採否」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さいぴ" },
+        { "id": "b", "html": "さいび" },
+        { "id": "c", "html": "さいひ" },
+        { "id": "d", "html": "さいふ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>採否（さいひ）と読みます。<span>Meaning: <strong>adoption or rejection; acceptance or refusal</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p103-q13",
+      "questionHtml": "<p>{彼|かれ}は{新|あたら}しい{提案|ていあん}に「否定的」な{意見|いけん}を{持|も}っています。「否定的」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひでいてき" },
+        { "id": "b", "html": "ふていてき" },
+        { "id": "c", "html": "ひていでき" },
+        { "id": "d", "html": "ひていてき" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>否定的（ひていてき）と読みます。<span>Meaning: <strong>negative; contradictory; disapproving</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p103-q14",
+      "questionHtml": "<p>この{企業|きぎょう}は「国際的」な{活動|かつどう}を{行|おこな}っており、{世界中|せかいじゅう}に{支店|してん}があります。「国際的」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こくさいてき" },
+        { "id": "b", "html": "こくざいてき" },
+        { "id": "c", "html": "こっさいてき" },
+        { "id": "d", "html": "こくさいでき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>国際的（こくさいてき）と読みます。<span>Meaning: <strong>international; global in scope</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p103-q15",
+      "questionHtml": "<p>{今回|こんかい}の{旅行|りょこう}の「目的」は、{日本|にほん}の{伝統文化|でんとうぶんか}を{体験|たいけん}することです。「目的」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "もくでき" },
+        { "id": "b", "html": "もくてき" },
+        { "id": "c", "html": "めてき" },
+        { "id": "d", "html": "もくまと" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>目的（もくてき）と読みます。<span>Meaning: <strong>purpose; goal; aim; objective; intention</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p103-q16",
+      "questionHtml": "<p>これは{私|わたし}の「個人的」な{意見|いけん}なので、{他|ほか}の{人|ひと}は{違|ちが}う{考|かんが}えを{持|も}っているかもしれません。「個人的」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こにんてき" },
+        { "id": "b", "html": "こじんでき" },
+        { "id": "c", "html": "こじんてき" },
+        { "id": "d", "html": "こひとてき" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>個人的（こじんてき）と読みます。<span>Meaning: <strong>personal; individual; private</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p103-q17",
+      "questionHtml": "<p>{夢|ゆめ}を{持|も}つことは{大切|たいせつ}ですが、「現実」を{見|み}て{計画|けいかく}を{立|た}てることも{必要|ひつよう}です。「現実」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんじつ" },
+        { "id": "b", "html": "げんしつ" },
+        { "id": "c", "html": "けんじつ" },
+        { "id": "d", "html": "げんみ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>現実（げんじつ）と読みます。<span>Meaning: <strong>reality; truth; actual state of affairs</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p103-q18",
+      "questionHtml": "<p>{理科|りか}の{授業|じゅぎょう}で、{植物|しょくぶつ}の{成長|せいちょう}に{光|ひかり}が{必要|ひつよう}かどうかを{調|しら}べる「実験」をしました。「実験」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じつけん" },
+        { "id": "b", "html": "じっげん" },
+        { "id": "c", "html": "じっかん" },
+        { "id": "d", "html": "じっけん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>実験（じっけん）と読みます。<span>Meaning: <strong>experiment; scientific test</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p103-q19",
+      "questionHtml": "<p>この{仕事|しごと}は{簡単|かんたん}だと{聞|き}いていましたが、「実際」にやってみると{思|おも}ったより{難|むずか}しかったです。「実際」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じつさい" },
+        { "id": "b", "html": "じっざい" },
+        { "id": "c", "html": "じっさい" },
+        { "id": "d", "html": "じっせい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>実際（じっさい）と読みます。<span>Meaning: <strong>actuality; reality; in practice; actually</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p103-q20",
+      "questionHtml": "<p>「実は」、{来月|らいげつ}から{大阪|おおさか}の{会社|かいしゃ}で{働|はたら}くことになったんです。「実は」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じつは" },
+        { "id": "b", "html": "じっは" },
+        { "id": "c", "html": "みは" },
+        { "id": "d", "html": "じちは" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>実は（じつは）と読みます。<span>Meaning: <strong>as a matter of fact; to tell you the truth; actually; frankly</strong></span></p>"
+    }
+  ]
+}

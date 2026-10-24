@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 82,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p82-q1",
+      "questionHtml": "<p>{故障|こしょう}していたパソコンがやっと「直る」と{聞|き}いて、{安心|あんしん}しました。「直る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "なおす" },
+        { "id": "b", "html": "ちょくる" },
+        { "id": "c", "html": "なおる" },
+        { "id": "d", "html": "ただる" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>直る（なおる）と読みます。<span>Meaning: <strong>to be repaired; to be fixed; to recover; to get well</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p82-q2",
+      "questionHtml": "<p>{自転車|じてんしゃ}のブレーキが{壊|こわ}れたので、{店|みせ}で「直す」ことにしました。「直す」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "なおす" },
+        { "id": "b", "html": "なおる" },
+        { "id": "c", "html": "ただす" },
+        { "id": "d", "html": "ちょくす" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>直す（なおす）と読みます。<span>Meaning: <strong>to fix; to repair; to correct; to mend</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p82-q3",
+      "questionHtml": "<p>{詳|くわ}しい{説明|せつめい}を{聞|き}きたかったので、{担当者|たんとうしゃ}に「直接」{電話|でんわ}しました。「直接」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちょうせつ" },
+        { "id": "b", "html": "ちょくぜつ" },
+        { "id": "c", "html": "じきせつ" },
+        { "id": "d", "html": "ちょくせつ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>直接（ちょくせつ）と読みます。<span>Meaning: <strong>direct; immediate; personal; firsthand</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p82-q4",
+      "questionHtml": "<p>{数学|すうがく}の{授業|じゅぎょう}で、{定規|じょうぎ}を{使|つか}って「直線」を{引|ひ}く{練習|れんしゅう}をしました。「直線」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちょうせん" },
+        { "id": "b", "html": "ちょくせん" },
+        { "id": "c", "html": "じきせん" },
+        { "id": "d", "html": "ちょくぜん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>直線（ちょくせん）と読みます。<span>Meaning: <strong>straight line</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p82-q5",
+      "questionHtml": "<p>{風邪|かぜ}で{一週間|いっしゅうかん}{休|やす}んでいましたが、{体調|たいちょう}が「回復」したので{仕事|しごと}に{戻|もど}りました。「回復」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かいふく" },
+        { "id": "b", "html": "かいぶく" },
+        { "id": "c", "html": "かいふっく" },
+        { "id": "d", "html": "えふく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>回復（かいふく）と読みます。<span>Meaning: <strong>recovery; restoration; rehabilitation; improvement</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p82-q6",
+      "questionHtml": "<p>この{問題|もんだい}には「複数」の{正|ただ}しい{答|こた}えがあるので、すべて{選|えら}んでください。「複数」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふっすう" },
+        { "id": "b", "html": "ふくずう" },
+        { "id": "c", "html": "ふくすう" },
+        { "id": "d", "html": "ふくそう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>複数（ふくすう）と読みます。<span>Meaning: <strong>multiple; several; more than one; plural</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p82-q7",
+      "questionHtml": "<p>{長|なが}い{間|あいだ}{営業|えいぎょう}を{休止|きゅうし}していた{映画館|えいがかん}が、{来月|らいげつ}「復活」するそうです。「復活」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふくかつ" },
+        { "id": "b", "html": "ふっかつ" },
+        { "id": "c", "html": "ふっがつ" },
+        { "id": "d", "html": "ふっかち" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>復活（ふっかつ）と読みます。<span>Meaning: <strong>revival; restoration; return; comeback</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p82-q8",
+      "questionHtml": "<p>{東京|とうきょう}から{大阪|おおさか}までの{新幹線|しんかんせん}の「往復」チケットを{予約|よやく}しました。「往復」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おうぶく" },
+        { "id": "b", "html": "おうふっく" },
+        { "id": "c", "html": "ようふく" },
+        { "id": "d", "html": "おうふく" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>往復（おうふく）と読みます。<span>Meaning: <strong>round trip; going and returning; coming and going</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p82-q9",
+      "questionHtml": "<p>{試験|しけん}の{前|まえ}に、{授業|じゅぎょう}で{習|なら}った{文法|ぶんぽう}をもう{一度|いちど}「復習」しました。「復習」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふくしゅう" },
+        { "id": "b", "html": "ふっしゅう" },
+        { "id": "c", "html": "ふくじゅう" },
+        { "id": "d", "html": "ふくしょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>復習（ふくしゅう）と読みます。<span>Meaning: <strong>review of learned material; revision; study review</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p82-q10",
+      "questionHtml": "<p>{台風|たいふう}で{止|と}まっていた{電車|でんしゃ}の{運行|うんこう}が、{今朝|けさ}ようやく「復旧」しました。「復旧」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふくきゅう" },
+        { "id": "b", "html": "ふっきょう" },
+        { "id": "c", "html": "ふっきゅう" },
+        { "id": "d", "html": "ふっきゅ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>復旧（ふっきゅう）と読みます。<span>Meaning: <strong>restoration; recovery of normal operations; reinstatement</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p82-q11",
+      "questionHtml": "<p>{地震|じしん}で{傷|きず}ついた{歴史的|れきしてき}な{建物|たてもの}の「修復」が{進|すす}められています。「修復」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅうぶく" },
+        { "id": "b", "html": "しゅうふく" },
+        { "id": "c", "html": "しゅふく" },
+        { "id": "d", "html": "しょうふく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>修復（しゅうふく）と読みます。<span>Meaning: <strong>restoration; repair; mending</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p82-q12",
+      "questionHtml": "<p>{知|し}らない{日本語|にほんご}の{意味|いみ}を{調|しら}べるときは、いつも「辞書」を{使|つか}っています。「辞書」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じしょう" },
+        { "id": "b", "html": "じじょ" },
+        { "id": "c", "html": "ししょ" },
+        { "id": "d", "html": "じしょ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>辞書（じしょ）と読みます。<span>Meaning: <strong>dictionary; lexicon</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p82-q13",
+      "questionHtml": "<p>{難|むずか}しい{専門用語|せんもんようご}の{意味|いみ}を{理解|りかい}するために、{図書館|としょかん}で「辞典」を{調|しら}べました。「辞典」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じてん" },
+        { "id": "b", "html": "じでん" },
+        { "id": "c", "html": "してん" },
+        { "id": "d", "html": "じたい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>辞典（じてん）と読みます。<span>Meaning: <strong>dictionary; lexicon; reference dictionary</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p82-q14",
+      "questionHtml": "<p>{社長|しゃちょう}は{記者会見|きしゃかいけん}で「辞意」を{表明|ひょうめい}し、{来月|らいげつ}{退任|たいにん}する{考|かんが}えを{示|しめ}しました。「辞意」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じえ" },
+        { "id": "b", "html": "しい" },
+        { "id": "c", "html": "じい" },
+        { "id": "d", "html": "じぎ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>辞意（じい）と読みます。<span>Meaning: <strong>intention to resign</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p82-q15",
+      "questionHtml": "<p>{健康上|けんこうじょう}の{理由|りゆう}で、{彼|かれ}は{長年|ながねん}{勤|つと}めた{会社|かいしゃ}を「辞職」することにしました。「辞職」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じしき" },
+        { "id": "b", "html": "じしょく" },
+        { "id": "c", "html": "じじょく" },
+        { "id": "d", "html": "ししょく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>辞職（じしょく）と読みます。<span>Meaning: <strong>resignation; quitting a job or position</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p82-q16",
+      "questionHtml": "<p>{別|べつ}の{仕事|しごと}が{決|き}まったため、{彼女|かのじょ}は{新|あたら}しい{会社|かいしゃ}からの{内定|ないてい}を「辞退」しました。「辞退」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じたい" },
+        { "id": "b", "html": "じだい" },
+        { "id": "c", "html": "したい" },
+        { "id": "d", "html": "じてい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>辞退（じたい）と読みます。<span>Meaning: <strong>declining; refusal; nonacceptance; turning down an offer</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p82-q17",
+      "questionHtml": "<p>{大臣|だいじん}は{問題|もんだい}の{責任|せきにん}を{取|と}って、「辞任」することを{発表|はっぴょう}しました。「辞任」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じねん" },
+        { "id": "b", "html": "じに" },
+        { "id": "c", "html": "しにん" },
+        { "id": "d", "html": "じにん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>辞任（じにん）と読みます。<span>Meaning: <strong>resignation from an official position or role</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p82-q18",
+      "questionHtml": "<p>{将来|しょうらい}の{夢|ゆめ}を{実現|じつげん}するために、{今|いま}の{仕事|しごと}を「辞める」ことにしました。「辞める」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とめる" },
+        { "id": "b", "html": "やまる" },
+        { "id": "c", "html": "やめる" },
+        { "id": "d", "html": "じめる" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>辞める（やめる）と読みます。<span>Meaning: <strong>to resign; to quit; to leave one's job; to retire from a position</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p82-q19",
+      "questionHtml": "<p>{今日|きょう}は{学校|がっこう}から{帰|かえ}ってすぐに「宿題」を{終|お}わらせました。「宿題」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しゅくだい" },
+        { "id": "b", "html": "しゅくたい" },
+        { "id": "c", "html": "じゅくだい" },
+        { "id": "d", "html": "しゅくてい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>宿題（しゅくだい）と読みます。<span>Meaning: <strong>homework; assignment</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p82-q20",
+      "questionHtml": "<p>{大学|だいがく}に{通|かよ}うために、{学校|がっこう}の{近|ちか}くにある{家|いえ}で「下宿」しています。「下宿」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かしゅく" },
+        { "id": "b", "html": "げしゅく" },
+        { "id": "c", "html": "げじゅく" },
+        { "id": "d", "html": "したやど" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>下宿（げしゅく）と読みます。<span>Meaning: <strong>boarding; lodging; room and board; living in rented accommodation</strong></span></p>"
+    }
+  ]
+}

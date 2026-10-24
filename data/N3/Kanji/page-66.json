@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 66,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p66-q1",
+      "questionHtml": "<p>この{仕事|しごと}に{応募|おうぼ}するには、{特別|とくべつ}な「資格」が{必要|ひつよう}です。「資格」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しがく" },
+        { "id": "b", "html": "じかく" },
+        { "id": "c", "html": "しかく" },
+        { "id": "d", "html": "しきゃく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>資格（しかく）と読みます。<span>Meaning: <strong>qualification; requirements; eligibility; capabilities</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p66-q2",
+      "questionHtml": "<p>{人|ひと}を{判断|はんだん}するときは、{外見|がいけん}だけでなく、その{人|ひと}の「人格」も{大切|たいせつ}です。「人格」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じんかく" },
+        { "id": "b", "html": "にんかく" },
+        { "id": "c", "html": "じんがく" },
+        { "id": "d", "html": "ひとかく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>人格（じんかく）と読みます。<span>Meaning: <strong>personality; character; individuality; personhood</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p66-q3",
+      "questionHtml": "<p>{弟|おとうと}は{高校|こうこう}に{入|はい}ってから{急|きゅう}に{背|せ}が{伸|の}びて、「体格」がよくなりました。「体格」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たいがく" },
+        { "id": "b", "html": "ていかく" },
+        { "id": "c", "html": "からだかく" },
+        { "id": "d", "html": "たいかく" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>体格（たいかく）と読みます。<span>Meaning: <strong>physique; body build; constitution</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p66-q4",
+      "questionHtml": "<p>{明日|あした}は{大切|たいせつ}な{面接|めんせつ}があるので、きちんとした「格好」で{行|い}こうと{思|おも}います。「格好」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かくこう" },
+        { "id": "b", "html": "かっこ" },
+        { "id": "c", "html": "がっこう" },
+        { "id": "d", "html": "かっこう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>格好（かっこ）と読みます。<span>Meaning: <strong>appearance; shape; form; figure; posture; pose</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p66-q5",
+      "questionHtml": "<p>{寒|さむ}い{冬|ふゆ}の{夜|よる}に{飲|の}む{温|あたた}かいスープの{味|あじ}は「格別」です。「格別」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かくべつ" },
+        { "id": "b", "html": "かくへつ" },
+        { "id": "c", "html": "かっべつ" },
+        { "id": "d", "html": "かくびつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>格別（かくべつ）と読みます。<span>Meaning: <strong>special; particular; exceptional; extraordinary</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p66-q6",
+      "questionHtml": "<p>{旅行|りょこう}の{費用|ひよう}を{節約|せつやく}するために、インターネットで「格安」のホテルを{探|さが}しました。「格安」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かくあん" },
+        { "id": "b", "html": "かっやす" },
+        { "id": "c", "html": "かくやす" },
+        { "id": "d", "html": "かくあす" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>格安（かくやす）と読みます。<span>Meaning: <strong>cheap; inexpensive; reasonably priced; bargain-priced</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p66-q7",
+      "questionHtml": "<p>{来月|らいげつ}{開|ひら}かれる{料理|りょうり}{教室|きょうしつ}に「申し込む」ために、ウェブサイトを{確認|かくにん}しました。「申し込む」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "もうしごむ" },
+        { "id": "b", "html": "もうしこみ" },
+        { "id": "c", "html": "もうしこめる" },
+        { "id": "d", "html": "もうしこむ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>申し込む（もうしこむ）と読みます。<span>Meaning: <strong>to apply for; to make an application; to sign up for</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p66-q8",
+      "questionHtml": "<p>{留学|りゅうがく}を{希望|きぼう}する{学生|がくせい}は、「申込書」に{必要|ひつよう}な{情報|じょうほう}を{書|か}いて{提出|ていしゅつ}してください。「申込書」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "もうしこみじょ" },
+        { "id": "b", "html": "もうしこみしょ" },
+        { "id": "c", "html": "もうしこむしょ" },
+        { "id": "d", "html": "しんこみしょ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>申込書（もうしこみしょ）と読みます。<span>Meaning: <strong>application form; written application</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p66-q9",
+      "questionHtml": "<p>{海外|かいがい}で{働|はたら}くために、ビザの「申請」を{大使館|たいしかん}で{行|おこな}いました。「申請」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんせい" },
+        { "id": "b", "html": "しんぜい" },
+        { "id": "c", "html": "もうせい" },
+        { "id": "d", "html": "しんさい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>申請（しんせい）と読みます。<span>Meaning: <strong>application; request; petition</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p66-q10",
+      "questionHtml": "<p>{会議|かいぎ}の{最後|さいご}に、{皆様|みなさま}への{感謝|かんしゃ}の{気持|きも}ちを「申し上げる」{機会|きかい}をいただきました。「申し上げる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "もうしあがる" },
+        { "id": "b", "html": "もうしあげます" },
+        { "id": "c", "html": "もうしあげる" },
+        { "id": "d", "html": "もうしうえる" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>申し上げる（もうしあげる）と読みます。<span>Meaning: <strong>to say; to tell; to state; to express; to offer (humble language)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p66-q11",
+      "questionHtml": "<p>{私|わたくし}は{田中|たなか}と「申す」{者|もの}です。どうぞよろしくお{願|ねが}いいたします。「申す」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "もうせる" },
+        { "id": "b", "html": "もうす" },
+        { "id": "c", "html": "しんす" },
+        { "id": "d", "html": "もうさす" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>申す（もうす）と読みます。<span>Meaning: <strong>to say; to be called (humble language)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p66-q12",
+      "questionHtml": "<p>{自分|じぶん}で{事業|じぎょう}をしている{人|ひと}は、{毎年|まいとし}{収入|しゅうにゅう}について「申告」する{必要|ひつよう}があります。「申告」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんこく" },
+        { "id": "b", "html": "しんごく" },
+        { "id": "c", "html": "もうこく" },
+        { "id": "d", "html": "しんこう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>申告（しんこく）と読みます。<span>Meaning: <strong>report; declaration; filing a return; notification</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p66-q13",
+      "questionHtml": "<p>{病院|びょういん}で{診察|しんさつ}を{受|う}ける{前|まえ}に、この{用紙|ようし}に{名前|なまえ}と{住所|じゅうしょ}を「記入」してください。「記入」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きいり" },
+        { "id": "b", "html": "ぎにゅう" },
+        { "id": "c", "html": "きにょう" },
+        { "id": "d", "html": "きにゅう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>記入（きにゅう）と読みます。<span>Meaning: <strong>entry; filling in a form; writing in</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p66-q14",
+      "questionHtml": "<p>{大学|だいがく}の{卒業|そつぎょう}を「記念」して、{友達|ともだち}と{一緒|いっしょ}に{写真|しゃしん}を{撮|と}りました。「記念」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きねい" },
+        { "id": "b", "html": "ぎねん" },
+        { "id": "c", "html": "きねん" },
+        { "id": "d", "html": "きなん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>記念（きねん）と読みます。<span>Meaning: <strong>commemoration; celebration; remembrance; memento</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p66-q15",
+      "questionHtml": "<p>この{地図|ちず}では、{病院|びょういん}や{学校|がっこう}の{場所|ばしょ}が{特別|とくべつ}な「記号」で{示|しめ}されています。「記号」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きこう" },
+        { "id": "b", "html": "きごう" },
+        { "id": "c", "html": "ぎごう" },
+        { "id": "d", "html": "きご" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>記号（きごう）と読みます。<span>Meaning: <strong>symbol; code; sign; notation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p66-q16",
+      "questionHtml": "<p>{事故|じこ}の{現場|げんば}には、{多|おお}くの「記者」が{集|あつ}まり、{関係者|かんけいしゃ}に{質問|しつもん}していました。「記者」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きしゃ" },
+        { "id": "b", "html": "ぎしゃ" },
+        { "id": "c", "html": "きじゃ" },
+        { "id": "d", "html": "きもの" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>記者（きしゃ）と読みます。<span>Meaning: <strong>reporter; journalist</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p66-q17",
+      "questionHtml": "<p>{日本語|にほんご}の{文章|ぶんしょう}を{書|か}く{練習|れんしゅう}として、{毎晩|まいばん}「日記」をつけることにしました。「日記」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひき" },
+        { "id": "b", "html": "にちき" },
+        { "id": "c", "html": "にっぎ" },
+        { "id": "d", "html": "にっき" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>日記（にっき）と読みます。<span>Meaning: <strong>diary; journal</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p66-q18",
+      "questionHtml": "<p>{今朝|けさ}の{新聞|しんぶん}に、{環境問題|かんきょうもんだい}についての{興味深|きょうみぶか}い「記事」が{載|の}っていました。「記事」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きし" },
+        { "id": "b", "html": "きじ" },
+        { "id": "c", "html": "ぎじ" },
+        { "id": "d", "html": "きこと" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>記事（きじ）と読みます。<span>Meaning: <strong>article; news story; report; account</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p66-q19",
+      "questionHtml": "<p>{先生|せんせい}は{難|むずか}しい{文法|ぶんぽう}を{説明|せつめい}するとき、{分|わ}かりやすい「例」を{挙|あ}げてくれました。「例」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "れん" },
+        { "id": "b", "html": "りょう" },
+        { "id": "c", "html": "れい" },
+        { "id": "d", "html": "れつ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>例（れい）と読みます。<span>Meaning: <strong>example; instance; illustration</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p66-q20",
+      "questionHtml": "<p>{新|あたら}しい{単語|たんご}を{覚|おぼ}えるときは、「例文」を{読|よ}んで{使|つか}い{方|かた}を{理解|りかい}すると{効果的|こうかてき}です。「例文」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "れいぶん" },
+        { "id": "b", "html": "れいもん" },
+        { "id": "c", "html": "れぶん" },
+        { "id": "d", "html": "れいふん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>例文（れいぶん）と読みます。<span>Meaning: <strong>example sentence; illustrative sentence; model sentence</strong></span></p>"
+    }
+  ]
+}

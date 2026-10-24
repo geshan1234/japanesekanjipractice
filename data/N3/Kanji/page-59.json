@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 59,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p59-q1",
+      "questionHtml": "<p>{北海道|ほっかいどう}{旅行|りょこう}では{初|はじ}めて「乗馬」を{体験|たいけん}し、{馬|うま}の{大|おお}きさに{驚|おどろ}きました。「乗馬」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "のりうま" },
+        { "id": "b", "html": "じょうま" },
+        { "id": "c", "html": "じょうば" },
+        { "id": "d", "html": "じょうめ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>乗馬（じょうば）と読みます。<span>Meaning: <strong>horse riding</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p59-q2",
+      "questionHtml": "<p>{世界|せかい}の「石油」の{価格|かかく}が{上|あ}がると、{私|わたし}たちの{生活|せいかつ}にも{影響|えいきょう}が{出|で}ます。「石油」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せきあぶら" },
+        { "id": "b", "html": "せきゆ" },
+        { "id": "c", "html": "いしゆ" },
+        { "id": "d", "html": "せきゆう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>石油（せきゆ）と読みます。<span>Meaning: <strong>oil; petroleum</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p59-q3",
+      "questionHtml": "<p>{昔|むかし}の{蒸気機関車|じょうききかんしゃ}は「石炭」を{燃料|ねんりょう}にして{走|はし}っていました。「石炭」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せきすみ" },
+        { "id": "b", "html": "せきだん" },
+        { "id": "c", "html": "いしたん" },
+        { "id": "d", "html": "せきたん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>石炭（せきたん）と読みます。<span>Meaning: <strong>coal</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p59-q4",
+      "questionHtml": "<p>「落石」の{危険|きけん}があるため、{山道|やまみち}は{通行止|つうこうど}めになっています。「落石」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "らくせき" },
+        { "id": "b", "html": "おちいし" },
+        { "id": "c", "html": "らくいし" },
+        { "id": "d", "html": "らくしゃく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>落石（らくせき）と読みます。<span>Meaning: <strong>falling rocks; fallen rocks</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p59-q5",
+      "questionHtml": "<p>{結婚記念日|けっこんきねんび}に{夫|おっと}から「宝石」をもらいました。「宝石」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほうしゃく" },
+        { "id": "b", "html": "たからいし" },
+        { "id": "c", "html": "ほうせき" },
+        { "id": "d", "html": "ぼうせき" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>宝石（ほうせき）と読みます。<span>Meaning: <strong>gem; jewel; precious stone</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p59-q6",
+      "questionHtml": "<p>この{地層|ちそう}からは、{古代|こだい}の{魚|さかな}の「化石」が{見|み}つかりました。「化石」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かいし" },
+        { "id": "b", "html": "かせき" },
+        { "id": "c", "html": "ばけいし" },
+        { "id": "d", "html": "げせき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>化石（かせき）と読みます。<span>Meaning: <strong>fossil</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p59-q7",
+      "questionHtml": "<p>{月|つき}から{持|も}ち{帰|かえ}った「岩石」を{分析|ぶんせき}して、{成分|せいぶん}を{調|しら}べます。「岩石」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いわいし" },
+        { "id": "b", "html": "がんしゃく" },
+        { "id": "c", "html": "がくせき" },
+        { "id": "d", "html": "がんせき" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>岩石（がんせき）と読みます。<span>Meaning: <strong>rock</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p59-q8",
+      "questionHtml": "<p>{車|くるま}が「縁石」に{乗|の}り{上|あ}げて、タイヤがパンクしました。「縁石」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "えんせき" },
+        { "id": "b", "html": "ふちいし" },
+        { "id": "c", "html": "えんしゃく" },
+        { "id": "d", "html": "へりいし" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>縁石（えんせき）と読みます。<span>Meaning: <strong>curb (stone); kerb</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p59-q9",
+      "questionHtml": "<p>{手|て}を{洗|あら}うときは、「石鹸」をよく{泡立|あわだ}ててください。「石鹸」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せきけん" },
+        { "id": "b", "html": "いしけん" },
+        { "id": "c", "html": "せっけん" },
+        { "id": "d", "html": "せっかん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>石鹸（せっけん）と読みます。<span>Meaning: <strong>soap</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p59-q10",
+      "questionHtml": "<p>{川|かわ}の{中|なか}の「石」につまずいて、{転|ころ}んでしまいました。「石」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いわ" },
+        { "id": "b", "html": "いし" },
+        { "id": "c", "html": "ざれ" },
+        { "id": "d", "html": "いち" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>石（いし）と読みます。<span>Meaning: <strong>stone</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p59-q11",
+      "questionHtml": "<p>{靴|くつ}の{中|なか}に「小石」が{入|はい}って、{歩|ある}くたびに{痛|いた}かったです。「小石」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょうせき" },
+        { "id": "b", "html": "おいし" },
+        { "id": "c", "html": "こせき" },
+        { "id": "d", "html": "こいし" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>小石（こいし）と読みます。<span>Meaning: <strong>pebble</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p59-q12",
+      "questionHtml": "<p>{子供|こども}たちは{海|うみ}で「砂」の{城|しろ}を{作|つく}って{遊|あそ}んでいます。「砂」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "すな" },
+        { "id": "b", "html": "すら" },
+        { "id": "c", "html": "かな" },
+        { "id": "d", "html": "さな" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>砂（すな）と読みます。<span>Meaning: <strong>sand</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p59-q13",
+      "questionHtml": "<p>コーヒーに「砂糖」を{入|い}れすぎないように{気|き}をつけています。「砂糖」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さとお" },
+        { "id": "b", "html": "さとう" },
+        { "id": "c", "html": "すなとう" },
+        { "id": "d", "html": "さどう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>砂糖（さとう）と読みます。<span>Meaning: <strong>sugar</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p59-q14",
+      "questionHtml": "<p>{料理|りょうり}に「塩」を{少|すこ}し{加|くわ}えると、{味|あじ}が{引|ひ}き{締|し}まります。「塩」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "えん" },
+        { "id": "b", "html": "しょう" },
+        { "id": "c", "html": "しお" },
+        { "id": "d", "html": "すお" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>塩（しお）と読みます。<span>Meaning: <strong>salt</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p59-q15",
+      "questionHtml": "<p>{高血圧|こうけつあつ}の{人|ひと}は、「食塩」の{取|と}りすぎに{注意|ちゅうい}する{必要|ひつよう}があります。「食塩」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しょくえん" },
+        { "id": "b", "html": "しょくしお" },
+        { "id": "c", "html": "しょくでん" },
+        { "id": "d", "html": "じきえん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>食塩（しょくえん）と読みます。<span>Meaning: <strong>table salt</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p59-q16",
+      "questionHtml": "<p>この{地域|ちいき}では、「石油」を{暖房|だんぼう}の{燃料|ねんりょう}として{使|つか}っている{家|いえ}が{多|おお}いです。「石油」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せきあぶら" },
+        { "id": "b", "html": "せきゆう" },
+        { "id": "c", "html": "せきゅ" },
+        { "id": "d", "html": "せきゆ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>石油（せきゆ）と読みます。<span>Meaning: <strong>oil; petroleum; kerosene</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p59-q17",
+      "questionHtml": "<p>{冬|ふゆ}になると、{毎週|まいしゅう}のように「灯油」を{買|か}いに{行|い}きます。「灯油」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とうあぶら" },
+        { "id": "b", "html": "とうゆ" },
+        { "id": "c", "html": "ひゆ" },
+        { "id": "d", "html": "とゆ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>灯油（とうゆ）と読みます。<span>Meaning: <strong>kerosene; paraffin; lamp oil</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p59-q18",
+      "questionHtml": "<p>「原油」{価格|かかく}の{変動|へんどう}が{経済|けいざい}に{与|あた}える{影響|えいきょう}を{調|しら}べました。「原油」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんゆ" },
+        { "id": "b", "html": "はらゆ" },
+        { "id": "c", "html": "げんあぶら" },
+        { "id": "d", "html": "げんゆう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>原油（げんゆ）と読みます。<span>Meaning: <strong>crude oil</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p59-q19",
+      "questionHtml": "<p>{中東|ちゅうとう}には{世界|せかい}{最大級|さいだいきゅう}の「油田」があります。「油田」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆうでん" },
+        { "id": "b", "html": "あぶらた" },
+        { "id": "c", "html": "ゆでん" },
+        { "id": "d", "html": "ゆた" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>油田（ゆでん）と読みます。<span>Meaning: <strong>oil field</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p59-q20",
+      "questionHtml": "<p>{海上|かいじょう}に{建|た}てられた「油井」から、{原油|げんゆ}をくみ{上|あ}げています。「油井」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆうせい" },
+        { "id": "b", "html": "ゆしょう" },
+        { "id": "c", "html": "あぶらい" },
+        { "id": "d", "html": "ゆせい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>油井（ゆせい）と読みます。<span>Meaning: <strong>oil well</strong></span></p>"
+    }
+  ]
+}

@@ -1,3 +1,4 @@
+
 {
   "metadata": {
     "level": "N3",
@@ -9,155 +10,155 @@
   "questions": [
     {
       "id": "N3-Kanji-p48-q1",
-      "questionHtml": "<p>アーティストは、これまでにない全く新しい価値を「創造」する仕事だ。「創造」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{新|あたら}しいアイデアを「創造」するためには、{自由|じゆう}な{発想|はっそう}と{豊|ゆた}かな{想像力|そうぞうりょく}が{必要|ひつよう}です。「創造」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "そうづくり" },
-        { "id": "b", "html": "ぞうぞう" },
-        { "id": "c", "html": "そうぞう" },
-        { "id": "d", "html": "しょうぞう" }
+        { "id": "a", "html": "そうぞう" },
+        { "id": "b", "html": "しょうぞう" },
+        { "id": "c", "html": "そうそう" },
+        { "id": "d", "html": "そうさく" }
       ],
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "explanationHtml": "<p>創造（そうぞう）と読みます。<span>Meaning: <strong>creation</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p48-q2",
-      "questionHtml": "<p>この地域では、伝統的な製法で美味しいお酒を「造る」蔵元が数多くある。「造る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>この{会社|かいしゃ}は、{日本|にほん}の{伝統的|でんとうてき}な{技術|ぎじゅつ}を{使|つか}って{高品質|こうひんしつ}な{家具|かぐ}を「造る」ことで{知|し}られています。「造る」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "つくる" },
-        { "id": "b", "html": "いたる" },
-        { "id": "c", "html": "おさめる" },
-        { "id": "d", "html": "ぞうる" }
+        { "id": "a", "html": "ぞうる" },
+        { "id": "b", "html": "つくる" },
+        { "id": "c", "html": "さくる" },
+        { "id": "d", "html": "こしらる" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>造る（つくる）と読みます。<span>Meaning: <strong>to make, to produce, to manufacture (large scale/traditional goods)</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>造る（つくる）と読みます。<span>Meaning: <strong>to make; to produce; to manufacture; to build; to construct</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p48-q3",
-      "questionHtml": "<p>京都には、歴史ある貴重な「木造」の建築物が今も多く残されている。「木造」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>この{古|ふる}い{寺|てら}は「木造」の{建物|たてもの}で、{百年以上|ひゃくねんいじょう}の{歴史|れきし}があります。「木造」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "きづくり" },
-        { "id": "b", "html": "もくぞう" },
-        { "id": "c", "html": "もくそう" },
+        { "id": "a", "html": "きぞう" },
+        { "id": "b", "html": "もくそう" },
+        { "id": "c", "html": "もくぞう" },
         { "id": "d", "html": "ぼくぞう" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>木造（もくぞう）と読みます。<span>Meaning: <strong>wooden, made of wood</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>木造（もくぞう）と読みます。<span>Meaning: <strong>wooden; made of wood</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p48-q4",
-      "questionHtml": "<p>コンテストで最優秀「賞」に選ばれ、最高の思い出になった。「賞」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{彼女|かのじょ}は{国際的|こくさいてき}な{映画祭|えいがさい}で{優秀|ゆうしゅう}な{作品|さくひん}に{贈|おく}られる「賞」を{受|う}けました。「賞」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "しょう" },
-        { "id": "b", "html": "じょう" },
-        { "id": "c", "html": "しょうく" },
-        { "id": "d", "html": "そう" }
+        { "id": "a", "html": "じょう" },
+        { "id": "b", "html": "しょうう" },
+        { "id": "c", "html": "そう" },
+        { "id": "d", "html": "しょう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>賞（しょう）と読みます。<span>Meaning: <strong>prize, award</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>賞（しょう）と読みます。<span>Meaning: <strong>prize; award</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p48-q5",
-      "questionHtml": "<p>大会で優勝したチームに、多額の「賞金」が授与された。「賞金」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>このコンテストで{優勝|ゆうしょう}すると、{百万円|ひゃくまんえん}の「賞金」を{受|う}け{取|と}ることができます。「賞金」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "しょうきん" },
         { "id": "b", "html": "じょうきん" },
-        { "id": "c", "html": "しょうがね" },
+        { "id": "c", "html": "しょうこん" },
         { "id": "d", "html": "そうきん" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>賞金（しょうきん）と読みます。<span>Meaning: <strong>prize money, monetary award</strong></span></p>"
+      "explanationHtml": "<p>賞金（しょうきん）と読みます。<span>Meaning: <strong>prize; monetary award</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p48-q6",
-      "questionHtml": "<p>牛乳を買う時は、ボトルの裏に書かれた「賞味期限」を必ず確認する。「賞味期限」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>このヨーグルトの「賞味期限」は{明日|あした}までなので、できるだけ{早|はや}く{食|た}べようと{思|おも}います。「賞味期限」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "じょうみきげん" },
-        { "id": "b", "html": "しょうみきかん" },
-        { "id": "c", "html": "しょうみきげん" },
-        { "id": "d", "html": "そうみきげん" }
+        { "id": "a", "html": "しょうみきかん" },
+        { "id": "b", "html": "しょうみきげん" },
+        { "id": "c", "html": "じょうみきげん" },
+        { "id": "d", "html": "しょうあじきげん" }
       ],
-      "correctAnswer": "c",
-      "explanationHtml": "<p>賞味期限（しょうみきげん）と読みます。<span>Meaning: <strong>\"best before\" date (food)</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>賞味期限（しょうみきげん）と読みます。<span>Meaning: <strong>best-before date; date until which food is expected to retain its best quality</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p48-q7",
-      "questionHtml": "<p>ビンゴ大会の「賞品」として、高級なマッサージ器が用意されている。「賞品」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{学校|がっこう}の{作文|さくぶん}コンテストで{一位|いちい}になった{生徒|せいと}には、{特別|とくべつ}な「賞品」が{贈|おく}られました。「賞品」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "しょうしな" },
-        { "id": "b", "html": "しょうひん" },
-        { "id": "c", "html": "じょうひん" },
-        { "id": "d", "html": "そうひん" }
+        { "id": "a", "html": "しょうびん" },
+        { "id": "b", "html": "そうひん" },
+        { "id": "c", "html": "しょうひん" },
+        { "id": "d", "html": "じょうひん" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>賞品（しょうひん）と読みます。<span>Meaning: <strong>prize, trophy, reward goods</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>賞品（しょうひん）と読みます。<span>Meaning: <strong>prize; trophy</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p48-q8",
-      "questionHtml": "<p>日本語の正しい「文法」をマスターするために、例文を何度も音読する。「文法」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{日本語|にほんご}を{正確|せいかく}に{話|はな}すためには、{単語|たんご}だけでなく「文法」も{勉強|べんきょう}する{必要|ひつよう}があります。「文法」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ぶんぽう" },
+        { "id": "a", "html": "もんぽう" },
         { "id": "b", "html": "ぶんほう" },
-        { "id": "c", "html": "ふんぽう" },
-        { "id": "d", "html": "ぶんぼう" }
+        { "id": "c", "html": "ぶんぼう" },
+        { "id": "d", "html": "ぶんぽう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>文法（ぶんぽう）と読みます。<span>Meaning: <strong>grammar, syntax</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>文法（ぶんぽう）と読みます。<span>Meaning: <strong>grammar; syntax</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p48-q9",
-      "questionHtml": "<p>{新|あたら}しい税制に関する「法案」が国会に提出され、審議が始まった。「法案」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{政府|せいふ}は{環境|かんきょう}を{守|まも}るための{新|あたら}しい「法案」を{国会|こっかい}に{提出|ていしゅつ}しました。「法案」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "ほうあん" },
-        { "id": "b", "html": "ぽうあん" },
-        { "id": "c", "html": "ほうおん" },
-        { "id": "d", "html": "ぼうあん" }
+        { "id": "b", "html": "ほうなん" },
+        { "id": "c", "html": "ほあん" },
+        { "id": "d", "html": "ほうがん" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>法案（ほうあん）と読みます。<span>Meaning: <strong>bill (law), legislative measure</strong></span></p>"
+      "explanationHtml": "<p>法案（ほうあん）と読みます。<span>Meaning: <strong>bill (law); legislative measure</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p48-q10",
-      "questionHtml": "<p>この課題を解決するためには、従来とは異なる新しい「手法」を試す必要がある。「手法」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>この{画家|がか}は{独自|どくじ}の「手法」を{使|つか}って、{美|うつく}しい{風景画|ふうけいが}を{描|えが}いています。「手法」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ほうしゅ" },
+        { "id": "a", "html": "てほう" },
         { "id": "b", "html": "しゅほう" },
-        { "id": "c", "html": "てほう" },
-        { "id": "d", "html": "しゅぽう" }
+        { "id": "c", "html": "しゅぽう" },
+        { "id": "d", "html": "しゅぼう" }
       ],
       "correctAnswer": "b",
-      "explanationHtml": "<p>手法（しゅほう）と読みます。<span>Meaning: <strong>technique, artistic method</strong></span></p>"
+      "explanationHtml": "<p>手法（しゅほう）と読みます。<span>Meaning: <strong>technique; method</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p48-q11",
-      "questionHtml": "<p>{許可|きょか}なく他人の敷地に立ち入る行為は「違法」となります。「違法」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{許可|きょか}を{受|う}けずに{他人|たにん}の{土地|とち}へ{建物|たてもの}を{建|た}てることは、「違法」になる{場合|ばあい}があります。「違法」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "いほう" },
-        { "id": "b", "html": "いぽう" },
-        { "id": "c", "html": "ちがいほう" },
-        { "id": "d", "html": "いほうく" }
+        { "id": "a", "html": "いぼう" },
+        { "id": "b", "html": "ちがほう" },
+        { "id": "c", "html": "いほう" },
+        { "id": "d", "html": "いぽう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>違法（いほう）と読みます。<span>Meaning: <strong>illegal, invalid</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>違法（いほう）と読みます。<span>Meaning: <strong>illegal; invalid; unlawful</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p48-q12",
-      "questionHtml": "<p>新しい技術の普及に伴い、関連する安全面の「法制」化が急がれている。「法制」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{政府|せいふ}は{社会|しゃかい}の{変化|へんか}に{合|あ}わせて、{労働|ろうどう}に{関|かん}する「法制」を{見直|みなお}しています。「法制」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ほうせい" },
-        { "id": "b", "html": "ほうじょう" },
-        { "id": "c", "html": "ぽうせい" },
-        { "id": "d", "html": "ぼうせい" }
+        { "id": "a", "html": "ほうぜい" },
+        { "id": "b", "html": "ほうしょう" },
+        { "id": "c", "html": "ほせい" },
+        { "id": "d", "html": "ほうせい" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>法制（法制）と読みます。<span>Meaning: <strong>legislation, laws, legal system</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>法制（ほうせい）と読みます。<span>Meaning: <strong>legislation; laws; legal system</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p48-q13",
-      "questionHtml": "<p>「憲法」は国の最高法規であり、すべての法律の基準となる。「憲法」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{日本|にほん}の「憲法」には、{国民|こくみん}の{基本的|きほんてき}な{権利|けんり}について{定|さだ}められています。「憲法」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "けんぽう" },
         { "id": "b", "html": "けんほう" },
-        { "id": "c", "html": "あきらほう" },
+        { "id": "c", "html": "げんぽう" },
         { "id": "d", "html": "けんぼう" }
       ],
       "correctAnswer": "a",
@@ -165,86 +166,86 @@
     },
     {
       "id": "N3-Kanji-p48-q14",
-      "questionHtml": "<p>もっと効率の良い「方法」を考えないと、制限時間内に終わらない。「方法」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{問題|もんだい}を{解決|かいけつ}するために、みんなで{新|あたら}しい「方法」を{考|かんが}えました。「方法」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ほうほう" },
-        { "id": "b", "html": "ぽうほう" },
-        { "id": "c", "html": "ほうかた" },
-        { "id": "d", "html": "ぼうほう" }
+        { "id": "a", "html": "ほうぼう" },
+        { "id": "b", "html": "ほうほう" },
+        { "id": "c", "html": "ほうぽう" },
+        { "id": "d", "html": "ほほう" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>方法（ほうほう）と読みます。<span>Meaning: <strong>method, way, means</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>方法（ほうほう）と読みます。<span>Meaning: <strong>method; way; means</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p48-q15",
-      "questionHtml": "<p>社会の秩序を維持するために、私たちは「法律」を厳守しなければならない。「法律」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{自動車|じどうしゃ}を{運転|うんてん}するときは、{交通|こうつう}に{関|かん}する「法律」を{守|まも}らなければなりません。「法律」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ほうりつ" },
-        { "id": "b", "html": "ほうりつめ" },
-        { "id": "c", "html": "ぽうりつ" },
-        { "id": "d", "html": "ぼうりつ" }
+        { "id": "a", "html": "ほうりち" },
+        { "id": "b", "html": "ほうれつ" },
+        { "id": "c", "html": "ほうりつ" },
+        { "id": "d", "html": "ほりつ" }
       ],
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "explanationHtml": "<p>法律（ほうりつ）と読みます。<span>Meaning: <strong>law</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p48-q16",
-      "questionHtml": "<p>弁護士と検察官が、緊張した面持ちで「法廷」に入ってきた。「法廷」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{裁判|さいばん}が{始|はじ}まると、{裁判官|さいばんかん}が「法廷」に{入|はい}り、{全員|ぜんいん}が{静|しず}かになりました。「法廷」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "ほうてい" },
-        { "id": "b", "html": "ほうじょう" },
-        { "id": "c", "html": "ぽうてい" },
-        { "id": "d", "html": "ぼうてい" }
+        { "id": "a", "html": "ほうでい" },
+        { "id": "b", "html": "ほうて" },
+        { "id": "c", "html": "ほうじょう" },
+        { "id": "d", "html": "ほうてい" }
       ],
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "explanationHtml": "<p>法廷（ほうてい）と読みます。<span>Meaning: <strong>courtroom</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p48-q17",
-      "questionHtml": "<p>この問題に関しては、これ以上進めると「法的」な措置をとらざるを得ない。「法的」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{会社|かいしゃ}は{契約|けいやく}の{内容|ないよう}について、「法的」な{問題|もんだい}がないか{専門家|せんもんか}に{確認|かくにん}してもらいました。「法的」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "ほうてき" },
-        { "id": "b", "html": "ほうてきめ" },
-        { "id": "c", "html": "ぽうてき" },
-        { "id": "d", "html": "ぼうてき" }
+        { "id": "b", "html": "ほうでき" },
+        { "id": "c", "html": "ほてき" },
+        { "id": "d", "html": "ほうまと" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>法的（ほうてき）と読みます。<span>Meaning: <strong>legality, legal</strong></span></p>"
+      "explanationHtml": "<p>法的（ほうてき）と読みます。<span>Meaning: <strong>legal; juridical; relating to the law</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p48-q18",
-      "questionHtml": "<p>ワインの品質を維持するため、倉庫の「温度」を一定に管理する。「温度」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>この{機械|きかい}は「温度」を{自動的|じどうてき}に{調整|ちょうせい}できるので、{食品|しょくひん}の{保存|ほぞん}に{便利|べんり}です。「温度」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "あたたかど" },
+        { "id": "a", "html": "おんと" },
         { "id": "b", "html": "おんど" },
-        { "id": "c", "html": "おんたく" },
-        { "id": "d", "html": "おんたび" }
+        { "id": "c", "html": "うんど" },
+        { "id": "d", "html": "あたたかど" }
       ],
       "correctAnswer": "b",
       "explanationHtml": "<p>温度（おんど）と読みます。<span>Meaning: <strong>temperature</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p48-q19",
-      "questionHtml": "<p>寒い冬の日に、手作りの「温かい」スープを飲むと体がほっとする。「温かい」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{寒|さむ}い{冬|ふゆ}の{夜|よる}には、「温かい」スープを{飲|の}むと{体|からだ}が{温|あたた}まります。「温かい」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "あたたかい" },
-        { "id": "b", "html": "ぬくい" },
-        { "id": "c", "html": "おんかい" },
-        { "id": "d", "html": "あたたかい" }
+        { "id": "a", "html": "あたたがい" },
+        { "id": "b", "html": "あったかい" },
+        { "id": "c", "html": "あたたかい" },
+        { "id": "d", "html": "おんかい" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>温かい（あたたかい）と読みます。<span>Meaning: <strong>warm, mild (to the touch/atmosphere)</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>温かい（あたたかい）と読みます。<span>Meaning: <strong>warm; mild; genial</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p48-q20",
-      "questionHtml": "<p>ニュースによると、明日は急激に「気温」が下がるそうなので注意してください。「気温」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{今日|きょう}は{朝|あさ}から「気温」が{高|たか}く、{昼|ひる}には{三十度|さんじゅうど}を{超|こ}える{予報|よほう}です。「気温」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "きおん" },
-        { "id": "b", "html": "いきおん" },
-        { "id": "c", "html": "きあたたか" },
-        { "id": "d", "html": "きおんく" }
+        { "id": "a", "html": "きお" },
+        { "id": "b", "html": "きど" },
+        { "id": "c", "html": "きうん" },
+        { "id": "d", "html": "きおん" }
       ],
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "explanationHtml": "<p>気温（きおん）と読みます。<span>Meaning: <strong>atmospheric temperature</strong></span></p>"
     }
   ]

@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 69,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p69-q1",
+      "questionHtml": "<p>{明日|あした}の{午後|ごご}、「お宅」にお{邪魔|じゃま}してもよろしいでしょうか。「お宅」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おたけ" },
+        { "id": "b", "html": "おたく" },
+        { "id": "c", "html": "おだく" },
+        { "id": "d", "html": "おやく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>お宅（おたく）と読みます。<span>Meaning: <strong>your house; your home (polite)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p69-q2",
+      "questionHtml": "<p>{仕事|しごと}が{忙|いそが}しいので、{最近|さいきん}は「宅配」のサービスを{利用|りよう}して{食料品|しょくりょうひん}を{注文|ちゅうもん}しています。「宅配」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たくばい" },
+        { "id": "b", "html": "たっはい" },
+        { "id": "c", "html": "たくはい" },
+        { "id": "d", "html": "たくぱい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>宅配（たくはい）と読みます。<span>Meaning: <strong>home delivery; delivery to one's home</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p69-q3",
+      "questionHtml": "<p>{昨日|きのう}は{体調|たいちょう}が{悪|わる}かったので、{会社|かいしゃ}に{行|い}かず「自宅」で{休|やす}んでいました。「自宅」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じたく" },
+        { "id": "b", "html": "したく" },
+        { "id": "c", "html": "じだく" },
+        { "id": "d", "html": "じやく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>自宅（じたく）と読みます。<span>Meaning: <strong>one's home; one's house</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p69-q4",
+      "questionHtml": "<p>{駅|えき}の{前|まえ}で、イベントの{案内|あんない}が{書|か}かれたチラシを「配る」アルバイトをしています。「配る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はいする" },
+        { "id": "b", "html": "くばれる" },
+        { "id": "c", "html": "くはる" },
+        { "id": "d", "html": "くばる" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>配る（くばる）と読みます。<span>Meaning: <strong>to distribute; to deliver; to deal cards</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p69-q5",
+      "questionHtml": "<p>{注文|ちゅうもん}した{商品|しょうひん}の「配達」が{遅|おく}れているため、{店|みせ}に{電話|でんわ}して{確認|かくにん}しました。「配達」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はいたつ" },
+        { "id": "b", "html": "はいだつ" },
+        { "id": "c", "html": "はいたち" },
+        { "id": "d", "html": "はいとう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>配達（はいたつ）と読みます。<span>Meaning: <strong>delivery; distribution</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p69-q6",
+      "questionHtml": "<p>このオンラインショップでは、{五千円|ごせんえん}{以上|いじょう}{買|か}うと「配送料」が{無料|むりょう}になります。「配送料」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はいそうりょ" },
+        { "id": "b", "html": "はいそうりょう" },
+        { "id": "c", "html": "はいぞうりょう" },
+        { "id": "d", "html": "はいそうりゅう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>配送料（はいそうりょう）と読みます。<span>Meaning: <strong>delivery fee; shipping charge</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p69-q7",
+      "questionHtml": "<p>{試験|しけん}の{結果|けっか}がまだ{分|わ}からないので、{合格|ごうかく}できたかどうか「心配」です。「心配」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんばい" },
+        { "id": "b", "html": "こころはい" },
+        { "id": "c", "html": "しんはい" },
+        { "id": "d", "html": "しんぱい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>心配（しんぱい）と読みます。<span>Meaning: <strong>worry; concern; anxiety</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p69-q8",
+      "questionHtml": "<p>{大学|だいがく}を{卒業|そつぎょう}したら、{日本|にほん}の{会社|かいしゃ}で{働|はたら}きたいという「希望」があります。「希望」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きぼう" },
+        { "id": "b", "html": "きほう" },
+        { "id": "c", "html": "きもう" },
+        { "id": "d", "html": "きぼ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>希望（きぼう）と読みます。<span>Meaning: <strong>hope; wish; aspiration</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p69-q9",
+      "questionHtml": "<p>{山|やま}の{頂上|ちょうじょう}では{空気|くうき}が「希薄」になるため、{登山|とざん}するときは{注意|ちゅうい}が{必要|ひつよう}です。「希薄」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きばく" },
+        { "id": "b", "html": "きはつ" },
+        { "id": "c", "html": "きはく" },
+        { "id": "d", "html": "きうす" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>希薄（きはく）と読みます。<span>Meaning: <strong>thin; dilute; sparse; rarefied</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p69-q10",
+      "questionHtml": "<p>この{大学|だいがく}では、「日希」の{文化|ぶんか}や{言語|げんご}の{違|ちが}いについて{研究|けんきゅう}しています。「日希」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "にちき" },
+        { "id": "b", "html": "にっき" },
+        { "id": "c", "html": "ひき" },
+        { "id": "d", "html": "にっぎ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>日希（にっき）と読みます。<span>Meaning: <strong>Japan and Greece; Japanese-Greek (uncommon abbreviation)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p69-q11",
+      "questionHtml": "<p>その{芸術家|げいじゅつか}は、「稀世」の{才能|さいのう}を{持|も}つ{人物|じんぶつ}として{高|たか}く{評価|ひょうか}されています。「稀世」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きせい" },
+        { "id": "b", "html": "きぜい" },
+        { "id": "c", "html": "まれせい" },
+        { "id": "d", "html": "きせ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>稀世（きせい）と読みます。<span>Meaning: <strong>rare; uncommon; extraordinary (rare literary expression)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p69-q12",
+      "questionHtml": "<p>{人々|ひとびと}は{長|なが}い{間|あいだ}、{平和|へいわ}と{自由|じゆう}を「希求」してきました。「希求」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きぐう" },
+        { "id": "b", "html": "きもと" },
+        { "id": "c", "html": "ききょう" },
+        { "id": "d", "html": "ききゅう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>希求（ききゅう）と読みます。<span>Meaning: <strong>longing; strong desire; aspiration</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p69-q13",
+      "questionHtml": "<p>この{地域|ちいき}には「希少」な{動物|どうぶつ}が{住|す}んでいるため、{自然|しぜん}を{守|まも}る{活動|かつどう}が{行|おこな}われています。「希少」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きしょう" },
+        { "id": "b", "html": "きじょう" },
+        { "id": "c", "html": "きしょ" },
+        { "id": "d", "html": "きすく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>希少（きしょう）と読みます。<span>Meaning: <strong>scarce; rare; uncommon</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p69-q14",
+      "questionHtml": "<p>{就職|しゅうしょく}{活動|かつどう}では、{自分|じぶん}の「希望」に{合|あ}った{会社|かいしゃ}を{探|さが}すことが{大切|たいせつ}です。「希望」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きほう" },
+        { "id": "b", "html": "きぼ" },
+        { "id": "c", "html": "きぼう" },
+        { "id": "d", "html": "きもう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>希望（きぼう）と読みます。<span>Meaning: <strong>hope; wish; aspiration</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p69-q15",
+      "questionHtml": "<p>{会社|かいしゃ}は、お{客様|きゃくさま}からの「要望」を{聞|き}いて、サービスを{改善|かいぜん}することにしました。「要望」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ようほう" },
+        { "id": "b", "html": "ようぼう" },
+        { "id": "c", "html": "よぼう" },
+        { "id": "d", "html": "ようもう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>要望（ようぼう）と読みます。<span>Meaning: <strong>request; demand; expressed wish</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p69-q16",
+      "questionHtml": "<p>{彼|かれ}は{将来|しょうらい}{医者|いしゃ}になることを{目指|めざ}していて、{医学部|いがくぶ}を「志望」しています。「志望」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しもう" },
+        { "id": "b", "html": "じぼう" },
+        { "id": "c", "html": "しほう" },
+        { "id": "d", "html": "しぼう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>志望（しぼう）と読みます。<span>Meaning: <strong>wish; desire; ambition; aspiration</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p69-q17",
+      "questionHtml": "<p>この{展望台|てんぼうだい}からは{町|まち}{全体|ぜんたい}の「展望」が{楽|たの}しめ、{天気|てんき}がよければ{遠|とお}くの{山|やま}まで{見|み}えます。「展望」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "てんぼう" },
+        { "id": "b", "html": "てんほう" },
+        { "id": "c", "html": "でんぼう" },
+        { "id": "d", "html": "てんもう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>展望（てんぼう）と読みます。<span>Meaning: <strong>view; outlook; prospect</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p69-q18",
+      "questionHtml": "<p>{彼|かれ}には、いつか{世界中|せかいじゅう}で{自分|じぶん}の{会社|かいしゃ}を{成功|せいこう}させたいという{大|おお}きな「野望」があります。「野望」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "やほう" },
+        { "id": "b", "html": "のぼう" },
+        { "id": "c", "html": "やぼう" },
+        { "id": "d", "html": "やもう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>野望（やぼう）と読みます。<span>Meaning: <strong>ambition; aspiration</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p69-q19",
+      "questionHtml": "<p>{彼女|かのじょ}は{若|わか}くて{才能|さいのう}があり、{将来|しょうらい}が「有望」な{選手|せんしゅ}として{注目|ちゅうもく}されています。「有望」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆうほう" },
+        { "id": "b", "html": "ゆうぼう" },
+        { "id": "c", "html": "ゆぼう" },
+        { "id": "d", "html": "ゆうもう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>有望（ゆうぼう）と読みます。<span>Meaning: <strong>promising; having good prospects</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p69-q20",
+      "questionHtml": "<p>{人気|にんき}のある{作家|さっか}の「待望」の{新作|しんさく}が、{来月|らいげつ}ついに{発売|はつばい}されます。「待望」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "だいぼう" },
+        { "id": "b", "html": "たいほう" },
+        { "id": "c", "html": "まちぼう" },
+        { "id": "d", "html": "たいぼう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>待望（たいぼう）と読みます。<span>Meaning: <strong>long-awaited; eagerly anticipated</strong></span></p>"
+    }
+  ]
+}

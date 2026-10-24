@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 74,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p74-q1",
+      "questionHtml": "<p>この{学校|がっこう}は{外国人|がいこくじん}にも「門戸」を{開|ひら}き、さまざまな{国|くに}から{学生|がくせい}を{受|う}け{入|い}れています。「門戸」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "もんと" },
+        { "id": "b", "html": "もんこ" },
+        { "id": "c", "html": "かどこ" },
+        { "id": "d", "html": "もんご" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>門戸（もんこ）と読みます。<span>Meaning: <strong>doorway; entrance; access; opportunity</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p74-q2",
+      "questionHtml": "<p>{天気|てんき}がよかったので、「戸外」で{昼食|ちゅうしょく}を{食|た}べることにしました。「戸外」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とがい" },
+        { "id": "b", "html": "こかい" },
+        { "id": "c", "html": "とそと" },
+        { "id": "d", "html": "こがい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>戸外（こがい）と読みます。<span>Meaning: <strong>outdoors; open air; outside</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p74-q3",
+      "questionHtml": "<p>このマンションでは、「全戸」に{新|あたら}しい{火災報知器|かさいほうちき}を{設置|せっち}することになりました。「全戸」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぜんこ" },
+        { "id": "b", "html": "ぜんと" },
+        { "id": "c", "html": "せんこ" },
+        { "id": "d", "html": "ぜんご" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>全戸（ぜんこ）と読みます。<span>Meaning: <strong>all houses in an area; all apartments in a building</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p74-q4",
+      "questionHtml": "<p>この{地域|ちいき}では、{新|あたら}しい{住宅|じゅうたく}が{増|ふ}えたため、「戸数」が{去年|きょねん}より{多|おお}くなりました。「戸数」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とすう" },
+        { "id": "b", "html": "こずう" },
+        { "id": "c", "html": "こすう" },
+        { "id": "d", "html": "こかず" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>戸数（こすう）と読みます。<span>Meaning: <strong>number of houses; number of dwelling units; number of households</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p74-q5",
+      "questionHtml": "<p>{風|かぜ}が{強|つよ}かったので、{庭|にわ}に{面|めん}した「戸」をしっかり{閉|し}めました。「戸」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こ" },
+        { "id": "b", "html": "と" },
+        { "id": "c", "html": "ど" },
+        { "id": "d", "html": "もん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>戸（と）と読みます。<span>Meaning: <strong>door; sliding door</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p74-q6",
+      "questionHtml": "<p>{台所|だいどころ}の「戸棚」には、お{皿|さら}やコップがきれいに{並|なら}べられています。「戸棚」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "とだな" },
+        { "id": "b", "html": "こだな" },
+        { "id": "c", "html": "とたな" },
+        { "id": "d", "html": "とだね" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>戸棚（とだな）と読みます。<span>Meaning: <strong>cupboard; cabinet; closet; storage cupboard</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p74-q7",
+      "questionHtml": "<p>{台風|たいふう}が{近|ちか}づいているので、{窓|まど}の「雨戸」を{閉|し}めて{準備|じゅんび}しました。「雨戸」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あめと" },
+        { "id": "b", "html": "あまこ" },
+        { "id": "c", "html": "あめど" },
+        { "id": "d", "html": "あまど" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>雨戸（あまど）と読みます。<span>Meaning: <strong>sliding storm shutter; protective exterior shutter</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p74-q8",
+      "questionHtml": "<p>{山|やま}の{近|ちか}くにある「湖」は、{水|みず}がとてもきれいで、{夏|なつ}には{多|おお}くの{観光客|かんこうきゃく}が{訪|おとず}れます。「湖」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かわ" },
+        { "id": "b", "html": "うみ" },
+        { "id": "c", "html": "みずうみ" },
+        { "id": "d", "html": "みずみ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>湖（みずうみ）と読みます。<span>Meaning: <strong>lake</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p74-q9",
+      "questionHtml": "<p>{滋賀県|しがけん}にある「琵琶湖」は、{日本|にほん}で{最|もっと}も{大|おお}きい{湖|みずうみ}として{知|し}られています。「琵琶湖」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "びわこ" },
+        { "id": "b", "html": "びわご" },
+        { "id": "c", "html": "ひわこ" },
+        { "id": "d", "html": "びばこ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>琵琶湖（びわこ）と読みます。<span>Meaning: <strong>Lake Biwa; Japan's largest lake</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p74-q10",
+      "questionHtml": "<p>{島|しま}へ{行|い}くために、{港|みなと}から「船」に{乗|の}って{海|うみ}を{渡|わた}りました。「船」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せん" },
+        { "id": "b", "html": "ふね" },
+        { "id": "c", "html": "ふな" },
+        { "id": "d", "html": "ぶね" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>船（ふね）と読みます。<span>Meaning: <strong>ship; boat; vessel</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p74-q11",
+      "questionHtml": "<p>{子供|こども}たちは{公園|こうえん}で{色|いろ}とりどりの「風船」を{持|も}って{楽|たの}しそうに{遊|あそ}んでいました。「風船」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かぜふね" },
+        { "id": "b", "html": "ふうぜん" },
+        { "id": "c", "html": "ふせん" },
+        { "id": "d", "html": "ふうせん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>風船（ふうせん）と読みます。<span>Meaning: <strong>balloon; toy balloon</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p74-q12",
+      "questionHtml": "<p>「船長」は{乗客|じょうきゃく}の{安全|あんぜん}を{守|まも}るため、{天気|てんき}や{海|うみ}の{状態|じょうたい}を{確認|かくにん}しました。「船長」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふねちょう" },
+        { "id": "b", "html": "せんじょう" },
+        { "id": "c", "html": "せんちょう" },
+        { "id": "d", "html": "せんちょ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>船長（せんちょう）と読みます。<span>Meaning: <strong>ship's captain; captain of a vessel</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p74-q13",
+      "questionHtml": "<p>{海外|かいがい}に{大|おお}きな{荷物|にもつ}を{送|おく}るときは、{航空便|こうくうびん}より{時間|じかん}がかかりますが、「船便」を{使|つか}うと{安|やす}くなることがあります。「船便」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せんびん" },
+        { "id": "b", "html": "ふなびん" },
+        { "id": "c", "html": "せんぴん" },
+        { "id": "d", "html": "せんべん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>船便（せんびん）と読みます。<span>Meaning: <strong>surface mail; sea mail; shipping by sea</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p74-q14",
+      "questionHtml": "<p>{写真|しゃしん}を{撮|と}るときは、カメラの「角度」を{少|すこ}し{変|か}えるだけで、{印象|いんしょう}が{大|おお}きく{変|か}わります。「角度」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かくと" },
+        { "id": "b", "html": "かくど" },
+        { "id": "c", "html": "かどど" },
+        { "id": "d", "html": "かくたく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>角度（かくど）と読みます。<span>Meaning: <strong>angle; degree of inclination</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p74-q15",
+      "questionHtml": "<p>{二|ふた}つの{道路|どうろ}が{交|まじ}わる「角地」に、{新|あたら}しいカフェが{建|た}てられました。「角地」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かくち" },
+        { "id": "b", "html": "かどじ" },
+        { "id": "c", "html": "かくじ" },
+        { "id": "d", "html": "かどち" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>角地（かどち）と読みます。<span>Meaning: <strong>corner lot; corner plot of land</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p74-q16",
+      "questionHtml": "<p>{同|おな}じ{物|もの}でも、{見|み}る{位置|いち}や{距離|きょり}によって「視角」が{変|か}わります。「視角」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しかく" },
+        { "id": "b", "html": "じかく" },
+        { "id": "c", "html": "しかど" },
+        { "id": "d", "html": "しがく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>視角（しかく）と読みます。<span>Meaning: <strong>visual angle; angle of vision</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p74-q17",
+      "questionHtml": "<p>{子供|こども}たちは{色紙|いろがみ}を{切|き}って、「四角い」{箱|はこ}を{作|つく}りました。「四角い」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よんかくい" },
+        { "id": "b", "html": "しかどい" },
+        { "id": "c", "html": "しかくい" },
+        { "id": "d", "html": "しがくい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>四角い（しかくい）と読みます。<span>Meaning: <strong>square; rectangular; four-cornered</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p74-q18",
+      "questionHtml": "<p>{山|やま}の{中|なか}で{道|みち}に{迷|まよ}ったとき、コンパスを{使|つか}って「方角」を{確認|かくにん}しました。「方角」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ほうかく" },
+        { "id": "b", "html": "ほうがく" },
+        { "id": "c", "html": "ほうかど" },
+        { "id": "d", "html": "ぼうがく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>方角（ほうがく）と読みます。<span>Meaning: <strong>direction; orientation; compass direction</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p74-q19",
+      "questionHtml": "<p>{数学|すうがく}の{授業|じゅぎょう}で、「三角」の{形|かたち}をした{図形|ずけい}について{勉強|べんきょう}しました。「三角」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さんがく" },
+        { "id": "b", "html": "みかく" },
+        { "id": "c", "html": "さんかど" },
+        { "id": "d", "html": "さんかく" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>三角（さんかく）と読みます。<span>Meaning: <strong>triangle; triangular shape</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p74-q20",
+      "questionHtml": "<p>{次|つぎ}の{交差点|こうさてん}の「角」を{右|みぎ}に{曲|ま}がると、{郵便局|ゆうびんきょく}が{見|み}えます。「角」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かく" },
+        { "id": "b", "html": "つの" },
+        { "id": "c", "html": "かど" },
+        { "id": "d", "html": "がく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>角（かど）と読みます。<span>Meaning: <strong>corner; angle (especially the corner of a street or object)</strong></span></p>"
+    }
+  ]
+}

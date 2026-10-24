@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 77,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p77-q1",
+      "questionHtml": "<p>{感動的|かんどうてき}な{映画|えいが}を{見|み}て、{彼女|かのじょ}の{目|め}から「涙」がこぼれました。「涙」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "なみた" },
+        { "id": "b", "html": "るい" },
+        { "id": "c", "html": "なみだ" },
+        { "id": "d", "html": "なまだ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>涙（なみだ）と読みます。<span>Meaning: <strong>tear; tears</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p77-q2",
+      "questionHtml": "<p>{長年|ながねん}の{夢|ゆめ}がかなったとき、{彼|かれ}はうれしくて「涙を流す」ほど{感動|かんどう}しました。「涙を流す」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "なみだをながす" },
+        { "id": "b", "html": "なみだをながれる" },
+        { "id": "c", "html": "なみたをながす" },
+        { "id": "d", "html": "なみだをながし" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>涙を流す（なみだをながす）と読みます。<span>Meaning: <strong>to shed tears; to cry</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p77-q3",
+      "questionHtml": "<p>{友達|ともだち}が{面白|おもしろ}い{話|はなし}をしてくれたので、みんなで{大|おお}きな{声|こえ}で「笑う」ことができました。「笑う」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "えむ" },
+        { "id": "b", "html": "わらえる" },
+        { "id": "c", "html": "わらおう" },
+        { "id": "d", "html": "わらう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>笑う（わらう）と読みます。<span>Meaning: <strong>to laugh; to smile</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p77-q4",
+      "questionHtml": "<p>{赤|あか}ちゃんが{母親|ははおや}の{顔|かお}を{見|み}て、にっこりと「笑む」{様子|ようす}がとてもかわいらしかったです。「笑む」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "わらむ" },
+        { "id": "b", "html": "えむ" },
+        { "id": "c", "html": "ほほむ" },
+        { "id": "d", "html": "えまむ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>笑む（えむ）と読みます。<span>Meaning: <strong>to smile</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p77-q5",
+      "questionHtml": "<p>{先生|せんせい}はいつも{優|やさ}しい「笑顔」で{学生|がくせい}たちに{話|はな}しかけてくれます。「笑顔」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "えがお" },
+        { "id": "b", "html": "わらがお" },
+        { "id": "c", "html": "えかお" },
+        { "id": "d", "html": "しょうがん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>笑顔（えがお）と読みます。<span>Meaning: <strong>smiling face; smile</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p77-q6",
+      "questionHtml": "<p>{子供|こども}たちの{明|あか}るい「笑い」が{教室|きょうしつ}いっぱいに{広|ひろ}がりました。「笑い」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "えい" },
+        { "id": "b", "html": "わらえ" },
+        { "id": "c", "html": "わらい" },
+        { "id": "d", "html": "しょうい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>笑い（わらい）と読みます。<span>Meaning: <strong>laugh; laughter</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p77-q7",
+      "questionHtml": "<p>{新|あたら}しいシステムの{開発|かいはつ}は「順調」に{進|すす}んでいて、{予定|よてい}どおり{完成|かんせい}しそうです。「順調」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じゅんじょう" },
+        { "id": "b", "html": "じゅんちょ" },
+        { "id": "c", "html": "しゅんちょう" },
+        { "id": "d", "html": "じゅんちょう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>順調（じゅんちょう）と読みます。<span>Meaning: <strong>favorable; going smoothly; progressing well</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p77-q8",
+      "questionHtml": "<p>{会議|かいぎ}では、{周|まわ}りの{意見|いけん}にただ「同調」するのではなく、{自分|じぶん}の{考|かんが}えも{伝|つた}えることが{大切|たいせつ}です。「同調」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "どうじょう" },
+        { "id": "b", "html": "どうちょう" },
+        { "id": "c", "html": "とうちょう" },
+        { "id": "d", "html": "どうちょ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>同調（どうちょう）と読みます。<span>Meaning: <strong>agreement; alignment; conformity; sympathy; tuning</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p77-q9",
+      "questionHtml": "<p>レストランの{厨房|ちゅうぼう}では、{料理人|りょうりにん}たちが{新鮮|しんせん}な{材料|ざいりょう}を{使|つか}って「調理」をしています。「調理」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちょうり" },
+        { "id": "b", "html": "ちょうれい" },
+        { "id": "c", "html": "じょうり" },
+        { "id": "d", "html": "しらべり" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>調理（ちょうり）と読みます。<span>Meaning: <strong>cooking; food preparation</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p77-q10",
+      "questionHtml": "<p>{二|ふた}つの{会社|かいしゃ}の{間|あいだ}で{争|あらそ}いが{起|お}きたため、{第三者|だいさんしゃ}による「調停」が{行|おこな}われました。「調停」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちょうでい" },
+        { "id": "b", "html": "じょうてい" },
+        { "id": "c", "html": "ちょうてい" },
+        { "id": "d", "html": "ちょうたい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>調停（ちょうてい）と読みます。<span>Meaning: <strong>mediation; conciliation; arbitration</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p77-q11",
+      "questionHtml": "<p>{昨日|きのう}は{少|すこ}し{熱|ねつ}がありましたが、{今日|きょう}は{体|からだ}の「調子」がよくなりました。「調子」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちょし" },
+        { "id": "b", "html": "じょうし" },
+        { "id": "c", "html": "しらべこ" },
+        { "id": "d", "html": "ちょうし" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>調子（ちょうし）と読みます。<span>Meaning: <strong>condition; state of health; state of things; rhythm</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p77-q12",
+      "questionHtml": "<p>{市役所|しやくしょ}は{住民|じゅうみん}の{生活|せいかつ}について「調査」を{行|おこな}い、その{結果|けっか}を{発表|はっぴょう}しました。「調査」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちょうさ" },
+        { "id": "b", "html": "ちょうざ" },
+        { "id": "c", "html": "じょうさ" },
+        { "id": "d", "html": "ちょさ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>調査（ちょうさ）と読みます。<span>Meaning: <strong>investigation; examination; inquiry; survey</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p77-q13",
+      "questionHtml": "<p>{先生|せんせい}は{試験|しけん}の{前|まえ}に、{特|とく}に{重要|じゅうよう}な{部分|ぶぶん}を「強調」して{説明|せつめい}しました。「強調」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きょうじょう" },
+        { "id": "b", "html": "きょうちょう" },
+        { "id": "c", "html": "きょちょう" },
+        { "id": "d", "html": "ごうちょう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>強調（きょうちょう）と読みます。<span>Meaning: <strong>emphasis; highlighting; stressing a point</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p77-q14",
+      "questionHtml": "<p>{分|わ}からない{言葉|ことば}があったら、{辞書|じしょ}で「調べる」ようにしています。「調べる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちょうべる" },
+        { "id": "b", "html": "しらばる" },
+        { "id": "c", "html": "しらべる" },
+        { "id": "d", "html": "しらめる" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>調べる（しらべる）と読みます。<span>Meaning: <strong>to examine; to investigate; to check; to look up; to research</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p77-q15",
+      "questionHtml": "<p>{病院|びょういん}で{血液|けつえき}の「検査」を{受|う}けたところ、{特|とく}に{問題|もんだい}はありませんでした。「検査」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けんざ" },
+        { "id": "b", "html": "げんさ" },
+        { "id": "c", "html": "けんしゃ" },
+        { "id": "d", "html": "けんさ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>検査（けんさ）と読みます。<span>Meaning: <strong>inspection; examination; test; check</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p77-q16",
+      "questionHtml": "<p>{研究|けんきゅう}チームは{川|かわ}の{水質|すいしつ}について「調査」を{続|つづ}け、{環境|かんきょう}への{影響|えいきょう}を{確認|かくにん}しています。「調査」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちょさ" },
+        { "id": "b", "html": "ちょうさ" },
+        { "id": "c", "html": "ちょうざ" },
+        { "id": "d", "html": "じょうさ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>調査（ちょうさ）と読みます。<span>Meaning: <strong>investigation; examination; inquiry; survey</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p77-q17",
+      "questionHtml": "<p>{道|みち}に{迷|まよ}ったので、{交番|こうばん}にいた「巡査」に{駅|えき}までの{行|い}き{方|かた}を{聞|き}きました。「巡査」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じゅんさ" },
+        { "id": "b", "html": "じゅんざ" },
+        { "id": "c", "html": "しゅんさ" },
+        { "id": "d", "html": "じゅさ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>巡査（じゅんさ）と読みます。<span>Meaning: <strong>police officer; constable; policeman</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p77-q18",
+      "questionHtml": "<p>{警察|けいさつ}は{事件|じけん}の{原因|げんいん}を{明|あき}らかにするため、{現場|げんば}で「捜査」を{進|すす}めています。「捜査」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そうざ" },
+        { "id": "b", "html": "そさ" },
+        { "id": "c", "html": "そうさ" },
+        { "id": "d", "html": "しょうさ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>捜査（そうさ）と読みます。<span>Meaning: <strong>criminal investigation; search; inquiry</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p77-q19",
+      "questionHtml": "<p>{奨学金|しょうがくきん}を{受|う}けるためには、{提出|ていしゅつ}した{書類|しょるい}の「審査」に{合格|ごうかく}する{必要|ひつよう}があります。「審査」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんざ" },
+        { "id": "b", "html": "しんさ" },
+        { "id": "c", "html": "じんさ" },
+        { "id": "d", "html": "しんしゃ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>審査（しんさ）と読みます。<span>Meaning: <strong>judging; examination; inspection; review; screening</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p77-q20",
+      "questionHtml": "<p>{中古車|ちゅうこしゃ}を{売|う}る{前|まえ}に、{専門家|せんもんか}に{車|くるま}の{価値|かち}を「査定」してもらいました。「査定」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さでい" },
+        { "id": "b", "html": "さてん" },
+        { "id": "c", "html": "しゃてい" },
+        { "id": "d", "html": "さてい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>査定（さてい）と読みます。<span>Meaning: <strong>assessment; appraisal; evaluation of value or damages; budget revision</strong></span></p>"
+    }
+  ]
+}

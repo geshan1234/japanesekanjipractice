@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 58,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p58-q1",
+      "questionHtml": "<p>{図書館|としょかん}の{本|ほん}は{内容|ないよう}によって「分類」されており、{探|さが}しやすくなっています。「分類」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぶんたい" },
+        { "id": "b", "html": "ぶんるい" },
+        { "id": "c", "html": "ぶんかい" },
+        { "id": "d", "html": "ぶんれい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>分類（ぶんるい）と読みます。<span>Meaning: <strong>classification; categorization; sorting</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p58-q2",
+      "questionHtml": "<p>{科学|かがく}の{進歩|しんぽ}は「人類」の{生活|せいかつ}を{大|おお}きく{変|か}えてきました。「人類」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じんぞく" },
+        { "id": "b", "html": "にんるい" },
+        { "id": "c", "html": "じんるい" },
+        { "id": "d", "html": "じんれい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>人類（じんるい）と読みます。<span>Meaning: <strong>mankind; humanity</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p58-q3",
+      "questionHtml": "<p>{彼|かれ}は{子供|こども}の{頃|ころ}から「教師」になることを{夢見|ゆめみ}ていました。「教師」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きょうし" },
+        { "id": "b", "html": "きょうじ" },
+        { "id": "c", "html": "こうし" },
+        { "id": "d", "html": "きょうしゅ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>教師（きょうし）と読みます。<span>Meaning: <strong>teacher (classroom)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p58-q4",
+      "questionHtml": "<p>{夜勤|やきん}の「看護師」が{患者|かんじゃ}の{様子|ようす}を{見|み}に{来|き}ました。「看護師」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かんごうし" },
+        { "id": "b", "html": "かんぎょし" },
+        { "id": "c", "html": "かんごじ" },
+        { "id": "d", "html": "かんごし" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>看護師（かんごし）と読みます。<span>Meaning: <strong>hospital nurse; registered nurse; RN</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p58-q5",
+      "questionHtml": "<p>{診断|しんだん}の{結果|けっか}について、「医師」から{詳|くわ}しい{説明|せつめい}がありました。「医師」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いじ" },
+        { "id": "b", "html": "いし" },
+        { "id": "c", "html": "いしゃ" },
+        { "id": "d", "html": "えし" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>医師（いし）と読みます。<span>Meaning: <strong>doctor; physician</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p58-q6",
+      "questionHtml": "<p>{社長|しゃちょう}「夫妻」が{結婚|けっこん}{記念日|きねんび}のパーティーを{開|ひら}きました。「夫妻」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふうさい" },
+        { "id": "b", "html": "ぶさい" },
+        { "id": "c", "html": "ふさい" },
+        { "id": "d", "html": "ふつま" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>夫妻（ふさい）と読みます。<span>Meaning: <strong>husband and wife; married couple</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p58-q7",
+      "questionHtml": "<p>{彼|かれ}は「妻子」を{養|やしな}うために{一生懸命|いっしょうけんめい}{働|はたら}いています。「妻子」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さいし" },
+        { "id": "b", "html": "さいこ" },
+        { "id": "c", "html": "つまこ" },
+        { "id": "d", "html": "せいし" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>妻子（さいし）と読みます。<span>Meaning: <strong>wife and children</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p58-q8",
+      "questionHtml": "<p>{彼|かれ}は「愛妻」{弁当|べんとう}を{持|も}って{出勤|しゅっきん}しました。「愛妻」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あいつま" },
+        { "id": "b", "html": "あいせい" },
+        { "id": "c", "html": "あいさ" },
+        { "id": "d", "html": "あいさい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>愛妻（あいさい）と読みます。<span>Meaning: <strong>beloved wife</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p58-q9",
+      "questionHtml": "<p>{彼女|かのじょ}は{家庭|かてい}を{大切|たいせつ}にする「良妻」{賢母|けんぼ}だと{言|い}われています。「良妻」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "りょうせい" },
+        { "id": "b", "html": "りょうさい" },
+        { "id": "c", "html": "よいつま" },
+        { "id": "d", "html": "ろうさい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>良妻（りょうさい）と読みます。<span>Meaning: <strong>good wife</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p58-q10",
+      "questionHtml": "<p>「悪妻」と{呼|よ}ばれた{女性|じょせい}にも、{実|じつ}は{事情|じじょう}があったそうです。「悪妻」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あくせい" },
+        { "id": "b", "html": "わるさい" },
+        { "id": "c", "html": "あくさい" },
+        { "id": "d", "html": "あくつま" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>悪妻（あくさい）と読みます。<span>Meaning: <strong>bad wife</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p58-q11",
+      "questionHtml": "<p>{昔|むかし}は、{僧侶|そうりょ}が「妻帯」することは{禁|きん}じられていました。「妻帯」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さいたい" },
+        { "id": "b", "html": "つまたい" },
+        { "id": "c", "html": "さいだい" },
+        { "id": "d", "html": "せいたい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>妻帯（さいたい）と読みます。<span>Meaning: <strong>having a wife; marrying (a woman); marriage</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p58-q12",
+      "questionHtml": "<p>{彼|かれ}は{妻|つま}を{亡|な}くした{後|あと}、「後妻」を{迎|むか}えました。「後妻」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうさい" },
+        { "id": "b", "html": "あとづま" },
+        { "id": "c", "html": "ごせい" },
+        { "id": "d", "html": "ごさい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>後妻（ごさい）と読みます。<span>Meaning: <strong>second wife</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p58-q13",
+      "questionHtml": "<p>{会議|かいぎ}の{後|あと}、「妻」に{電話|でんわ}をかけて{帰|かえ}りが{遅|おそ}くなると{伝|つた}えました。「妻」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "め" },
+        { "id": "b", "html": "つま" },
+        { "id": "c", "html": "ずま" },
+        { "id": "d", "html": "つめ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>妻（つま）と読みます。<span>Meaning: <strong>wife</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p58-q14",
+      "questionHtml": "<p>{雪|ゆき}の{中|なか}を「白馬」が{走|はし}っていく{姿|すがた}は{美|うつく}しかったです。「白馬」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はくま" },
+        { "id": "b", "html": "びゃくば" },
+        { "id": "c", "html": "はくば" },
+        { "id": "d", "html": "はくうま" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>白馬（はくば）と読みます。<span>Meaning: <strong>white horse</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p58-q15",
+      "questionHtml": "<p>{彼|かれ}は「競馬」にはまってしまい、{給料|きゅうりょう}のほとんどを{使|つか}ってしまいました。「競馬」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きょうば" },
+        { "id": "b", "html": "けいば" },
+        { "id": "c", "html": "けいま" },
+        { "id": "d", "html": "きょうめ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>競馬（けいば）と読みます。<span>Meaning: <strong>horse racing</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p58-q16",
+      "questionHtml": "<p>{観光客|かんこうきゃく}は「馬車」に{乗|の}って{旧市街|きゅうしがい}を{回|まわ}りました。「馬車」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "うましゃ" },
+        { "id": "b", "html": "ばぐるま" },
+        { "id": "c", "html": "ばしゃ" },
+        { "id": "d", "html": "まぐるま" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>馬車（ばしゃ）と読みます。<span>Meaning: <strong>(horse-drawn) coach, carriage</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p58-q17",
+      "questionHtml": "<p>{彼|かれ}は{当|あ}たらなかった「馬券」を{握|にぎ}りしめて{悔|くや}しがっていました。「馬券」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ばけん" },
+        { "id": "b", "html": "うまけん" },
+        { "id": "c", "html": "ばげん" },
+        { "id": "d", "html": "まけん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>馬券（ばけん）と読みます。<span>Meaning: <strong>betting ticket, betting slip</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p58-q18",
+      "questionHtml": "<p>{日曜日|にちようび}の「競馬」{中継|ちゅうけい}を{見|み}るのが{父|ちち}の{楽|たの}しみです。「競馬」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けんば" },
+        { "id": "b", "html": "きょうば" },
+        { "id": "c", "html": "けいま" },
+        { "id": "d", "html": "けいば" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>競馬（けいば）と読みます。<span>Meaning: <strong>horse racing</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p58-q19",
+      "questionHtml": "<p>このトラックは「馬力」が{大|おお}きいので、{重|おも}い{荷物|にもつ}も{運|はこ}べます。「馬力」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ばりょく" },
+        { "id": "b", "html": "うまりき" },
+        { "id": "c", "html": "ばりき" },
+        { "id": "d", "html": "まりき" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>馬力（ばりき）と読みます。<span>Meaning: <strong>horsepower</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p58-q20",
+      "questionHtml": "<p>{牧場|ぼくじょう}で「馬」に{餌|えさ}をやる{体験|たいけん}をしました。「馬」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "うま" },
+        { "id": "b", "html": "むま" },
+        { "id": "c", "html": "ばう" },
+        { "id": "d", "html": "うめ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>馬（うま）と読みます。<span>Meaning: <strong>horse</strong></span></p>"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 62,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p62-q1",
+      "questionHtml": "<p>{会員|かいいん}になると、{全|すべ}ての{商品|しょうひん}が「割引」{価格|かかく}で{買|か}えます。「割引」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "わりいん" },
+        { "id": "b", "html": "わりびき" },
+        { "id": "c", "html": "わりひき" },
+        { "id": "d", "html": "かつびき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>割引（わりびき）と読みます。<span>Meaning: <strong>discount; reduction; rebate; tenths discounted</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p62-q2",
+      "questionHtml": "<p>{数|かず}に「一倍」をかけても、{答|こた}えは{変|か}わりません。「一倍」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いちばい" },
+        { "id": "b", "html": "ひとばい" },
+        { "id": "c", "html": "いちびゃく" },
+        { "id": "d", "html": "いっぱい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>一倍（いちばい）と読みます。<span>Meaning: <strong>multiplying by one; original amount</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p62-q3",
+      "questionHtml": "<p>{去年|きょねん}に{比|くら}べて、{売上|うりあげ}は「二倍」{近|ちか}くに{増|ふ}えました。「二倍」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じばい" },
+        { "id": "b", "html": "にぼい" },
+        { "id": "c", "html": "にばい" },
+        { "id": "d", "html": "ふたばい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>二倍（にばい）と読みます。<span>Meaning: <strong>double; twice (as much); twofold</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p62-q4",
+      "questionHtml": "<p>この{道|みち}の{幅|はば}は、{以前|いぜん}の「三倍」{以上|いじょう}になりました。「三倍」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "みばい" },
+        { "id": "b", "html": "さんびゃく" },
+        { "id": "c", "html": "さんぱい" },
+        { "id": "d", "html": "さんばい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>三倍（さんばい）と読みます。<span>Meaning: <strong>three times (as much); treble; triple; threefold</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p62-q5",
+      "questionHtml": "<p>{違約金|いやくきん}として、{代金|だいきん}の「倍額」を{支払|しはら}うことになりました。「倍額」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ばいかく" },
+        { "id": "b", "html": "ばいがく" },
+        { "id": "c", "html": "ぱいがく" },
+        { "id": "d", "html": "ばいがっ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>倍額（ばいがく）と読みます。<span>Meaning: <strong>double amount</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p62-q6",
+      "questionHtml": "<p>{政府|せいふ}は{来年|らいねん}までに{観光客|かんこうきゃく}を「倍増」させる{計画|けいかく}を{発表|はっぴょう}しました。「倍増」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ばいぞう" },
+        { "id": "b", "html": "ばいそう" },
+        { "id": "c", "html": "ばいぞ" },
+        { "id": "d", "html": "べぞう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>倍増（ばいぞう）と読みます。<span>Meaning: <strong>doubling; double</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p62-q7",
+      "questionHtml": "<p>{新|あたら}しい{機種|きしゅ}は、{以前|いぜん}のものより「数倍」{速|はや}く{動|うご}きます。「数倍」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かずばい" },
+        { "id": "b", "html": "すばい" },
+        { "id": "c", "html": "すうばい" },
+        { "id": "d", "html": "すうぱい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>数倍（すうばい）と読みます。<span>Meaning: <strong>several times (as large, over)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p62-q8",
+      "questionHtml": "<p>この{装置|そうち}は{小|ちい}さな{力|ちから}を「倍力」{機構|きこう}で{大|おお}きくします。「倍力」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ばいちから" },
+        { "id": "b", "html": "ばいりき" },
+        { "id": "c", "html": "ばいろく" },
+        { "id": "d", "html": "ばいりょく" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>倍力（ばいりょく）と読みます。<span>Meaning: <strong>servo; booster</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p62-q9",
+      "questionHtml": "<p>「倍」の{値段|ねだん}を{払|はら}っても{手|て}に{入|い}れたいと{思|おも}いました。「倍」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ばい" },
+        { "id": "b", "html": "べい" },
+        { "id": "c", "html": "ぱい" },
+        { "id": "d", "html": "はい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>倍（ばい）と読みます。<span>Meaning: <strong>twice; double</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p62-q10",
+      "questionHtml": "<p>{去年|きょねん}の{三|さん}「倍」の{客|きゃく}が{来|き}ました。「倍」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はい" },
+        { "id": "b", "html": "ばい" },
+        { "id": "c", "html": "ぱい" },
+        { "id": "d", "html": "べい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>〜倍（〜ばい）と読みます。<span>Meaning: <strong>~ times</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p62-q11",
+      "questionHtml": "<p>{古|ふる}い{建物|たてもの}にも、{守|まも}る「価値」は{十分|じゅうぶん}にあります。「価値」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かじ" },
+        { "id": "b", "html": "かっち" },
+        { "id": "c", "html": "かち" },
+        { "id": "d", "html": "あたいち" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>価値（かち）と読みます。<span>Meaning: <strong>value, worth, merit</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p62-q12",
+      "questionHtml": "<p>{検査|けんさ}の「数値」が{基準|きじゅん}を{超|こ}えないよう、{注意|ちゅうい}しています。「数値」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "すうち" },
+        { "id": "b", "html": "かずち" },
+        { "id": "c", "html": "すうじ" },
+        { "id": "d", "html": "すうあたい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>数値（すうち）と読みます。<span>Meaning: <strong>numerical value; numerics</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p62-q13",
+      "questionHtml": "<p>{関数|かんすう}の「値域」を{求|もと}める{問題|もんだい}が{試験|しけん}に{出|で}ました。「値域」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ねいき" },
+        { "id": "b", "html": "あたいいき" },
+        { "id": "c", "html": "ちいき" },
+        { "id": "d", "html": "ちやく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>値域（ちいき）と読みます。<span>Meaning: <strong>range (of a function or relation)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p62-q14",
+      "questionHtml": "<p>{育|そだ}った{環境|かんきょう}が{違|ちが}えば、「価値観」も{違|ちが}ってきます。「価値観」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かちみ" },
+        { "id": "b", "html": "かちかん" },
+        { "id": "c", "html": "かじかん" },
+        { "id": "d", "html": "あたいかん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>価値観（かちかん）と読みます。<span>Meaning: <strong>sense of values</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p62-q15",
+      "questionHtml": "<p>{品質|ひんしつ}の{割|わり}に「値段」が{安|やす}いので、{人気|にんき}があります。「値段」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちだん" },
+        { "id": "b", "html": "ねたん" },
+        { "id": "c", "html": "あたいだん" },
+        { "id": "d", "html": "ねだん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>値段（ねだん）と読みます。<span>Meaning: <strong>price; cost</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p62-q16",
+      "questionHtml": "<p>{原材料|げんざいりょう}の{高騰|こうとう}により、{来月|らいげつ}から「値上げ」されることになりました。「値上げ」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ねあげ" },
+        { "id": "b", "html": "ちあげ" },
+        { "id": "c", "html": "あたいあげ" },
+        { "id": "d", "html": "ねうえ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>値上げ（ねあげ）と読みます。<span>Meaning: <strong>price hike; mark-up</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p62-q17",
+      "questionHtml": "<p>{売|う}れ{行|ゆ}きが{悪|わる}いため、{店|みせ}は{商品|しょうひん}の「値下げ」を{決|き}めました。「値下げ」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ねした" },
+        { "id": "b", "html": "ねさげ" },
+        { "id": "c", "html": "ちさげ" },
+        { "id": "d", "html": "ねしも" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>値下げ（ねさげ）と読みます。<span>Meaning: <strong>cut in price</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p62-q18",
+      "questionHtml": "<p>{野菜|やさい}が「高値」で{取引|とりひき}されています。「高値」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうね" },
+        { "id": "b", "html": "たかあたい" },
+        { "id": "c", "html": "たかね" },
+        { "id": "d", "html": "たかち" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>高値（たかね）と読みます。<span>Meaning: <strong>high price</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p62-q19",
+      "questionHtml": "<p>{今|いま}は「安値」で{買|か}っておいて、{上|あ}がるのを{待|ま}つ{作戦|さくせん}です。「安値」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "やすね" },
+        { "id": "b", "html": "やすち" },
+        { "id": "c", "html": "あんね" },
+        { "id": "d", "html": "やすあたい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>安値（やすね）と読みます。<span>Meaning: <strong>low price</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p62-q20",
+      "questionHtml": "<p>{商品|しょうひん}に「値札」が{付|つ}いていなかったので、{店員|てんいん}に{聞|き}きました。「値札」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ねさつ" },
+        { "id": "b", "html": "あたいふだ" },
+        { "id": "c", "html": "ちふだ" },
+        { "id": "d", "html": "ねふだ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>値札（ねふだ）と読みます。<span>Meaning: <strong>price tag</strong></span></p>"
+    }
+  ]
+}

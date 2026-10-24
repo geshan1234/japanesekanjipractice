@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 100,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p100-q1",
+      "questionHtml": "<p>{先生|せんせい}は{二|ふた}つの{国|くに}の{文化|ぶんか}を「対比」しながら、それぞれの{特徴|とくちょう}を{説明|せつめい}しました。「対比」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たいび" },
+        { "id": "b", "html": "だいひ" },
+        { "id": "c", "html": "たいひ" },
+        { "id": "d", "html": "たいへ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>対比（たいひ）と読みます。<span>Meaning: <strong>contrast; comparison</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p100-q2",
+      "questionHtml": "<p>この{学校|がっこう}では、{男子学生|だんしがくせい}と{女子学生|じょしがくせい}の「比率」がほぼ{同|おな}じです。「比率」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひりつ" },
+        { "id": "b", "html": "びりつ" },
+        { "id": "c", "html": "ひそつ" },
+        { "id": "d", "html": "ひれつ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>比率（ひりつ）と読みます。<span>Meaning: <strong>ratio; proportion; percentage</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p100-q3",
+      "questionHtml": "<p>{新|あたら}しいスマートフォンを{買|か}う{前|まえ}に、いくつかの{機種|きしゅ}の{性能|せいのう}を「比べる」ことにしました。「比べる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひべる" },
+        { "id": "b", "html": "ならべる" },
+        { "id": "c", "html": "くらえる" },
+        { "id": "d", "html": "くらべる" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>比べる（くらべる）と読みます。<span>Meaning: <strong>to compare; to make a comparison</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p100-q4",
+      "questionHtml": "<p>{先生|せんせい}は{電気|でんき}が{流|なが}れる「原理」を、{簡単|かんたん}な{実験|じっけん}を{使|つか}って{説明|せつめい}しました。「原理」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんれい" },
+        { "id": "b", "html": "げんり" },
+        { "id": "c", "html": "がんり" },
+        { "id": "d", "html": "げんじ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>原理（げんり）と読みます。<span>Meaning: <strong>principle; theory; fundamental law</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p100-q5",
+      "questionHtml": "<p>{水素|すいそ}や{酸素|さんそ}は「元素」の{一種|いっしゅ}で、{化学|かがく}の{授業|じゅぎょう}で{学|まな}びます。「元素」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんそう" },
+        { "id": "b", "html": "がんそ" },
+        { "id": "c", "html": "げんそ" },
+        { "id": "d", "html": "げんす" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>元素（げんそ）と読みます。<span>Meaning: <strong>chemical element</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p100-q6",
+      "questionHtml": "<p>{研究者|けんきゅうしゃ}たちは、この{祭|まつ}りの「起源」を{調|しら}べるために{古|ふる}い{記録|きろく}を{読|よ}んでいます。「起源」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きげん" },
+        { "id": "b", "html": "きがん" },
+        { "id": "c", "html": "おきげん" },
+        { "id": "d", "html": "きけん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>起源（きげん）と読みます。<span>Meaning: <strong>origin; beginning; rise</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p100-q7",
+      "questionHtml": "<p>{海外|かいがい}から{輸入|ゆにゅう}される「原油」の{価格|かかく}が{上|あ}がり、ガソリンも{高|たか}くなりました。「原油」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんあぶら" },
+        { "id": "b", "html": "がんゆ" },
+        { "id": "c", "html": "げんよう" },
+        { "id": "d", "html": "げんゆ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>原油（げんゆ）と読みます。<span>Meaning: <strong>crude oil; unrefined petroleum</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p100-q8",
+      "questionHtml": "<p>{会社|かいしゃ}は{新|あたら}しい{事業|じぎょう}を{始|はじ}めるための「原資」を{確保|かくほ}しました。「原資」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんじ" },
+        { "id": "b", "html": "げんし" },
+        { "id": "c", "html": "がんし" },
+        { "id": "d", "html": "げんさい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>原資（げんし）と読みます。<span>Meaning: <strong>capital; principal; source of funds</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p100-q9",
+      "questionHtml": "<p>{専門家|せんもんか}は{問題|もんだい}の「根源」を{明|あき}らかにしなければ、{本当|ほんとう}の{解決|かいけつ}にはならないと{話|はな}しました。「根源」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こんげん" },
+        { "id": "b", "html": "ねげん" },
+        { "id": "c", "html": "こんがん" },
+        { "id": "d", "html": "こんけん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>根源（こんげん）と読みます。<span>Meaning: <strong>root; source; origin; fundamental cause</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p100-q10",
+      "questionHtml": "<p>{仕事|しごと}がうまくいかないときは、「原点」に{戻|もど}って{目的|もくてき}を{考|かんが}え{直|なお}すことが{大切|たいせつ}です。「原点」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんでん" },
+        { "id": "b", "html": "がんてん" },
+        { "id": "c", "html": "げんてん" },
+        { "id": "d", "html": "げんちん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>原点（げんてん）と読みます。<span>Meaning: <strong>starting point; origin; point of departure</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p100-q11",
+      "questionHtml": "<p>{電車|でんしゃ}が{遅|おく}れた「原因」は、{強|つよ}い{雨|あめ}による{線路|せんろ}の{点検|てんけん}でした。「原因」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんにん" },
+        { "id": "b", "html": "げんいん" },
+        { "id": "c", "html": "がんいん" },
+        { "id": "d", "html": "げいいん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>原因（げんいん）と読みます。<span>Meaning: <strong>cause; origin; source; reason</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p100-q12",
+      "questionHtml": "<p>この{商品|しょうひん}は「原価」が{高|たか}いため、{販売価格|はんばいかかく}を{下|さ}げるのが{難|むずか}しいそうです。「原価」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんが" },
+        { "id": "b", "html": "がんか" },
+        { "id": "c", "html": "げんけ" },
+        { "id": "d", "html": "げんか" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>原価（げんか）と読みます。<span>Meaning: <strong>cost price; production cost</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p100-q13",
+      "questionHtml": "<p>{博物館|はくぶつかん}では、「原始」{時代|じだい}の{人々|ひとびと}が{使|つか}っていた{道具|どうぐ}を{見|み}ることができます。「原始」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんじ" },
+        { "id": "b", "html": "がんし" },
+        { "id": "c", "html": "げんし" },
+        { "id": "d", "html": "げんす" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>原始（げんし）と読みます。<span>Meaning: <strong>origin; primeval; primitive beginnings</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p100-q14",
+      "questionHtml": "<p>この{工場|こうじょう}では、{海外|かいがい}から{輸入|ゆにゅう}した「原料」を{使|つか}って{製品|せいひん}を{作|つく}っています。「原料」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんりょう" },
+        { "id": "b", "html": "げんりょ" },
+        { "id": "c", "html": "がんりょう" },
+        { "id": "d", "html": "げんろう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>原料（げんりょう）と読みます。<span>Meaning: <strong>raw materials; ingredients used in production</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p100-q15",
+      "questionHtml": "<p>{春|はる}になると、{家|いえ}の{近|ちか}くの「原」には{色|いろ}とりどりの{花|はな}が{咲|さ}きます。「原」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げん" },
+        { "id": "b", "html": "はら" },
+        { "id": "c", "html": "ばら" },
+        { "id": "d", "html": "ひら" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>原（はら）と読みます。<span>Meaning: <strong>field; plain; prairie; open land</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p100-q16",
+      "questionHtml": "<p>{子供|こども}たちは{広|ひろ}い「野原」で{走|はし}ったり、{虫|むし}を{探|さが}したりして{遊|あそ}んでいました。「野原」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "やはら" },
+        { "id": "b", "html": "のばら" },
+        { "id": "c", "html": "やげん" },
+        { "id": "d", "html": "のはら" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>野原（のはら）と読みます。<span>Meaning: <strong>field; open field; meadow</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p100-q17",
+      "questionHtml": "<p>{機械|きかい}が{突然|とつぜん}{止|と}まった「原因」を{調|しら}べるために、{技術者|ぎじゅつしゃ}が{点検|てんけん}を{始|はじ}めました。「原因」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "げんいん" },
+        { "id": "b", "html": "げんにん" },
+        { "id": "c", "html": "がんいん" },
+        { "id": "d", "html": "げいいん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>原因（げんいん）と読みます。<span>Meaning: <strong>cause; origin; source; reason</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p100-q18",
+      "questionHtml": "<p>{人口|じんこう}の{減少|げんしょう}は、この{地域|ちいき}の{経済|けいざい}が{弱|よわ}くなっている{大|おお}きな「要因」の{一|ひと}つです。「要因」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ようにん" },
+        { "id": "b", "html": "ようえん" },
+        { "id": "c", "html": "よういん" },
+        { "id": "d", "html": "よいん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>要因（よういん）と読みます。<span>Meaning: <strong>main cause; primary factor; contributing factor</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p100-q19",
+      "questionHtml": "<p>この{問題|もんだい}は、{古|ふる}いシステムの{故障|こしょう}に「起因」するものだと{分|わ}かりました。「起因」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きにん" },
+        { "id": "b", "html": "きいん" },
+        { "id": "c", "html": "ぎいん" },
+        { "id": "d", "html": "きげん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>起因（きいん）と読みます。<span>Meaning: <strong>being caused by; resulting from; arising from</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p100-q20",
+      "questionHtml": "<p>{医師|いし}は{詳|くわ}しい{検査|けんさ}を{行|おこな}い、{患者|かんじゃ}の「死因」を{調|しら}べました。「死因」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しにん" },
+        { "id": "b", "html": "しいん" },
+        { "id": "c", "html": "しげん" },
+        { "id": "d", "html": "しえん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>死因（しいん）と読みます。<span>Meaning: <strong>cause of death</strong></span></p>"
+    }
+  ]
+}

@@ -1,3 +1,4 @@
+
 {
   "metadata": {
     "level": "N3",
@@ -9,243 +10,243 @@
   "questions": [
     {
       "id": "N3-Kanji-p28-q1",
-      "questionHtml": "<p>{状況|じょうきょう}は{厳|きび}しいが、{決|けっ}して「楽観」できる{状態|じょうたい}ではない。「楽観」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{彼|かれ}はどんなに{難|むずか}しい{問題|もんだい}が{起|お}きても、「楽観」して{前向|まえむ}きに{考|かんが}えることができます。「楽観」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "らくかん" },
         { "id": "b", "html": "らっかん" },
-        { "id": "c", "html": "たのしみみ" },
+        { "id": "c", "html": "がっかん" },
         { "id": "d", "html": "らっがん" }
       ],
       "correctAnswer": "b",
-      "explanationHtml": "<p>楽観（らっかん）と読みます。<span>Meaning: <strong>optimism, taking an optimistic view</strong></span></p>"
+      "explanationHtml": "<p>楽観（らっかん）と読みます。<span>Meaning: <strong>optimism; taking an optimistic view</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p28-q2",
-      "questionHtml": "<p>この{地域|ちいき}の{美しい|うつくしい}「景観」を{守|まお}るために、{住民|じゅうみん}が{協力|きょうりょく}している。「景観」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>この{町|まち}は{古|ふる}い{建物|たてもの}と{自然|しぜん}が{調和|ちょうわ}した{美|うつく}しい「景観」で{知|し}られています。「景観」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "けいかん" },
-        { "id": "b", "html": "けいみ" },
-        { "id": "c", "html": "げいかん" },
-        { "id": "d", "html": "けいがん" }
+        { "id": "a", "html": "けいがん" },
+        { "id": "b", "html": "きょうかん" },
+        { "id": "c", "html": "けかん" },
+        { "id": "d", "html": "けいかん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>景観（けいかん）と読みます。<span>Meaning: <strong>scenery, landscape</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>景観（けいかん）と読みます。<span>Meaning: <strong>scenery; landscape; view</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p28-q3",
-      "questionHtml": "<p>{明日|あした}の「参観」日には、多くの{保護者|ほごしゃ}が学校に{来|く}る。「参観」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{来週|らいしゅう}の{授業|じゅぎょう}には{保護者|ほごしゃ}の「参観」が{予定|よてい}されているので、{生徒|せいと}たちは{少|すこ}し{緊張|きんちょう}しています。「参観」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "まいかん" },
-        { "id": "b", "html": "さんみ" },
-        { "id": "c", "html": "さんかん" },
-        { "id": "d", "html": "さんがん" }
+        { "id": "a", "html": "さんかん" },
+        { "id": "b", "html": "さんがん" },
+        { "id": "c", "html": "ざんかん" },
+        { "id": "d", "html": "さんけん" }
       ],
-      "correctAnswer": "c",
-      "explanationHtml": "<p>参観（さんかん）と読みます。<span>Meaning: <strong>visit, inspection (e.g., school open house)</strong></span></p>"
+      "correctAnswer": "a",
+      "explanationHtml": "<p>参観（さんかん）と読みます。<span>Meaning: <strong>visit; inspection; observation</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p28-q4",
-      "questionHtml": "<p>{都市|とし}の「美観」を{損|そこ}ねないよう、{電柱|でんちゅう}を{地下|ちか}に{埋|う}める。「美観」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{市|し}は{町|まち}の「美観」を{守|まも}るために、{道路|どうろ}や{公園|こうえん}の{清掃|せいそう}を{行|おこな}っています。「美観」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "びかん" },
-        { "id": "b", "html": "みかん" },
-        { "id": "c", "html": "びがん" },
-        { "id": "d", "html": "うつくしがん" }
+        { "id": "a", "html": "みかん" },
+        { "id": "b", "html": "びがん" },
+        { "id": "c", "html": "びかん" },
+        { "id": "d", "html": "びけん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>美観（びかん）と読みます。<span>Meaning: <strong>fine view, beautiful sight, aesthetics</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>美観（びかん）と読みます。<span>Meaning: <strong>fine view; beautiful sight; pleasing appearance</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p28-q5",
-      "questionHtml": "<p>有名な寺院の仏像を「拝観」するために、長い列に並んだ。「拝観」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{京都|きょうと}の{有名|ゆうめい}な{寺|てら}を「拝観」するために、{朝早|あさはや}くから{多|おお}くの{観光客|かんこうきゃく}が{訪|おとず}れました。「拝観」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "おがみかん" },
+        { "id": "a", "html": "はいがん" },
         { "id": "b", "html": "はいかん" },
-        { "id": "c", "html": "はいがん" },
-        { "id": "d", "html": "ぱいかん" }
+        { "id": "c", "html": "ばいかん" },
+        { "id": "d", "html": "はいけん" }
       ],
       "correctAnswer": "b",
-      "explanationHtml": "<p>拝観（はいかん）と読みます。<span>Meaning: <strong>see, inspect, visit (sacred/celebrated places)</strong></span></p>"
+      "explanationHtml": "<p>拝観（はいかん）と読みます。<span>Meaning: <strong>viewing; visiting; inspecting a temple or shrine</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p28-q6",
-      "questionHtml": "<p>あきらめが悪い{彼|かれ}も、ついに「観念」してすべてを白状した。「観念」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{昔|むかし}の{人々|ひとびと}が{持|も}っていた{時間|じかん}の「観念」は、{現代|げんだい}とは{少|すこ}し{違|ちが}っていました。「観念」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "みおもい" },
-        { "id": "b", "html": "かんねん" },
-        { "id": "c", "html": "かんねむ" },
-        { "id": "d", "html": "がんねん" }
+        { "id": "a", "html": "かんねん" },
+        { "id": "b", "html": "かんれん" },
+        { "id": "c", "html": "がんねん" },
+        { "id": "d", "html": "かんなん" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>観念（かんねん）と読みます。<span>Meaning: <strong>idea, notion, resignation/giving up</strong></span></p>"
+      "correctAnswer": "a",
+      "explanationHtml": "<p>観念（かんねん）と読みます。<span>Meaning: <strong>idea; notion; concept; conception</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p28-q7",
-      "questionHtml": "<p>劇場の「観客」は、役者の素晴らしい演技に拍手を送った。「観客」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{演奏|えんそう}が{終|お}わると、「観客」は{立|た}ち{上|あ}がって{大|おお}きな{拍手|はくしゅ}を{送|おく}りました。「観客」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "みきゃく" },
-        { "id": "b", "html": "かんかく" },
-        { "id": "c", "html": "かんきゃく" },
-        { "id": "d", "html": "がんきゃく" }
+        { "id": "a", "html": "かんかく" },
+        { "id": "b", "html": "けんきゃく" },
+        { "id": "c", "html": "かんぎゃく" },
+        { "id": "d", "html": "かんきゃく" }
       ],
-      "correctAnswer": "c",
-      "explanationHtml": "<p>観客（かんきゃく）と読みます。<span>Meaning: <strong>audience, spectator, spectators</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>観客（かんきゃく）と読みます。<span>Meaning: <strong>audience; spectator; spectators</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p28-q8",
-      "questionHtml": "<p>{休日|きゅうじつ}に近くの「公園」で子供と一緒にボール遊びをした。「公園」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{天気|てんき}がよかったので、{家族|かぞく}と「公園」へ{行|い}ってピクニックを{楽|たの}しみました。「公園」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "おおぞの" },
+        { "id": "a", "html": "こうおん" },
         { "id": "b", "html": "こうえん" },
-        { "id": "c", "html": "こうぞの" },
-        { "id": "d", "html": "ごうえん" }
+        { "id": "c", "html": "ごうえん" },
+        { "id": "d", "html": "こうその" }
       ],
       "correctAnswer": "b",
       "explanationHtml": "<p>公園（こうえん）と読みます。<span>Meaning: <strong>public park</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p28-q9",
-      "questionHtml": "<p>{祖母|そぼ}は趣味の「園芸」に夢中で、庭にたくさんの花を植えている。「園芸」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{祖母|そぼ}は「園芸」が{趣味|しゅみ}で、{庭|にわ}で{季節|きせつ}の{花|はな}を{育|そだ}てています。「園芸」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "えんげい" },
-        { "id": "b", "html": "えんうん" },
-        { "id": "c", "html": "おんげい" },
-        { "id": "d", "html": "そのげい" }
+        { "id": "b", "html": "えんけい" },
+        { "id": "c", "html": "そのげい" },
+        { "id": "d", "html": "えんぎょう" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>園芸（えんげい）と読みます。<span>Meaning: <strong>horticulture, gardening</strong></span></p>"
+      "explanationHtml": "<p>園芸（えんげい）と読みます。<span>Meaning: <strong>horticulture; gardening</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p28-q10",
-      "questionHtml": "<p>都会を離れて、美しい「田園」風景が広がる田舎へ移住した。「田園」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{都会|とかい}の{生活|せいかつ}に{疲|つか}れたので、{週末|しゅうまつ}は「田園」の{静|しず}かな{風景|ふうけい}を{楽|たの}しみました。「田園」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "でんえん" },
-        { "id": "b", "html": "たぞの" },
-        { "id": "c", "html": "でんその" },
+        { "id": "a", "html": "たえん" },
+        { "id": "b", "html": "でんおん" },
+        { "id": "c", "html": "でんえん" },
         { "id": "d", "html": "てんえん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>田園（でんえん）と読みます。<span>Meaning: <strong>the country, countryside, rural districts</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>田園（でんえん）と読みます。<span>Meaning: <strong>the country; countryside; rural districts</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p28-q11",
-      "questionHtml": "<p>京都の有名な「庭園」を訪れ、その美しさに深く感動した。「庭園」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>この{美術館|びじゅつかん}には{日本式|にほんしき}の{美|うつく}しい「庭園」があり、{自由|じゆう}に{散歩|さんぽ}できます。「庭園」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "にわぞの" },
+        { "id": "a", "html": "にわえん" },
         { "id": "b", "html": "ていえん" },
-        { "id": "c", "html": "ていぞの" },
+        { "id": "c", "html": "ていおん" },
         { "id": "d", "html": "でいえん" }
       ],
       "correctAnswer": "b",
-      "explanationHtml": "<p>庭園（ていえん）と読みます。<span>Meaning: <strong>garden, park</strong></span></p>"
+      "explanationHtml": "<p>庭園（ていえん）と読みます。<span>Meaning: <strong>garden; park; landscaped garden</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p28-q12",
-      "questionHtml": "<p>自宅の「菜園」で採れたトマトは、とても甘くて美味しかった。「菜園」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{父|ちち}は{家|いえ}の{近|ちか}くに{小|ちい}さな「菜園」を{作|つく}り、トマトやきゅうりを{育|そだ}てています。「菜園」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "さいえん" },
-        { "id": "b", "html": "さいその" },
-        { "id": "c", "html": "なえん" },
-        { "id": "d", "html": "ざいえん" }
+        { "id": "a", "html": "さいおん" },
+        { "id": "b", "html": "なえん" },
+        { "id": "c", "html": "ざいえん" },
+        { "id": "d", "html": "さいえん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>菜園（さいえん）と読みます。<span>Meaning: <strong>vegetable garden</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>菜園（さいえん）と読みます。<span>Meaning: <strong>vegetable garden; kitchen garden</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p28-q13",
-      "questionHtml": "<p>広大な「農園」で、オレンジの収穫作業を手伝った。「農園」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{叔父|おじ}は{広|ひろ}い「農園」を{経営|けいえい}しており、{毎年|まいとし}たくさんの{果物|くだもの}を{出荷|しゅっか}しています。「農園」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
         { "id": "a", "html": "のうえん" },
-        { "id": "b", "html": "のうぞの" },
-        { "id": "c", "html": "みのうえん" },
-        { "id": "d", "html": "どうえん" }
+        { "id": "b", "html": "のうおん" },
+        { "id": "c", "html": "のえん" },
+        { "id": "d", "html": "のうげん" }
       ],
       "correctAnswer": "a",
-      "explanationHtml": "<p>農園（のうえん）と読みます。<span>Meaning: <strong>farm, plantation</strong></span></p>"
+      "explanationHtml": "<p>農園（のうえん）と読みます。<span>Meaning: <strong>farm; plantation</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p28-q14",
-      "questionHtml": "<p>南の島のリゾート地は、まさに地上の「楽園」だった。「楽園」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{青|あお}い{海|うみ}と{白|しろ}い{砂浜|すなはま}が{広|ひろ}がるこの{島|しま}は、まるで「楽園」のようです。「楽園」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "たのしぞの" },
+        { "id": "a", "html": "らっえん" },
         { "id": "b", "html": "らくえん" },
         { "id": "c", "html": "がくえん" },
-        { "id": "d", "html": "らくぞの" }
+        { "id": "d", "html": "らくおん" }
       ],
       "correctAnswer": "b",
-      "explanationHtml": "<p>楽園（らくえん）と読みます。<span>Meaning: <strong>paradise, Eden</strong></span></p>"
+      "explanationHtml": "<p>楽園（らくえん）と読みます。<span>Meaning: <strong>paradise; Eden</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p28-q15",
-      "questionHtml": "<p>先週の日曜日に、「動物園」へパンダを見に行きました。「動物園」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{日曜日|にちようび}に{子供|こども}たちを「動物園」へ{連|つ}れて{行|い}き、パンダやライオンを{見|み}ました。「動物園」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "どうぶつえん" },
-        { "id": "b", "html": "どうぶつぞの" },
-        { "id": "c", "html": "とうぶつえん" },
-        { "id": "d", "html": "どうぶつおん" }
+        { "id": "a", "html": "どうぶつおん" },
+        { "id": "b", "html": "どうものえん" },
+        { "id": "c", "html": "どうぶつえん" },
+        { "id": "d", "html": "どうぶっえん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>動物園（どうぶつえん）と読みます。<span>Meaning: <strong>zoo</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>動物園（どうぶつえん）と読みます。<span>Meaning: <strong>zoo; zoological garden</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p28-q16",
-      "questionHtml": "<p>この国の大規模な「港湾」都市は、貿易の拠点として発展した。「港湾」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>この{地域|ちいき}では「港湾」の{整備|せいび}が{進|すす}み、{大型船|おおがたせん}が{利用|りよう}できるようになりました。「港湾」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "こうわん" },
-        { "id": "b", "html": "みなとわん" },
-        { "id": "c", "html": "こうばんで" },
-        { "id": "d", "html": "ごうわん" }
+        { "id": "a", "html": "こうがん" },
+        { "id": "b", "html": "こうわん" },
+        { "id": "c", "html": "みなとわん" },
+        { "id": "d", "html": "こうばん" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>港湾（こうわん）と読みます。<span>Meaning: <strong>harbour, harbor</strong></span></p>"
+      "correctAnswer": "b",
+      "explanationHtml": "<p>港湾（こうわん）と読みます。<span>Meaning: <strong>harbour; harbor; port facilities</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p28-q17",
-      "questionHtml": "<p>波が穏やかな「港内」で、小型のボートを走らせた。「港内」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{台風|たいふう}が{近|ちか}づいているため、{多|おお}くの{船|ふね}が「港内」に{避難|ひなん}しています。「港内」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "みなとうち" },
-        { "id": "b", "html": "こうない" },
-        { "id": "c", "html": "ごうない" },
+        { "id": "a", "html": "こうない" },
+        { "id": "b", "html": "こうだい" },
+        { "id": "c", "html": "みなとない" },
         { "id": "d", "html": "こううち" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>港内（こうない）と読みます。<span>Meaning: <strong>inside the harbour/harbor</strong></span></p>"
+      "correctAnswer": "a",
+      "explanationHtml": "<p>港内（こうない）と読みます。<span>Meaning: <strong>inside the harbour; inside the harbor; within a port</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p28-q18",
-      "questionHtml": "<p>船は「港外」に出ると、スピードを上げて目的地へ向かった。「港外」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>{大型船|おおがたせん}は「港外」で{入港|にゅうこう}の{許可|きょか}を{待|ま}っていました。「港外」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "こうがい" },
-        { "id": "b", "html": "みなとそと" },
-        { "id": "c", "html": "こうそと" },
-        { "id": "d", "html": "ごうがい" }
+        { "id": "a", "html": "こうかい" },
+        { "id": "b", "html": "こうそと" },
+        { "id": "c", "html": "こうがい" },
+        { "id": "d", "html": "みなとがい" }
       ],
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "explanationHtml": "<p>港外（こうがい）と読みます。<span>Meaning: <strong>outside a port or harbor</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p28-q19",
-      "questionHtml": "<p>その古い「港市」は、独特の異国情緒が漂っている。「港市」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>この「港市」は{昔|むかし}から{海外|かいがい}との{貿易|ぼうえき}で{発展|はってん}してきました。「港市」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "みなとまち" },
-        { "id": "b", "html": "こうし" },
-        { "id": "c", "html": "ごうし" },
-        { "id": "d", "html": "こうじ" }
+        { "id": "a", "html": "こういち" },
+        { "id": "b", "html": "みなとし" },
+        { "id": "c", "html": "こうじ" },
+        { "id": "d", "html": "こうし" }
       ],
-      "correctAnswer": "b",
-      "explanationHtml": "<p>港市（こうし）と読みます。<span>Meaning: <strong>port city, harbour city</strong></span></p>"
+      "correctAnswer": "d",
+      "explanationHtml": "<p>港市（こうし）と読みます。<span>Meaning: <strong>port city; harbour city; harbor city</strong></span></p>"
     },
     {
       "id": "N3-Kanji-p28-q20",
-      "questionHtml": "<p>ここは国際的な大型船が往来する重要な「海港」です。「海港」の{読|よ}み{方|かた}はどれですか？</p>",
+      "questionHtml": "<p>この{町|まち}は{古|ふる}くから{重要|じゅうよう}な「海港」として{栄|さか}え、{多|おお}くの{商人|しょうにん}が{訪|おとず}れました。「海港」の{読|よ}み{方|かた}はどれですか？</p>",
       "options": [
-        { "id": "a", "html": "かいこう" },
-        { "id": "b", "html": "うみみなと" },
-        { "id": "c", "html": "かいごう" },
+        { "id": "a", "html": "かいごう" },
+        { "id": "b", "html": "うみこう" },
+        { "id": "c", "html": "かいこう" },
         { "id": "d", "html": "かいみなと" }
       ],
-      "correctAnswer": "a",
-      "explanationHtml": "<p>海港（かいこう）と読みます。<span>Meaning: <strong>port, seaport</strong></span></p>"
+      "correctAnswer": "c",
+      "explanationHtml": "<p>海港（かいこう）と読みます。<span>Meaning: <strong>port; seaport</strong></span></p>"
     }
   ]
 }

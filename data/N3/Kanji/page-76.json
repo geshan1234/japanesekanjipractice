@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 76,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p76-q1",
+      "questionHtml": "<p>{結婚式|けっこんしき}に{出席|しゅっせき}するため、{父|ちち}は「礼服」を{着|き}て{出|で}かけました。「礼服」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "れいぶく" },
+        { "id": "b", "html": "らいふく" },
+        { "id": "c", "html": "れいふく" },
+        { "id": "d", "html": "れいふっく" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>礼服（れいふく）と読みます。<span>Meaning: <strong>formal dress; ceremonial dress; morning dress</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p76-q2",
+      "questionHtml": "<p>{社会|しゃかい}で{働|はたら}くうえでは、{相手|あいて}を{尊重|そんちょう}し、「礼節」を{守|まも}ることが{大切|たいせつ}です。「礼節」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "れいせつ" },
+        { "id": "b", "html": "れいぜつ" },
+        { "id": "c", "html": "らいせつ" },
+        { "id": "d", "html": "れいふし" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>礼節（れいせつ）と読みます。<span>Meaning: <strong>decorum; propriety; politeness</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p76-q3",
+      "questionHtml": "<p>{会議|かいぎ}の{開始時間|かいしじかん}について、{担当者|たんとうしゃ}に「伺う」ことにしました。「伺う」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "うたがう" },
+        { "id": "b", "html": "したがう" },
+        { "id": "c", "html": "うかう" },
+        { "id": "d", "html": "うかがう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>伺う（うかがう）と読みます。<span>Meaning: <strong>to ask; to inquire; to hear; to be told (humble expression)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p76-q4",
+      "questionHtml": "<p>{今朝|けさ}は{電車|でんしゃ}が{止|と}まったため、{学校|がっこう}に「遅刻」してしまいました。「遅刻」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちごく" },
+        { "id": "b", "html": "ちこく" },
+        { "id": "c", "html": "おそこく" },
+        { "id": "d", "html": "ちかく" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>遅刻（ちこく）と読みます。<span>Meaning: <strong>lateness; late arrival; coming late</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p76-q5",
+      "questionHtml": "<p>{道路|どうろ}の{工事|こうじ}は「遅々」として{進|すす}まず、{完成|かんせい}までまだ{時間|じかん}がかかりそうです。「遅々」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちち" },
+        { "id": "b", "html": "おそおそ" },
+        { "id": "c", "html": "ちじ" },
+        { "id": "d", "html": "ちっち" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>遅々（ちち）と読みます。<span>Meaning: <strong>slow; lagging; tardy (especially in the expression 遅々として進まない)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p76-q6",
+      "questionHtml": "<p>{大雨|おおあめ}の{影響|えいきょう}で{飛行機|ひこうき}に「遅延」が{発生|はっせい}し、{出発|しゅっぱつ}が{一時間|いちじかん}{遅|おく}れました。「遅延」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちねん" },
+        { "id": "b", "html": "ちえい" },
+        { "id": "c", "html": "ちえん" },
+        { "id": "d", "html": "おくえん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>遅延（ちえん）と読みます。<span>Meaning: <strong>delay; latency; postponement</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p76-q7",
+      "questionHtml": "<p>{今日|きょう}は{仕事|しごと}が{忙|いそが}しかったので、{家|いえ}に{帰|かえ}る{時間|じかん}がいつもより「遅い」です。「遅い」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おくい" },
+        { "id": "b", "html": "ちい" },
+        { "id": "c", "html": "おぞい" },
+        { "id": "d", "html": "おそい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>遅い（おそい）と読みます。<span>Meaning: <strong>slow; late</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p76-q8",
+      "questionHtml": "<p>{約束|やくそく}の{時間|じかん}に「遅れる」ときは、{必|かなら}ず{相手|あいて}に{連絡|れんらく}してください。「遅れる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "おそる" },
+        { "id": "b", "html": "おくれる" },
+        { "id": "c", "html": "おこれる" },
+        { "id": "d", "html": "ちれる" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>遅れる（おくれる）と読みます。<span>Meaning: <strong>to be late; to be delayed; to fall behind schedule; to be overdue</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p76-q9",
+      "questionHtml": "<p>{初|はじ}めて{作|つく}ったケーキは「失敗」しましたが、{次|つぎ}はもっと{上手|じょうず}に{作|つく}りたいです。「失敗」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しっぱい" },
+        { "id": "b", "html": "しつはい" },
+        { "id": "c", "html": "しっばい" },
+        { "id": "d", "html": "しつばい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>失敗（しっぱい）と読みます。<span>Meaning: <strong>failure; mistake; blunder</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p76-q10",
+      "questionHtml": "<p>{相手|あいて}の{話|はなし}を{途中|とちゅう}で{止|と}めるのは「失礼」なので、{最後|さいご}まで{聞|き}きましょう。「失礼」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しつらい" },
+        { "id": "b", "html": "しちれい" },
+        { "id": "c", "html": "しつれい" },
+        { "id": "d", "html": "しっれい" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>失礼（しつれい）と読みます。<span>Meaning: <strong>impoliteness; discourtesy; rudeness</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p76-q11",
+      "questionHtml": "<p>{会社|かいしゃ}が{倒産|とうさん}したため、{多|おお}くの{社員|しゃいん}が「失業」し、{新|あたら}しい{仕事|しごと}を{探|さが}しています。「失業」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しつごう" },
+        { "id": "b", "html": "しつぎょう" },
+        { "id": "c", "html": "しっぎょう" },
+        { "id": "d", "html": "しつきょう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>失業（しつぎょう）と読みます。<span>Meaning: <strong>unemployment; loss of employment</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p76-q12",
+      "questionHtml": "<p>{友達|ともだち}は「失恋」して{落|お}ち{込|こ}んでいましたが、{最近|さいきん}は{少|すこ}しずつ{元気|げんき}になってきました。「失恋」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しつれい" },
+        { "id": "b", "html": "しつねん" },
+        { "id": "c", "html": "しっれん" },
+        { "id": "d", "html": "しつれん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>失恋（しつれん）と読みます。<span>Meaning: <strong>broken heart; disappointed love; heartbreak</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p76-q13",
+      "questionHtml": "<p>{試験|しけん}の{結果|けっか}が{思|おも}ったより{悪|わる}く、{自分|じぶん}の{努力|どりょく}が{足|た}りなかったことに「失望」しました。「失望」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しつぼう" },
+        { "id": "b", "html": "しつもう" },
+        { "id": "c", "html": "しっぽう" },
+        { "id": "d", "html": "しつほう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>失望（しつぼう）と読みます。<span>Meaning: <strong>disappointment; despair; loss of hope</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p76-q14",
+      "questionHtml": "<p>{台風|たいふう}で{工場|こうじょう}が{被害|ひがい}を{受|う}け、{会社|かいしゃ}は{大|おお}きな「損失」を{出|だ}しました。「損失」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そんじつ" },
+        { "id": "b", "html": "そんしち" },
+        { "id": "c", "html": "そんしつ" },
+        { "id": "d", "html": "ぞんしつ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>損失（そんしつ）と読みます。<span>Meaning: <strong>loss; financial loss; loss of profits</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p76-q15",
+      "questionHtml": "<p>{事故|じこ}の{原因|げんいん}を{調|しら}べた{結果|けっか}、{運転手|うんてんしゅ}に「過失」があったことが{分|わ}かりました。「過失」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かじつ" },
+        { "id": "b", "html": "かしつ" },
+        { "id": "c", "html": "かしち" },
+        { "id": "d", "html": "がしつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>過失（かしつ）と読みます。<span>Meaning: <strong>error; blunder; negligence; fault</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p76-q16",
+      "questionHtml": "<p>{明日|あした}は{朝|あさ}から{予定|よてい}があるので、{今日|きょう}の{集|あつ}まりは{少|すこ}し{早|はや}めに「失礼する」つもりです。「失礼する」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しつらいする" },
+        { "id": "b", "html": "しちれいする" },
+        { "id": "c", "html": "しっれいする" },
+        { "id": "d", "html": "しつれいする" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>失礼する（しつれいする）と読みます。<span>Meaning: <strong>to excuse oneself; to leave politely; to behave impolitely</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p76-q17",
+      "questionHtml": "<p>{暑|あつ}い{日|ひ}に{外|そと}で{運動|うんどう}したので、{顔|かお}から「汗」が{流|なが}れてきました。「汗」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あせ" },
+        { "id": "b", "html": "あぜ" },
+        { "id": "c", "html": "かん" },
+        { "id": "d", "html": "あし" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>汗（あせ）と読みます。<span>Meaning: <strong>sweat; perspiration</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p76-q18",
+      "questionHtml": "<p>{夏|なつ}に{外|そと}で{走|はし}ると、すぐに「汗をかく」ので、{水|みず}をたくさん{飲|の}むようにしています。「汗をかく」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あせをきく" },
+        { "id": "b", "html": "かんをかく" },
+        { "id": "c", "html": "あせをかく" },
+        { "id": "d", "html": "あせをかける" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>汗をかく（あせをかく）と読みます。<span>Meaning: <strong>to perspire; to sweat</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p76-q19",
+      "questionHtml": "<p>{楽|たの}しみにしていた{旅行|りょこう}が{大雨|おおあめ}で{中止|ちゅうし}になってしまい、とても「残念」です。「残念」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さんねん" },
+        { "id": "b", "html": "ざんねん" },
+        { "id": "c", "html": "ざんれん" },
+        { "id": "d", "html": "ざんにん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>残念（ざんねん）と読みます。<span>Meaning: <strong>regret; disappointment; unfortunate; too bad</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p76-q20",
+      "questionHtml": "<p>{卒業|そつぎょう}の「記念」に、クラスの{友達|ともだち}と{一緒|いっしょ}に{写真|しゃしん}を{撮|と}りました。「記念」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きねん" },
+        { "id": "b", "html": "ぎねん" },
+        { "id": "c", "html": "きれん" },
+        { "id": "d", "html": "きなん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>記念（きねん）と読みます。<span>Meaning: <strong>commemoration; celebration; remembrance</strong></span></p>"
+    }
+  ]
+}

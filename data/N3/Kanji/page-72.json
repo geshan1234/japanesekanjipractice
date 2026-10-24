@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 72,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p72-q1",
+      "questionHtml": "<p>{旅行|りょこう}に{行|い}く{間|あいだ}、{飼|か}っている{犬|いぬ}を{友達|ともだち}に「預ける」ことにしました。「預ける」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あずかる" },
+        { "id": "b", "html": "あつける" },
+        { "id": "c", "html": "あずける" },
+        { "id": "d", "html": "あずけた" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>預ける（あずける）と読みます。<span>Meaning: <strong>to entrust; to deposit; to leave someone or something in another person's care</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p72-q2",
+      "questionHtml": "<p>{友達|ともだち}が{旅行|りょこう}に{行|い}くので、{三日間|みっかかん}その{人|ひと}の{猫|ねこ}を「預かる」ことになりました。「預かる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あずかる" },
+        { "id": "b", "html": "あずける" },
+        { "id": "c", "html": "あつかる" },
+        { "id": "d", "html": "あずかれる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>預かる（あずかる）と読みます。<span>Meaning: <strong>to take charge of; to keep in one's care; to look after</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p72-q3",
+      "questionHtml": "<p>{寒|さむ}い{季節|きせつ}になると、{厚|あつ}い「衣服」を{着|き}て{体|からだ}を{温|あたた}かくすることが{大切|たいせつ}です。「衣服」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いふっく" },
+        { "id": "b", "html": "いぶく" },
+        { "id": "c", "html": "ころもふく" },
+        { "id": "d", "html": "いふく" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>衣服（いふく）と読みます。<span>Meaning: <strong>clothes; clothing; garments</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p72-q4",
+      "questionHtml": "<p>{引|ひ}っ{越|こ}しの{前|まえ}に、もう{着|き}なくなった「衣類」を{整理|せいり}して、{必要|ひつよう}なものだけを{残|のこ}しました。「衣類」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いるい" },
+        { "id": "b", "html": "いるえ" },
+        { "id": "c", "html": "ころもるい" },
+        { "id": "d", "html": "いりゅう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>衣類（いるい）と読みます。<span>Meaning: <strong>clothes; clothing; garments</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p72-q5",
+      "questionHtml": "<p>{来週|らいしゅう}の{日本語|にほんご}スピーチ{大会|たいかい}に「参加」するため、{毎日|まいにち}{練習|れんしゅう}しています。「参加」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さんが" },
+        { "id": "b", "html": "さんか" },
+        { "id": "c", "html": "ざんか" },
+        { "id": "d", "html": "さんけ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>参加（さんか）と読みます。<span>Meaning: <strong>participation; joining; taking part</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p72-q6",
+      "questionHtml": "<p>{旅行|りょこう}の{計画|けいかく}を{立|た}てるとき、インターネットの{情報|じょうほう}を「参考」にしました。「参考」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さんごう" },
+        { "id": "b", "html": "さんこ" },
+        { "id": "c", "html": "さんこう" },
+        { "id": "d", "html": "ざんこう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>参考（さんこう）と読みます。<span>Meaning: <strong>reference; consultation; information used as a guide</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p72-q7",
+      "questionHtml": "<p>{面接|めんせつ}に{来|く}るときは、{履歴書|りれきしょ}と{身分証明書|みぶんしょうめいしょ}を「持参」してください。「持参」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じさん" },
+        { "id": "b", "html": "じざん" },
+        { "id": "c", "html": "もちさん" },
+        { "id": "d", "html": "じせん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>持参（じさん）と読みます。<span>Meaning: <strong>bringing; taking; carrying something along</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p72-q8",
+      "questionHtml": "<p>{母|はは}はカレーを{作|つく}るために、スーパーで「人参」やじゃがいもを{買|か}いました。「人参」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ひとさん" },
+        { "id": "b", "html": "にんさん" },
+        { "id": "c", "html": "じんじん" },
+        { "id": "d", "html": "にんじん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>人参（にんじん）と読みます。<span>Meaning: <strong>carrot</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p72-q9",
+      "questionHtml": "<p>{祖母|そぼ}は{毎朝|まいあさ}{近|ちか}くの{神社|じんじゃ}に「日参」して、{家族|かぞく}の{健康|けんこう}を{祈|いの}っています。「日参」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "にちさん" },
+        { "id": "b", "html": "にっさん" },
+        { "id": "c", "html": "ひさん" },
+        { "id": "d", "html": "にっざん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>日参（にっさん）と読みます。<span>Meaning: <strong>daily visit; frequent visit, especially for worship</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p72-q10",
+      "questionHtml": "<p>{何度|なんど}も{挑戦|ちょうせん}しましたが、どうしても{問題|もんだい}が{解|と}けず、ついに「降参」しました。「降参」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうざん" },
+        { "id": "b", "html": "ごうさん" },
+        { "id": "c", "html": "こうさん" },
+        { "id": "d", "html": "こうせん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>降参（こうさん）と読みます。<span>Meaning: <strong>surrender; submission; giving up</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p72-q11",
+      "questionHtml": "<p>{明日|あした}の{午後|ごご}、{私|わたし}がそちらへ「参る」{予定|よてい}ですので、よろしくお{願|ねが}いいたします。「参る」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さんる" },
+        { "id": "b", "html": "まわる" },
+        { "id": "c", "html": "まいる" },
+        { "id": "d", "html": "まえる" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>参る（まいる）と読みます。<span>Meaning: <strong>to go; to come; to visit (humble expression)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p72-q12",
+      "questionHtml": "<p>{日本語|にほんご}の{文法|ぶんぽう}が{分|わ}からないときは、この「参考書」を{使|つか}って{調|しら}べています。「参考書」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "さんこうじょ" },
+        { "id": "b", "html": "さんこうしょ" },
+        { "id": "c", "html": "ざんこうしょ" },
+        { "id": "d", "html": "さんこしょ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>参考書（さんこうしょ）と読みます。<span>Meaning: <strong>reference book; study guide</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p72-q13",
+      "questionHtml": "<p>{注文|ちゅうもん}した{荷物|にもつ}の「配達」は、{明日|あした}の{午前中|ごぜんちゅう}に{予定|よてい}されています。「配達」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はいたつ" },
+        { "id": "b", "html": "はいだつ" },
+        { "id": "c", "html": "はいたち" },
+        { "id": "d", "html": "はいとう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>配達（はいたつ）と読みます。<span>Meaning: <strong>delivery; distribution</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p72-q14",
+      "questionHtml": "<p>{急|いそ}いで{書類|しょるい}を{送|おく}る{必要|ひつよう}があったので、{郵便局|ゆうびんきょく}から「速達」で{出|だ}しました。「速達」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "そくだち" },
+        { "id": "b", "html": "ぞくたつ" },
+        { "id": "c", "html": "そくたち" },
+        { "id": "d", "html": "そくたつ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>速達（そくたつ）と読みます。<span>Meaning: <strong>express delivery; special delivery; expedited mail</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p72-q15",
+      "questionHtml": "<p>{高校|こうこう}のときの「友達」とは、{卒業|そつぎょう}してからも{時々|ときどき}{連絡|れんらく}を{取|と}っています。「友達」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ともたち" },
+        { "id": "b", "html": "ともだち" },
+        { "id": "c", "html": "ゆうだち" },
+        { "id": "d", "html": "ともだつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>友達（ともだち）と読みます。<span>Meaning: <strong>friend; companion</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p72-q16",
+      "questionHtml": "<p>{毎日|まいにち}{練習|れんしゅう}を{続|つづ}けたおかげで、{日本語|にほんご}の{会話|かいわ}がかなり「上達」しました。「上達」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じょうだつ" },
+        { "id": "b", "html": "じょうたち" },
+        { "id": "c", "html": "じょうたつ" },
+        { "id": "d", "html": "うえたつ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>上達（じょうたつ）と読みます。<span>Meaning: <strong>improvement in skill or ability; progress; advancement</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p72-q17",
+      "questionHtml": "<p>{父|ちち}は{毎朝|まいあさ}{電車|でんしゃ}で「通勤」していて、{会社|かいしゃ}まで{一時間|いちじかん}ほどかかります。「通勤」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "つうぎん" },
+        { "id": "b", "html": "とおきん" },
+        { "id": "c", "html": "つきん" },
+        { "id": "d", "html": "つうきん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>通勤（つうきん）と読みます。<span>Meaning: <strong>commuting to work</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p72-q18",
+      "questionHtml": "<p>{兄|あに}は{来月|らいげつ}から{大阪|おおさか}の{支店|してん}に「転勤」することになり、{引|ひ}っ{越|こ}しの{準備|じゅんび}をしています。「転勤」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "てんきん" },
+        { "id": "b", "html": "でんきん" },
+        { "id": "c", "html": "てんぎん" },
+        { "id": "d", "html": "てんこん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>転勤（てんきん）と読みます。<span>Meaning: <strong>job transfer; relocation to another workplace or branch</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p72-q19",
+      "questionHtml": "<p>{今日|きょう}は{朝|あさ}から{大雨|おおあめ}でしたが、いつもどおり{九時|くじ}までに「出勤」しました。「出勤」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "できん" },
+        { "id": "b", "html": "しゅっきん" },
+        { "id": "c", "html": "しゅつぎん" },
+        { "id": "d", "html": "しゅっこん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>出勤（しゅっきん）と読みます。<span>Meaning: <strong>going to work; reporting for duty; attendance at work</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p72-q20",
+      "questionHtml": "<p>{田中|たなか}さんは{熱|ねつ}があるため、{今日|きょう}は{会社|かいしゃ}を「欠勤」するそうです。「欠勤」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けつきん" },
+        { "id": "b", "html": "けっぎん" },
+        { "id": "c", "html": "けっきん" },
+        { "id": "d", "html": "かっきん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>欠勤（けっきん）と読みます。<span>Meaning: <strong>absence from work; failure to report for duty</strong></span></p>"
+    }
+  ]
+}

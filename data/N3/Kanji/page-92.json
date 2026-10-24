@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 92,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p92-q1",
+      "questionHtml": "<p>{大雪|おおゆき}が{降|ふ}ったため、{朝|あさ}から{道路|どうろ}の「除雪」{作業|さぎょう}が{行|おこな}われています。「除雪」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じょせつ" },
+        { "id": "b", "html": "じょうせつ" },
+        { "id": "c", "html": "じょぜつ" },
+        { "id": "d", "html": "じょゆき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>除雪（じょせつ）と読みます。<span>Meaning: <strong>snow removal; clearing away snow</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p92-q2",
+      "questionHtml": "<p>{今年|ことし}の{冬|ふゆ}は「積雪」が{多|おお}く、{山|やま}の{道路|どうろ}が{何度|なんど}も{通行止|つうこうど}めになりました。「積雪」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せっせつ" },
+        { "id": "b", "html": "せきぜつ" },
+        { "id": "c", "html": "せきせつ" },
+        { "id": "d", "html": "つみゆき" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>積雪（せきせつ）と読みます。<span>Meaning: <strong>fallen snow; accumulated snow; snow cover</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p92-q3",
+      "questionHtml": "<p>{昨日|きのう}の{夜|よる}に{降|ふ}った「新雪」が、{朝|あさ}の{光|ひかり}を{受|う}けて{白|しろ}く{輝|かがや}いていました。「新雪」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんぜつ" },
+        { "id": "b", "html": "しんせつ" },
+        { "id": "c", "html": "あらゆき" },
+        { "id": "d", "html": "しんゆき" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>新雪（しんせつ）と読みます。<span>Meaning: <strong>fresh snow; new snow</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p92-q4",
+      "questionHtml": "<p>{朝|あさ}{起|お}きて{窓|まど}を{開|あ}けると、{庭|にわ}に「雪」が{積|つ}もっていました。「雪」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せつ" },
+        { "id": "b", "html": "ゆく" },
+        { "id": "c", "html": "ゆぎ" },
+        { "id": "d", "html": "ゆき" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>雪（ゆき）と読みます。<span>Meaning: <strong>snow</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p92-q5",
+      "questionHtml": "<p>{祖父|そふ}は「雪国」で{育|そだ}ったので、{寒|さむ}い{冬|ふゆ}の{生活|せいかつ}に{慣|な}れています。「雪国」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ゆきぐに" },
+        { "id": "b", "html": "ゆきくに" },
+        { "id": "c", "html": "せっこく" },
+        { "id": "d", "html": "ゆぎぐに" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>雪国（ゆきぐに）と読みます。<span>Meaning: <strong>snow country; snowy region</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p92-q6",
+      "questionHtml": "<p>{昨夜|さくや}{大|おお}きな「地震」が{起|お}きたため、{多|おお}くの{人|ひと}が{避難|ひなん}しました。「地震」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ちしん" },
+        { "id": "b", "html": "じじん" },
+        { "id": "c", "html": "じしん" },
+        { "id": "d", "html": "じしゅん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>地震（じしん）と読みます。<span>Meaning: <strong>earthquake</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p92-q7",
+      "questionHtml": "<p>{大|おお}きな{地震|じしん}のあとも「余震」が{続|つづ}くことがあるので、{十分|じゅうぶん}に{注意|ちゅうい}してください。「余震」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よじん" },
+        { "id": "b", "html": "よしん" },
+        { "id": "c", "html": "よしゅん" },
+        { "id": "d", "html": "あましん" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>余震（よしん）と読みます。<span>Meaning: <strong>aftershock; secondary earthquake</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p92-q8",
+      "questionHtml": "<p>{昨夜|さくや}は「微震」が{観測|かんそく}されましたが、{気|き}づかなかった{人|ひと}も{多|おお}かったようです。「微震」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "びじん" },
+        { "id": "b", "html": "みしん" },
+        { "id": "c", "html": "びしゅん" },
+        { "id": "d", "html": "びしん" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>微震（びしん）と読みます。<span>Meaning: <strong>slight earthquake; minor tremor</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p92-q9",
+      "questionHtml": "<p>{今回|こんかい}の{地震|じしん}では、{市内|しない}で「震度」{四|よん}が{観測|かんそく}されました。「震度」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんど" },
+        { "id": "b", "html": "じんど" },
+        { "id": "c", "html": "しんとう" },
+        { "id": "d", "html": "しんたく" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>震度（しんど）と読みます。<span>Meaning: <strong>seismic intensity; degree of earthquake shaking</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p92-q10",
+      "questionHtml": "<p>{学校|がっこう}では、{過去|かこ}の「震災」から{学|まな}び、{災害|さいがい}への{備|そな}えについて{話|はな}し{合|あ}いました。「震災」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんざい" },
+        { "id": "b", "html": "しんさい" },
+        { "id": "c", "html": "じんさい" },
+        { "id": "d", "html": "しんせい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>震災（しんさい）と読みます。<span>Meaning: <strong>earthquake disaster; damage caused by an earthquake</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p92-q11",
+      "questionHtml": "<p>{工事現場|こうじげんば}から{大|おお}きな「震動」が{伝|つた}わり、{近|ちか}くの{建物|たてもの}が{少|すこ}し{揺|ゆ}れました。「震動」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "しんとう" },
+        { "id": "b", "html": "じんどう" },
+        { "id": "c", "html": "しんどう" },
+        { "id": "d", "html": "しんど" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>震動（しんどう）と読みます。<span>Meaning: <strong>shock; tremor; vibration; shaking</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p92-q12",
+      "questionHtml": "<p>{山|やま}の{中|なか}ではスマートフォンの「電波」が{弱|よわ}くなり、{電話|でんわ}がつながりにくいことがあります。「電波」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "でんば" },
+        { "id": "b", "html": "てんぱ" },
+        { "id": "c", "html": "でんは" },
+        { "id": "d", "html": "でんぱ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>電波（でんぱ）と読みます。<span>Meaning: <strong>radio wave; electromagnetic wave; reception; signal</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p92-q13",
+      "questionHtml": "<p>{今日|きょう}は{風|かぜ}が{強|つよ}いため、{海|うみ}の「波」がとても{高|たか}くなっています。「波」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "なみ" },
+        { "id": "b", "html": "は" },
+        { "id": "c", "html": "なび" },
+        { "id": "d", "html": "ぱ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>波（なみ）と読みます。<span>Meaning: <strong>wave; ocean wave</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p92-q14",
+      "questionHtml": "<p>{大|おお}きな{地震|じしん}のあとには「津波」が{発生|はっせい}することがあるので、{海岸|かいがん}から{離|はな}れてください。「津波」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "つばみ" },
+        { "id": "b", "html": "つなみ" },
+        { "id": "c", "html": "しんぱ" },
+        { "id": "d", "html": "つは" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>津波（つなみ）と読みます。<span>Meaning: <strong>tsunami; seismic sea wave</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p92-q15",
+      "questionHtml": "<p>{多|おお}くの{人|ひと}は、{仕事|しごと}に{安定|あんてい}した{収入|しゅうにゅう}ややりがいを「求める」ものです。「求める」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きゅうめる" },
+        { "id": "b", "html": "もどめる" },
+        { "id": "c", "html": "もとめる" },
+        { "id": "d", "html": "もためる" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>求める（もとめる）と読みます。<span>Meaning: <strong>to seek; to want; to request; to wish for</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p92-q16",
+      "questionHtml": "<p>{社員|しゃいん}たちは{会社|かいしゃ}に{対|たい}して、{労働環境|ろうどうかんきょう}の{改善|かいぜん}を「要求」しました。「要求」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ようぐう" },
+        { "id": "b", "html": "よきゅう" },
+        { "id": "c", "html": "ようきょう" },
+        { "id": "d", "html": "ようきゅう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>要求（ようきゅう）と読みます。<span>Meaning: <strong>demand; firm request; requirement; requisition</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p92-q17",
+      "questionHtml": "<p>{駅前|えきまえ}のレストランに「求人」の{広告|こうこく}が{貼|は}ってあったので、{応募|おうぼ}してみることにしました。「求人」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きゅうじん" },
+        { "id": "b", "html": "きゅうにん" },
+        { "id": "c", "html": "ぐじん" },
+        { "id": "d", "html": "もとじん" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>求人（きゅうじん）と読みます。<span>Meaning: <strong>recruitment; job opening; help wanted</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p92-q18",
+      "questionHtml": "<p>{商品|しょうひん}が{届|とど}いたあと、{会社|かいしゃ}から「請求書」がメールで{送|おく}られてきました。「請求書」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいきゅうじょ" },
+        { "id": "b", "html": "せいきゅうしょ" },
+        { "id": "c", "html": "せいぐうしょ" },
+        { "id": "d", "html": "しょうきゅうしょ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>請求書（せいきゅうしょ）と読みます。<span>Meaning: <strong>invoice; bill; statement requesting payment</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p92-q19",
+      "questionHtml": "<p>{学校|がっこう}では、{災害|さいがい}で{困|こま}っている{人々|ひとびと}を{支援|しえん}するために「募金」{活動|かつどう}を{行|おこな}いました。「募金」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぼぎん" },
+        { "id": "b", "html": "もきん" },
+        { "id": "c", "html": "ぼきん" },
+        { "id": "d", "html": "ぼっきん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>募金（ぼきん）と読みます。<span>Meaning: <strong>fundraising; collection of donations; collection of funds</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p92-q20",
+      "questionHtml": "<p>{市|し}では{新|あたら}しい{公園|こうえん}のデザインを「公募」することになり、{多|おお}くの{作品|さくひん}が{集|あつ}まりました。「公募」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうほ" },
+        { "id": "b", "html": "こうも" },
+        { "id": "c", "html": "ごうぼ" },
+        { "id": "d", "html": "こうぼ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>公募（こうぼ）と読みます。<span>Meaning: <strong>open recruitment; public invitation for applications; open call</strong></span></p>"
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 91,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p91-q1",
+      "questionHtml": "<p>{大雨|おおあめ}の「警報」が{出|で}たため、{学校|がっこう}は{午後|ごご}の{授業|じゅぎょう}を{中止|ちゅうし}しました。「警報」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けいぼう" },
+        { "id": "b", "html": "けいほう" },
+        { "id": "c", "html": "きょうほう" },
+        { "id": "d", "html": "けほう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>警報（けいほう）と読みます。<span>Meaning: <strong>alarm; warning; alert</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p91-q2",
+      "questionHtml": "<p>{近所|きんじょ}で{火事|かじ}を{見|み}つけた{人|ひと}が、すぐに{消防署|しょうぼうしょ}へ「通報」しました。「通報」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "つうぼう" },
+        { "id": "b", "html": "つほう" },
+        { "id": "c", "html": "とうほう" },
+        { "id": "d", "html": "つうほう" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>通報（つうほう）と読みます。<span>Meaning: <strong>report; notification; tip; bulletin</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p91-q3",
+      "questionHtml": "<p>{社員|しゃいん}は{毎日|まいにち}、{仕事|しごと}が{終|お}わる{前|まえ}に「日報」を{書|か}いて{上司|じょうし}に{提出|ていしゅつ}します。「日報」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "にっぽう" },
+        { "id": "b", "html": "にちほう" },
+        { "id": "c", "html": "にっぼう" },
+        { "id": "d", "html": "ひほう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>日報（にっぽう）と読みます。<span>Meaning: <strong>daily report; daily bulletin</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p91-q4",
+      "questionHtml": "<p>{長|なが}い{間|あいだ}{病院|びょういん}にいた{友達|ともだち}が{退院|たいいん}できるという「朗報」を{聞|き}き、みんなで{喜|よろこ}びました。「朗報」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ろうぼう" },
+        { "id": "b", "html": "ろほう" },
+        { "id": "c", "html": "ろうほう" },
+        { "id": "d", "html": "ろうぽう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>朗報（ろうほう）と読みます。<span>Meaning: <strong>good news; glad tidings</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p91-q5",
+      "questionHtml": "<p>{明日|あした}の{天気|てんき}「予報」によると、{午後|ごご}から{雨|あめ}が{降|ふ}るそうです。「予報」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "よぼう" },
+        { "id": "b", "html": "よほう" },
+        { "id": "c", "html": "ようほう" },
+        { "id": "d", "html": "よぽう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>予報（よほう）と読みます。<span>Meaning: <strong>forecast; prediction</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p91-q6",
+      "questionHtml": "<p>{山|やま}の{天気|てんき}は{変|か}わりやすいので、「晴雨」にかかわらず{準備|じゅんび}をしっかりしてください。「晴雨」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいう" },
+        { "id": "b", "html": "はれあめ" },
+        { "id": "c", "html": "せいゆう" },
+        { "id": "d", "html": "しょうう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>晴雨（せいう）と読みます。<span>Meaning: <strong>clear or rainy weather; sunshine and rain</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p91-q7",
+      "questionHtml": "<p>{試験|しけん}が{無事|ぶじ}に{終|お}わったので、{今|いま}は「晴々」とした{気分|きぶん}です。「晴々」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はればれ" },
+        { "id": "b", "html": "せいせん" },
+        { "id": "c", "html": "せいせい" },
+        { "id": "d", "html": "はれはれ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>晴々（せいせい）と読みます。<span>Meaning: <strong>feeling refreshed; feeling relieved; feeling clear and cheerful</strong></span> Note: 晴々 is more commonly read はればれ in expressions such as 晴々とした気分. せいせい is usually written 清々 or せいせい.</p>"
+    },
+    {
+      "id": "N3-Kanji-p91-q8",
+      "questionHtml": "<p>{春|はる}の{山|やま}では「陰晴」の{変化|へんか}が{激|はげ}しく、{急|きゅう}に{雲|くも}が{広|ひろ}がることがあります。「陰晴」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "いんしょう" },
+        { "id": "b", "html": "かげばれ" },
+        { "id": "c", "html": "いんぜい" },
+        { "id": "d", "html": "いんせい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>陰晴（いんせい）と読みます。<span>Meaning: <strong>alternating cloudy and clear weather; unsettled weather</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p91-q9",
+      "questionHtml": "<p>{旅行|りょこう}の{当日|とうじつ}は「好晴」に{恵|めぐ}まれ、{美|うつく}しい{景色|けしき}を{楽|たの}しめました。「好晴」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうせい" },
+        { "id": "b", "html": "こうぜい" },
+        { "id": "c", "html": "こうしょう" },
+        { "id": "d", "html": "よしばれ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>好晴（こうせい）と読みます。<span>Meaning: <strong>clear weather; good weather; fine weather</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p91-q10",
+      "questionHtml": "<p>{朝|あさ}から「晴朗」な{空|そら}が{広|ひろ}がり、{絶好|ぜっこう}の{遠足日和|えんそくびより}となりました。「晴朗」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいろ" },
+        { "id": "b", "html": "せいろう" },
+        { "id": "c", "html": "せいろく" },
+        { "id": "d", "html": "はれろう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>晴朗（せいろう）と読みます。<span>Meaning: <strong>clear; fair; fine; serene</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p91-q11",
+      "questionHtml": "<p>{運動会|うんどうかい}の{日|ひ}は「晴天」に{恵|めぐ}まれ、{子供|こども}たちは{元気|げんき}に{走|はし}りました。「晴天」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せいでん" },
+        { "id": "b", "html": "はれてん" },
+        { "id": "c", "html": "せいてん" },
+        { "id": "d", "html": "しょうてん" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>晴天（せいてん）と読みます。<span>Meaning: <strong>fine weather; fair weather; clear sky</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p91-q12",
+      "questionHtml": "<p>{午後|ごご}には{雨|あめ}がやんで「晴れる」そうなので、{散歩|さんぽ}に{行|い}こうと{思|おも}います。「晴れる」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "せれる" },
+        { "id": "b", "html": "はられる" },
+        { "id": "c", "html": "はれれる" },
+        { "id": "d", "html": "はれる" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>晴れる（はれる）と読みます。<span>Meaning: <strong>to become sunny; to clear up; to be fine weather</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p91-q13",
+      "questionHtml": "<p>{明日|あした}は「晴れ」の{予報|よほう}なので、{家族|かぞく}と{公園|こうえん}へ{行|い}く{予定|よてい}です。「晴れ」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "はれ" },
+        { "id": "b", "html": "せい" },
+        { "id": "c", "html": "はら" },
+        { "id": "d", "html": "はる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>晴れ（はれ）と読みます。<span>Meaning: <strong>clear weather; fine weather; sunny weather</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p91-q14",
+      "questionHtml": "<p>{空|そら}に{大|おお}きな{白|しろ}い「雲」が{浮|う}かんでいて、とても{美|うつく}しかったです。「雲」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "うん" },
+        { "id": "b", "html": "くも" },
+        { "id": "c", "html": "ぐも" },
+        { "id": "d", "html": "くま" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>雲（くも）と読みます。<span>Meaning: <strong>cloud</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p91-q15",
+      "questionHtml": "<p>{先生|せんせい}の{熱|あつ}い{言葉|ことば}は、{生徒|せいと}たちの{挑戦|ちょうせん}する{気持|きも}ちを「鼓吹」しました。「鼓吹」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こふき" },
+        { "id": "b", "html": "こずい" },
+        { "id": "c", "html": "こすい" },
+        { "id": "d", "html": "こふう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>鼓吹（こすい）と読みます。<span>Meaning: <strong>encouragement; inspiration; rousing courage or morale</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p91-q16",
+      "questionHtml": "<p>{春|はる}になると、{暖|あたた}かい{風|かぜ}が「吹く」{日|ひ}が{多|おお}くなります。「吹く」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "すく" },
+        { "id": "b", "html": "ふき" },
+        { "id": "c", "html": "ふぐ" },
+        { "id": "d", "html": "ふく" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>吹く（ふく）と読みます。<span>Meaning: <strong>to blow; to breathe out; to play a wind instrument</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p91-q17",
+      "questionHtml": "<p>{昔|むかし}の{映画|えいが}には、{主人公|しゅじんこう}がたばこを「吹かす」{場面|ばめん}がよく{出|で}てきます。「吹かす」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふかす" },
+        { "id": "b", "html": "ふくす" },
+        { "id": "c", "html": "ふがす" },
+        { "id": "d", "html": "すかす" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>吹かす（ふかす）と読みます。<span>Meaning: <strong>to puff on a cigarette or pipe; to puff out smoke; to rev an engine</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p91-q18",
+      "questionHtml": "<p>{今日|きょう}は「暖かい」{天気|てんき}なので、{外|そと}で{昼|ひる}ご{飯|はん}を{食|た}べましょう。「暖かい」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "あったかい" },
+        { "id": "b", "html": "あたたかい" },
+        { "id": "c", "html": "だんかい" },
+        { "id": "d", "html": "あたかい" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>暖かい（あたたかい）と読みます。<span>Meaning: <strong>warm; mild; genial</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p91-q19",
+      "questionHtml": "<p>{冬|ふゆ}は{部屋|へや}が{寒|さむ}くなるので、「暖房」をつけて{過|す}ごしています。「暖房」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "だんほう" },
+        { "id": "b", "html": "たんぼう" },
+        { "id": "c", "html": "だんぼう" },
+        { "id": "d", "html": "だんぽう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>暖房（だんぼう）と読みます。<span>Meaning: <strong>indoor heating; heating system</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p91-q20",
+      "questionHtml": "<p>{山間部|さんかんぶ}では{今夜|こんや}から「降雪」が{予想|よそう}されているため、{車|くるま}の{運転|うんてん}に{注意|ちゅうい}が{必要|ひつよう}です。「降雪」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こうぜつ" },
+        { "id": "b", "html": "ごうせつ" },
+        { "id": "c", "html": "ふりゆき" },
+        { "id": "d", "html": "こうせつ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>降雪（こうせつ）と読みます。<span>Meaning: <strong>snowfall; falling snow</strong></span></p>"
+    }
+  ]
+}

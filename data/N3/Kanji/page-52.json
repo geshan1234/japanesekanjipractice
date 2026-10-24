@@ -1,0 +1,252 @@
+
+{
+  "metadata": {
+    "level": "N3",
+    "questionType": "Kanji",
+    "page": 52,
+    "questionsPerPage": 20,
+    "description": "Edit these questions, options, correctAnswer, and explanationHtml."
+  },
+  "questions": [
+    {
+      "id": "N3-Kanji-p52-q1",
+      "questionHtml": "<p>この{会社|かいしゃ}は、{海外|かいがい}でも{活躍|かつやく}できる{優秀|ゆうしゅう}な「人材」を{探|さが}しています。「人材」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "じんざい" },
+        { "id": "b", "html": "にんざい" },
+        { "id": "c", "html": "じんさい" },
+        { "id": "d", "html": "ひとざい" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>人材（じんざい）と読みます。<span>Meaning: <strong>capable person; talented person</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p52-q2",
+      "questionHtml": "<p>このテーブルは「材質」がよく、{長|なが}い{間|あいだ}{使|つか}っても{傷|きず}がつきにくいです。「材質」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ざいじつ" },
+        { "id": "b", "html": "ざいしつ" },
+        { "id": "c", "html": "さいしつ" },
+        { "id": "d", "html": "ざいひつ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>材質（ざいしつ）と読みます。<span>Meaning: <strong>material; material quality</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p52-q3",
+      "questionHtml": "<p>{学生|がくせい}たちは、{環境問題|かんきょうもんだい}を「題材」にして{作文|さくぶん}を{書|か}きました。「題材」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "だいさい" },
+        { "id": "b", "html": "たいざい" },
+        { "id": "c", "html": "だいざい" },
+        { "id": "d", "html": "だいしつ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>題材（だいざい）と読みます。<span>Meaning: <strong>subject; theme</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p52-q4",
+      "questionHtml": "<p>この{橋|はし}の{建設|けんせつ}には、{丈夫|じょうぶ}で{品質|ひんしつ}の{高|たか}い「鋼材」が{使|つか}われています。「鋼材」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ごうざい" },
+        { "id": "b", "html": "こうさい" },
+        { "id": "c", "html": "はがねざい" },
+        { "id": "d", "html": "こうざい" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>鋼材（こうざい）と読みます。<span>Meaning: <strong>steel material</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p52-q5",
+      "questionHtml": "<p>{家|いえ}を{建|た}てるために、{工事|こうじ}に{必要|ひつよう}な「建材」を{専門店|せんもんてん}で{注文|ちゅうもん}しました。「建材」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "けんざい" },
+        { "id": "b", "html": "けんさい" },
+        { "id": "c", "html": "たてざい" },
+        { "id": "d", "html": "けんじょう" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>建材（けんざい）と読みます。<span>Meaning: <strong>building material</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p52-q6",
+      "questionHtml": "<p>ケーキを{作|つく}る{前|まえ}に、{必要|ひつよう}な「材料」をすべて{台所|だいどころ}に{用意|ようい}しました。「材料」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ざいりょ" },
+        { "id": "b", "html": "ざいりょう" },
+        { "id": "c", "html": "さいりょう" },
+        { "id": "d", "html": "ざいりゅう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>材料（ざいりょう）と読みます。<span>Meaning: <strong>ingredients; material</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p52-q7",
+      "questionHtml": "<p>{先生|せんせい}は{学生|がくせい}が{楽|たの}しく{日本語|にほんご}を{学|まな}べるように、{新|あたら}しい「教材」を{作|つく}りました。「教材」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "きょうさい" },
+        { "id": "b", "html": "きょざい" },
+        { "id": "c", "html": "きょうざい" },
+        { "id": "d", "html": "きょうしつ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>教材（きょうざい）と読みます。<span>Meaning: <strong>teaching materials</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p52-q8",
+      "questionHtml": "<p>{朝|あさ}ご{飯|はん}には、パンと「卵」を{食|た}べることが{多|おお}いです。「卵」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たまこ" },
+        { "id": "b", "html": "らん" },
+        { "id": "c", "html": "たま" },
+        { "id": "d", "html": "たまご" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>卵（たまご）と読みます。<span>Meaning: <strong>egg</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p52-q9",
+      "questionHtml": "<p>{母|はは}が{作|つく}ってくれる「卵焼き」は、{少|すこ}し{甘|あま}くてとてもおいしいです。「卵焼き」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たまごやき" },
+        { "id": "b", "html": "たまごしょうき" },
+        { "id": "c", "html": "らんやき" },
+        { "id": "d", "html": "たまこやき" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>卵焼き（たまごやき）と読みます。<span>Meaning: <strong>rolled egg; rolled omelette (omelet)</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p52-q10",
+      "questionHtml": "<p>{毎朝|まいあさ}、{健康|けんこう}のためにコップ{一杯|いっぱい}の「牛乳」を{飲|の}んでいます。「牛乳」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ぎゅにゅう" },
+        { "id": "b", "html": "ぎゅうにゅう" },
+        { "id": "c", "html": "ぎゅうにゅ" },
+        { "id": "d", "html": "うしにゅう" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>牛乳（ぎゅうにゅう）と読みます。<span>Meaning: <strong>(cow's) milk</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p52-q11",
+      "questionHtml": "<p>この{料理|りょうり}には、{最後|さいご}にチーズの「粉」をかけると、もっとおいしくなります。「粉」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふん" },
+        { "id": "b", "html": "こ" },
+        { "id": "c", "html": "こな" },
+        { "id": "d", "html": "こめ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>粉（こな）と読みます。<span>Meaning: <strong>powder</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p52-q12",
+      "questionHtml": "<p>パンを{作|つく}るために、「小麦粉」と{水|みず}と{塩|しお}を{混|ま}ぜました。「小麦粉」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こむぎふん" },
+        { "id": "b", "html": "しょうばくこ" },
+        { "id": "c", "html": "こむきこ" },
+        { "id": "d", "html": "こむぎこ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>小麦粉（こむぎこ）と読みます。<span>Meaning: <strong>wheat flour</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p52-q13",
+      "questionHtml": "<p>{買|か}い{物|もの}をした{後|あと}、{野菜|やさい}や{果物|くだもの}を{大|おお}きな「袋」に{入|い}れて{持|も}ち{帰|かえ}りました。「袋」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ふくろ" },
+        { "id": "b", "html": "ふぐろ" },
+        { "id": "c", "html": "ぶくろ" },
+        { "id": "d", "html": "ふくる" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>袋（ふくろ）と読みます。<span>Meaning: <strong>bag; sack; pouch</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p52-q14",
+      "questionHtml": "<p>{冬|ふゆ}は{寒|さむ}いので、{外|そと}に{出|で}るときは{厚|あつ}い「手袋」をしています。「手袋」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "てふくろ" },
+        { "id": "b", "html": "てぶくろ" },
+        { "id": "c", "html": "しゅぶくろ" },
+        { "id": "d", "html": "てぶころ" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>手袋（てぶくろ）と読みます。<span>Meaning: <strong>gloves</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p52-q15",
+      "questionHtml": "<p>{明日|あした}は{燃|も}えるごみの{収集日|しゅうしゅうび}なので、{台所|だいどころ}の「ゴミ袋」を{外|そと}に{出|だ}しておきます。「ゴミ袋」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "ごみふくろ" },
+        { "id": "b", "html": "ごみふころ" },
+        { "id": "c", "html": "ごみぶくろ" },
+        { "id": "d", "html": "ごみぶころ" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>ゴミ袋（ごみぶくろ）と読みます。<span>Meaning: <strong>garbage bag</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p52-q16",
+      "questionHtml": "<p>{友達|ともだち}へのプレゼントを{買|か}ったので、{店員|てんいん}にきれいな「紙袋」に{入|い}れてもらいました。「紙袋」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "かみふくろ" },
+        { "id": "b", "html": "しぶくろ" },
+        { "id": "c", "html": "かみぶころ" },
+        { "id": "d", "html": "かみぶくろ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>紙袋（かみぶくろ）と読みます。<span>Meaning: <strong>paper bag</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p52-q17",
+      "questionHtml": "<p>{着物|きもの}を{着|き}るときは、{普通|ふつう}の{靴下|くつした}ではなく「足袋」を{履|は}くことがあります。「足袋」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "たび" },
+        { "id": "b", "html": "あしぶくろ" },
+        { "id": "c", "html": "そくたい" },
+        { "id": "d", "html": "たひ" }
+      ],
+      "correctAnswer": "a",
+      "explanationHtml": "<p>足袋（たび）と読みます。<span>Meaning: <strong>tabi; Japanese socks</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p52-q18",
+      "questionHtml": "<p>この{小説|しょうせつ}には、「混血」の{主人公|しゅじんこう}が{自分|じぶん}のルーツを{探|さが}す{物語|ものがたり}が{描|えが}かれています。「混血」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こんげつ" },
+        { "id": "b", "html": "こんけつ" },
+        { "id": "c", "html": "まんけつ" },
+        { "id": "d", "html": "こんち" }
+      ],
+      "correctAnswer": "b",
+      "explanationHtml": "<p>混血（こんけつ）と読みます。<span>Meaning: <strong>mixed race; mixed parentage</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p52-q19",
+      "questionHtml": "<p>{名前|なまえ}がよく{似|に}ているため、この{二|ふた}つの{商品|しょうひん}を「混同」してしまう{人|ひと}が{多|おお}いです。「混同」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こんとう" },
+        { "id": "b", "html": "こんどうう" },
+        { "id": "c", "html": "こんどう" },
+        { "id": "d", "html": "まどう" }
+      ],
+      "correctAnswer": "c",
+      "explanationHtml": "<p>混同（こんどう）と読みます。<span>Meaning: <strong>confusion; mixing; merger</strong></span></p>"
+    },
+    {
+      "id": "N3-Kanji-p52-q20",
+      "questionHtml": "<p>{連休|れんきゅう}の{初日|しょにち}は、{高速道路|こうそくどうろ}の「混雑」が{予想|よそう}されています。「混雑」の{読|よ}み{方|かた}はどれですか？</p>",
+      "options": [
+        { "id": "a", "html": "こんさつ" },
+        { "id": "b", "html": "こんじゃつ" },
+        { "id": "c", "html": "こんざっ" },
+        { "id": "d", "html": "こんざつ" }
+      ],
+      "correctAnswer": "d",
+      "explanationHtml": "<p>混雑（こんざつ）と読みます。<span>Meaning: <strong>congestion; crush; crowding; jam</strong></span></p>"
+    }
+  ]
+}
